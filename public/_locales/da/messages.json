@@ -1,0 +1,2843 @@
+{
+  "about_tagline": {
+    "message": "Luk distraktionerne ude. Luk op for dit bedste jeg."
+  },
+  "about_welcome": {
+    "message": "Velkommen til RelockIn!"
+  },
+  "about_sentence": {
+    "message": "RelockIn er browseren, der gør det af med distraktioner. I Fokuscentret kan du nemt oprette regler og tidsplaner, der begrænser din brug af distraherende apps og websites. Det bygger på et enkelt princip: Hvad nu, hvis hvert minut på din telefon var et bevidst valg?\n\nDesuden indeholder RelockIn en mobilbrowser, der beskytter dit privatliv og kan tilpasses fuldt ud. RelockIn sporer aldrig dine søgninger og deler aldrig dine data med nogen. Fordi RelockIn er den eneste fokusapp med en fuldt integreret browser, er det også den eneste app, hvor du kan tilpasse websites og fjerne distraherende funktioner som Reels og Shorts, så du får endnu mere kontrol."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn til Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn – Bloker AI-skrald, Shorts, Reels og websites | Fokus og skærmtid"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn – Bloker AI-skrald, Shorts og websites"
+  },
+  "about_extensionDescription": {
+    "message": "Bloker AI-videoer, Shorts, Reels og endeløse feeds. Og så kan du sætte tidsgrænser og tidsplaner for alle websites."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "slette denne regel"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "fjerne grænsen for »$1«"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "hæve din dagsgrænse"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "springe din pause over"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "tilsidesætte din tidsplan"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "tilsidesætte din dagsgrænse"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "slette denne tidsplan"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "lempe denne tidsplan"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "fjerne apps eller websites uden for RelockIn fra din blokeringsliste"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "lempe denne beskyttelse"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "gøre opgaven »$1« lettere"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "slette opgaven »$1«"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "holde op med at kræve en opgave for at lempe beskyttelsen"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Hvis jeg har brugt min dagsgrænse og har brug for mere tid…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Op til 2 min."
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 min."
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Over 10 min."
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Hvis jeg skal tilsidesætte min tidsplan…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Hvis jeg vil blive ved, selvom RelockIn beder mig holde en pause…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Hvis du starter for mange sessioner lige efter hinanden, beder vi dig holde en pause. Du kan ændre pausens længde under »Undgå maratonbrug«."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 session i træk"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 sessioner i træk"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ sessioner i træk"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Hvis jeg lemper mine skærmtidsregler…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "En app fjernes"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Et website fjernes"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "En regel slettes"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "En dagsgrænse hæves"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Hvis jeg lemper en tidsplan…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Mens den ikke blokerer"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Mens den blokerer"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Skriv sætningen for at fortsætte"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Skriv afsnittet for at fortsætte"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Afsnit:\n»$1«"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Vent på timeren"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Du kan ikke fortsætte, før nedtællingen er slut."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Tiden er gået – du kan fortsætte."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Er du sikker på, at du vil gøre det?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Er du sikker på, at du vil $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Vil du have en ekstra forhindring her? Gå til fanen Beskyttelse, og indfør sund modstand, der hjælper dig med at holde fast i dine mål."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Ja, fortsæt"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Du kan ikke $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Det kan du ikke"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Din beskyttelse gør det umuligt, og ingen opgave kan ændre på det."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Jeg er virkelig nødt til det"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Du kan ændre dine indstillinger for beskyttelse under fanen Beskyttelse."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Gå til Beskyttelse"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Sætning:\n»$1«"
+  },
+  "challengeUi_confirm": {
+    "message": "Bekræft"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Det passer ikke endnu. Tjek stavning og tegnsætning."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Fuldført."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Skriv sætningen præcis, som den står."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Bliv ved…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Færdig!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Teksten afviger. Sammenlign nøje – du har lavet en tastefejl."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Løs alle regneopgaverne for at fortsætte"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Indtast dine svar, og tryk på Bekræft."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Alle svar er rigtige!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Nogle svar er forkerte. Tjek de markerede felter."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Svar på regneopgave $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Din tillidsperson får besked"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Din tillidsperson får en e-mail om, at du har valgt at tilsidesætte dine grænser. Beskeden skal hjælpe dig med at holde fast i dine mål."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Send besked og fortsæt"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Jeg kan ikke klare det"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Vent $1 minutter i stedet"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "da"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Vent $1 minut i stedet"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Ingen"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Let"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Mellem"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Svær"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Ekstra svær"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Ekstrem"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Umulig"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Kun bekræftelse"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Standard: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Kunne ikke gemme"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "$1 tilbage"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Svar på opgaven"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Tilpas opgaver"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Bestem, hvilke trin opgaverne Let, Mellem og Svær består af, eller opret dine egne"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Hvornår jeg får en opgave"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Bestem, hvor svært det skal være at slette en skærmtidsregel, få ekstra tid og meget mere"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Indbyggede"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Egne"
+  },
+  "challenges_newChallenge": {
+    "message": "Ny"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Ingen egne opgaver endnu. Tryk på + for at oprette en."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Navn (f.eks. »Benhård«)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Ny opgave"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Giv opgaven et navn, der ikke allerede er i brug."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Vælg, hvad hver opgave kræver af dig, eller opret dine egne."
+  },
+  "challenges_savedBadge": {
+    "message": "Gemt"
+  },
+  "challenges_noSteps": {
+    "message": "Ingen trin – tilføj mindst ét for at gemme."
+  },
+  "challenges_addStep": {
+    "message": "Tilføj trin"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Sværhedsgrad"
+  },
+  "challenges_problemsLabel": {
+    "message": "Regneopgaver"
+  },
+  "challenges_operationsLabel": {
+    "message": "Regnearter"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Skriv en kort sætning"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Skriv en lang sætning"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Skriv et afsnit"
+  },
+  "challenges_stepNameMath": {
+    "message": "Løs regneopgaver"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "E-mail til tillidsperson"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Vent på timeren"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Varighed: $1 min. $2 sek."
+  },
+  "challenges_stepCount": {
+    "message": "$1 trin"
+  },
+  "challenges_stepCount__lang": {
+    "message": "da"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 trin"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Opgaver for denne regel"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Gælder kun for »$1«."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Hvis du vil ændre opgaverne for alle regler eller ændre deres trin:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Gå til fanen Beskyttelse"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Giv mig en opgave, før jeg lemper beskyttelsen"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Før du kan gøre en opgave lettere, skal du først klare de trin, du fjerner."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Du kan frit ændre beskyttelsen i $1 minutter endnu. Derefter kræver det en opgave at lempe den."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "da"
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Du kan frit ændre beskyttelsen i $1 minut endnu. Derefter kræver det en opgave at lempe den."
+  },
+  "common_save": {
+    "message": "Gem"
+  },
+  "common_cancel": {
+    "message": "Annuller"
+  },
+  "common_done": {
+    "message": "Færdig"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Rediger"
+  },
+  "common_delete": {
+    "message": "Slet"
+  },
+  "common_defaultOption": {
+    "message": "Standard"
+  },
+  "common_back": {
+    "message": "Tilbage"
+  },
+  "common_skip": {
+    "message": "Spring over"
+  },
+  "common_next": {
+    "message": "Næste"
+  },
+  "common_gotIt": {
+    "message": "Forstået"
+  },
+  "common_none": {
+    "message": "Ingen"
+  },
+  "common_yes": {
+    "message": "Ja"
+  },
+  "common_no": {
+    "message": "Nej"
+  },
+  "common_start": {
+    "message": "Start"
+  },
+  "common_loading": {
+    "message": "Indlæser…"
+  },
+  "common_error": {
+    "message": "Fejl"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Luk"
+  },
+  "common_continue": {
+    "message": "Fortsæt"
+  },
+  "common_dismiss": {
+    "message": "Luk"
+  },
+  "common_notNow": {
+    "message": "Ikke nu"
+  },
+  "common_noThanks": {
+    "message": "Nej tak"
+  },
+  "common_maybeLater": {
+    "message": "Måske senere"
+  },
+  "common_add": {
+    "message": "Tilføj"
+  },
+  "common_create": {
+    "message": "Opret"
+  },
+  "common_startSetup": {
+    "message": "Start opsætning"
+  },
+  "common_continueSetup": {
+    "message": "Fortsæt opsætning"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Fortsæt, hvor du slap"
+  },
+  "common_setItUp": {
+    "message": "Sæt det op"
+  },
+  "common_howItWorks": {
+    "message": "Sådan virker det"
+  },
+  "common_getStarted": {
+    "message": "Kom i gang"
+  },
+  "common_signIn": {
+    "message": "Log ind"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 min."
+  },
+  "common_hoursCount": {
+    "message": "$1 timer"
+  },
+  "common_hoursCount__lang": {
+    "message": "da"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 time"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Trin $1 af $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Vi har fjernet $1 Shorts fra dit feed"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "da"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Vi har fjernet $1 Short fra dit feed"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Luk"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Tildækket af RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Vis"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Kan ikke vises"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Vis ($1 s)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Log ind for at gøre det."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Log ind"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Luk"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit prøvede lige at tvinge dig over i deres app."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Hvis noget ikke virker, som det skal, kan du prøve at genindlæse siden eller skifte til Zen-tilstand."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Luk"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Dette feed er skjult"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Du har valgt at skjule »Populært« og »Alle« på Reddit."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Du har valgt at skjule dine Reddit-feeds."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Dine subreddits"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Du kan ændre det i RelockIns indstillinger."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Du er helt opdateret"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Det var alt nyt fra de subreddits, du deltager i."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Se efter flere"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Afspil"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Pause"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Spring reklame over"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Afspilningshastighed"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Lydstyrke"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "stem op"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "stem ned"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "fjern stemme"
+  },
+  "domShared_redditActionSave": {
+    "message": "gem"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "fjern fra gemte"
+  },
+  "domShared_redditActionHide": {
+    "message": "skjul"
+  },
+  "domShared_redditActionShare": {
+    "message": "del"
+  },
+  "domShared_redditActionComments": {
+    "message": "kommentarer"
+  },
+  "domShared_redditActionExpand": {
+    "message": "vis tråd"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "skjul tråd"
+  },
+  "domShared_redditActionReply": {
+    "message": "svar"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "flere muligheder"
+  },
+  "domShared_redditActionScore": {
+    "message": "point"
+  },
+  "domShared_redditActionSource": {
+    "message": "Kilde"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Forhåndsvis"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Gem"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Fjern fra gemte"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Skjul"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Vis igen"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Del"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Rapportér"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Overordnet kommentar"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Permalink"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Integrer"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Crosspost"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Kopiér link til kommentar"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Kopiér link til opslag"
+  },
+  "domShared_redditAgeNow": {
+    "message": "nu"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1m"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1t"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1d"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1md"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1å"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Instagram-historier"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Vi har skjult dette opslag fra en fremmed."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Vi har skjult denne video."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Vi har skjult denne reklame."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Af: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Dette opslag er fra en 3.-gradsforbindelse"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Dette opslag er ikke fra en 1.-gradsforbindelse"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Vi har dækket det til for at beskytte dit fokus."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Vi har skjult denne reklame for at beskytte dit fokus"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Tryk for at vise"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Billedet er dækket til for at beskytte dit fokus"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Tryk for at vise."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Videoen er dækket til for at beskytte dit fokus."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Anbefalede videoer"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Afspilningshastighed: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Lydstyrke: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "10 sekunder tilbage"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "10 sekunder frem"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "gør noget bedre."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "AI-genereret video"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Du har stemt »AI« for denne kanal"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Vis alligevel"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Se alligevel"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Ikke AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Måske AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Formentlig AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Næsten sikkert AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Omstridt"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Gennemgået af RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Formentlig AI-genereret"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Næsten sikkert AI-genereret"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Ud fra RelockIn-brugeres stemmer"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Laver kanalen AI-videoer?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Hvad tæller som AI?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Din stemme gælder kun for dig. Log ind på RelockIn for at dele den med fællesskabet."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Log ind"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Luk"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Stem »AI«, hvis de fleste af kanalens videoer bruger:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Et AI-skrevet manuskript"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "En AI-stemme"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "AI-genererede billeder eller videoer"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "AI-musik"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Tæller ikke som AI:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Videoer om AI, fx anmeldelser af AI-værktøjer"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Små AI-justeringer, fx oprenset lyd"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Din stemme gælder for dig med det samme og hjælper andre RelockIn-brugere."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Forkert mærkning? Bed om en ny vurdering"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Flere muligheder"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Bloker kanal"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Blokeret"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Fjern blokering af kanalen"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Du har blokeret denne kanal"
+  },
+  "limits_title": {
+    "message": "Regler og sessioner"
+  },
+  "limits_subtitle": {
+    "message": "Start sessioner, og administrer dine skærmtidsregler."
+  },
+  "limits_addRule": {
+    "message": "+ Tilføj regel"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Skærmtidsregler"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Beskyt din tid med dagsgrænser og sessioner"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Ingen regler endnu. Tilføj en for at sætte en dagsgrænse."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Sociale medier"
+  },
+  "main_backToBrowser": {
+    "message": "Tilbage til browseren"
+  },
+  "main_openFullPage": {
+    "message": "Åbn som fuld side"
+  },
+  "main_tabLimits": {
+    "message": "Regler"
+  },
+  "main_tabSettings": {
+    "message": "Websites"
+  },
+  "main_protectionTitle": {
+    "message": "Beskyttelse"
+  },
+  "main_protectionSubtitle": {
+    "message": "Sæt en sund bremse på impulsive beslutninger"
+  },
+  "main_tabAccount": {
+    "message": "Konto"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Dagligt gennemsnit"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "gns."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Klik på ikonet med **puslespilsbrikken** på værktøjslinjen"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Find **RelockIn**, og klik på ikonet **Fastgør**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Dine skærmtidsregler"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Klik på en regel for at redigere den. Hver regel har sin egen dagsgrænse."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Velkommen til **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Tager cirka et minut"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Ikke rigtig"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Træt af AI-skrald på YouTube?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Sjuskede AI-videoer er overalt nu, fra dit feed til søgeresultaterne."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Vil du gerne bruge mindre tid på at scrolle?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Uden kun at skulle stole på viljestyrke."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AI-indhold"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Opdag AI-videoer, **før** du klikker."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Vi kan dække til, skjule eller mærke AI-indhold i dit feed."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Valgfrit"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Hjælp med at **markere** AI-indhold."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Vores fællesskab markerer AI-indhold. Hvis du opretter en konto, hjælper dine stemmer andre med at genkende og blokere AI."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Logget ind"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Dine stemmer hjælper nu andre med at genkende og blokere AI."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Fortsæt med e-mail"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Korte videoer"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Få Shorts og Reels til at **forsvinde**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Væk med Shorts på YouTube og Reels på Instagram. Resten beholder du."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Skjul Shorts og Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Valgfrit: dagsgrænser"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Scroll **bevidst**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Hvilke websites skal have en grænse?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Du kan tilføje flere senere."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Vælg et website for at se reglen her"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Hurtig adgang"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Fastgjort. Super."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn til iPhone og Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Tag RelockIn med på **telefonen**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "Med RelockIn-appen kan du tilpasse YouTube, Instagram og meget mere og fjerne AI og distraktioner som Shorts og Reels.\n\nDen kan også låse distraherende apps, så du tager kontrollen over din tid tilbage."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Scan med telefonens kamera"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Så er du klar."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Se det på YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Gør opsætningen færdig"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Opsætningen åbner i sin egen fane og tager cirka et minut."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Fortsæt opsætning"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Væk med AI-skrald, Shorts og endeløse feeds på de websites, du bruger mest."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Hvorfor oprette en konto?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Uden en konto markerer dine stemmer kun AI-kanaler for dig selv og kan ikke hjælpe andre. Med en konto kan vi stole på dine stemmer, så de hjælper med at markere AI-indhold for hele fællesskabet. Andre kan ikke se, hvordan du har stemt.\n\nDin konto virker også i RelockIn til iPhone og Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Gennemsigtighed er vigtigt for os. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Vores kode er offentlig"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Tilpas websites"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**40+ måder** at gøre websites mindre vanedannende på."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn kan ændre YouTube, Instagram, Reddit, X og LinkedIn. Prøv et par stykker her – resten finder du i indstillingerne."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Dagsgrænse for $1"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Hav RelockIn **lige ved hånden**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Fastgør udvidelsen, så kan du nemt ændre alle indstillinger."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Luk opsætningen"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Ingen dagsgrænser endnu"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Vælg de websites, du spilder tid på, og giv hvert af dem en dagsgrænse. Tager cirka 30 sekunder."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Opsæt dagsgrænser"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Vis kun opslag fra konti, du følger, i feedet"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Deaktiver r/popular og r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI-videoer"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts & Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Tilpasninger"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Dagsgrænser"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Stemmer om AI"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Skjules"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Vises"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Fra"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Tildækket"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Mærket"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "For hele fællesskabet"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Kun for dig"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 aktive"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "da"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "$1 aktiv"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 websites"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "da"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 website"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Vil du gerne have mindre vanedannende sociale medier?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Færre distraktioner, uden at du skal give afkald på det, du kan lide."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Du er kommet til det rette sted."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Forstået. Nu viser vi dig rundt."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Du kan indstille en dagsgrænse for ethvert website.\n\nRelockIn får dig til at stoppe med at scrolle på autopilot."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Vælg, hvor meget tid du vil bruge"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Brug websitet"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Når tiden er gået, låses det igen"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Prøv dagsgrænser"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Alt findes **her**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Åbn panelet når som helst via RelockIn-ikonet på værktøjslinjen."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Hvor lang tid vil du bruge på $1?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Din session på $1 er slut."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "min./dag"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 minutter mindre"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 minutter mere"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Skærmtid"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Ændr alt via RelockIn-ikonet på værktøjslinjen."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Ændr alt via RelockIn i browserens udvidelsesmenu."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Er det her den bedste måde at bruge din tid på lige nu?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "tag en dyb indånding"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Eller hvis du virkelig skal videre til $1, kan du starte en session for reglen »$2«"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "$1 min $2 s tilbage i dag"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Få RelockIn på din telefon"
+  },
+  "overlay_closeTab": {
+    "message": "Luk denne fane"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "tilbage i dag"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "brugt i dag"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "ny grænse kl."
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Eller hvis du virkelig skal videre, kan du starte en session for reglen »$1«"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "»$1«"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Aktuel regel: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Åbn RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Flere muligheder"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "brug i dag"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR-kode til download af RelockIn"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Få **RelockIn**-appen"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Fjern Shorts, Reels og AI-videoer"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Sæt dagsgrænser for alle apps og websites"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Beskyt din søvn og dit fokus"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Udvidelsen er begrænset på telefonen"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Med RelockIn-appen kan du begrænse enhver app og fjerne alle distraktioner og AI-videoer."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Virker ikke i YouTube- eller Instagram-appen"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Kun én dagsgrænse og én tidsplan"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Kan mærke AI-videoer, men ikke skjule dem"
+  },
+  "phoneWebext_getApp": {
+    "message": "Hent appen"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Fortsæt i browseren"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Eller fortsæt her (begrænset)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Med RelockIn-appen får du så mange skærmtidsregler, du vil:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Med RelockIn-appen får du så mange tidsplaner, du vil:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Prøv **RelockIn-appen** for at få adgang til alle indstillinger"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Indgår i RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "I gratisversionen har disse websites én fælles dagsgrænse."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Sæt farten ned på impulsive handlinger"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Læg en bevidst forhindring ind, før du fx tilsidesætter en dagsgrænse eller sletter regler.\nTager cirka et minut."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Opsæt beskyttelse"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Undgå maratonbrug"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Hold en pause efter for mange sessioner lige efter hinanden"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Opsæt dine regler først"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Gør opsætningen af regler færdig på fanen Regler, før du tilføjer beskyttelse."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Tænk dig om før impulsive beslutninger"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Før du fx tilsidesætter en dagsgrænse eller sletter regler, kan RelockIn kræve en hurtig opgave, så du er sikker på, at det er et bevidst valg."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Du bestemmer altid selv."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Prøv selv"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Tryk på et kort for selv at prøve opgaven."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Overskrid en dagsgrænse en smule"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Skriv en kort sætning"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Fjern en app fra din blokeringsliste"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Løs et par regneopgaver"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Lemp en tidsplan"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Skriv en længere sætning"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Hvor streng skal din beskyttelse være?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Du kan altid ændre det senere."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Mild"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Små påmindelser før impulsive handlinger."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Afbalanceret"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Ekstra forhindringer ved de typiske smuttere."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Streng"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Større forhindringer, der bryder dårlige vaner."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Anbefalet"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Brug »$1«"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Undgå maratonbrug"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Vi kan sørge for, at du holder en pause, hvis du starter for mange sessioner lige efter hinanden."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Hvis jeg starter 2+ sessioner lige efter hinanden (med under"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "imellem),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "så giv mig en pause på"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Eksempel"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8.00  Du starter en 5-minutters session med Sociale medier."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8.05  Du starter endnu en 5-minutters session"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8.10  Vi beder dig holde en pause, før du kan starte en tredje session"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 sekunder"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 minut"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 minutter"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 minutter"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 minutter"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 minutter"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Din beskyttelse er slået til"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Du kan altid justere:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Hvornår du skal løse en opgave"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Hvad hver opgave kræver af dig"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Opgaver for bestemte regler"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Tilbage til appen"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Ingen blokerede apps"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Reglens navn"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Smagsprøve"
+  },
+  "rule_deleteRule": {
+    "message": "Slet regel"
+  },
+  "rule_editRule": {
+    "message": "Rediger regel"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Blokerede apps"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Skift blokerede apps"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Blokeret i RelockIn-browseren"
+  },
+  "rule_noTargets": {
+    "message": "Ingen blokerede websites endnu."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Regelindstillinger"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Dagsgrænse i minutter"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Minutter"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Sænk dagsgrænsen med $1 minutter"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "da"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Sænk dagsgrænsen med $1 minut"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Hæv dagsgrænsen med $1 minutter"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "da"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Hæv dagsgrænsen med $1 minut"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Tilpas beskyttelse"
+  },
+  "rule_targetsSection": {
+    "message": "Blokerede websites"
+  },
+  "rule_defaultRuleName": {
+    "message": "Ny regel"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Session i gang"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Låst"
+  },
+  "rule_appCount": {
+    "message": "$1 apps"
+  },
+  "rule_appCount__lang": {
+    "message": "da"
+  },
+  "rule_appCount__one": {
+    "message": "$1 app"
+  },
+  "rule_siteCount": {
+    "message": "$1 websites"
+  },
+  "rule_siteCount__lang": {
+    "message": "da"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 website"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Tidsplanens navn"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Ikke gemt"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "TIDSRUM"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Start"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Slut"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "AKTIVE DAGE"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Hver dag"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Ingen dage"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Hverdage"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Weekender"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "S"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "M"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "T"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "O"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "T"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "F"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "L"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "søn."
+  },
+  "scheduleCard_mondayFull": {
+    "message": "man."
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "tirs."
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "ons."
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "tors."
+  },
+  "scheduleCard_fridayFull": {
+    "message": "fre."
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "lør."
+  },
+  "scheduleCard_modeSection": {
+    "message": "TILSTAND"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Bloker i tidsrummet"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Tillad kun i tidsrummet"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Du kan ikke starte sessioner i dette tidsrum."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Du kan *kun* starte sessioner i dette tidsrum. Resten af dagen kan du ikke låse disse apps op."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Kan låses op"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Kan ikke låses op"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "GÆLDER FOR REGLER"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Ingen regler oprettet endnu."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Anvend automatisk på nye regler"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Gem ændringer"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Vil du slette denne tidsplan?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Slet tidsplan"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Tidsplan"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Rediger tidsplan"
+  },
+  "schedules_title": {
+    "message": "Tidsplaner"
+  },
+  "schedules_subtitle": {
+    "message": "Bestem, hvornår du må starte sessioner."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Ingen tidsplaner endnu"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Tilføj en tidsplan for at bestemme, hvornår dine regler kan bruges."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Tilføj tidsplan"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Sengetid"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Opsæt dine skærmtidsregler først"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Gør opsætningen færdig på fanen Regler, før du opretter tidsplaner."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Dine regler blokerer apps og websites, indtil du starter en session. Tidsplaner lægger et ekstra lag ovenpå ved at begrænse, *hvornår* du kan starte sessionerne.\n\nBeskyt din søvn, din studietid eller dine fokustider, eller giv dig selv planlagte pauser."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Du skal starte din prøveperiode for at have mere end 1 tidsplan"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Fejl: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Tidsplanen kunne ikke tilføjes: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Kunne ikke opdatere: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Kunne ikke slette: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "De tilknyttede regler kunne ikke opdateres: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Jeg vil lige holde 5 minutters pause og scrolle på Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Dine apps forbliver låst, indtil du låser dem op"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Dine valgte websites forbliver låst, indtil du låser dem op"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Men på visse tidspunkter skal de forblive låst"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Men på visse tidspunkter skal de forblive låst"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Tidsplaner fjerner knappen til at låse op"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Så forbliver dine apps låst, indtil tidsplanen slutter."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Så forbliver dine websites låst, indtil tidsplanen slutter."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Øv! Så må jeg vel gå i seng."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Beskyt din søvn"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Vælg de timer, hvor du vil sove i stedet for at scrolle."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Beskyt min søvn"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Din søvn er beskyttet"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Du kan ikke låse op fra kl. $1 til kl. $2. Du kan altid ændre dagene, tiderne eller reglerne."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Vil du også beskytte din arbejds- eller studietid?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Du kan altid tilføje en tidsplan."
+  },
+  "session_sectionTitleActive": {
+    "message": "Session"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Start session"
+  },
+  "session_endingSession": {
+    "message": "Afslutter session…"
+  },
+  "session_startingSession": {
+    "message": "Starter session…"
+  },
+  "session_remainingInSession": {
+    "message": "tilbage af sessionen"
+  },
+  "session_endSession": {
+    "message": "Afslut session"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Tidsplanbegrænsning aktiv"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Du kan ikke bruge »$1« på grund af din tidsplan"
+  },
+  "session_blockedBadge": {
+    "message": "BLOKERET"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "På grund af din tidsplan kan du ikke starte sessioner lige nu."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Tilsidesæt tidsplanen"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Blokerer også lige nu:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Flere begrænsninger er aktive på én gang. Det er nok at klare den strengeste for at starte en session."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Tidsplanbegrænsning"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Pause fra maratonbrug"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Blokeret af »$1« indtil kl. $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Uden for de tilladte tider. »$1« starter kl. $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Uden for alle tilladte tidsrum"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Tilladt, indtil »$1« blokerer kl. $2"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Tilladt, indtil »$1« slutter kl. $2"
+  },
+  "session_other": {
+    "message": "Andet"
+  },
+  "session_duration": {
+    "message": "Varighed"
+  },
+  "session_startSession": {
+    "message": "Start session"
+  },
+  "session_takeABreak": {
+    "message": "Hold en pause."
+  },
+  "session_reopensInFormat": {
+    "message": "Ny session om $1 s"
+  },
+  "session_reopensInLabel": {
+    "message": "Ny session om"
+  },
+  "session_bypassBreak": {
+    "message": "Spring pausen over"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Stop med at doomscrolle."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Det er $1 sessioner i træk. Stop med at doomscrolle."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "da"
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "Det er $1 session i træk. Stop med at doomscrolle."
+  },
+  "session_overrideSizeLow": {
+    "message": "Op til 2 min."
+  },
+  "session_overrideSizeMedium": {
+    "message": "Op til 10 min."
+  },
+  "session_overrideSizeHigh": {
+    "message": "Op til 60 min."
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Hvor meget ekstra tid har du brug for?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Kræver en hurtig opgave"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Kræver en mellemsvær opgave"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Kræver en svær opgave"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Din beskyttelse tillader ikke ekstra tid."
+  },
+  "session_dailyLimitReached": {
+    "message": "Dagsgrænsen er nået"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Du har brugt $1 min. i dag."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Gå en tur, få klaret det, du har udskudt, eller ring til en ven."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Jeg har ikke noget bedre at lave"
+  },
+  "session_chooseLength": {
+    "message": "Vælg sessionens længde"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Oplåsning er tidsbegrænset"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Tryk på en varighed for at starte din session. Vi låser igen, når tiden er gået."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Start session: $1 min."
+  },
+  "settings_title": {
+    "message": "Tilpas websites"
+  },
+  "settings_igComments": {
+    "message": "Skjul Instagram-kommentarer"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Undtag konti, du følger"
+  },
+  "settings_igStories": {
+    "message": "Instagram-historier"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Dæk opslag fra fremmede til i feedet"
+  },
+  "settings_igFeedVideos": {
+    "message": "Skjul videoer i feedet"
+  },
+  "settings_igGuardAds": {
+    "message": "Skjul reklamer"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Vis kun søgning på fanen Udforsk"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Vis billeder i gråtoner"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Vis videoer i gråtoner"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Logget ind som"
+  },
+  "settings_accountSignOut": {
+    "message": "Log ud"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Log ind med Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Log ind for at synkronisere dine data på tværs af enheder. Hvis du allerede har købt RelockIn Pro, bliver dit abonnement gendannet, når du logger ind."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Abonnement"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Status"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Vil du logge ud?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Dine data bliver ikke længere synkroniseret på tværs af enheder, før du logger ind igen."
+  },
+  "settings_accountSignOutError": {
+    "message": "Du kunne ikke logges ud. Prøv igen."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Du skal give tilladelse for at logge ind. Alt andet virker uden konto."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Når du fortsætter, accepterer du vores $1. Vores $2 forklarer, hvordan vi bruger dine data."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Når du opretter en konto, accepterer du vores $1. Vores $2 forklarer, hvordan vi bruger dine data."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Servicevilkår"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Privatlivspolitik"
+  },
+  "settings_accountSourceCode": {
+    "message": "Kildekode"
+  },
+  "settings_accountSignInError": {
+    "message": "Du kunne ikke logges ind. Prøv igen."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "Vi kunne ikke finde en Google-konto på denne telefon. Åbn telefonens »Indstillinger«, gå til »Adgangskoder og konti« (på Samsung: »Konti og sikkerhedskopiering«), og sørg for, at der er tilføjet en Google-konto. Hvis der allerede står en, men login stadig mislykkes, så prøv at fjerne den og tilføje den igen."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Login med Google er ikke sat korrekt op i denne app. Kontakt support."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Login blev afbrudt. Prøv igen."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Denne enhed kan ikke bruge login med Google. Prøv at opdatere Google Play-tjenester, eller log ind med e-mail i stedet."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Vi kunne ikke læse loginoplysningerne fra Google. Prøv igen."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Kunne ikke få forbindelse til loginserveren. Tjek din internetforbindelse, og prøv igen."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Login returnerede uventede loginoplysninger. Prøv igen."
+  },
+  "settings_emailSignInCta": {
+    "message": "Log ind med e-mail"
+  },
+  "settings_appleSignInCta": {
+    "message": "Log ind med Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Log ind"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Log ind med din e-mailadresse og adgangskode."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Opret konto"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Opret en konto for at synkronisere på tværs af enheder."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Opret konto"
+  },
+  "settings_emailResetTitle": {
+    "message": "Nulstil adgangskode"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Angiv din e-mailadresse, så sender vi dig et link til at nulstille din adgangskode."
+  },
+  "settings_emailResetAction": {
+    "message": "Send nulstillingslink"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-mail"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Adgangskode"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Bekræft adgangskode"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Glemt adgangskode?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Har du ikke en konto? Opret en"
+  },
+  "settings_switchToSignIn": {
+    "message": "Har du allerede en konto? Log ind"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Tjek din e-mail"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Vi har sendt et bekræftelseslink til din e-mail. Bekræft din adresse, før du logger ind."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Nulstillingslinket er sendt"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Vi har sendt dig en e-mail med et link til at nulstille din adgangskode (hvis din konto findes)."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Din e-mailadresse er ikke bekræftet. Tjek din indbakke for et bekræftelseslink."
+  },
+  "settings_emailRateLimitError": {
+    "message": "For mange forsøg. Prøv igen senere."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Adgangskoden er for svag. Brug mindst 6 tegn."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Forkert e-mail eller adgangskode. Hvis du for nylig har oprettet en konto, skal du sørge for at have bekræftet din e-mailadresse."
+  },
+  "settings_changePasswordCta": {
+    "message": "Skift adgangskode"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Angiv ny adgangskode"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Vælg en ny adgangskode til din konto."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Ny adgangskode"
+  },
+  "settings_newPasswordAction": {
+    "message": "Opdater adgangskode"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Adgangskoden er opdateret"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Din adgangskode er blevet opdateret. Du kan nu logge ind med din nye adgangskode."
+  },
+  "settings_newPasswordError": {
+    "message": "Adgangskoden kunne ikke opdateres. Prøv igen."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Udfyld alle felter."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Kontoen kunne ikke oprettes."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Angiv din e-mailadresse."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "E-mailen til nulstilling kunne ikke sendes."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Adgangskoden er opdateret."
+  },
+  "settings_accountSigningOut": {
+    "message": "Logger ud…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Logger ind…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "I/T"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Gratisversion"
+  },
+  "settings_backToSignIn": {
+    "message": "Tilbage til login"
+  },
+  "settings_sending": {
+    "message": "Sender…"
+  },
+  "settings_updating": {
+    "message": "Opdaterer…"
+  },
+  "settings_creatingAccount": {
+    "message": "Opretter konto…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Bekræft ny adgangskode"
+  },
+  "settings_showPasswordCta": {
+    "message": "Vis"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Skjul"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Adgangskoden skal være på mindst 6 tegn."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Adgangskoderne er ikke ens."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Kontoen er bekræftet"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Din e-mailadresse er bekræftet, og du er nu logget ind."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Loginlinket virkede ikke"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Vi kunne ikke bruge loginlinket. Det er muligvis udløbet eller allerede brugt. Prøv igen, eller bed om en ny e-mail.\n\nDetaljer: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Slet konto"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Farlige handlinger"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "FARLIGE HANDLINGER – Sletning af konto"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Dette slettes permanent:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Dine loginoplysninger og din profil\nEventuelle synkroniserede regler, tidsplaner og indstillinger\nEventuel synkroniseret brugshistorik og andre appdata"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Dette bevares:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Købs- og transaktionsoplysninger (lovpligtigt af hensyn til skat og regnskab)\nNedbrudsrapporter og diagnosticeringsdata"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Sletning opsiger ikke abonnementer"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Skriv $1 for at bekræfte, at kontoen slettes permanent"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "SLET"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Handlingen kan ikke fortrydes."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Godkendelse mislykkedes"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Dit login kunne ikke bekræftes. Log ind igen, før du sletter din konto."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Kontoen er slettet"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Din konto er blevet slettet permanent."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Kontoen kunne ikke slettes (fejl $1). Prøv igen senere, eller kontakt support på relockin.com/support, hvis fejlen fortsætter."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Fjern distraktioner, og bliv mere produktiv"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Vis"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Dæk til"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Fjern"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Kan lukkes straks"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Kan lukkes efter 5 s"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Kan lukkes efter 10 s"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Kan ikke lukkes"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Kan lukkes med en opgave"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Sådan fjernes tildækningen"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Standard"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Mobil"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Computer"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Normal"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Let sløring"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Kraftig sløring"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Gråtoner"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Sort"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Skjul Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Skjul fanen Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Skjul fanen Startside"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Send »Startside« videre til »Abonnementer«"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Slå Autoplay fra"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Slå videoforhåndsvisninger fra"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Skjul opslag uden video"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Fjerner opslag, afstemninger og billedopdateringer fra dit feed på startsiden."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Gør alle reklamer mulige at springe over"
+  },
+  "settings_ytBlockAds": {
+    "message": "Bloker reklamer"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Skjul videoen »Næste«"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Anbefalede videoer"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Visningstilstand"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Miniaturefilter"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Skjul fanen Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Skjul fanen Startside"
+  },
+  "settings_igHomeFeed": {
+    "message": "Feed på Startside"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Standard"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Instagrams almindelige feed, inklusive foreslåede opslag."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Kun Følger"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Nye opslag fra konti, du følger, med de nyeste først."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Kun Favoritter"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Kun opslag fra konti på din Favoritter-liste."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Skjul linket tilbage til standardfeedet"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Brug Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Tilpas Old Reddit til mobilen"
+  },
+  "settings_redditVersion": {
+    "message": "Reddit-version"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen-tilstand"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "En hurtigere og mere overskuelig Reddit-oplevelse bygget på et fornyet old.reddit.com"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Standard"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Reddits almindelige mobilbrugerflade"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "BEMÆRK: Vi anbefaler Zen-tilstand, ellers prøver Reddit måske at tvinge dig til at bruge deres app"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Feedvisning"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Kun titler"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Gennemse hurtigere med kun titler. Tryk eller swipe for at åbne opslag."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Miniaturer"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Titler med en miniature til hvert opslag."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Udfoldet"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Vis billeder, videoer og tekstopslag direkte i dit feed."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Begræns endeløse feeds?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Vis alle feeds"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit fungerer som normalt."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Skjul »Populært« og »Alle«"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Skjuler feeds med opslag fra fremmede, fx »Populært«, »Alle« og »Udforsk«. Dit feed på Startside virker stadig."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Skjul alle feeds"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Skjuler også dit feed på Startside. Du kan stadig besøge subreddits og søge."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Begræns feedet på Startside til opslag fra subreddits, du deltager i"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Vis billeder i gråtoner"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Flyt stemmetallet ned under opslagene"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Farvekod kommentarniveauer"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Aktivér strygebevægelser på kommentarer"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Kort strøg til højre"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Langt strøg til højre"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Kort strøg til venstre"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Langt strøg til venstre"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Stem op"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Stem ned"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Skjul tråd"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Svar"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Gem"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Aktivér strygebevægelser på opslag"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Stem op"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Stem ned"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Skjul"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Del"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Gem"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Åbn kommentarer"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Åbn kildelink"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Forhåndsvis"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Subreddits, der må bruge egen CSS"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Subreddits' egne designs er slået fra som standard, så siderne er lette at læse på små skærme."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "subreddit-navn (fx politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Fjern $1"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Ingen subreddits tilføjet endnu."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Skjul fanen »For dig«"
+  },
+  "settings_xHideAds": {
+    "message": "Skjul reklamer"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Filtrer opslag efter forbindelsesgrad"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Vis alle"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Skjul opslag fra 3.-gradsforbindelser"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Skjul opslag fra 2.- og 3.-gradsforbindelser"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Skjul promoverede opslag"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Dæk billeder og videoer til i feedet"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Vis billeder i gråtoner"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Vis videoer i gråtoner"
+  },
+  "settings_inBrowserNote": {
+    "message": "Fjern reklamer, skær distraktioner væk, og filtrer dine feeds. Gælder i RelockIn-browseren."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Indstillingerne gælder websites i RelockIn-browseren, **ikke $1-appen.** Log ind for at se ændringen i dit feed."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Indstillingerne gælder websites i RelockIn-browseren, **ikke $1-appen.** Åbn websitet for at se ændringen."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Se det på $1"
+  },
+  "settings_generalSection": {
+    "message": "Generelt"
+  },
+  "settings_showSessionTimer": {
+    "message": "Vis sessionsur"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Giv mig en kort vejrtrækningspause, før et website låses op"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Pausens længde (sekunder)"
+  },
+  "settings_clearSection": {
+    "message": "Nulstil"
+  },
+  "settings_ytAiContent": {
+    "message": "AI-genererede videoer"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Vis"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Viser AI-videoer som alle andre videoer."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Mærk"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Mærker miniaturebillederne på AI-videoer med »AI«."
+  },
+  "settings_ytAiContentCover": {
+    "message": "Dæk til"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Dækker AI-videoer til. Du kan stadig vise enkelte videoer."
+  },
+  "settings_ytAiContentHide": {
+    "message": "Skjul"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Skjuler AI-videoer i feeds, søgeresultater og anbefalinger."
+  },
+  "settings_ytAiVotes": {
+    "message": "Dine stemmer: AI eller ej"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Ikke AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Ingen kanaler endnu"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Fjern $1"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Blokerede kanaler"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Deres videoer skjules overalt på YouTube. Brug »Bloker kanal« under en video eller på en kanalside."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts og reklamer"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Strygebevægelser"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Startside og feed"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI og kanaler"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Næste"
+  },
+  "settings_sectionTabs": {
+    "message": "Faner"
+  },
+  "settings_sectionFeed": {
+    "message": "Feed"
+  },
+  "settings_sectionFeeds": {
+    "message": "Feeds"
+  },
+  "settings_sectionAppearance": {
+    "message": "Udseende"
+  },
+  "settings_sectionOther": {
+    "message": "Andet"
+  },
+  "support_titleHelp": {
+    "message": "Få hjælp"
+  },
+  "support_titleFeedback": {
+    "message": "Giv feedback"
+  },
+  "support_titleReportProblem": {
+    "message": "Rapportér et problem"
+  },
+  "support_sentimentTitle": {
+    "message": "Hvilken slags feedback har du?"
+  },
+  "support_sentimentPositive": {
+    "message": "Noget, jeg kan lide"
+  },
+  "support_sentimentNegative": {
+    "message": "Noget, der kan blive bedre"
+  },
+  "support_reviewTitle": {
+    "message": "Hvor dejligt at høre!"
+  },
+  "support_reviewBody": {
+    "message": "Vil du skrive en kort anmeldelse? Det hjælper andre med at finde RelockIn.\n\nDet betyder meget for vores lille team."
+  },
+  "support_reviewCta": {
+    "message": "Skriv en anmeldelse"
+  },
+  "support_personalNoteTitle": {
+    "message": "En hilsen fra udvikleren"
+  },
+  "support_personalNoteBody": {
+    "message": "Tak, fordi du bruger RelockIn. Jeg læser selv hver eneste besked og svarer så hurtigt, jeg kan."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Tak! Har du feedback eller forslag?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Det er vi kede af at høre. Fortæl os, hvad der ikke virker, så kigger vi på det."
+  },
+  "support_messageLabel": {
+    "message": "Din besked"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Hvad kan vi hjælpe dig med?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Hvad har du på hjertet?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Hvad er der galt med dette website?"
+  },
+  "support_siteLabel": {
+    "message": "Website"
+  },
+  "support_emailLabel": {
+    "message": "Din e-mail"
+  },
+  "support_emailPlaceholder": {
+    "message": "dig@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Indtast en gyldig e-mailadresse."
+  },
+  "support_sendCta": {
+    "message": "Send"
+  },
+  "support_sendError": {
+    "message": "Din besked kunne ikke sendes. Tjek din forbindelse, og prøv igen."
+  },
+  "support_sentTitle": {
+    "message": "Beskeden er sendt"
+  },
+  "support_sentBodyFormat": {
+    "message": "Tak! Vi svarer dig på $1 så hurtigt som muligt."
+  },
+  "support_sendAnotherCta": {
+    "message": "Send en ny besked"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Brug for hjælp?"
+  },
+  "support_accountFooterCta": {
+    "message": "Kontakt support"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Din besked går direkte til udvikleren"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Diagnoselogfiler"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Diagnoselogfiler"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Ingen logposter endnu."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Fejlfindingslog"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Posterne gemmes kun lokalt på denne enhed. De bliver aldrig uploadet eller delt automatisk. Brug deleknappen til at sende dem til udvikleren, når du rapporterer et problem."
+  },
+  "target_domainType": {
+    "message": "Hele websitet"
+  },
+  "target_urlPatternType": {
+    "message": "URL-mønster"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Låser alle sider på et website. Skriv bare websitets navn (fx reddit.com) – underdomæner og stier i URL'en er ligegyldige."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Låser alle URL'er, der indeholder denne tekst. Brug * som jokertegn for alt derimellem.\n\nEksempler:\n- youtube.com/shorts låser YouTube Shorts, men ikke almindelige videoer\n- reddit.com/r/politics låser kun den subreddit\n- x.com/*/status/* låser enkelte opslag uden at låse resten af X, fx profilsider"
+  },
+  "target_scopeNote": {
+    "message": "Låsene gælder i RelockIn-browseren, men ikke i andre browsere som Safari. Du kan starte en session for at låse op i et bestemt tidsrum."
+  },
+  "target_emptyPattern": {
+    "message": "(tom)"
+  },
+  "target_addTargetTitle": {
+    "message": "Lås et website"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Hvad vil du låse?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Fjern website"
+  },
+  "target_editTargetTitle": {
+    "message": "Rediger element"
+  },
+  "target_editingLabel": {
+    "message": "Redigeres"
+  },
+  "target_typePickerLabel": {
+    "message": "Type"
+  },
+  "typingSentences_short1": {
+    "message": "Jeg vælger dette med fuldt overlæg."
+  },
+  "typingSentences_short2": {
+    "message": "Jeg tager ansvaret for denne beslutning."
+  },
+  "typingSentences_short3": {
+    "message": "Jeg står ved dette valg lige nu."
+  },
+  "typingSentences_short4": {
+    "message": "Det er min bevidste beslutning."
+  },
+  "typingSentences_short5": {
+    "message": "Jeg træffer dette valg med omtanke."
+  },
+  "typingSentences_long1": {
+    "message": "Jeg erkender fuldt ud, at jeg tilsidesætter de grænser, jeg har sat for at beskytte min tid og mit fokus, og jeg tager det ansvar, der følger med dette valg."
+  },
+  "typingSentences_long2": {
+    "message": "Vi er, hvad vi gentagne gange gør. Fortræffelighed er derfor ikke en handling, men en vane. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Dine valg bliver til dine vaner. Dine vaner bliver til din karakter. Og din karakter bliver til din skæbne."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrolling eller doomsurfing er at bruge overdrevent meget tid på at se korte videoer eller store mængder brugerskabt indhold eller nyheder, især negative nyheder, på nettet og sociale medier. Undersøgelser tyder på, at doomscrolling er mest udbredt blandt unge. I 2019 viste en undersøgelse fra det amerikanske National Academy of Sciences, at doomscrolling kan forbindes med forringet mental og fysisk sundhed."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Uendelig scrolling er et design, der løbende indlæser nyt indhold, mens brugeren scroller ned, så der ikke er brug for sideskift. Derfor kan funktionen forværre doomscrolling, fordi den fjerner de naturlige stoppunkter, hvor man ellers kunne holde pause. Forskning har også vist, at sociale mediers tendens til at forstærke negativt indhold kan forværre denne vedvarende scrolling, så brugerne bliver hængende ved dårlige nyheder i længere tid."
+  },
+  "typingSentences_paragraph3": {
+    "message": "De fleste sociale mediers forretningsmodeller bygger på brugerengagement: jo længere folk bliver på platformen, desto flere reklamer ser de, og desto flere data indsamles der om deres adfærd. Det skaber en cyklus, hvor følelsesladet indhold - ofte negativt eller angstprovokerende - igen og igen skubbes ud til brugerne og får dem til at blive ved med at scrolle og forbruge mere indhold."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Øjeblikkelig underholdning, information og kontakt gør sociale medier tiltrækkende. Afhængighed af sociale medier er kendetegnet ved overdreven og tvangspræget brug, der påvirker hverdagen og det generelle velbefindende. Det handler om mere end bare at bruge for meget tid online; det indebærer at tjekke for opdateringer af tvang, at føle uro, når man er offline, og at ens relationer og forpligtelser i det virkelige liv tager skade."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Algoritmerne bag korte videoer er ekstremt vanedannende, fordi de tager dine valg og din intention ud af ligningen. Når du ikke selv skal vælge, hvad der kommer nu, erstatter apps bevidste beslutninger med en glidende, passiv flowtilstand på autopilot. I den tilstand er det utrolig nemt og belønnende at fortsætte og utrolig svært at stoppe."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Sociale medier er designet til at være vanedannende. Techvirksomheder udvikler apps, der fanger din opmærksomhed ved at aktivere hjernens belønningssystem. Kombinationen af dopamindrevet anerkendelse, uforudsigelige belønninger og psykologiske kroge gør det utrolig svært at lægge telefonen fra dig. At gennemskue disse designgreb er første skridt mod at genvinde kontrollen over dine digitale vaner og få et sundere forhold til teknologi."
+  },
+  "usage_title": {
+    "message": "Brug"
+  },
+  "usage_subtitle": {
+    "message": "Se din skærmtid for alle regler og sessioner."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Ingen brugsdata"
+  },
+  "usage_noUsageBody": {
+    "message": "Dit forbrug vises her, når du begynder at bruge sessioner."
+  },
+  "usage_today": {
+    "message": "I dag"
+  },
+  "usage_thisWeek": {
+    "message": "Denne uge"
+  },
+  "usage_thisMonth": {
+    "message": "Denne måned"
+  },
+  "usage_yesterday": {
+    "message": "I går"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Ingen regler oprettet endnu."
+  },
+  "usage_daily": {
+    "message": "Dag"
+  },
+  "usage_weekly": {
+    "message": "Uge"
+  },
+  "usage_monthly": {
+    "message": "Måned"
+  },
+  "usage_previousPeriod": {
+    "message": "Forrige periode"
+  },
+  "usage_nextPeriod": {
+    "message": "Næste periode"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Periode"
+  },
+  "usage_unknownRule": {
+    "message": "Ukendt regel"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 af $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

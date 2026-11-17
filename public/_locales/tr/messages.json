@@ -1,0 +1,2843 @@
+{
+  "about_tagline": {
+    "message": "Dikkat dağıtıcıları dışarıda bırak. En iyi hâline odaklan."
+  },
+  "about_welcome": {
+    "message": "RelockIn'e hoş geldin!"
+  },
+  "about_sentence": {
+    "message": "RelockIn, dikkat dağıtıcılara son veren tarayıcıdır. Odak Merkezi'nden, dikkatini dağıtan uygulama ve sitelerde geçirdiğin süreyi sınırlamak için kolayca kurallar ve programlar oluşturabilirsin. Basit bir fikre dayanır: Telefonda geçirdiğin her dakika bilinçli bir tercih olsaydı?\n\nAyrıca RelockIn, tamamen özelleştirilebilen ve gizliliğine önem veren bir mobil tarayıcı içerir. RelockIn aramalarını asla takip etmez ve verilerini asla kimseyle paylaşmaz. Tam entegre bir tarayıcı sunan tek odak uygulaması olduğu için, web sitelerini özelleştirip Reels ve Shorts gibi dikkat dağıtan özellikleri kaldırabildiğin tek uygulama da RelockIn. Böylece kontrol tamamen sende olur."
+  },
+  "about_versionHeader": {
+    "message": "Android için RelockIn"
+  },
+  "about_extensionName": {
+    "message": "RelockIn – YZ çöpünü, Shorts, Reels ve siteleri engelle | Ekran süresi"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn – YZ çöpünü, Shorts ve siteleri engelle"
+  },
+  "about_extensionDescription": {
+    "message": "YZ videolarını, Shorts'u, Reels'i ve bitmeyen akışları engelle. Üstelik her web sitesi için süre sınırları ve programlar."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "bu kuralı silmek"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "“$1” için sınırı kaldırmak"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "günlük sınırını artırmak"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "zorunlu molayı atlamak"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "program kısıtlamasını aşmak"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "günlük sınırını aşmak"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "bu programı silmek"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "bu programı gevşetmek"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "engellenenler listenden diğer uygulamaları veya siteleri kaldırmak"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "bu korumayı gevşetmek"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "“$1” görevini kolaylaştırmak"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "“$1” görevini silmek"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "korumaları gevşetmeden önceki görevi kapatmak"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Günlük sınırım dolduysa ve daha fazla süreye ihtiyacım varsa…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "En fazla 2 dk"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 dk"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "10 dk üzeri"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Program engelini aşmam gerekirse…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Mola vermem istendiğinde seans başlatmaya devam etmek istersem…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Art arda çok fazla seans başlatırsan mola vermeni isteriz. Molanın ne kadar süreceğini “Seanslar arası mola” ayarından değiştirebilirsin."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "Art arda 1 seans"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "Art arda 2–3 seans"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "Art arda 4+ seans"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Ekran süresi kurallarımı gevşetirsem…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Uygulama kaldırma"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Site kaldırma"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Kural silme"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Günlük sınırı artırma"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Bir programı gevşetirsem…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Engellemiyorken"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Engellerken"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Devam etmek için cümleyi yaz"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Devam etmek için paragrafı yaz"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Paragraf:\n“$1”"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Sayacın bitmesini bekle"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Geri sayım bitene kadar devam edemezsin."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Süre doldu – devam edebilirsin."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Bunu gerçekten yapmak istiyor musun?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Gerçekten $1 istiyor musun?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Ek koruma ister misin? Sınırlarını aşmadan önce bir görev tamamlamak için Korumalar sekmesinden ayar yapabilirsin."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Evet, devam et"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Maalesef $1 mümkün değil"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Bunu yapamazsın"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Korumaların buna izin vermiyor, bu yüzden hiçbir görev bunun kilidini açamaz."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Bunu gerçekten yapmam gerekiyor"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Koruma ayarlarını Korumalar sekmesinden değiştirebilirsin."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Korumalar'a git"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Cümle:\n“$1”"
+  },
+  "challengeUi_confirm": {
+    "message": "Onayla"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Henüz eşleşmiyor. Yazımı ve noktalamayı kontrol et."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Tamamlandı."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Cümleyi tam olarak gösterildiği gibi yaz."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Böyle devam…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Tamamdır!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Eşleşmiyor. Dikkatlice karşılaştır: bir yazım hatası yaptın."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Devam etmek için her soruyu çöz"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Yanıtlarını gir ve Onayla'ya dokun."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Hepsi doğru!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Bazı yanıtlar yanlış. İşaretli alanları kontrol et."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Soru $1 için yanıt"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Güvendiğin kişiye haber verilecek"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Güvendiğin kişiye, sınırlarını aşmayı seçtiğini bildiren bir e-posta gönderilecek. Bu bildirim, hedeflerine bağlı kalmana yardımcı olmak için var."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Bildirim gönder ve devam et"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Bunu yapamıyorum"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Bunun yerine $1 dakika bekle"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "tr"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Bunun yerine $1 dakika bekle"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Yok"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Kolay"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Orta"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Zor"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Çok zor"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Aşırı"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "İmkânsız"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Yalnızca onay"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Varsayılan: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Kaydedilemedi"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "$1 kaldı"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Görev yanıt alanı"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Görevleri özelleştir"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Kolay, Orta ve Zor görevlerdeki adımları değiştir ya da kendi görevini oluştur"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Bana ne zaman görev verilsin"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Ekran süresi kuralı silmek, ek süre almak ve dahası ne kadar zor olsun, sen seç"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Yerleşik"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Özel"
+  },
+  "challenges_newChallenge": {
+    "message": "Yeni"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Henüz özel görev yok. Oluşturmak için + simgesine dokun."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Ad (ör. “Acımasız”)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Yeni görev"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Bu göreve benzersiz bir ad ver."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Her görevin senden ne isteyeceğini seç ya da kendi görevini oluştur."
+  },
+  "challenges_savedBadge": {
+    "message": "Kaydedildi"
+  },
+  "challenges_noSteps": {
+    "message": "Adım yok – kaydetmek için en az bir adım ekle."
+  },
+  "challenges_addStep": {
+    "message": "Adım ekle"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Zorluk"
+  },
+  "challenges_problemsLabel": {
+    "message": "Soru sayısı"
+  },
+  "challenges_operationsLabel": {
+    "message": "İşlemler"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Kısa cümle yaz"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Uzun cümle yaz"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Paragraf yaz"
+  },
+  "challenges_stepNameMath": {
+    "message": "Matematik sorusu çöz"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "Güvendiğin kişiye e-posta"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Sayacı bekle"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Süre: $1 dk $2 sn"
+  },
+  "challenges_stepCount": {
+    "message": "$1 adım"
+  },
+  "challenges_stepCount__lang": {
+    "message": "tr"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 adım"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Bu kuralın görevleri"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Yalnızca “$1” kuralı için geçerli."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Tüm kuralların görevlerini veya görevlerin adımlarını değiştirmek istersen:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Korumalar sekmesine git"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Korumaları gevşetmeden önce bana görev ver"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Bir görevi kolaylaştırmak için önce kaldırdığın adımları tamamlaman gerekir."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Korumaları $1 dakika daha serbestçe değiştirebilirsin. Sonrasında onları gevşetmek için görev tamamlaman gerekir."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "tr"
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Korumaları $1 dakika daha serbestçe değiştirebilirsin. Sonrasında onları gevşetmek için görev tamamlaman gerekir."
+  },
+  "common_save": {
+    "message": "Kaydet"
+  },
+  "common_cancel": {
+    "message": "İptal"
+  },
+  "common_done": {
+    "message": "Bitti"
+  },
+  "common_ok": {
+    "message": "Tamam"
+  },
+  "common_edit": {
+    "message": "Düzenle"
+  },
+  "common_delete": {
+    "message": "Sil"
+  },
+  "common_defaultOption": {
+    "message": "Varsayılan"
+  },
+  "common_back": {
+    "message": "Geri"
+  },
+  "common_skip": {
+    "message": "Atla"
+  },
+  "common_next": {
+    "message": "İleri"
+  },
+  "common_gotIt": {
+    "message": "Anladım"
+  },
+  "common_none": {
+    "message": "Yok"
+  },
+  "common_yes": {
+    "message": "Evet"
+  },
+  "common_no": {
+    "message": "Hayır"
+  },
+  "common_start": {
+    "message": "Başlat"
+  },
+  "common_loading": {
+    "message": "Yükleniyor…"
+  },
+  "common_error": {
+    "message": "Hata"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Kapat"
+  },
+  "common_continue": {
+    "message": "Devam"
+  },
+  "common_dismiss": {
+    "message": "Kapat"
+  },
+  "common_notNow": {
+    "message": "Şimdi değil"
+  },
+  "common_noThanks": {
+    "message": "Hayır, teşekkürler"
+  },
+  "common_maybeLater": {
+    "message": "Belki sonra"
+  },
+  "common_add": {
+    "message": "Ekle"
+  },
+  "common_create": {
+    "message": "Oluştur"
+  },
+  "common_startSetup": {
+    "message": "Kurulumu başlat"
+  },
+  "common_continueSetup": {
+    "message": "Kuruluma devam et"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Kaldığın yerden devam et"
+  },
+  "common_setItUp": {
+    "message": "Kur"
+  },
+  "common_howItWorks": {
+    "message": "Nasıl çalışır"
+  },
+  "common_getStarted": {
+    "message": "Başla"
+  },
+  "common_signIn": {
+    "message": "Giriş yap"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 dk"
+  },
+  "common_hoursCount": {
+    "message": "$1 saat"
+  },
+  "common_hoursCount__lang": {
+    "message": "tr"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 saat"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Adım $1 / $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Akışından $1 Shorts videosunu kaldırdık"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "tr"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Akışından $1 Shorts videosunu kaldırdık"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Kapat"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "RelockIn tarafından örtüldü"
+  },
+  "domShared_coverDismiss": {
+    "message": "Kaldır"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Örtü kaldırılamaz"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Kaldır ($1 sn)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Bunun için giriş yapmalısın."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Giriş yap"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Kapat"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit az önce seni zorla uygulamasına göndermeye çalıştı."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Bir sorun yaşarsan sayfayı yenilemeyi veya Zen Modu'na geçmeyi dene."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Kapat"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Bu akış gizli"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Reddit'in Popüler ve All akışlarını gizlemeyi seçtin."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Reddit akışlarını gizlemeyi seçtin."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Subreddit'lerin"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Bunu RelockIn ayarlarından değiştirebilirsin."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Hepsini gördün"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Katıldığın subreddit'lerdeki yenilikler bu kadar."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Daha fazlasına bak"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Oynat"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Duraklat"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Reklamı atla"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Oynatma hızı"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Ses düzeyi"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "artı oy ver"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "eksi oy ver"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "oyu geri al"
+  },
+  "domShared_redditActionSave": {
+    "message": "kaydet"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "kaydetmeyi geri al"
+  },
+  "domShared_redditActionHide": {
+    "message": "gizle"
+  },
+  "domShared_redditActionShare": {
+    "message": "paylaş"
+  },
+  "domShared_redditActionComments": {
+    "message": "yorumlar"
+  },
+  "domShared_redditActionExpand": {
+    "message": "genişlet"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "daralt"
+  },
+  "domShared_redditActionReply": {
+    "message": "yanıtla"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "diğer seçenekler"
+  },
+  "domShared_redditActionScore": {
+    "message": "puan"
+  },
+  "domShared_redditActionSource": {
+    "message": "Kaynak"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Önizle"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Kaydet"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Kaydetmeyi geri al"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Gizle"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Gizlemeyi geri al"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Paylaş"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Bildir"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Üst yorum"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Kalıcı bağlantı"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Yerleştir"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Çapraz paylaş"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Yorumun bağlantısını kopyala"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Paylaşımın bağlantısını kopyala"
+  },
+  "domShared_redditAgeNow": {
+    "message": "şimdi"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1 dk"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1 sa"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1 g"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1 ay"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1 y"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Instagram Hikayeleri"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Takip etmediğin birinin gönderisini gizledik."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Bu videoyu gizledik."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Bu reklamı gizledik."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Paylaşan: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Bu gönderi 3. derece bir bağlantından"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Bu gönderi 1. derece bir bağlantından değil"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Odağını korumak için örttük."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Odağını korumak için bu reklamı gizledik"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Örtüyü kaldırmak için dokun"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Odağını korumak için bu görseli örttük"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Örtüyü kaldırmak için dokun."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Odağını korumak için bu videoyu örttük."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Önerilen videolar"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Oynatma hızı: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Ses düzeyi: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "10 saniye geri"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "10 saniye ileri"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "daha iyi bir şey yap."
+  },
+  "domShared_ytAiBadge": {
+    "message": "YZ"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Yapay zekayla üretilmiş video"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Bu kanala YZ oyu verdin"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Yine de göster"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Yine de izle"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "YZ değil"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "YZ?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Belki YZ"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Muhtemelen YZ"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Büyük olasılıkla YZ"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Oylar bölünmüş"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "RelockIn ekibi inceledi"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Muhtemelen yapay zekayla üretilmiş"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Büyük olasılıkla yapay zekayla üretilmiş"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "RelockIn kullanıcılarının oylarına göre"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Bu kanal YZ içeriği üretiyor mu?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "YZ"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Ne YZ sayılır?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Verdiğin oy şimdilik yalnızca senin gördüklerini değiştiriyor. Toplulukla paylaşmak için RelockIn'e giriş yap."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Giriş yap"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Kapat"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Kanalın videolarının çoğunda şunlar varsa “YZ” oyu ver:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Yapay zekayla yazılmış senaryo"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Yapay zekayla üretilmiş ses (konuşma veya şarkı)"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Yapay zekayla üretilmiş görüntü veya video"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "Yapay zekayla üretilmiş müzik"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "YZ sayılmayanlar:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "YZ hakkındaki videolar, örneğin YZ araçlarının incelemeleri"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Temizlenmiş ses gibi küçük YZ dokunuşları"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Verdiğin oy senin için hemen geçerli olur ve diğer RelockIn kullanıcılarına da yardımcı olur."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Etiket yanlış mı? İtiraz et"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Diğer seçenekler"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Kanalı engelle"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Engellendi"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Kanalın engelini kaldır"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Bu kanalı engelledin"
+  },
+  "limits_title": {
+    "message": "Kurallar ve seanslar"
+  },
+  "limits_subtitle": {
+    "message": "Seans başlat ve ekran süresi kurallarını yönet."
+  },
+  "limits_addRule": {
+    "message": "+ Kural ekle"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Ekran süresi kuralları"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Günlük sınırlar ve seanslarla zamanını koru"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Henüz kural yok. Süre sınırı koymak için bir kural ekle."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Sosyal medya"
+  },
+  "main_backToBrowser": {
+    "message": "Tarayıcıya dön"
+  },
+  "main_openFullPage": {
+    "message": "Tam sayfada aç"
+  },
+  "main_tabLimits": {
+    "message": "Kurallar"
+  },
+  "main_tabSettings": {
+    "message": "Özelleştirme"
+  },
+  "main_protectionTitle": {
+    "message": "Korumalar"
+  },
+  "main_protectionSubtitle": {
+    "message": "Dürtüsel kararların önüne sağlıklı bir engel koy"
+  },
+  "main_tabAccount": {
+    "message": "Hesap"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Günlük ortalama"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "ort."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Araç çubuğundaki **yapboz parçası** simgesine tıkla"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "**RelockIn**'i bul ve **Sabitle** simgesine tıkla"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Ekran süresi kuralların"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Düzenlemek için bir kurala tıkla. Her kuralın kendi günlük sınırı var."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "**RelockIn**'e hoş geldin."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Yaklaşık bir dakika sürer"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Pek değil"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "YouTube'daki yapay zeka çöpünden bıktın mı?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Özensiz YZ videoları artık her yerde, akışından aramalara kadar."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Kaydırmaya daha az zaman harcamak ister miydin?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Üstelik yalnızca iradene güvenmek zorunda kalmadan."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "YZ içeriği"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "YZ videolarını tıklamadan **önce** fark et."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Akışındaki YZ içeriğini örtebilir, gizleyebilir veya etiketleyebiliriz."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "İsteğe bağlı"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "YZ içeriğini **işaretlemeye** yardım et."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Topluluğumuz YZ içeriğini işaretliyor. Kaydolursan oyların, başkalarının YZ içeriğini tanıyıp engellemesine yardımcı olur."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Giriş yapıldı"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Oyların artık başkalarının YZ içeriğini tanıyıp engellemesine yardımcı oluyor."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "E-posta ile devam et"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Kısa videolar"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Shorts ve Reels **ortadan kalksın**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "YouTube'dan Shorts'u, Instagram'dan Reels'i çıkar. İstediğin kısımlar kalsın."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Shorts ve Reels'i gizle"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "İsteğe bağlı: günlük sınırlar"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "**Bilinçli** kaydır."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Hangi sitelere sınır koyalım?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Daha sonra başka siteler de ekleyebilirsin."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Kuralını burada görmek için bir site seç"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Hızlı erişim"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Sabitlendi. Harika."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "iPhone ve Android için RelockIn"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "**Telefonunda** da kullan."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "RelockIn uygulamasıyla YouTube, Instagram ve diğer siteleri özelleştirerek YZ içeriğini ve Shorts, Reels gibi dikkat dağıtıcıları kaldırabilirsin.\n\nUygulama dikkat dağıtan uygulamaları da kilitleyebilir, böylece zamanının kontrolünü geri alırsın."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Telefonunun kamerasıyla tara"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Her şey hazır."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "YouTube'da gör"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Kurulumu bitirelim"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Kurulum ayrı bir sekmede açılır ve yaklaşık bir dakika sürer."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Kuruluma devam et"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "En çok kullandığın sitelerdeki yapay zeka çöpünü, Shorts'u ve bitmeyen akışları temizle."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Neden hesap oluşturayım?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Hesap olmadan da oyların YZ kanallarını senin için işaretler ama başka kimseye yardımcı olamaz. Hesap oluşturursan oylarına güvenip tüm topluluk için YZ içeriğini işaretlemekte kullanabiliriz. Diğer kullanıcılar nasıl oy verdiğini göremez.\n\nHesabın iPhone ve Android için RelockIn'de de çalışır."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Şeffaflık bizim için önemli. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Kodumuzu herkes inceleyebilir"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Siteleri Özelleştir"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "Siteleri daha az bağımlılık yapar hale getirmenin **40'tan fazla yolu**."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn; YouTube, Instagram, Reddit, X ve LinkedIn'i değiştirebilir. Birkaçını burada dene, gerisi ayarlarda."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "$1 için günlük sınır"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "RelockIn **tek tık** uzağında olsun."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Herhangi bir ayarı kolayca değiştirebilmek için sabitle."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Kurulumu kapat"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Henüz sınır yok"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Zaman kaybettiğin siteleri seç ve her birine günlük sınır koy. Yaklaşık 30 saniye sürer."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Sınırları ayarla"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Akışta yalnızca takip ettiğin hesapların gönderilerini göster"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "r/popular ve r/all akışlarını kapat"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "YZ videoları"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts ve Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Site özelleştirmeleri"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Günlük sınırlar"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "YZ oyları"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Gizlendi"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Gösteriliyor"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Kapalı"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Örtüldü"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Etiketlendi"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Tüm topluluk için"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Yalnızca senin için"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 açık"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "tr"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "$1 açık"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 site"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "tr"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 site"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Sosyal medyanın daha az bağımlılık yapmasını ister miydin?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Sevdiğin kısımlardan vazgeçmeden daha az dikkat dağınıklığı."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Doğru yerdesin."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Anladık. Hadi sana etrafı gösterelim."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Dilediğin siteye ekran süresi sınırı koyabilirsin.\n\nRelockIn, farkında olmadan kaydırmayı bırakmana yardım eder."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Ne kadar süreye ihtiyacın olduğunu seç"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Siteyi kullan"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Süre dolunca yeniden kilitlenir"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Günlük sınırları dene"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Her şey **burada**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Bu paneli istediğin zaman araç çubuğundaki RelockIn simgesinden açabilirsin."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "$1 sitesinde ne kadar zaman geçirmek istiyorsun?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "$1 seansın sona erdi."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "dk/gün"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 dakika azalt"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 dakika artır"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Ekran Süresi"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Araç çubuğundaki RelockIn simgesinden her şeyi değiştirebilirsin."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Tarayıcının uzantılar menüsündeki RelockIn'den her şeyi değiştirebilirsin."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Şu an zamanını en iyi böyle mi değerlendiriyorsun?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "derin bir nefes al"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Ya da $1 sitesine gerçekten devam etmen gerekiyorsa şu kural için bir seans başlatabilirsin: “$2”"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Bugün $1 dk $2 sn kaldı"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "RelockIn'i telefonuna indir"
+  },
+  "overlay_closeTab": {
+    "message": "Bu sekmeyi kapat"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "bugün kalan"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "bugün kullanılan"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "sıfırlanma saati"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Ya da gerçekten devam etmen gerekiyorsa şu kural için bir seans başlatabilirsin: “$1”"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "“$1”"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Geçerli kural: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "RelockIn'i aç"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Diğer seçenekler"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "günlük kullanım"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "RelockIn'i indirmek için QR kodu"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "**RelockIn** uygulamasını indir"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Shorts, Reels ve YZ videolarını kaldır"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "İstediğin uygulamaya veya siteye süre sınırı koy"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Uykunu ve odağını koru"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Bu uzantı telefonlarda sınırlı"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "RelockIn uygulamasıyla her uygulamayı sınırla, tüm dikkat dağıtıcıları ve YZ videolarını kaldır."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "YouTube veya Instagram uygulamalarında çalışmaz"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Yalnızca bir süre sınırı ve bir program"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "YZ videolarını etiketleyebilir ama gizleyemez"
+  },
+  "phoneWebext_getApp": {
+    "message": "Uygulamayı indir"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Tarayıcıda devam et"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Ya da burada devam et (sınırlı)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "İstediğin kadar ekran süresi kuralı için RelockIn uygulamasını indir:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "İstediğin kadar program için RelockIn uygulamasını indir:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Tüm ayarlara erişmek için **RelockIn uygulamasını** dene"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "RelockIn Pro'ya dahil"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "Ücretsiz sürümde bu siteler tek bir günlük sınırı paylaşır."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Dürtüsel hareketlerine fren koy"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Sınırı aşmadan veya kural silmeden önce tamamlaman gereken görevler belirle.\nYaklaşık bir dakika sürer."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Korumaları ayarla"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Seanslar arası mola"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Art arda çok fazla seanstan sonra mola ver"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Önce kurallarını oluştur"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Koruma eklemeden önce Kurallar sekmesinde kurallarını oluşturmayı bitir."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Ani kararlardan önce bir dur"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Sınırı aşmadan veya kural silmeden önce RelockIn senden kısa bir görev tamamlamanı isteyebilir. Böylece kararını bir kez daha düşünürsün."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Kontrol her zaman sende."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Kendin dene"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Görevi kendin denemek için herhangi bir karta dokun."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Günlük sınırı birkaç dakika aş"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Kısa bir cümle yaz"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Engellenenler listenden bir uygulamayı kaldır"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Birkaç matematik problemi çöz"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Bir programı gevşet"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Daha uzun bir cümle yaz"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Korumaların ne kadar sıkı olsun?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Bunu istediğin zaman değiştirebilirsin."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Hafif"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Dürtüsel hareketlerden önce küçük hatırlatmalar."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Dengeli"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Sık yaşanan kaçamaklara karşı ek engel."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Sıkı"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Kötü alışkanlıklardan kurtulmak için daha zor görevler."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Önerilen"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Bu seviyeyi seç: $1"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Seanslar arası mola"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Art arda çok fazla seans başlatırsan sana zorunlu bir mola verdirebiliriz."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Art arda 2+ seans başlatırsam (aralarında"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "bile yoksa),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "bana şu kadar mola ver:"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Örnek"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "08.00  5 dakikalık bir Sosyal Medya seansı başlatıyorsun."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "08.05  5 dakikalık bir seans daha başlatıyorsun"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "08.10  Üçüncü seanstan önce mola vermen gerekiyor"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 saniye"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 dakika"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 dakika"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 dakika"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 dakika"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 dakika"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Korumaların açık"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "İstediğin zaman değiştir:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Görev çıkacak durumlar"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Her görevin senden istedikleri"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Belirli kurallara özel görevler"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Ana uygulamaya dön"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Engellenen uygulama yok"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Kural adı"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Tadımlık"
+  },
+  "rule_deleteRule": {
+    "message": "Kuralı sil"
+  },
+  "rule_editRule": {
+    "message": "Kuralı düzenle"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Engellenen uygulamalar"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Engellenen uygulamaları değiştir"
+  },
+  "rule_blockedInsideSection": {
+    "message": "RelockIn tarayıcısında engellenen siteler"
+  },
+  "rule_noTargets": {
+    "message": "Henüz engellenen web sitesi yok."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Kural ayarları"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Günlük sınır (dakika)"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Dakika"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Günlük sınırdan $1 dakika çıkar"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "tr"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Günlük sınırdan $1 dakika çıkar"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Günlük sınıra $1 dakika ekle"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "tr"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Günlük sınıra $1 dakika ekle"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Korumaları ayarla"
+  },
+  "rule_targetsSection": {
+    "message": "Hedef siteler"
+  },
+  "rule_defaultRuleName": {
+    "message": "Yeni kural"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Seans etkin"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Kilitli"
+  },
+  "rule_appCount": {
+    "message": "$1 uygulama"
+  },
+  "rule_appCount__lang": {
+    "message": "tr"
+  },
+  "rule_appCount__one": {
+    "message": "$1 uygulama"
+  },
+  "rule_siteCount": {
+    "message": "$1 site"
+  },
+  "rule_siteCount__lang": {
+    "message": "tr"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 site"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Program adı"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Kaydedilmedi"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "ZAMAN ARALIĞI"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Başlangıç"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Bitiş"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "ETKİN GÜNLER"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Her gün"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Hiçbir gün"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Hafta içi"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Hafta sonu"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "Pz"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "Pt"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "Sa"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "Ça"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "Pe"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "Cu"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "Ct"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "Paz"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "Pzt"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "Sal"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "Çar"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "Per"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "Cum"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "Cmt"
+  },
+  "scheduleCard_modeSection": {
+    "message": "MOD"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Bu saatlerde engelle"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Yalnızca bu saatlerde izin ver"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Bu saatlerde seans başlatamazsın."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Kilit açma seanslarını *yalnızca* bu saatlerde başlatabilirsin. Günün geri kalanında bu uygulamaların kilidini açamazsın."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Kilit açılabilir"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Kilit açılamaz"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "UYGULANDIĞI KURALLAR"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Henüz kural oluşturulmadı."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Yeni kurallara otomatik uygula"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Değişiklikleri kaydet"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Bu program silinsin mi?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Programı sil"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Program"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Programı düzenle"
+  },
+  "schedules_title": {
+    "message": "Programlar"
+  },
+  "schedules_subtitle": {
+    "message": "Seans başlatabileceğin saatleri belirle."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Henüz program yok"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Kurallarına zaman kısıtlaması koymak için bir program ekle."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Program ekle"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Uyku"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Önce ekran süresi kurallarını oluştur"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Program oluşturmadan önce Kurallar sekmesinde kurulumu tamamla."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Kuralların, sen bir seans başlatana kadar uygulamaları ve web sitelerini engeller. Programlar ikinci bir katman ekler: Bu seansları *ne zaman* başlatabileceğini sınırlar.\n\nUyku, ders veya odak saatlerini koru ya da kendine önceden planlanmış mola aralıkları ayır."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "1'den fazla program için ücretsiz deneme süresini başlatman gerekiyor"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Hata: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Program eklenemedi: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Güncellenemedi: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Silinemedi: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Bağlı kurallar güncellenemedi: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "5 dakika mola verip Instagram'a bakmak istiyorum"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Uygulamaların, sen kilidini açana kadar kilitli kalır"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Seçtiğin siteler, sen kilidini açana kadar kilitli kalır"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Ama bazı saatlerde kilitli kalmalarını istersin"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Ama bazı saatlerde kilitli kalmalarını istersin"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Programlar kilit açma düğmesini ortadan kaldırır"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Böylece uygulamaların program bitene kadar kilitli kalır."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Böylece sitelerin program bitene kadar kilitli kalır."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Hay aksi! En iyisi yatayım."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Hadi uykunu koruyalım"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Ekranda kaydırarak değil, uyuyarak geçirmek istediğin saatleri seç."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Uykumu koru"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Uykun artık korunuyor"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "$1 ile $2 arasında kilit açamazsın. Günleri, saatleri veya kuralları istediğin zaman değiştirebilirsin."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "İş veya ders saatlerini de korumak ister misin?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "İstediğin zaman program ekleyebilirsin."
+  },
+  "session_sectionTitleActive": {
+    "message": "Seans"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Seans başlat"
+  },
+  "session_endingSession": {
+    "message": "Seans bitiriliyor…"
+  },
+  "session_startingSession": {
+    "message": "Seans başlatılıyor…"
+  },
+  "session_remainingInSession": {
+    "message": "seansta kalan süre"
+  },
+  "session_endSession": {
+    "message": "Seansı bitir"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Program seans başlatmayı engelliyor"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Program nedeniyle “$1” kuralını şu anda kullanamazsın"
+  },
+  "session_blockedBadge": {
+    "message": "PROGRAM ENGELİ"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Program nedeniyle şu anda seans başlatamazsın."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Program kısıtlamasını aş"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Şu anda bunlar da engelliyor:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Aynı anda birkaç sınır etkin. Seans başlatmak için en katı olanı aşman yeterli."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Program kısıtlaması"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Zorunlu mola"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "“$1” programı nedeniyle $2 saatine kadar engellendi"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "İzin verilen saatlerin dışında. “$1” programı $2 saatinde başlıyor"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "İzin verilen tüm program saatlerinin dışında"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "“$1” programının engellemeye başladığı $2 saatine kadar izinli"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "“$1” programının bittiği $2 saatine kadar izinli"
+  },
+  "session_other": {
+    "message": "Diğer"
+  },
+  "session_duration": {
+    "message": "Süre"
+  },
+  "session_startSession": {
+    "message": "Seans başlat"
+  },
+  "session_takeABreak": {
+    "message": "Biraz mola ver."
+  },
+  "session_reopensInFormat": {
+    "message": "$1 sn sonra yeni seans"
+  },
+  "session_reopensInLabel": {
+    "message": "Yeni seansa kalan"
+  },
+  "session_bypassBreak": {
+    "message": "Molayı atla"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Doomscrolling'e son ver."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Art arda $1 seans oldu. Doomscrolling'e son ver."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "tr"
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "Art arda $1 seans oldu. Doomscrolling'e son ver."
+  },
+  "session_overrideSizeLow": {
+    "message": "En fazla 2 dk"
+  },
+  "session_overrideSizeMedium": {
+    "message": "En fazla 10 dk"
+  },
+  "session_overrideSizeHigh": {
+    "message": "En fazla 60 dk"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Ne kadar ek süreye ihtiyacın var?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Kilidi açmak için hızlı görev"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Kilidi açmak için orta zorlukta görev"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Kilidi açmak için zor görev"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Korumaların ek süreye izin vermiyor."
+  },
+  "session_dailyLimitReached": {
+    "message": "Günlük sınır doldu"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Bugün $1 dk kullandın."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Yürüyüşe çık, o işi hallet ya da bir arkadaşını ara."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Yapacak daha iyi bir şeyim yok"
+  },
+  "session_chooseLength": {
+    "message": "Seans süresini seç"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Kilitler süreli açılır"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Seansını başlatmak için bir süreye dokun. Süren dolunca yeniden kilitleriz."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Seans başlat: $1 dk"
+  },
+  "settings_title": {
+    "message": "Siteleri Özelleştir"
+  },
+  "settings_igComments": {
+    "message": "Instagram yorumlarını gizle"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Takip ettiğin hesaplar hariç"
+  },
+  "settings_igStories": {
+    "message": "Instagram Hikayeleri"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Akışta takip etmediğin hesapların gönderilerini ört"
+  },
+  "settings_igFeedVideos": {
+    "message": "Akıştaki videoları gizle"
+  },
+  "settings_igGuardAds": {
+    "message": "Reklamları gizle"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Keşfet'te yalnızca arama kalsın"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Fotoğrafları siyah beyaz yap"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Videoları siyah beyaz yap"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Giriş yapılan hesap"
+  },
+  "settings_accountSignOut": {
+    "message": "Çıkış yap"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Google ile oturum aç"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Verilerini cihazların arasında senkronize etmek için giriş yap. RelockIn Pro'yu daha önce satın aldıysan giriş yaptığında aboneliğin geri yüklenir."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Abonelik"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Durum"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Çıkış yapılsın mı?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Tekrar giriş yapana kadar verilerin cihazların arasında senkronize edilmeyecek."
+  },
+  "settings_accountSignOutError": {
+    "message": "Çıkış yapılamadı. Tekrar dene."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Giriş yapmak için izin vermen gerekiyor. Diğer her şey hesap olmadan da çalışır."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Devam ederek $1 metnini kabul etmiş olursun. Verilerini nasıl kullandığımızı $2 metninde anlatıyoruz."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Hesap oluşturarak $1 metnini kabul etmiş olursun. Verilerini nasıl kullandığımızı $2 metninde anlatıyoruz."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Hizmet Şartları"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Gizlilik Politikası"
+  },
+  "settings_accountSourceCode": {
+    "message": "Kaynak Kodu"
+  },
+  "settings_accountSignInError": {
+    "message": "Giriş yapılamadı. Tekrar dene."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "Giriş için bu telefonda bir Google hesabına ulaşılamadı. Telefonunun Ayarlar uygulamasını aç, “Şifreler ve hesaplar” bölümüne git (Samsung'da “Hesaplar ve yedekleme”) ve orada bir Google hesabı ekli olduğundan emin ol. Hesap zaten listeleniyor ama giriş yine başarısız oluyorsa hesabı kaldırıp yeniden eklemeyi dene."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Google ile oturum açma bu uygulama için doğru ayarlanmamış. Destek ekibiyle iletişime geç."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Giriş yarıda kesildi. Tekrar dene."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Bu cihaz Google ile oturum açmayı desteklemiyor. Google Play Hizmetleri'ni güncellemeyi dene veya e-posta ile giriş yap."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Google giriş bilgilerin okunamadı. Tekrar dene."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Giriş sunucusuna ulaşılamadı. Bağlantını kontrol edip tekrar dene."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Giriş sırasında beklenmeyen bir kimlik bilgisi alındı. Tekrar dene."
+  },
+  "settings_emailSignInCta": {
+    "message": "E-posta ile giriş yap"
+  },
+  "settings_appleSignInCta": {
+    "message": "Apple ile giriş yap"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Giriş yap"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "E-posta adresin ve şifrenle giriş yap."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Hesap oluştur"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Verilerini cihazların arasında senkronize etmek için bir hesap oluştur."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Hesap oluştur"
+  },
+  "settings_emailResetTitle": {
+    "message": "Şifreyi sıfırla"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "E-posta adresini gir, şifreni sıfırlaman için sana bir bağlantı gönderelim."
+  },
+  "settings_emailResetAction": {
+    "message": "Sıfırlama bağlantısı gönder"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-posta"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Şifre"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Şifreyi onayla"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Şifreni mi unuttun?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Hesabın yok mu? Kaydol"
+  },
+  "settings_switchToSignIn": {
+    "message": "Zaten hesabın var mı? Giriş yap"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "E-postanı kontrol et"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "E-posta adresine bir onay bağlantısı gönderdik. Giriş yapmadan önce adresini doğrula."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Sıfırlama bağlantısı gönderildi"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Hesabın varsa şifre sıfırlama bağlantısı içeren bir e-posta gönderdik."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "E-posta adresin henüz doğrulanmadı. Onay bağlantısı için gelen kutunu kontrol et."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Çok fazla deneme yapıldı. Daha sonra tekrar dene."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Şifre çok zayıf. En az 6 karakter kullan."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "E-posta veya şifre geçersiz. Yakın zamanda kaydolduysan e-posta adresini doğruladığından emin ol."
+  },
+  "settings_changePasswordCta": {
+    "message": "Şifreyi değiştir"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Yeni şifre belirle"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Hesabın için yeni bir şifre seç."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Yeni şifre"
+  },
+  "settings_newPasswordAction": {
+    "message": "Şifreyi güncelle"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Şifre güncellendi"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Şifren güncellendi. Artık yeni şifrenle giriş yapabilirsin."
+  },
+  "settings_newPasswordError": {
+    "message": "Şifre güncellenemedi. Tekrar dene."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Tüm alanları doldur."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Kayıt başarısız oldu."
+  },
+  "settings_errorEnterEmail": {
+    "message": "E-posta adresini gir."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Sıfırlama e-postası gönderilemedi."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Şifre başarıyla güncellendi."
+  },
+  "settings_accountSigningOut": {
+    "message": "Çıkış yapılıyor…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Giriş yapılıyor…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "Yok"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Ücretsiz sürüm"
+  },
+  "settings_backToSignIn": {
+    "message": "Girişe dön"
+  },
+  "settings_sending": {
+    "message": "Gönderiliyor…"
+  },
+  "settings_updating": {
+    "message": "Güncelleniyor…"
+  },
+  "settings_creatingAccount": {
+    "message": "Hesap oluşturuluyor…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Yeni şifreyi onayla"
+  },
+  "settings_showPasswordCta": {
+    "message": "Göster"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Gizle"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Şifre en az 6 karakter olmalı."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Şifreler eşleşmiyor."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Hesap onaylandı"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "E-posta adresin doğrulandı ve giriş yaptın."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Giriş bağlantısı çalışmadı"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Bu giriş bağlantısı tamamlanamadı. Bağlantının süresi dolmuş veya daha önce kullanılmış olabilir. Tekrar dene ya da yeni bir e-posta iste.\n\nAyrıntılar: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Hesabı sil"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Tehlikeli işlemler"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "TEHLİKELİ İŞLEMLER – Hesap silme"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Kalıcı olarak silinecekler:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Hesap giriş bilgilerin ve profilin\nSenkronize edilmiş tüm kurallar, programlar ve ayarlar\nSenkronize edilmiş kullanım geçmişi ve diğer uygulama verileri"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Saklananlar:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Satın alma ve işlem kayıtları (vergi ve muhasebe için yasal olarak zorunlu)\nÇökme raporları ve tanılama verileri"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Hesabı silmek abonelikleri iptal etmez"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Hesabını kalıcı olarak silmeyi onaylamak için “$1” yaz"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "SİL"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Bu işlem geri alınamaz."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Kimlik doğrulanamadı"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Oturumun doğrulanamadı. Hesabını silmeden önce tekrar giriş yap."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Hesap silindi"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Hesabın kalıcı olarak silindi."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Hesap silinemedi (hata kodu: $1). Daha sonra tekrar dene; hata devam ederse relockin.com/support adresinden destek ekibine ulaş."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Dikkat dağıtıcıları kaldır, daha verimli ol"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Göster"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Ört"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Kaldır"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Hemen kaldırılabilir"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "5 sn sonra kaldırılabilir"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "10 sn sonra kaldırılabilir"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Kaldırılamaz"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Görevle kaldırılabilir"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Örtüyü kaldırma"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Varsayılan"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Mobil"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Masaüstü"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Görünür"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Hafif bulanık"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Çok bulanık"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Siyah beyaz"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Siyah"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Shorts'u gizle"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Shorts sekmesini gizle"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Ana Sayfa sekmesini gizle"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Ana Sayfa'yı Abonelikler'e yönlendir"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Otomatik oynatmayı kapat"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Video önizlemelerini kapat"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Video olmayan gönderileri gizle"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Ana Sayfa akışından topluluk gönderilerini, anketleri ve fotoğraf paylaşımlarını kaldır."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Tüm reklamları atlanabilir yap"
+  },
+  "settings_ytBlockAds": {
+    "message": "Reklamları engelle"
+  },
+  "settings_ytHideEndCard": {
+    "message": "“Sıradaki” videoyu gizle"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Önerilen videolar"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Görüntüleme modu"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Küçük resim filtresi"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Reels sekmesini gizle"
+  },
+  "settings_hideHomeTab": {
+    "message": "Ana Sayfa sekmesini gizle"
+  },
+  "settings_igHomeFeed": {
+    "message": "Ana Sayfa akışı"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Varsayılan"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Instagram'ın normal akışı, önerilen gönderiler dahil."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Yalnızca Takip Edilenler"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Takip ettiğin hesapların son gönderileri, en yenisi önce."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Yalnızca Favoriler"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Yalnızca Favoriler listendeki hesapların gönderileri."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Varsayılan akışa dönüş bağlantısını gizle"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Old Reddit'i kullan"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Old Reddit'i mobil uyumlu yap"
+  },
+  "settings_redditVersion": {
+    "message": "Reddit sürümü"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen Modu"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Yenilenmiş old.reddit.com üzerine kurulu, daha hızlı ve sade bir Reddit deneyimi"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Standart"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Reddit'in varsayılan mobil arayüzü"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "NOT: Zen Modu'nu kullanmanı öneririz, yoksa Reddit seni kendi uygulamasını kullanmaya zorlamaya çalışabilir"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Akış stili"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Yalnızca başlıklar"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Yalnızca başlıklarla daha hızlı göz at. Paylaşımları açmak için dokun veya kaydır."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Küçük resimler"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Başlıklar ve her paylaşımın küçük bir önizleme resmi."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Genişletilmiş"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Görselleri, videoları ve metin paylaşımlarını doğrudan akışında göster."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Sonsuz akışlar sınırlansın mı?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Tüm akışları göster"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit her zamanki gibi çalışır."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Popüler ve All akışlarını gizle"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Popüler, All ve Toplulukları Keşfet gibi, takip etmediğin topluluk ve kişilerin paylaşımlarını gösteren akışları gizler. Ana sayfa akışın çalışmaya devam eder."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Tüm akışları gizle"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Ana sayfa akışını da gizler. Subreddit'leri ziyaret etmeye ve arama yapmaya devam edebilirsin."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Ana sayfa akışında yalnızca katıldığın subreddit'lerin paylaşımlarını göster"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Görselleri siyah beyaz yap"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Oy sayısını paylaşımların altına taşı"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Yorum seviyelerini renklendir"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Yorumlarda kaydırma hareketlerini aç"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Kısa sağa kaydırma"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Uzun sağa kaydırma"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Kısa sola kaydırma"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Uzun sola kaydırma"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Artı oy ver"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Eksi oy ver"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Daralt"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Yanıtla"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Kaydet"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Paylaşımlarda kaydırma hareketlerini aç"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Artı oy ver"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Eksi oy ver"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Gizle"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Paylaş"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Kaydet"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Yorumları aç"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Kaynağı aç"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Önizle"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Özel CSS'e izin verilen subreddit'ler"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Küçük ekranlarda okunaklı kalması için subreddit'lerin özel stilleri varsayılan olarak gizlenir."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "subreddit adı (ör. politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Kaldır: $1"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Henüz subreddit eklenmedi."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "“Sana özel” sekmesini gizle"
+  },
+  "settings_xHideAds": {
+    "message": "Reklamları gizle"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Gönderileri bağlantı derecesine göre filtrele"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Tümünü göster"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "3. derece gönderileri gizle"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "2. ve 3. derece gönderileri gizle"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Tanıtılan gönderileri gizle"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Akıştaki görsel ve videoları ört"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Fotoğrafları siyah beyaz yap"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Videoları siyah beyaz yap"
+  },
+  "settings_inBrowserNote": {
+    "message": "Reklamları kaldır, dikkat dağıtıcıları ayıkla, akışlarını filtrele. RelockIn tarayıcısında geçerlidir."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Ayarlar RelockIn tarayıcısındaki siteleri etkiler, **$1 uygulamasını değil.** Değişikliği akışında görmek için giriş yap."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Ayarlar RelockIn tarayıcısındaki siteleri etkiler, **$1 uygulamasını değil.** Değişikliği görmek için siteyi aç."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "$1 sitesinde gör"
+  },
+  "settings_generalSection": {
+    "message": "Genel"
+  },
+  "settings_showSessionTimer": {
+    "message": "Seans sayacını göster"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Bir sitenin kilidini açmadan önce bana kısa bir nefes aldır"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Nefes süresi (saniye)"
+  },
+  "settings_clearSection": {
+    "message": "Sıfırla"
+  },
+  "settings_ytAiContent": {
+    "message": "Yapay zekayla üretilmiş videolar"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Göster"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Diğer videolar gibi görünür"
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Etiketle"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Küçük resimlerine YZ etiketi eklenir"
+  },
+  "settings_ytAiContentCover": {
+    "message": "Ört"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Örtülür, istersen tek tek gösterebilirsin"
+  },
+  "settings_ytAiContentHide": {
+    "message": "Gizle"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Akışlardan, aramalardan ve önerilerden kaldırılır"
+  },
+  "settings_ytAiVotes": {
+    "message": "YZ oyların"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "YZ"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "YZ değil"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Henüz yok"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Kaldır: $1"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Engellenen kanallar"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Bu kanalların videoları YouTube'un her yerinde gizlenir. Bir videonun altındaki veya kanal sayfasındaki “Kanalı engelle” düğmesini kullan."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts ve reklamlar"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Kaydırma hareketleri"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Ana Sayfa ve akış"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "YZ ve kanallar"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Sıradaki"
+  },
+  "settings_sectionTabs": {
+    "message": "Sekmeler"
+  },
+  "settings_sectionFeed": {
+    "message": "Akış"
+  },
+  "settings_sectionFeeds": {
+    "message": "Akışlar"
+  },
+  "settings_sectionAppearance": {
+    "message": "Görünüm"
+  },
+  "settings_sectionOther": {
+    "message": "Diğer"
+  },
+  "support_titleHelp": {
+    "message": "Yardım al"
+  },
+  "support_titleFeedback": {
+    "message": "Geri bildirim gönder"
+  },
+  "support_titleReportProblem": {
+    "message": "Sorun bildir"
+  },
+  "support_sentimentTitle": {
+    "message": "Ne tür bir geri bildirimin var?"
+  },
+  "support_sentimentPositive": {
+    "message": "Sevdiğim bir şey"
+  },
+  "support_sentimentNegative": {
+    "message": "Geliştirilmesi gereken bir şey"
+  },
+  "support_reviewTitle": {
+    "message": "Bunu duymak harika!"
+  },
+  "support_reviewBody": {
+    "message": "Kısa bir değerlendirme yazabilir misin? Başkalarının RelockIn'i bulmasına yardımcı olur.\n\nKüçük ekibimiz için çok değerli."
+  },
+  "support_reviewCta": {
+    "message": "Değerlendirme yaz"
+  },
+  "support_personalNoteTitle": {
+    "message": "Geliştiriciden bir not"
+  },
+  "support_personalNoteBody": {
+    "message": "RelockIn'i kullandığın için teşekkürler. Her mesajı kendim okuyorum ve en kısa sürede yanıt vereceğim."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Teşekkürler! Geri bildirimin veya önerin var mı?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Bunu duyduğumuza üzüldük. Neyin çalışmadığını anlat, inceleyelim."
+  },
+  "support_messageLabel": {
+    "message": "Mesajın"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Sana nasıl yardımcı olabiliriz?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Aklında ne var?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Bu sitede ne ters gidiyor?"
+  },
+  "support_siteLabel": {
+    "message": "Site"
+  },
+  "support_emailLabel": {
+    "message": "E-posta adresin"
+  },
+  "support_emailPlaceholder": {
+    "message": "sen@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Geçerli bir e-posta adresi gir."
+  },
+  "support_sendCta": {
+    "message": "Gönder"
+  },
+  "support_sendError": {
+    "message": "Mesajın gönderilemedi. Bağlantını kontrol edip tekrar dene."
+  },
+  "support_sentTitle": {
+    "message": "Mesaj gönderildi"
+  },
+  "support_sentBodyFormat": {
+    "message": "Teşekkürler! En kısa sürede $1 adresine yanıt vereceğiz."
+  },
+  "support_sendAnotherCta": {
+    "message": "Başka bir mesaj gönder"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Yardım mı lazım?"
+  },
+  "support_accountFooterCta": {
+    "message": "Destekle iletişime geç"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Mesajın doğrudan geliştiriciye gider"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Tanılama kayıtları"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Tanılama kayıtları"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Henüz kayıt yok."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Hata ayıklama kaydı"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Bu kayıtlar yalnızca bu cihazda saklanır. Hiçbir zaman otomatik olarak yüklenmez veya paylaşılmaz. Bir sorun bildirirken geliştiriciye göndermek için paylaş düğmesini kullan."
+  },
+  "target_domainType": {
+    "message": "Tüm site"
+  },
+  "target_urlPatternType": {
+    "message": "URL eşleşmesi"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Bir sitenin tüm sayfalarını kilitler. Yalnızca site adını yaz (ör. reddit.com) – alt alan adları ve URL yolları fark etmez."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Bu metni içeren tüm URL'leri kilitler. Aradaki her şey için joker karakter olarak * kullan.\n\nÖrneğin:\n- youtube.com/shorts normal videolara dokunmadan YouTube Shorts'u kilitler\n- reddit.com/r/politics yalnızca o subreddit'i kilitler\n- x.com/*/status/* profil sayfaları gibi X'in geri kalanını kilitlemeden tek tek tweet'leri kilitler"
+  },
+  "target_scopeNote": {
+    "message": "Kilitlerin RelockIn tarayıcısında geçerlidir, Safari gibi diğer tarayıcılarda geçerli değildir. Süreli kilit açma için seans başlatabilirsin."
+  },
+  "target_emptyPattern": {
+    "message": "(boş)"
+  },
+  "target_addTargetTitle": {
+    "message": "Web sitesi kilitle"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Neyi kilitlemek istiyorsun?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Siteyi kaldır"
+  },
+  "target_editTargetTitle": {
+    "message": "Öğeyi düzenle"
+  },
+  "target_editingLabel": {
+    "message": "Düzenleniyor"
+  },
+  "target_typePickerLabel": {
+    "message": "Tür"
+  },
+  "typingSentences_short1": {
+    "message": "Bunu tamamen bilinçli olarak seçiyorum."
+  },
+  "typingSentences_short2": {
+    "message": "Bu kararın sorumluluğunu kabul ediyorum."
+  },
+  "typingSentences_short3": {
+    "message": "Bu seçimi şu anda üstleniyorum."
+  },
+  "typingSentences_short4": {
+    "message": "Bu kararı isteyerek veriyorum."
+  },
+  "typingSentences_short5": {
+    "message": "Bu seçimi farkındalıkla yapıyorum."
+  },
+  "typingSentences_long1": {
+    "message": "Kendi zamanımı ve odağımı korumak için koyduğum sınırları aştığımın tamamen farkındayım ve bu seçimin getirdiği sorumluluğu kabul ediyorum."
+  },
+  "typingSentences_long2": {
+    "message": "Biz tekrar tekrar yaptığımız şeyleriz. Öyleyse mükemmellik bir eylem değil, bir alışkanlıktır. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Seçimlerin alışkanlıklarına dönüşür. Alışkanlıkların karakterine dönüşür. Karakterin de kaderine dönüşür."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrolling ya da doomsurfing, internette ve sosyal medyada aşırı uzun süre kısa video izlemek ya da çok miktarda kullanıcı içeriği veya haber, özellikle de olumsuz haber tüketmektir. Anketler ve araştırmalar, doomscrolling'in gençler arasında yaygın olduğunu gösteriyor. 2019'da ABD Ulusal Bilimler Akademisi'nin bir çalışması, doomscrolling'in ruh ve beden sağlığındaki bozulmayla ilişkili olabileceğini ortaya koydu."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Sonsuz kaydırma, kullanıcı aşağı kaydırdıkça içeriği sürekli yükleyen ve böylece sayfalara bölme ihtiyacını ortadan kaldıran bir tasarım yaklaşımıdır. Bu nedenle bu özellik, kullanıcının durabileceği doğal noktaları ortadan kaldırarak doomscrolling'i kötüleştirebilir. Araştırmalar, sosyal medya platformlarının olumsuz içeriği öne çıkarma eğiliminin bu sürekli kaydırma davranışını ağırlaştırabileceğini ve kullanıcıların olumsuz haberlerle daha uzun süre meşgul kalmasına yol açtığını da göstermiştir."
+  },
+  "typingSentences_paragraph3": {
+    "message": "Çoğu sosyal medya platformunun iş modeli büyük ölçüde kullanıcı etkileşimine dayanır; yani insanlar platformda ne kadar uzun kalırsa o kadar çok reklam görür ve davranışları hakkında o kadar çok veri toplanır. Bu da duygusal açıdan yüklü içeriklerin - çoğu zaman olumsuz ya da kaygı verici bilgilerin - kullanıcılara tekrar tekrar sunulduğu ve onları kaydırmaya, daha fazla içerik tüketmeye teşvik eden bir döngü yaratır."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Anında eğlence, bilgi ve bağlantı, sosyal medyayı cazip kılar. Sosyal medya bağımlılığı, günlük işleyişi ve genel iyi oluşu etkileyen aşırı ve kompulsif kullanımla belirginleşir. Bu, yalnızca internette aşırı zaman geçirmekten ibaret değildir; güncellemeleri kompulsif biçimde kontrol etmeyi, çevrimdışıyken kaygı duymayı ve gerçek hayattaki ilişkilerin ve sorumlulukların olumsuz etkilenmesini de kapsar."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Kısa video algoritmaları son derece bağımlılık yapar, çünkü seçimlerini ve niyetini denklemin dışında bırakırlar. Sırada ne olacağına karar verme zahmetini ortadan kaldıran uygulamalar, bilinçli karar vermenin yerine otomatik pilotta, kesintisiz ve pasif bir akış hali koyar. Bu akış halinde devam etmek inanılmaz kolay ve keyiflidir, bırakmak ise inanılmaz zordur."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Sosyal medya, bağımlılık yapacak şekilde tasarlanmıştır. Teknoloji şirketleri bu uygulamaları, beynin ödül merkezini harekete geçirip dikkatini yakalayacak biçimde tasarlar. Dopaminle beslenen onay, öngörülemeyen ödüller ve psikolojik kancaların birleşimi, telefonu elinden bırakmayı inanılmaz zorlaştırır. Bu tasarım taktiklerini fark etmek, dijital alışkanlıkların üzerinde yeniden kontrol kurmanın ve teknolojiyle daha sağlıklı bir ilişki geliştirmenin ilk adımıdır."
+  },
+  "usage_title": {
+    "message": "Kullanım"
+  },
+  "usage_subtitle": {
+    "message": "Kurallar ve seanslar genelinde ekran süreni takip et."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Kullanım verisi yok"
+  },
+  "usage_noUsageBody": {
+    "message": "Seans başlattıkça kullanımın burada görünür."
+  },
+  "usage_today": {
+    "message": "Bugün"
+  },
+  "usage_thisWeek": {
+    "message": "Bu hafta"
+  },
+  "usage_thisMonth": {
+    "message": "Bu ay"
+  },
+  "usage_yesterday": {
+    "message": "Dün"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Henüz kural tanımlanmadı."
+  },
+  "usage_daily": {
+    "message": "Günlük"
+  },
+  "usage_weekly": {
+    "message": "Haftalık"
+  },
+  "usage_monthly": {
+    "message": "Aylık"
+  },
+  "usage_previousPeriod": {
+    "message": "Önceki dönem"
+  },
+  "usage_nextPeriod": {
+    "message": "Sonraki dönem"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Dönem"
+  },
+  "usage_unknownRule": {
+    "message": "Bilinmeyen kural"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 / $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

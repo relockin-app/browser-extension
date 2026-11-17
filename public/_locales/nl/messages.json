@@ -1,0 +1,2843 @@
+{
+  "about_tagline": {
+    "message": "Zet afleiding buitenspel. Zet jezelf op scherp."
+  },
+  "about_welcome": {
+    "message": "Welkom bij RelockIn!"
+  },
+  "about_sentence": {
+    "message": "RelockIn is de browser die afleiding uitschakelt. In het Focuscentrum stel je eenvoudig regels en schema’s in om je gebruik van afleidende apps en websites te beperken. Het idee is simpel: wat als je elke minuut op je telefoon bewust zou besteden?\n\nDaarnaast heeft RelockIn een volledig aanpasbare mobiele browser die je privacy respecteert. RelockIn houdt nooit je zoekopdrachten bij en deelt je gegevens met niemand. RelockIn is de enige focusapp met een volledig geïntegreerde browser. Daardoor is het ook de enige app waarmee je websites kunt aanpassen en afleidende onderdelen zoals Reels en Shorts kunt verwijderen. Zo heb je nog meer grip."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn voor Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn – AI-slop, Shorts, Reels & websites blokkeren | Schermtijd"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn – AI-slop, Shorts & websites blokkeren"
+  },
+  "about_extensionDescription": {
+    "message": "Blokkeer AI-video’s, Shorts, Reels en eindeloze feeds. Plus tijdslimieten en schema’s voor elke website."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "deze regel verwijderen"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "‘$1’ uit de regel verwijderen"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "je daglimiet verhogen"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "je pauze overslaan"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "je schema omzeilen"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "je daglimiet omzeilen"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "dit schema verwijderen"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "dit schema versoepelen"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "andere apps of websites uit je blokkeerlijst verwijderen"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "deze bescherming versoepelen"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "de opdracht ‘$1’ makkelijker maken"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "de opdracht ‘$1’ verwijderen"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "geen opdracht meer vereisen om de bescherming te versoepelen"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Als mijn daglimiet op is en ik meer tijd nodig heb…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Tot 2 min"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 min"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Meer dan 10 min"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Als ik de blokkering van mijn schema wil omzeilen…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Als ik wil doorgaan terwijl het tijd is voor een pauze…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Als je te veel sessies direct achter elkaar start, vragen we je een pauze te nemen. Hoe lang die pauze duurt, stel je in bij ‘Pauzes tussen sessies’."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 sessie direct na een andere"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 sessies direct achter elkaar"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ sessies direct achter elkaar"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Als ik mijn schermtijdregels versoepel…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "App uit regel verwijderen"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Website uit regel verwijderen"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Regel verwijderen"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Daglimiet verhogen"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Als ik een schema versoepel…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Als het schema niet blokkeert"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Als het schema blokkeert"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Typ de zin over om door te gaan"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Typ de alinea over om door te gaan"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Alinea:\n‘$1’"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Wacht tot de timer afloopt"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Je kunt pas verder als de timer is afgelopen."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Timer afgelopen – je kunt verder."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Wil je dit echt doen?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Wil je echt $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Wil je hier extra bescherming? Stel op het tabblad Bescherming een gezonde drempel in die je doelen bewaakt."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Ja, doorgaan"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Niet mogelijk: $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Dat kan niet"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Door je bescherming is dit onmogelijk. Geen enkele opdracht kan dit vrijgeven."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Ik moet dit echt doen"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Je kunt je beschermingsinstellingen wijzigen op het tabblad Bescherming."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Naar Bescherming"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Zin:\n‘$1’"
+  },
+  "challengeUi_confirm": {
+    "message": "Bevestigen"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Dat klopt nog niet. Controleer spelling en leestekens."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Voltooid."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Typ de zin precies zo over."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Ga zo door…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Klaar!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Er klopt iets niet. Vergelijk goed: je hebt een typfout gemaakt."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Los alle sommen op om door te gaan"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Vul je antwoorden in en tik op ‘Bevestigen’."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Alles goed!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Sommige antwoorden zijn fout. Controleer de gemarkeerde velden."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Antwoord op som $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Je vertrouwenspersoon krijgt een melding"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "We sturen je vertrouwenspersoon een e-mail dat je ervoor hebt gekozen je grenzen te omzeilen. Die melding helpt je om je aan je doelen te houden."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Melding sturen en doorgaan"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Dit lukt me niet"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Wacht in plaats daarvan $1 minuten"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "nl"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Wacht in plaats daarvan $1 minuut"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Geen"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Makkelijk"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Gemiddeld"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Moeilijk"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Extra moeilijk"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Extreem"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Onmogelijk"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Alleen bevestiging"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Standaard: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Opslaan mislukt"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Nog $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Invoer voor opdracht"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Opdrachten aanpassen"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Bepaal welke stappen de opdrachten Makkelijk, Gemiddeld en Moeilijk bevatten, of maak er zelf een"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Wanneer ik een opdracht krijg"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Bepaal hoe moeilijk het is om een schermtijdregel te verwijderen, extra tijd te krijgen en meer"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Ingebouwd"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Eigen"
+  },
+  "challenges_newChallenge": {
+    "message": "Nieuw"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Nog geen eigen opdrachten. Tik op + om er een te maken."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Naam (bijv. ‘Keihard’)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Nieuwe opdracht"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Geef deze opdracht een unieke naam."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Kies wat elke opdracht van je vraagt, of maak er zelf een."
+  },
+  "challenges_savedBadge": {
+    "message": "Opgeslagen"
+  },
+  "challenges_noSteps": {
+    "message": "Geen stappen – voeg er minstens één toe om op te slaan."
+  },
+  "challenges_addStep": {
+    "message": "Stap toevoegen"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Moeilijkheid"
+  },
+  "challenges_problemsLabel": {
+    "message": "Sommen"
+  },
+  "challenges_operationsLabel": {
+    "message": "Bewerkingen"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Korte zin overtypen"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Lange zin overtypen"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Alinea overtypen"
+  },
+  "challenges_stepNameMath": {
+    "message": "Sommen maken"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "Vertrouwenspersoon mailen"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Timer afwachten"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Duur: $1 min $2 sec"
+  },
+  "challenges_stepCount": {
+    "message": "$1 stappen"
+  },
+  "challenges_stepCount__lang": {
+    "message": "nl"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 stap"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Opdrachten voor deze regel"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Geldt alleen voor ‘$1’."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Opdrachten voor alle regels wijzigen of hun stappen aanpassen:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Naar tabblad Bescherming"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Geef me een opdracht voordat ik de bescherming versoepel"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Wil je een opdracht makkelijker maken, dan moet je eerst de stappen doen die je verwijdert."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Je kunt je bescherming nog $1 minuten vrij aanpassen. Daarna heb je een opdracht nodig om die te versoepelen."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "nl"
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Je kunt je bescherming nog $1 minuut vrij aanpassen. Daarna heb je een opdracht nodig om die te versoepelen."
+  },
+  "common_save": {
+    "message": "Opslaan"
+  },
+  "common_cancel": {
+    "message": "Annuleren"
+  },
+  "common_done": {
+    "message": "Klaar"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Bewerken"
+  },
+  "common_delete": {
+    "message": "Verwijderen"
+  },
+  "common_defaultOption": {
+    "message": "Standaard"
+  },
+  "common_back": {
+    "message": "Terug"
+  },
+  "common_skip": {
+    "message": "Overslaan"
+  },
+  "common_next": {
+    "message": "Volgende"
+  },
+  "common_gotIt": {
+    "message": "Begrepen"
+  },
+  "common_none": {
+    "message": "Geen"
+  },
+  "common_yes": {
+    "message": "Ja"
+  },
+  "common_no": {
+    "message": "Nee"
+  },
+  "common_start": {
+    "message": "Starten"
+  },
+  "common_loading": {
+    "message": "Laden…"
+  },
+  "common_error": {
+    "message": "Fout"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Sluiten"
+  },
+  "common_continue": {
+    "message": "Doorgaan"
+  },
+  "common_dismiss": {
+    "message": "Sluiten"
+  },
+  "common_notNow": {
+    "message": "Niet nu"
+  },
+  "common_noThanks": {
+    "message": "Nee, bedankt"
+  },
+  "common_maybeLater": {
+    "message": "Misschien later"
+  },
+  "common_add": {
+    "message": "Toevoegen"
+  },
+  "common_create": {
+    "message": "Maken"
+  },
+  "common_startSetup": {
+    "message": "Beginnen met instellen"
+  },
+  "common_continueSetup": {
+    "message": "Verder met instellen"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Ga verder waar je gebleven was"
+  },
+  "common_setItUp": {
+    "message": "Instellen"
+  },
+  "common_howItWorks": {
+    "message": "Zo werkt het"
+  },
+  "common_getStarted": {
+    "message": "Aan de slag"
+  },
+  "common_signIn": {
+    "message": "Inloggen"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 min"
+  },
+  "common_hoursCount": {
+    "message": "$1 uur"
+  },
+  "common_hoursCount__lang": {
+    "message": "nl"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 uur"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Stap $1 van $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "We hebben $1 Shorts uit je feed verwijderd"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "nl"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "We hebben $1 Short uit je feed verwijderd"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Sluiten"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Afgedekt door RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Tonen"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Tonen niet mogelijk"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Tonen ($1 s)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Log in om dit te doen."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Inloggen"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Sluiten"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit probeerde je net naar de eigen app te dwingen."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Gaat er iets mis? Laad de pagina opnieuw of schakel over naar de Zen-modus."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Sluiten"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Deze feed is verborgen"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Je hebt ervoor gekozen de Reddit-feeds ‘Populair’ en ‘Alle’ te verbergen."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Je hebt ervoor gekozen je Reddit-feeds te verbergen."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Je subreddits"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Je kunt dit wijzigen in de instellingen van RelockIn."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Je bent helemaal bij"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Dat is alles wat er nieuw is in de subreddits waar je lid van bent."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Kijken of er meer is"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Afspelen"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Pauzeren"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Advertentie overslaan"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Afspeelsnelheid"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Volume"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "upvoten"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "downvoten"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "stem intrekken"
+  },
+  "domShared_redditActionSave": {
+    "message": "opslaan"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "niet meer opslaan"
+  },
+  "domShared_redditActionHide": {
+    "message": "verbergen"
+  },
+  "domShared_redditActionShare": {
+    "message": "delen"
+  },
+  "domShared_redditActionComments": {
+    "message": "reacties"
+  },
+  "domShared_redditActionExpand": {
+    "message": "uitvouwen"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "samenvouwen"
+  },
+  "domShared_redditActionReply": {
+    "message": "reageren"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "meer opties"
+  },
+  "domShared_redditActionScore": {
+    "message": "score"
+  },
+  "domShared_redditActionSource": {
+    "message": "Bron"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Voorbeeld"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Opslaan"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Niet meer opslaan"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Verbergen"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Zichtbaar maken"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Delen"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Melden"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Bovenliggende reactie"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Permalink"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Insluiten"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Crossposten"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Link naar reactie kopiëren"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Link naar post kopiëren"
+  },
+  "domShared_redditAgeNow": {
+    "message": "nu"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1m"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1u"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1d"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1mnd"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1j"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Instagram-verhalen"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "We hebben deze post van een onbekende verborgen."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "We hebben deze video verborgen."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "We hebben deze advertentie verborgen."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Van: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Deze post is van een connectie van de 3e graad"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Deze post is niet van een connectie van de 1e graad"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "We hebben de post afgedekt om je focus te beschermen."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "We hebben deze advertentie verborgen om je focus te beschermen"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Tik of klik om te tonen"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Afbeelding afgedekt om je focus te beschermen"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Tik of klik om te tonen."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Video afgedekt om je focus te beschermen."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Aanbevolen video’s"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Afspeelsnelheid: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Volume: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "10 seconden terug"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "10 seconden vooruit"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "doe iets beters."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Door AI gemaakte video"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Je hebt op ‘AI’ gestemd voor dit kanaal"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Toch tonen"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Toch bekijken"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Geen AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Mogelijk AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Vermoedelijk AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Zeer waarschijnlijk AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Verdeeld"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Beoordeeld door RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Waarschijnlijk door AI gemaakt"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Zeer waarschijnlijk door AI gemaakt"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Op basis van stemmen van RelockIn-gebruikers"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Maakt dit kanaal AI-video’s?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Wat telt als AI?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Je stem bepaalt voorlopig alleen wat jij ziet. Log in bij RelockIn om hem met de community te delen."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Inloggen"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Sluiten"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Stem ‘AI’ als de meeste video’s van het kanaal dit bevatten:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Een door AI geschreven script"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Een AI-stem"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Door AI gemaakte beelden of video’s"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "AI-muziek"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Telt niet als AI:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Video’s over AI, zoals reviews van AI-tools"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Kleine AI-ingrepen, zoals opgeschoond geluid"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Je stem geldt meteen voor jou en helpt andere RelockIn-gebruikers."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Klopt het label niet? Dien bezwaar in"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Meer opties"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Kanaal blokkeren"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Geblokkeerd"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Kanaal deblokkeren"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Je hebt dit kanaal geblokkeerd"
+  },
+  "limits_title": {
+    "message": "Regels en sessies"
+  },
+  "limits_subtitle": {
+    "message": "Start sessies en beheer je schermtijdregels."
+  },
+  "limits_addRule": {
+    "message": "+ Regel toevoegen"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Schermtijdregels"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Bescherm je tijd met daglimieten en sessies"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Nog geen regels. Voeg er een toe om daglimieten in te stellen."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Social media"
+  },
+  "main_backToBrowser": {
+    "message": "Terug naar browser"
+  },
+  "main_openFullPage": {
+    "message": "Als volledige pagina openen"
+  },
+  "main_tabLimits": {
+    "message": "Regels"
+  },
+  "main_tabSettings": {
+    "message": "Websites"
+  },
+  "main_protectionTitle": {
+    "message": "Bescherming"
+  },
+  "main_protectionSubtitle": {
+    "message": "Bouw gezonde drempels in tegen impulsieve beslissingen"
+  },
+  "main_tabAccount": {
+    "message": "Account"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Daggemiddelde"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "gem."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Klik op het **puzzelstukje** in je werkbalk"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Zoek **RelockIn** en klik op het **punaise**-icoon"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Je schermtijdregels"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Klik op een regel om hem te bewerken. Elke regel heeft een eigen daglimiet."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Welkom bij **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Duurt ongeveer een minuut"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Niet echt"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Genoeg van AI-slop op YouTube?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Afgeraffelde AI-video’s duiken overal op, van je feed tot je zoekresultaten."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Wil je minder tijd kwijt zijn aan scrollen?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Zonder dat je alleen op wilskracht hoeft te vertrouwen."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AI-content"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Herken AI-video’s **voordat** je klikt."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "We kunnen AI-content in je feed afdekken, verbergen of labelen."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Optioneel"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Help AI-content te **markeren**."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Onze community markeert AI-content. Als je een account maakt, helpen je stemmen anderen om AI te herkennen en te blokkeren."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Ingelogd"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Je stemmen helpen anderen nu om AI te herkennen en te blokkeren."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Doorgaan met e-mail"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Korte video’s"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Laat Shorts en Reels **verdwijnen**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Weg met Shorts op YouTube en Reels op Instagram. De rest houd je gewoon."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Shorts en Reels verbergen"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Optioneel: daglimieten"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Scroll **bewust**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Welke websites krijgen een limiet?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Je kunt er later meer toevoegen."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Kies een website om de regel hier te zien"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Snel bereikbaar"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Vastgezet. Top."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn voor iPhone en Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Neem het mee op je **telefoon**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "Met de RelockIn-app pas je YouTube, Instagram en meer aan: weg met AI en afleiding zoals Shorts en Reels.\n\nDe app kan ook afleidende apps vergrendelen, zodat jij weer bepaalt waar je tijd heen gaat."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Scan met de camera van je telefoon"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Alles staat klaar."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Bekijk het op YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Rond het instellen af"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Je stelt RelockIn in via een apart tabblad. Dat duurt ongeveer een minuut."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Verder met instellen"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Weg met AI-slop, Shorts en eindeloze feeds op de websites die je het meest gebruikt."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Waarom een account?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Zonder account markeren je stemmen AI-kanalen alleen voor jou en helpen ze verder niemand. Met een account kunnen we op je stemmen vertrouwen en helpen ze AI-content te markeren voor de hele community. Anderen kunnen niet zien hoe je hebt gestemd.\n\nJe account werkt ook in RelockIn voor iPhone en Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Transparantie vinden we belangrijk. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Onze code is openbaar"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Websites aanpassen"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**40+ manieren** om websites minder verslavend te maken."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn kan YouTube, Instagram, Reddit, X en LinkedIn aanpassen. Probeer er hier een paar; de rest vind je in de instellingen."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Daglimiet voor $1"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Houd RelockIn **binnen handbereik**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Zet de extensie vast, dan pas je elke instelling snel aan."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Instellen afsluiten"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Nog geen daglimieten"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Kies de websites waar je tijd aan verliest en geef elk een daglimiet. Duurt ongeveer 30 seconden."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Daglimieten instellen"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Alleen posts van accounts die je volgt in je feed"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "r/popular en r/all uitschakelen"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI-video’s"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts & Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Aanpassingen"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Daglimieten"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Stemmen over AI"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Verborgen"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Zichtbaar"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Uit"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Afgedekt"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Gelabeld"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Voor de hele community"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Alleen voor jou"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 aan"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "nl"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "$1 aan"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 websites"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "nl"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 website"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Wil je dat social media minder verslavend zijn?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Minder afleiding, zonder de leuke dingen op te geven."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Je bent hier aan het juiste adres."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Begrepen. We laten je zien hoe alles werkt."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Je kunt voor elke website een daglimiet instellen.\n\nRelockIn helpt je te stoppen met scrollen op de automatische piloot."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Kies hoeveel tijd je nodig hebt"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Gebruik de website"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Tijd om? Dan wordt hij weer vergrendeld"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Daglimieten proberen"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Alles vind je **hier**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Open dit paneel wanneer je wilt via het RelockIn-icoon in je werkbalk."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Hoeveel tijd wil je aan $1 besteden?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Je sessie op $1 is voorbij."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "min/dag"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 minuten minder"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 minuten meer"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Schermtijd"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Pas alles aan via het RelockIn-icoon in je werkbalk."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Pas alles aan via RelockIn in het extensiemenu van je browser."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Is dit nu de beste besteding van je tijd?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "haal diep adem"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Of, als je echt verder moet naar $1, kun je een sessie starten voor de regel ‘$2’"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Vandaag nog $1 min $2 s"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Zet RelockIn ook op je telefoon"
+  },
+  "overlay_closeTab": {
+    "message": "Dit tabblad sluiten"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "vandaag nog over"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "vandaag gebruikt"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "nieuwe limiet om"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Of, als je echt verder moet, kun je een sessie starten voor de regel ‘$1’"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "‘$1’"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Huidige regel: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "RelockIn openen"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Meer opties"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "daggebruik"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR-code om RelockIn te downloaden"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Download de **RelockIn**-app"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Verwijder Shorts, Reels en AI-video’s"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Stel daglimieten in voor elke app en website"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Bescherm je slaap en focus"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Deze extensie werkt beperkt op je telefoon"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Met de RelockIn-app beperk je elke app en verwijder je alle afleiding en AI-video’s."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Werkt niet in de YouTube- of Instagram-app"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Slechts één daglimiet en één schema"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Kan AI-video’s labelen, maar niet verbergen"
+  },
+  "phoneWebext_getApp": {
+    "message": "App downloaden"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Doorgaan in de browser"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Of hier doorgaan (beperkt)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Met de RelockIn-app maak je zoveel schermtijdregels als je wilt:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Met de RelockIn-app maak je zoveel schema’s als je wilt:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Probeer de **RelockIn-app** voor toegang tot alle instellingen"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Onderdeel van RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "In de gratis versie hebben deze websites samen één daglimiet."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Rem impulsieve acties af"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Bouw bewust drempels in voor acties als een daglimiet omzeilen of regels verwijderen.\nDuurt ongeveer een minuut."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Bescherming instellen"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Pauzes tussen sessies"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Neem een pauze na te veel sessies direct achter elkaar"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Stel eerst je regels in"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Rond het instellen van regels af op het tabblad ‘Regels’ voordat je bescherming toevoegt."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Even stilstaan bij impulsieve beslissingen"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Voor acties als een daglimiet omzeilen of regels verwijderen kan RelockIn eerst een korte opdracht vragen, zodat je zeker weet dat je het echt wilt."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Jij houdt altijd de touwtjes in handen."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Zelf uitproberen"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Tik op een kaart om de opdracht zelf te proberen."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Een daglimiet een klein beetje omzeilen"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Typ een korte zin"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Een app uit je blokkeerlijst verwijderen"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Los een paar rekensommen op"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Een schema versoepelen"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Typ een langere zin"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Hoe streng moet je bescherming zijn?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Je kunt dit altijd wijzigen."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Licht"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Kleine herinneringen vóór impulsieve acties."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Gebalanceerd"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Extra drempels tegen veelvoorkomende uitglijders."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Streng"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Stevige drempels om slechte gewoontes te doorbreken."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Aanbevolen"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "‘$1’ gebruiken"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Pauzes tussen sessies"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "We kunnen je een pauze laten nemen als je te veel sessies direct achter elkaar start."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Als ik 2+ sessies direct achter elkaar start (met minder dan"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "ertussen),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "pauzeer me dan"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Voorbeeld"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  Je start een sessie van 5 minuten voor Sociale media."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  Je start nog een sessie van 5 minuten"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  We laten je een pauze nemen voordat je een derde sessie kunt starten"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 seconden"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 minuut"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 minuten"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 minuten"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 minuten"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 minuten"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Je bescherming staat aan"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Je kunt altijd aanpassen:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Wanneer je een opdracht krijgt"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Wat elke opdracht van je vraagt"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Opdrachten voor specifieke regels"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Terug naar de app"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Geen apps geblokkeerd"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Regelnaam"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Kennismaking"
+  },
+  "rule_deleteRule": {
+    "message": "Regel verwijderen"
+  },
+  "rule_editRule": {
+    "message": "Regel bewerken"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Geblokkeerde apps"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Geblokkeerde apps wijzigen"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Geblokkeerde websites in de RelockIn-browser"
+  },
+  "rule_noTargets": {
+    "message": "Nog geen websites geblokkeerd."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Regelinstellingen"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Daglimiet in minuten"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Minuten"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Daglimiet met $1 minuten verlagen"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "nl"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Daglimiet met $1 minuut verlagen"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Daglimiet met $1 minuten verhogen"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "nl"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Daglimiet met $1 minuut verhogen"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Bescherming aanpassen"
+  },
+  "rule_targetsSection": {
+    "message": "Websites"
+  },
+  "rule_defaultRuleName": {
+    "message": "Nieuwe regel"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Sessie actief"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Vergrendeld"
+  },
+  "rule_appCount": {
+    "message": "$1 apps"
+  },
+  "rule_appCount__lang": {
+    "message": "nl"
+  },
+  "rule_appCount__one": {
+    "message": "$1 app"
+  },
+  "rule_siteCount": {
+    "message": "$1 websites"
+  },
+  "rule_siteCount__lang": {
+    "message": "nl"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 website"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Schemanaam"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Niet opgeslagen"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "TIJDVAK"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Start"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Einde"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "ACTIEVE DAGEN"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Elke dag"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Geen dagen"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Werkdagen"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Weekend"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "Z"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "M"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "D"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "W"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "D"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "V"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "Z"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "zo"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "ma"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "di"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "wo"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "do"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "vr"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "za"
+  },
+  "scheduleCard_modeSection": {
+    "message": "MODUS"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Blokkeren tijdens"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Alleen toestaan tijdens"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Je kunt in dit tijdvak geen sessies starten."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Je kunt *alleen* in dit tijdvak sessies starten. De rest van de dag kun je deze apps niet ontgrendelen."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Ontgrendelen kan"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Ontgrendelen kan niet"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "GELDT VOOR REGELS"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Nog geen regels gemaakt."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Automatisch toepassen op nieuwe regels"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Wijzigingen opslaan"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Dit schema verwijderen?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Schema verwijderen"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Schema"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Schema bewerken"
+  },
+  "schedules_title": {
+    "message": "Schema’s"
+  },
+  "schedules_subtitle": {
+    "message": "Bepaal wanneer je sessies mag starten."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Nog geen schema’s"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Voeg een schema toe om tijdsbeperkingen voor je regels in te stellen."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Schema toevoegen"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Bedtijd"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Stel eerst je schermtijdregels in"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Rond het instellen af op het tabblad ‘Regels’ voordat je schema’s maakt."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Je regels blokkeren apps en websites totdat je een sessie start. Schema’s voegen een tweede laag toe: ze beperken *wanneer* je die sessies kunt starten.\n\nBescherm je slaap-, studie- of focustijd, of plan bewust momenten voor een pauze in."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Start je gratis proefperiode om meer dan 1 schema te hebben"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Fout: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Schema toevoegen mislukt: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Bijwerken mislukt: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Verwijderen mislukt: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Gekoppelde regels bijwerken mislukt: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Ik wil even 5 minuten pauze om door Instagram te scrollen"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Je apps blijven vergrendeld tot je ze ontgrendelt"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Je gekozen sites blijven vergrendeld tot je ze ontgrendelt"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Maar op sommige momenten moeten ze vergrendeld blijven"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Maar op sommige momenten moeten ze vergrendeld blijven"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Schema’s halen de ontgrendelknop weg"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Zo blijven je apps vergrendeld tot het schema afloopt."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Zo blijven je sites vergrendeld tot het schema afloopt."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Balen! Dan maar naar bed."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Bescherm je nachtrust"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Kies de uren waarin je wilt slapen, niet scrollen."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Mijn nachtrust beschermen"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Je nachtrust is beschermd"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Van $1 tot $2 kun je niet ontgrendelen. Je kunt de dagen, tijden of regels altijd aanpassen."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Wil je ook je werk- of studietijd beschermen?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Je kunt altijd een schema toevoegen."
+  },
+  "session_sectionTitleActive": {
+    "message": "Sessie"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Sessie starten"
+  },
+  "session_endingSession": {
+    "message": "Sessie beëindigen…"
+  },
+  "session_startingSession": {
+    "message": "Sessie starten…"
+  },
+  "session_remainingInSession": {
+    "message": "over in deze sessie"
+  },
+  "session_endSession": {
+    "message": "Sessie beëindigen"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Schemabeperking actief"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Door je schema kun je ‘$1’ nu niet gebruiken"
+  },
+  "session_blockedBadge": {
+    "message": "GEBLOKKEERD"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Door je schema kun je nu geen sessies starten."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Schema omzeilen"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Blokkeert nu ook:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Er zijn meerdere beperkingen tegelijk actief. Omzeil je de strengste, dan kun je een sessie starten."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Schemabeperking"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Pauze tussen sessies"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Geblokkeerd door ‘$1’ tot $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Buiten de toegestane tijden. ‘$1’ begint om $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Buiten alle toegestane tijdvakken"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Toegestaan tot $2, dan blokkeert ‘$1’"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Toegestaan tot $2, dan eindigt ‘$1’"
+  },
+  "session_other": {
+    "message": "Anders"
+  },
+  "session_duration": {
+    "message": "Duur"
+  },
+  "session_startSession": {
+    "message": "Sessie starten"
+  },
+  "session_takeABreak": {
+    "message": "Neem een pauze."
+  },
+  "session_reopensInFormat": {
+    "message": "Nieuwe sessie over $1 s"
+  },
+  "session_reopensInLabel": {
+    "message": "Nieuwe sessie over"
+  },
+  "session_bypassBreak": {
+    "message": "Pauze overslaan"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Stop met doomscrollen."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Dat zijn al $1 sessies op rij. Stop met doomscrollen."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "nl"
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "Dat is al $1 sessie op rij. Stop met doomscrollen."
+  },
+  "session_overrideSizeLow": {
+    "message": "Tot 2 min"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Tot 10 min"
+  },
+  "session_overrideSizeHigh": {
+    "message": "Tot 60 min"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Hoeveel extra tijd heb je nodig?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Eerst een korte opdracht"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Eerst een gemiddelde opdracht"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Eerst een pittige opdracht"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Je bescherming staat geen extra tijd toe."
+  },
+  "session_dailyLimitReached": {
+    "message": "Daglimiet bereikt"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Je hebt vandaag $1 min gebruikt."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Maak een wandeling, pak dat klusje aan of bel even iemand."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Ik heb niets beters te doen"
+  },
+  "session_chooseLength": {
+    "message": "Sessieduur kiezen"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Ontgrendelen is altijd tijdelijk"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Tik op een duur om je sessie te starten. Als je tijd om is, vergrendelen we alles opnieuw."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Sessie starten: $1 min"
+  },
+  "settings_title": {
+    "message": "Websites aanpassen"
+  },
+  "settings_igComments": {
+    "message": "Instagram-reacties verbergen"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Behalve van accounts die je volgt"
+  },
+  "settings_igStories": {
+    "message": "Instagram-verhalen"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Posts van onbekenden in je feed afdekken"
+  },
+  "settings_igFeedVideos": {
+    "message": "Video’s in je feed verbergen"
+  },
+  "settings_igGuardAds": {
+    "message": "Advertenties verbergen"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Tabblad Ontdekken alleen voor zoeken"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Foto’s in grijstinten tonen"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Video’s in grijstinten tonen"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Ingelogd als"
+  },
+  "settings_accountSignOut": {
+    "message": "Uitloggen"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Inloggen met Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Log in om je gegevens op al je apparaten te synchroniseren. Heb je RelockIn Pro al gekocht? Dan herstel je je abonnement door in te loggen."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Abonnement"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Status"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Uitloggen?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Je gegevens worden niet meer tussen je apparaten gesynchroniseerd totdat je weer inlogt."
+  },
+  "settings_accountSignOutError": {
+    "message": "Uitloggen mislukt. Probeer het opnieuw."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Om in te loggen is je toestemming nodig. Al het andere werkt zonder account."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Als je doorgaat, ga je akkoord met onze $1. In ons $2 lees je hoe we je gegevens gebruiken."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Als je een account maakt, ga je akkoord met onze $1. In ons $2 lees je hoe we je gegevens gebruiken."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Gebruiksvoorwaarden"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Privacybeleid"
+  },
+  "settings_accountSourceCode": {
+    "message": "Broncode"
+  },
+  "settings_accountSignInError": {
+    "message": "Inloggen mislukt. Probeer het opnieuw."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "We kunnen geen Google-account op deze telefoon vinden om mee in te loggen. Open ‘Instellingen’ op je telefoon, ga naar ‘Wachtwoorden en accounts’ (op Samsung: ‘Accounts en back-up’) en controleer of daar een Google-account staat. Staat er al een, maar lukt inloggen nog steeds niet? Verwijder het account dan en voeg het opnieuw toe."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Inloggen met Google is niet goed ingesteld voor deze app. Neem contact op met de klantenservice."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Inloggen is onderbroken. Probeer het opnieuw."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Op dit apparaat kun je niet inloggen met Google. Werk Google Play-services bij of log in met e-mail."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Kan je inloggegevens van Google niet lezen. Probeer het opnieuw."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Kan de inlogserver niet bereiken. Controleer je verbinding en probeer het opnieuw."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Inloggen leverde onverwachte gegevens op. Probeer het opnieuw."
+  },
+  "settings_emailSignInCta": {
+    "message": "Inloggen met e-mail"
+  },
+  "settings_appleSignInCta": {
+    "message": "Inloggen met Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Inloggen"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Log in met je e-mailadres en wachtwoord."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Account maken"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Maak een account om op al je apparaten te synchroniseren."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Account maken"
+  },
+  "settings_emailResetTitle": {
+    "message": "Wachtwoord resetten"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Vul je e-mailadres in, dan sturen we je een link om je wachtwoord te resetten."
+  },
+  "settings_emailResetAction": {
+    "message": "Resetlink versturen"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-mailadres"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Wachtwoord"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Wachtwoord bevestigen"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Wachtwoord vergeten?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Nog geen account? Registreren"
+  },
+  "settings_switchToSignIn": {
+    "message": "Heb je al een account? Inloggen"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Controleer je e-mail"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "We hebben een bevestigingslink naar je e-mailadres gestuurd. Bevestig je adres voordat je inlogt."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Resetlink verstuurd"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Als er een account bij dit adres hoort, hebben we je een e-mail gestuurd met een link om je wachtwoord te resetten."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Je e-mailadres is nog niet bevestigd. Kijk in je inbox voor de bevestigingslink."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Te veel pogingen. Probeer het later opnieuw."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Wachtwoord is te zwak. Gebruik minstens 6 tekens."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Onjuist e-mailadres of wachtwoord. Heb je je net geregistreerd? Controleer dan of je je e-mailadres hebt bevestigd."
+  },
+  "settings_changePasswordCta": {
+    "message": "Wachtwoord wijzigen"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Nieuw wachtwoord instellen"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Kies een nieuw wachtwoord voor je account."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Nieuw wachtwoord"
+  },
+  "settings_newPasswordAction": {
+    "message": "Wachtwoord bijwerken"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Wachtwoord bijgewerkt"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Je wachtwoord is bijgewerkt. Je kunt nu inloggen met je nieuwe wachtwoord."
+  },
+  "settings_newPasswordError": {
+    "message": "Wachtwoord bijwerken mislukt. Probeer het opnieuw."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Vul alle velden in."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Registreren mislukt."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Vul je e-mailadres in."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Kan de resetmail niet versturen."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Wachtwoord bijgewerkt."
+  },
+  "settings_accountSigningOut": {
+    "message": "Uitloggen…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Inloggen…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "n.v.t."
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Gratis versie"
+  },
+  "settings_backToSignIn": {
+    "message": "Terug naar inloggen"
+  },
+  "settings_sending": {
+    "message": "Versturen…"
+  },
+  "settings_updating": {
+    "message": "Bijwerken…"
+  },
+  "settings_creatingAccount": {
+    "message": "Account maken…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Nieuw wachtwoord bevestigen"
+  },
+  "settings_showPasswordCta": {
+    "message": "Tonen"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Verbergen"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Wachtwoord moet minstens 6 tekens hebben."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Wachtwoorden komen niet overeen."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Account bevestigd"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Je e-mailadres is bevestigd en je bent nu ingelogd."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Inloglink werkt niet"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "We konden die inloglink niet verwerken. Misschien is hij verlopen of al gebruikt. Probeer het opnieuw of vraag een nieuwe e-mail aan.\n\nDetails: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Account verwijderen"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Risicovolle acties"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "RISICOVOLLE ACTIES – Account verwijderen"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Wat definitief wordt verwijderd:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Je inloggegevens en profiel\nAlle gesynchroniseerde regels, schema’s en instellingen\nAlle gesynchroniseerde gebruiksgeschiedenis en overige appgegevens"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Wat we bewaren:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Aankoop- en transactiegegevens (wettelijk verplicht voor belasting en boekhouding)\nCrashrapporten en diagnostische gegevens"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Verwijderen zegt je abonnementen niet op"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Typ $1 om te bevestigen dat je account definitief wordt verwijderd"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "VERWIJDEREN"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Dit kan niet ongedaan worden gemaakt."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Verificatie mislukt"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "We konden je inlogsessie niet verifiëren. Log opnieuw in voordat je je account verwijdert."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Account verwijderd"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Je account is definitief verwijderd."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Account verwijderen mislukt met fout $1. Probeer het later opnieuw of neem contact op via relockin.com/support als de fout blijft optreden."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Schakel afleiding uit en werk productiever"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Tonen"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Afdekken"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Verwijderen"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Direct wegklikken"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Na 5 s wegklikken"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Na 10 s wegklikken"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Niet wegklikbaar"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Via opdracht wegklikken"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Afdekking opheffen"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Standaard"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Mobiel"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Desktop"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Zichtbaar"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Licht vervaagd"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Sterk vervaagd"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Grijstinten"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Zwart"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Shorts verbergen"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Tabblad Shorts verbergen"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Tabblad Home verbergen"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Home omleiden naar Abonnementen"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Autoplay uitzetten"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Videovoorbeelden uitzetten"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Posts zonder video verbergen"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Verwijdert posts, polls en foto-updates uit je Home-feed."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Alle advertenties overslaanbaar maken"
+  },
+  "settings_ytBlockAds": {
+    "message": "Advertenties blokkeren"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Video bij ‘Volgende’ verbergen"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Aanbevolen video’s"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Weergavemodus"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Miniatuurfilter"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Tabblad Reels verbergen"
+  },
+  "settings_hideHomeTab": {
+    "message": "Tabblad Home verbergen"
+  },
+  "settings_igHomeFeed": {
+    "message": "Home-feed"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Standaard"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "De gewone feed van Instagram, inclusief voorgestelde posts."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Alleen Volgend"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Recente posts van accounts die je volgt, nieuwste eerst."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Alleen Favorieten"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Alleen posts van accounts in je lijst Favorieten."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Link naar standaardfeed verbergen"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Old Reddit gebruiken"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Old Reddit geschikt maken voor mobiel"
+  },
+  "settings_redditVersion": {
+    "message": "Reddit-versie"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen-modus"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Sneller en overzichtelijker Reddit, gebouwd op een vernieuwd old.reddit.com"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Standaard"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "De standaard mobiele interface van Reddit"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "LET OP: we raden de Zen-modus aan, anders probeert Reddit je mogelijk naar de Reddit-app te dwingen"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Feedweergave"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Alleen titels"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Blader sneller met alleen titels. Tik of swipe om posts te openen."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Miniaturen"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Titels met een kleine afbeelding bij elke post."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Uitgevouwen"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Toon afbeeldingen, video’s en tekstposts direct in je feed."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Eindeloze feeds beperken?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Alle feeds tonen"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit werkt zoals gewoonlijk."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "‘Populair’ en ‘Alle’ verbergen"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Verbergt feeds met posts van onbekenden, zoals ‘Populair’, ‘Alle’ en ‘Verkennen’. Je Home-feed blijft werken."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Alle feeds verbergen"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Verbergt ook je Home-feed. Je kunt nog steeds subreddits bezoeken en zoeken."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Home-feed beperken tot posts uit subreddits waar je lid van bent"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Afbeeldingen in grijstinten tonen"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Stemmen onder posts plaatsen"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Reactieniveaus met kleuren aangeven"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Veeggebaren op reacties inschakelen"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Kort naar rechts vegen"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Lang naar rechts vegen"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Kort naar links vegen"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Lang naar links vegen"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Upvote"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Downvote"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Samenvouwen"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Reageren"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Opslaan"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Veeggebaren op posts inschakelen"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Upvote"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Downvote"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Verbergen"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Delen"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Opslaan"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Reacties openen"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Bronlink openen"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Voorbeeld"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Eigen CSS toestaan op deze subreddits"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Eigen subreddit-stijlen worden standaard verborgen, zodat alles leesbaar blijft op kleine schermen."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "naam van subreddit (bijv. politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "$1 verwijderen"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Nog geen subreddits toegevoegd."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "‘Voor jou’ verbergen"
+  },
+  "settings_xHideAds": {
+    "message": "Advertenties verbergen"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Posts filteren op connectiegraad"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Alles tonen"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Posts van 3e graad verbergen"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Posts van 2e en 3e graad verbergen"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Gepromote posts verbergen"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Foto’s en video’s in feed afdekken"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Foto’s in grijstinten tonen"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Video’s in grijstinten tonen"
+  },
+  "settings_inBrowserNote": {
+    "message": "Haal advertenties weg, schrap afleidingen en filter je feeds. Werkt in de RelockIn-browser."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Instellingen gelden voor websites in de RelockIn-browser, **niet voor de app van $1.** Log in om de wijziging in je feed te zien."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Instellingen gelden voor websites in de RelockIn-browser, **niet voor de app van $1.** Open de website om de wijziging te zien."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Bekijken op $1"
+  },
+  "settings_generalSection": {
+    "message": "Algemeen"
+  },
+  "settings_showSessionTimer": {
+    "message": "Sessietimer tonen"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Laat me even diep ademhalen voordat ik een website ontgrendel"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Ademhalingsduur (seconden)"
+  },
+  "settings_clearSection": {
+    "message": "Resetten"
+  },
+  "settings_ytAiContent": {
+    "message": "Door AI gemaakte video’s"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Tonen"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Toont AI-video’s net als alle andere video’s."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Labelen"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Zet een AI-label op de thumbnails van AI-video’s."
+  },
+  "settings_ytAiContentCover": {
+    "message": "Afdekken"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Dekt AI-video’s af. Losse video’s kun je alsnog tonen."
+  },
+  "settings_ytAiContentHide": {
+    "message": "Verbergen"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Verbergt AI-video’s in feeds, zoekresultaten en aanbevelingen."
+  },
+  "settings_ytAiVotes": {
+    "message": "Jouw stemmen: AI of niet"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Geen AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Nog geen kanalen"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "$1 uit de lijst verwijderen"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Geblokkeerde kanalen"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Video’s van deze kanalen zie je nergens meer op YouTube. Gebruik ‘Kanaal blokkeren’ onder een video of op een kanaalpagina."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts en advertenties"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Veeggebaren"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Home en feed"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI en kanalen"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Volgende"
+  },
+  "settings_sectionTabs": {
+    "message": "Tabbladen"
+  },
+  "settings_sectionFeed": {
+    "message": "Feed"
+  },
+  "settings_sectionFeeds": {
+    "message": "Feeds"
+  },
+  "settings_sectionAppearance": {
+    "message": "Uiterlijk"
+  },
+  "settings_sectionOther": {
+    "message": "Overig"
+  },
+  "support_titleHelp": {
+    "message": "Hulp krijgen"
+  },
+  "support_titleFeedback": {
+    "message": "Feedback geven"
+  },
+  "support_titleReportProblem": {
+    "message": "Probleem melden"
+  },
+  "support_sentimentTitle": {
+    "message": "Wat voor feedback heb je?"
+  },
+  "support_sentimentPositive": {
+    "message": "Iets wat ik goed vind"
+  },
+  "support_sentimentNegative": {
+    "message": "Iets wat beter kan"
+  },
+  "support_reviewTitle": {
+    "message": "Fijn om te horen!"
+  },
+  "support_reviewBody": {
+    "message": "Wil je een korte review achterlaten? Zo vinden anderen RelockIn ook.\n\nHet betekent veel voor ons kleine team."
+  },
+  "support_reviewCta": {
+    "message": "Review schrijven"
+  },
+  "support_personalNoteTitle": {
+    "message": "Een berichtje van de maker"
+  },
+  "support_personalNoteBody": {
+    "message": "Bedankt dat je RelockIn gebruikt. Ik lees elk bericht zelf en reageer zo snel mogelijk."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Bedankt! Heb je nog feedback of ideeën?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Wat jammer. Vertel ons wat er niet werkt, dan zoeken we het uit."
+  },
+  "support_messageLabel": {
+    "message": "Je bericht"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Waarmee kunnen we je helpen?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Wat wil je kwijt?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Wat gaat er mis op deze website?"
+  },
+  "support_siteLabel": {
+    "message": "Website"
+  },
+  "support_emailLabel": {
+    "message": "Je e-mailadres"
+  },
+  "support_emailPlaceholder": {
+    "message": "jij@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Vul een geldig e-mailadres in."
+  },
+  "support_sendCta": {
+    "message": "Verzenden"
+  },
+  "support_sendError": {
+    "message": "Je bericht kan niet worden verzonden. Controleer je verbinding en probeer het opnieuw."
+  },
+  "support_sentTitle": {
+    "message": "Bericht verzonden"
+  },
+  "support_sentBodyFormat": {
+    "message": "Bedankt! We reageren zo snel mogelijk via $1."
+  },
+  "support_sendAnotherCta": {
+    "message": "Nog een bericht sturen"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Hulp nodig?"
+  },
+  "support_accountFooterCta": {
+    "message": "Contact opnemen met support"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Je bericht gaat rechtstreeks naar de maker"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Diagnoselogboeken"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Diagnoselogboeken"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Nog geen logboekitems."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Foutopsporingslogboek"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Deze items worden alleen lokaal op dit apparaat opgeslagen. Ze worden nooit automatisch geüpload of gedeeld. Gebruik de deelknop om ze naar de ontwikkelaar te sturen als je een probleem meldt."
+  },
+  "target_domainType": {
+    "message": "Hele website"
+  },
+  "target_urlPatternType": {
+    "message": "URL-patroon"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Vergrendelt elke pagina van een website. Typ gewoon de naam van de website (zoals reddit.com) – subdomeinen en URL-paden maken niet uit."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Vergrendelt elke URL die deze tekst bevat. Gebruik * als jokerteken voor alles wat ertussen staat.\n\nBijvoorbeeld:\n- youtube.com/shorts vergrendelt YouTube Shorts, maar geen gewone video’s\n- reddit.com/r/politics vergrendelt alleen die subreddit\n- x.com/*/status/* vergrendelt losse tweets zonder de rest van X te vergrendelen, zoals profielpagina’s"
+  },
+  "target_scopeNote": {
+    "message": "Je vergrendelingen gelden in de RelockIn-browser, maar niet in andere browsers zoals Safari. Start een sessie om tijdelijk te ontgrendelen."
+  },
+  "target_emptyPattern": {
+    "message": "(leeg)"
+  },
+  "target_addTargetTitle": {
+    "message": "Website vergrendelen"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Wat wil je vergrendelen?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Website verwijderen uit regel"
+  },
+  "target_editTargetTitle": {
+    "message": "Item bewerken"
+  },
+  "target_editingLabel": {
+    "message": "Wordt bewerkt"
+  },
+  "target_typePickerLabel": {
+    "message": "Type"
+  },
+  "typingSentences_short1": {
+    "message": "Ik kies hier heel bewust voor."
+  },
+  "typingSentences_short2": {
+    "message": "Ik neem de verantwoordelijkheid voor dit besluit."
+  },
+  "typingSentences_short3": {
+    "message": "Dit is nu echt mijn eigen keuze."
+  },
+  "typingSentences_short4": {
+    "message": "Dit is een weloverwogen beslissing."
+  },
+  "typingSentences_short5": {
+    "message": "Ik maak deze keuze met aandacht."
+  },
+  "typingSentences_long1": {
+    "message": "Ik erken volledig dat ik de grenzen omzeil die ik heb gesteld om mijn eigen tijd en focus te beschermen, en ik neem de verantwoordelijkheid die bij deze keuze hoort."
+  },
+  "typingSentences_long2": {
+    "message": "We zijn wat we herhaaldelijk doen. Uitmuntendheid is dus geen daad, maar een gewoonte. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Je keuzes worden je gewoontes. Je gewoontes worden je karakter. En je karakter wordt je lot."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrollen of doomsurfen is overmatig veel tijd besteden aan het kijken naar korte video's of grote hoeveelheden door gebruikers gemaakte content of nieuws, vooral negatief nieuws, op internet en sociale media. Enquêtes en onderzoeken wijzen erop dat doomscrollen vooral onder jongeren voorkomt. In 2019 bleek uit een onderzoek van de Amerikaanse National Academy of Sciences dat doomscrollen samen kan hangen met een slechtere mentale en lichamelijke gezondheid."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Oneindig scrollen is een ontwerpaanpak waarbij content continu wordt geladen terwijl de gebruiker naar beneden scrolt, zodat er geen pagina's meer nodig zijn. Daardoor kan deze functie doomscrollen verergeren, omdat de natuurlijke momenten wegvallen waarop een gebruiker zou kunnen stoppen. Onderzoek toont ook aan dat sociale media de neiging hebben negatieve content te versterken, wat dit eindeloze scrollen kan verergeren, zodat gebruikers langer met ongunstig nieuws bezig blijven."
+  },
+  "typingSentences_paragraph3": {
+    "message": "De verdienmodellen van de meeste sociale media draaien om betrokkenheid van gebruikers: hoe langer mensen op hun platform blijven, hoe meer advertenties ze zien en hoe meer gegevens er over hun gedrag worden verzameld. Zo ontstaat een kringloop waarin emotioneel geladen content - vaak negatieve of angstaanjagende informatie - steeds weer naar gebruikers wordt gepusht, zodat ze blijven scrollen en steeds meer content consumeren."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Direct vermaak, informatie en verbondenheid maken sociale media aantrekkelijk. Verslaving aan sociale media kenmerkt zich door overmatig en dwangmatig gebruik dat het dagelijks functioneren en het algehele welzijn aantast. Het gaat om meer dan alleen te veel tijd online doorbrengen: het betekent ook dwangmatig checken op updates, je onrustig voelen als je offline bent en schade aan echte relaties en verantwoordelijkheden."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Algoritmes voor korte video's zijn zo verslavend omdat ze jouw keuzes en intenties buitenspel zetten. Doordat je niet meer hoeft te bedenken wat je hierna kijkt, vervangen apps bewuste beslissingen door een naadloze, passieve flow op de automatische piloot. In die flow is doorgaan ongelooflijk makkelijk en belonend, en stoppen ongelooflijk moeilijk."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Sociale media zijn gemaakt om verslavend te zijn. Techbedrijven ontwerpen deze apps om je aandacht te grijpen door het beloningssysteem in je brein te prikkelen. De combinatie van de dopaminekick van goedkeuring, onvoorspelbare beloningen en psychologische lokmiddelen maakt het ongelooflijk moeilijk om je telefoon weg te leggen. Wie deze ontwerptrucs herkent, zet de eerste stap om weer grip te krijgen op zijn digitale gewoontes en een gezondere relatie met technologie op te bouwen."
+  },
+  "usage_title": {
+    "message": "Gebruik"
+  },
+  "usage_subtitle": {
+    "message": "Bekijk je schermtijd per regel en sessie."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Geen gebruiksgegevens"
+  },
+  "usage_noUsageBody": {
+    "message": "Je gebruik verschijnt hier zodra je sessies start."
+  },
+  "usage_today": {
+    "message": "Vandaag"
+  },
+  "usage_thisWeek": {
+    "message": "Deze week"
+  },
+  "usage_thisMonth": {
+    "message": "Deze maand"
+  },
+  "usage_yesterday": {
+    "message": "Gisteren"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Nog geen regels ingesteld."
+  },
+  "usage_daily": {
+    "message": "Dag"
+  },
+  "usage_weekly": {
+    "message": "Week"
+  },
+  "usage_monthly": {
+    "message": "Maand"
+  },
+  "usage_previousPeriod": {
+    "message": "Vorige periode"
+  },
+  "usage_nextPeriod": {
+    "message": "Volgende periode"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Periode"
+  },
+  "usage_unknownRule": {
+    "message": "Onbekende regel"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 van $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

@@ -1,0 +1,2879 @@
+{
+  "about_tagline": {
+    "message": "Zatvori vrata ometanjima. Otvori ih najboljoj verziji sebe."
+  },
+  "about_welcome": {
+    "message": "Pozdrav iz RelockIna!"
+  },
+  "about_sentence": {
+    "message": "RelockIn je preglednik koji ometanjima ne ostavlja šanse. U Centru za fokus lako postavljaš pravila i rasporede kojima ograničavaš korištenje aplikacija i web-stranica koje ometaju. Sve počiva na jednostavnom načelu: što ako bi svaka minuta provedena na mobitelu bila namjerna?\n\nOsim toga, RelockIn sadrži potpuno prilagodljiv mobilni preglednik koji poštuje privatnost. RelockIn nikad ne prati tvoja pretraživanja i nikad ni s kim ne dijeli tvoje podatke. Budući da je RelockIn jedina aplikacija za fokus s potpuno integriranim preglednikom, jedino ti on omogućuje da prilagodiš web-stranice i ukloniš značajke koje ometaju, poput Reels videozapisa i Shortsa, pa imaš dodatnu razinu kontrole."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn za Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn – Blokiraj AI slop, Shorts i web-stranice | Vrijeme pred ekranom"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn – Blokiraj AI slop, Shorts i web-stranice"
+  },
+  "about_extensionDescription": {
+    "message": "Blokiraj AI videozapise, Shortse, Reels i beskrajne feedove te postavi vremenska ograničenja i rasporede za bilo koju web-stranicu."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "izbrisati ovo pravilo"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "ukloniti ograničenje za „$1”"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "povećati dnevno ograničenje"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "preskočiti obveznu pauzu"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "zaobići ograničenje rasporeda"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "zaobići dnevno ograničenje"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "izbrisati ovaj raspored"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "ublažiti ovaj raspored"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "ukloniti aplikacije ili web-stranice izvan RelockIna s popisa blokiranih"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "ublažiti ovu zaštitu"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "olakšati zadatak „$1”"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "izbrisati zadatak „$1”"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "isključiti zadatak prije ublažavanja zaštita"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Ako iskoristim dnevno ograničenje i treba mi još vremena…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Do 2 min"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 min"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Više od 10 min"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Ako moram zaobići blokadu rasporeda…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Ako želim nastaviti kad mi RelockIn kaže da napravim pauzu…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Ako pokreneš previše sesija jednu za drugom, tražimo da napraviš pauzu. Trajanje pauze možeš promijeniti u postavci „Pauza između sesija”."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 sesija zaredom"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 sesije zaredom"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ sesija zaredom"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Ako ublažim pravila za vrijeme pred ekranom…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Uklanjanje aplikacije"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Uklanjanje web-stranice"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Brisanje pravila"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Povećanje dnevnog ograničenja"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Ako ublažim raspored…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Dok ne blokira"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Dok blokira"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Prepiši rečenicu za nastavak"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Prepiši odlomak za nastavak"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Odlomak:\n„$1”"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Pričekaj odbrojavanje"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Možeš nastaviti tek kad odbrojavanje završi."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Odbrojavanje je završilo – možeš nastaviti."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Želiš li to stvarno učiniti?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Želiš li stvarno $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Trebaš dodatnu zaštitu? Na kartici „Zaštite” postavi zdrave prepreke koje čuvaju tvoje ciljeve."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Da, nastavi"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Ne možeš $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "To ne možeš učiniti"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Tvoje zaštite ovo onemogućuju, pa to ne može otključati nijedan zadatak."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Stvarno moram ovo učiniti"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Postavke zaštita možeš promijeniti na kartici „Zaštite”."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Idi na Zaštite"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Rečenica:\n„$1”"
+  },
+  "challengeUi_confirm": {
+    "message": "Potvrdi"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Još se ne podudara. Provjeri pravopis i interpunkciju."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Dovršeno."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Prepiši rečenicu točno kako je prikazana."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Samo nastavi…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Gotovo!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Tekst se ne podudara. Pažljivo usporedi: negdje je pogreška u tipkanju."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Riješi sve primjere za nastavak"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Upiši odgovore i dodirni „Potvrdi”."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Sve je točno!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Neki odgovori nisu točni. Provjeri označena polja."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Odgovor za primjer $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Osoba od povjerenja dobit će obavijest"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Osobi od povjerenja stići će e-poruka s obaviješću da zaobilaziš svoja ograničenja. Ta obavijest pomaže ti da se držiš svojih ciljeva."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Pošalji obavijest i nastavi"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Ne mogu ovo riješiti"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Umjesto toga pričekaj $1 minuta"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "hr"
+  },
+  "challengeUi_waitInsteadTitle__few": {
+    "message": "Umjesto toga pričekaj $1 minute"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Umjesto toga pričekaj $1 minutu"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Bez"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Laka"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Srednja"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Teška"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Vrlo teška"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Ekstremna"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Nemoguća"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Samo potvrda"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Zadano: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Spremanje nije uspjelo"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Preostalo: $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Unos za zadatak"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Prilagodi zadatke"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Promijeni korake u zadacima „Laka”, „Srednja” i „Teška” ili izradi vlastite"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Kada mi zadati zadatak"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Promijeni koliko je teško izbrisati pravilo za vrijeme pred ekranom, dobiti još vremena i drugo"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Ugrađeni"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Vlastiti"
+  },
+  "challenges_newChallenge": {
+    "message": "Novi"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Još nema vlastitih zadataka. Dodirni + za novi."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Naziv (npr. „Brutalni”)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Novi zadatak"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Daj ovom zadatku jedinstven naziv."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Odaberi što svaki zadatak traži od tebe ili izradi vlastiti."
+  },
+  "challenges_savedBadge": {
+    "message": "Spremljeno"
+  },
+  "challenges_noSteps": {
+    "message": "Nema koraka – dodaj barem jedan da bi se moglo spremiti."
+  },
+  "challenges_addStep": {
+    "message": "Dodaj korak"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Težina"
+  },
+  "challenges_problemsLabel": {
+    "message": "Primjeri"
+  },
+  "challenges_operationsLabel": {
+    "message": "Operacije"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Prepisivanje kratke rečenice"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Prepisivanje duge rečenice"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Prepisivanje odlomka"
+  },
+  "challenges_stepNameMath": {
+    "message": "Računanje"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "E-poruka osobi od povjerenja"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Čekanje odbrojavanja"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Trajanje: $1 min $2 s"
+  },
+  "challenges_stepCount": {
+    "message": "$1 koraka"
+  },
+  "challenges_stepCount__lang": {
+    "message": "hr"
+  },
+  "challenges_stepCount__few": {
+    "message": "$1 koraka"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 korak"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Zadaci za ovo pravilo"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Vrijedi samo za pravilo „$1”."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Ako želiš promijeniti zadatke za sva pravila ili urediti njihove korake:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Idi na karticu Zaštite"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Zadaj mi zadatak prije ublažavanja zaštita"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Da bi se zadatak olakšao, najprije moraš odraditi korake koje uklanjaš."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Zaštite možeš slobodno mijenjati još $1 minuta. Nakon toga za njihovo ublažavanje treba riješiti zadatak."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "hr"
+  },
+  "challenges_looseningGraceMinutes__few": {
+    "message": "Zaštite možeš slobodno mijenjati još $1 minute. Nakon toga za njihovo ublažavanje treba riješiti zadatak."
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Zaštite možeš slobodno mijenjati još $1 minutu. Nakon toga za njihovo ublažavanje treba riješiti zadatak."
+  },
+  "common_save": {
+    "message": "Spremi"
+  },
+  "common_cancel": {
+    "message": "Odustani"
+  },
+  "common_done": {
+    "message": "Gotovo"
+  },
+  "common_ok": {
+    "message": "U redu"
+  },
+  "common_edit": {
+    "message": "Uredi"
+  },
+  "common_delete": {
+    "message": "Izbriši"
+  },
+  "common_defaultOption": {
+    "message": "Zadano"
+  },
+  "common_back": {
+    "message": "Natrag"
+  },
+  "common_skip": {
+    "message": "Preskoči"
+  },
+  "common_next": {
+    "message": "Dalje"
+  },
+  "common_gotIt": {
+    "message": "Shvaćam"
+  },
+  "common_none": {
+    "message": "Ništa"
+  },
+  "common_yes": {
+    "message": "Da"
+  },
+  "common_no": {
+    "message": "Ne"
+  },
+  "common_start": {
+    "message": "Pokreni"
+  },
+  "common_loading": {
+    "message": "Učitavanje…"
+  },
+  "common_error": {
+    "message": "Pogreška"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Zatvori"
+  },
+  "common_continue": {
+    "message": "Nastavi"
+  },
+  "common_dismiss": {
+    "message": "Odbaci"
+  },
+  "common_notNow": {
+    "message": "Ne sada"
+  },
+  "common_noThanks": {
+    "message": "Ne, hvala"
+  },
+  "common_maybeLater": {
+    "message": "Možda kasnije"
+  },
+  "common_add": {
+    "message": "Dodaj"
+  },
+  "common_create": {
+    "message": "Izradi"
+  },
+  "common_startSetup": {
+    "message": "Započni postavljanje"
+  },
+  "common_continueSetup": {
+    "message": "Nastavi postavljanje"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Nastavi tamo gdje je postavljanje stalo"
+  },
+  "common_setItUp": {
+    "message": "Postavi"
+  },
+  "common_howItWorks": {
+    "message": "Kako to funkcionira"
+  },
+  "common_getStarted": {
+    "message": "Započni"
+  },
+  "common_signIn": {
+    "message": "Prijavi se"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 min"
+  },
+  "common_hoursCount": {
+    "message": "$1 sati"
+  },
+  "common_hoursCount__lang": {
+    "message": "hr"
+  },
+  "common_hoursCount__few": {
+    "message": "$1 sata"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 sat"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Korak $1 od $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Uklonili smo $1 Shortsa iz tvog feeda"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "hr"
+  },
+  "domShared_ytShortsRemovedBadge__few": {
+    "message": "Uklonili smo $1 Shortsa iz tvog feeda"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Uklonili smo $1 Shorts iz tvog feeda"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Zatvori"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Prekrio RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Otkrij"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Nije moguće otkriti"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Otkrij ($1 s)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Za ovo se trebaš prijaviti."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Prijavi se"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "zatvori"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit te upravo pokušao natjerati u svoju aplikaciju."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Ako nešto ne radi kako treba, ponovno učitaj stranicu ili prijeđi na Zen način."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "zatvori"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Ovaj je feed skriven"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Prema tvom odabiru Redditovi feedovi „Popularno” i „Sve” su skriveni."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Prema tvom odabiru tvoji feedovi na Redditu su skriveni."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Tvoji subredditi"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "To možeš promijeniti u postavkama RelockIna."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Sve je pregledano"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "To su sve nove objave iz subreddita čiji si član."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Provjeri ima li još"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Reproduciraj"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Pauziraj"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Preskoči oglas"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Brzina reprodukcije"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Glasnoća"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "glasaj za"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "glasaj protiv"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "poništi glas"
+  },
+  "domShared_redditActionSave": {
+    "message": "spremi"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "poništi spremanje"
+  },
+  "domShared_redditActionHide": {
+    "message": "sakrij"
+  },
+  "domShared_redditActionShare": {
+    "message": "dijeli"
+  },
+  "domShared_redditActionComments": {
+    "message": "komentari"
+  },
+  "domShared_redditActionExpand": {
+    "message": "proširi"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "sažmi"
+  },
+  "domShared_redditActionReply": {
+    "message": "odgovori"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "više opcija"
+  },
+  "domShared_redditActionScore": {
+    "message": "bodovi"
+  },
+  "domShared_redditActionSource": {
+    "message": "Izvor"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Pregled"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Spremi"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Poništi spremanje"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Sakrij"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Poništi skrivanje"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Dijeli"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Prijavi"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Nadređeni komentar"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Trajna poveznica"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Ugradi"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Unakrsno objavi"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Kopiraj poveznicu na komentar"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Kopiraj poveznicu na objavu"
+  },
+  "domShared_redditAgeNow": {
+    "message": "sad"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1m"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1h"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1d"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1mj"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1g"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Priče na Instagramu"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Sakrili smo ovu objavu računa koji ne pratiš."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Sakrili smo ovaj videozapis."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Sakrili smo ovaj oglas."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Autor: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Ova objava dolazi od veze 3. stupnja"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Ova objava ne dolazi od veze 1. stupnja"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Prekrili smo je da ti ne odvlači pažnju."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Sakrili smo ovaj oglas da ti ne odvlači pažnju"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Pritisni za otkrivanje"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Slika je prekrivena da ti ne odvlači pažnju"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Pritisni za otkrivanje."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Videozapis je prekriven da ti ne odvlači pažnju."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Preporučeni videozapisi"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Brzina reprodukcije: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Glasnoća: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "10 sekundi unatrag"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "10 sekundi unaprijed"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "učini nešto bolje."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Videozapis generiran pomoću AI-ja"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Prema tvom glasu ovo je AI kanal"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Ipak prikaži"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Ipak pogledaj"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Nije AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Možda AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Vjerojatno AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Vrlo vjerojatno AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Podijeljeni glasovi"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Pregledao RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Vjerojatno generirano pomoću AI-ja"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Vrlo vjerojatno generirano pomoću AI-ja"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Prema glasovima korisnika RelockIna"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Je li ovo AI kanal?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Što se smatra AI sadržajem?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Tvoj glas zasad mijenja samo ono što ti vidiš. Prijavi se u RelockIn i tvoj će glas pomoći i ostalima."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Prijavi se"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Zatvori"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Glasaj „AI” ako većina videozapisa na kanalu koristi:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Scenarij koji je napisao AI"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Glas generiran pomoću AI-ja"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Slike ili videozapise generirane pomoću AI-ja"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "Glazbu generiranu pomoću AI-ja"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Ne smatra se AI sadržajem:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Videozapisi o AI-ju, npr. recenzije AI alata"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Sitne AI dorade, npr. pročišćen zvuk"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Tvoj glas za tebe vrijedi odmah i pomaže drugim korisnicima RelockIna."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Oznaka nije točna? Zatraži provjeru"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Više opcija"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Blokiraj kanal"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Blokiran"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Odblokiraj kanal"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Ovaj je kanal blokiran"
+  },
+  "limits_title": {
+    "message": "Pravila i sesije"
+  },
+  "limits_subtitle": {
+    "message": "Pokreći sesije i upravljaj pravilima."
+  },
+  "limits_addRule": {
+    "message": "+ Dodaj pravilo"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Pravila za vrijeme pred ekranom"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Zaštiti svoje vrijeme dnevnim ograničenjima i sesijama"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Još nema pravila. Dodaj jedno i postavi vremenska ograničenja."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Društvene mreže"
+  },
+  "main_backToBrowser": {
+    "message": "Natrag u preglednik"
+  },
+  "main_openFullPage": {
+    "message": "Otvori na cijeloj stranici"
+  },
+  "main_tabLimits": {
+    "message": "Pravila"
+  },
+  "main_tabSettings": {
+    "message": "Prilagodbe"
+  },
+  "main_protectionTitle": {
+    "message": "Zaštite"
+  },
+  "main_protectionSubtitle": {
+    "message": "Dodaj zdravu prepreku prije impulzivnih odluka"
+  },
+  "main_tabAccount": {
+    "message": "Račun"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Dnevni prosjek"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "prosj."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Klikni ikonu **slagalice** na alatnoj traci"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Pronađi **RelockIn** i klikni ikonu **pribadače**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Tvoja pravila za vrijeme pred ekranom"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Klikni pravilo da ga urediš. Svako ima svoje dnevno ograničenje."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Pozdrav iz **RelockIna**!"
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Traje otprilike minutu"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Baš i ne"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Je li ti dosta AI slopa na YouTubeu?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Na brzinu sklepani AI videozapisi danas su posvuda, od feeda do rezultata pretraživanja."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Želiš li manje vremena trošiti na skrolanje?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "I to bez oslanjanja samo na snagu volje."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AI sadržaj"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Prepoznaj AI videozapise **prije** nego što klikneš."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "AI sadržaj u feedu možemo prekriti, sakriti ili mu dodati oznaku."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Neobavezno"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Pomozi **označiti** AI sadržaj."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Naša zajednica označava AI sadržaj. Ako se registriraš, tvoji glasovi pomažu drugima da prepoznaju i blokiraju AI."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Prijavljeno"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Tvoji glasovi sad pomažu drugima da prepoznaju i blokiraju AI."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Nastavi putem e-pošte"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Kratki videozapisi"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Neka Shortsi i Reels **nestanu**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Izbaci Shortse s YouTubea i Reels videozapise s Instagrama. Zadrži ono što želiš."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Sakrij Shortse i Reels videozapise"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Neobavezno: vremenska ograničenja"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Skrolaj **promišljeno**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Koje web-stranice trebaju ograničenje?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Kasnije možeš dodati još."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Odaberi web-stranicu da ovdje vidiš njezino pravilo"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Brzi pristup"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Prikvačeno. Odlično."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn za iPhone i Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Isprobaj RelockIn i na **mobitelu**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "S aplikacijom RelockIn možeš prilagoditi YouTube, Instagram i druge web-stranice te ukloniti AI sadržaj i ometanja poput Shortsa i Reels videozapisa.\n\nMože i zaključati aplikacije koje ometaju, pa ponovno upravljaš svojim vremenom."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Skeniraj kamerom mobitela"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Sve je spremno."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Pogledaj na YouTubeu"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Dovršimo postavljanje"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Postavljanje se otvara u zasebnoj kartici i traje otprilike minutu."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Nastavi postavljanje"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Riješi se AI slopa, Shortsa i beskrajnih feedova na web-stranicama koje najviše koristiš."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Zašto izraditi račun?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Bez računa tvoji glasovi i dalje označavaju AI kanale za tebe, ali ne mogu pomoći nikome drugome. Ako izradiš račun, možemo se osloniti na tvoje glasove i s njima označavati AI sadržaj za cijelu zajednicu. Drugi korisnici ne vide tvoje glasove.\n\nTvoj račun radi i u RelockInu za iPhone i Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Transparentnost nam je važna. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Naš je kôd javno objavljen"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Prilagodi web-stranice"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**Više od 40 prilagodbi** da te web manje uvlači."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn može promijeniti YouTube, Instagram, Reddit, X i LinkedIn. Isprobaj nekoliko prilagodbi ovdje, ostale su u postavkama."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Dnevno ograničenje za $1"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "RelockIn na **jedan klik**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Prikvači ga da lako promijeniš bilo koju postavku."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Zatvori postavljanje"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Još nema ograničenja"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Odaberi web-stranice na kojima gubiš vrijeme i svakoj zadaj dnevno ograničenje. Traje oko 30 sekundi."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Postavi ograničenja"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "U feedu prikazuj samo objave računa koje pratiš"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Isključi r/popular i r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI videozapisi"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts i Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Prilagodbe web-stranica"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Dnevna ograničenja"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "AI glasovi"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Skriveno"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Vidljivo"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Isključeno"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Prekriveno"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "S oznakom"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Za cijelu zajednicu"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Samo za tebe"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "Uključeno: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "hr"
+  },
+  "onboardingWebext_doneStatusTweaksOn__few": {
+    "message": "Uključeno: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "Uključeno: $1"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 web-stranica"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "hr"
+  },
+  "onboardingWebext_doneStatusLimits__few": {
+    "message": "$1 web-stranice"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 web-stranica"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Želiš li da društvene mreže manje stvaraju ovisnost?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Manje ometanja, a da se ne odrekneš onoga što voliš."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Na pravom si mjestu."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "U redu. Provest ćemo te kroz sve."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Na bilo kojoj web-stranici možeš ograničiti vrijeme pred ekranom.\n\nRelockIn ti pomaže da prestaneš skrolati bez razmišljanja."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Odaberi koliko ti vremena treba"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Koristi web-stranicu"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Kad vrijeme istekne, ponovno se zaključa"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Isprobaj vremenska ograničenja"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Sve je **ovdje**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Otvori ovu ploču bilo kad putem ikone RelockIna na alatnoj traci."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Koliko vremena želiš provesti na web-stranici $1?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Sesija na web-stranici $1 je završila."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "min/dan"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 minuta manje"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 minuta više"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Vrijeme uporabe zaslona"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Sve možeš promijeniti putem ikone RelockIna na alatnoj traci."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Sve možeš promijeniti putem RelockIna u izborniku proširenja preglednika."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Je li ovo sada najbolji način da iskoristiš svoje vrijeme?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "duboko udahni"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Ili, ako stvarno moraš nastaviti na $1, možeš pokrenuti sesiju za pravilo „$2”"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Danas još $1 min $2 s"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Nabavi RelockIn na mobitelu"
+  },
+  "overlay_closeTab": {
+    "message": "Zatvori ovu karticu"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "preostalo danas"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "iskorišteno danas"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "obnavlja se u"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Ili, ako stvarno moraš nastaviti, možeš pokrenuti sesiju za pravilo „$1”"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "„$1”"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Trenutačno pravilo: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Otvori RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Više opcija"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "dnevna upotreba"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR kod za preuzimanje RelockIna"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Nabavi aplikaciju **RelockIn**"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Ukloni Shortse, Reels i AI videozapise"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Postavi vremenska ograničenja za bilo koju aplikaciju ili web-stranicu"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Zaštiti san i koncentraciju"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Ovo proširenje na mobitelu ima ograničenja"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Aplikacija RelockIn ograničava bilo koju aplikaciju i uklanja sva ometanja i AI videozapise."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Ne radi u aplikacijama YouTube i Instagram"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Samo jedno vremensko ograničenje i jedan raspored"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "AI videozapisima može dodati oznaku, ali ih ne može sakriti"
+  },
+  "phoneWebext_getApp": {
+    "message": "Nabavi aplikaciju"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Nastavi u pregledniku"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Ili nastavi ovdje (ograničeno)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Za neograničen broj pravila za vrijeme pred ekranom nabavi aplikaciju RelockIn:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Za neograničen broj rasporeda nabavi aplikaciju RelockIn:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Isprobaj **aplikaciju RelockIn** i otključaj sve postavke"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Dio pretplate RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "U besplatnoj verziji ove web-stranice dijele jedno dnevno ograničenje."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Zastani prije nego što odlučiš"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Postavi zadatke koji će te nakratko zaustaviti prije nego što zaobiđeš ograničenje ili izbrišeš pravilo.\nTraje otprilike minutu."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Postavi zaštite"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Pauza između sesija"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Obvezna pauza nakon previše sesija zaredom"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Najprije postavi pravila"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Prije dodavanja zaštita dovrši postavljanje pravila na kartici Pravila."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Zastani prije impulzivnih odluka"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Prije nego što zaobiđeš ograničenje ili izbrišeš pravilo, RelockIn može tražiti da riješiš kratak zadatak. Tako imaš vremena razmisliti o odluci."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Kontrola je uvijek u tvojim rukama."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Isprobaj zadatke"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Dodirni bilo koju karticu da isprobaš zadatak."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Dodaj nekoliko minuta preko dnevnog ograničenja"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Upiši kratku rečenicu"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Ukloni aplikaciju s popisa blokiranih"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Riješi nekoliko matematičkih zadataka"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Ublaži raspored"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Upiši dužu rečenicu"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Koliko stroge trebaju biti tvoje zaštite?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Ovo možeš promijeniti bilo kad."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Blago"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Mali podsjetnici prije impulzivnih postupaka."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Uravnoteženo"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Kratki zadaci kad dođeš u iskušenje."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Strogo"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Zahtjevniji zadaci pomažu ti da se riješiš loših navika."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Preporučeno"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Odaberi razinu „$1”"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Pauza između sesija"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Kad pokreneš previše sesija zaredom, RelockIn može uvesti obveznu pauzu prije sljedeće."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Ako pokrenem 2+ sesije zaredom (s razmakom manjim od"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "uvedi pauzu od"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Primjer"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  Pokrećeš 5-minutnu sesiju za pravilo „Društvene mreže”."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  Pokrećeš još jednu 5-minutnu sesiju"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  Prije treće sesije moraš napraviti pauzu"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 s"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 min"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 min"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 min"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 min"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 min"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Tvoje zaštite su uključene"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Bilo kad možeš promijeniti:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Kada dobivaš zadatke"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Što pojedini zadatak traži od tebe"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Zadatke za pojedina pravila"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Natrag u aplikaciju"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Nema blokiranih aplikacija"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Naziv pravila"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Proba"
+  },
+  "rule_deleteRule": {
+    "message": "Izbriši pravilo"
+  },
+  "rule_editRule": {
+    "message": "Uredi pravilo"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Blokirane aplikacije"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Promijeni blokirane aplikacije"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Blokirano u pregledniku RelockIn"
+  },
+  "rule_noTargets": {
+    "message": "Još nema blokiranih web-stranica."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Postavke pravila"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Dnevno ograničenje u minutama"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Minute"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Smanji dnevno ograničenje za $1 minuta"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "hr"
+  },
+  "rule_decreaseMinutesBy__few": {
+    "message": "Smanji dnevno ograničenje za $1 minute"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Smanji dnevno ograničenje za $1 minutu"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Povećaj dnevno ograničenje za $1 minuta"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "hr"
+  },
+  "rule_increaseMinutesBy__few": {
+    "message": "Povećaj dnevno ograničenje za $1 minute"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Povećaj dnevno ograničenje za $1 minutu"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Prilagodi zaštite"
+  },
+  "rule_targetsSection": {
+    "message": "Ciljane web-stranice"
+  },
+  "rule_defaultRuleName": {
+    "message": "Novo pravilo"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Sesija u tijeku"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Zaključano"
+  },
+  "rule_appCount": {
+    "message": "$1 aplikacija"
+  },
+  "rule_appCount__lang": {
+    "message": "hr"
+  },
+  "rule_appCount__few": {
+    "message": "$1 aplikacije"
+  },
+  "rule_appCount__one": {
+    "message": "$1 aplikacija"
+  },
+  "rule_siteCount": {
+    "message": "$1 web-stranica"
+  },
+  "rule_siteCount__lang": {
+    "message": "hr"
+  },
+  "rule_siteCount__few": {
+    "message": "$1 web-stranice"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 web-stranica"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Naziv rasporeda"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Nespremljen"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "VREMENSKI RASPON"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Početak"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Kraj"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "AKTIVNI DANI"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Svaki dan"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Nijedan dan"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Radnim danima"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Vikendom"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "N"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "P"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "U"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "S"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "Č"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "P"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "S"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "ned"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "pon"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "uto"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "sri"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "čet"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "pet"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "sub"
+  },
+  "scheduleCard_modeSection": {
+    "message": "NAČIN"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Blokiraj tijekom"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Dopusti samo tijekom"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Tijekom tog vremena ne možeš pokretati sesije."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Sesije za otključavanje možeš pokretati *samo* u tom vremenu. Ostatak dana te aplikacije i web-stranice ostaju zaključane."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Otključavanje moguće"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Bez otključavanja"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "PRIMJENJUJE SE NA PRAVILA"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Još nema pravila."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Automatski primijeni na nova pravila"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Spremi promjene"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Izbrisati ovaj raspored?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Izbriši raspored"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Raspored"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Uredi raspored"
+  },
+  "schedules_title": {
+    "message": "Rasporedi"
+  },
+  "schedules_subtitle": {
+    "message": "Odredi kada smiješ pokretati sesije."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Još nema rasporeda"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Dodaj raspored i postavi vremenska ograničenja za svoja pravila."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Dodaj raspored"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Spavanje"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Najprije postavi pravila za vrijeme pred ekranom"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Prije izrade rasporeda dovrši postavljanje na kartici „Pravila”."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Pravila blokiraju aplikacije i web-stranice dok ne pokreneš sesiju. Rasporedom određuješ *kada* možeš pokrenuti sesiju.\n\nSačuvaj vrijeme za san, učenje ili koncentraciju. Možeš odrediti i vrijeme za pauze."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Za više od 1 rasporeda započni besplatno probno razdoblje"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Pogreška: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Dodavanje rasporeda nije uspjelo: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Ažuriranje nije uspjelo: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Brisanje nije uspjelo: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Ažuriranje povezanih pravila nije uspjelo: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Hoću 5 minuta pauze da malo skrolam po Instagramu"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Aplikacije ostaju zaključane dok ih ne otključaš"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Odabrane web-stranice ostaju zaključane dok ih ne otključaš"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Ali u određeno doba želiš da ostanu zaključane"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Ali u određeno doba želiš da ostanu zaključane"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Rasporedi uklanjaju gumb za otključavanje"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Tako aplikacije ostaju zaključane dok raspored ne završi."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Tako web-stranice ostaju zaključane dok raspored ne završi."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Ajme! Idem onda spavati."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Zaštitimo tvoj san"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Odaberi sate u kojima želiš spavati, a ne skrolati."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Zaštiti moj san"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Tvoj san je zaštićen"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Nema otključavanja od $1 do $2. Dane, vrijeme i pravila možeš promijeniti bilo kada."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Želiš zaštititi i vrijeme za posao ili učenje?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Raspored možeš dodati bilo kada."
+  },
+  "session_sectionTitleActive": {
+    "message": "Sesija"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Pokreni sesiju"
+  },
+  "session_endingSession": {
+    "message": "Završavanje sesije…"
+  },
+  "session_startingSession": {
+    "message": "Pokretanje sesije…"
+  },
+  "session_remainingInSession": {
+    "message": "preostalo u sesiji"
+  },
+  "session_endSession": {
+    "message": "Završi sesiju"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Raspored trenutačno blokira sesije"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Zbog rasporeda ne možeš koristiti pravilo „$1”"
+  },
+  "session_blockedBadge": {
+    "message": "PREMA RASPOREDU"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Zbog rasporeda trenutačno ne možeš pokretati sesije."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Zaobiđi blokadu rasporeda"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Trenutačno blokira i:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Aktivno je više ograničenja odjednom. Za pokretanje sesije dovoljno je zaobići najstrože."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Blokada prema rasporedu"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Obvezna pauza"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Blokirano rasporedom „$1” do $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Izvan dopuštenih sati. Raspored „$1” počinje u $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Izvan vremena dopuštenog rasporedom"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Dopušteno do $2, kad počinje blokiranje rasporedom „$1”"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Dopušteno do $2, kad završava raspored „$1”"
+  },
+  "session_other": {
+    "message": "Drugo"
+  },
+  "session_duration": {
+    "message": "Trajanje"
+  },
+  "session_startSession": {
+    "message": "Pokreni sesiju"
+  },
+  "session_takeABreak": {
+    "message": "Napravi pauzu."
+  },
+  "session_reopensInFormat": {
+    "message": "Nova sesija za $1 s"
+  },
+  "session_reopensInLabel": {
+    "message": "Nova sesija za"
+  },
+  "session_bypassBreak": {
+    "message": "Preskoči pauzu"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Prestani s doomscrollingom."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "To je već $1 sesija zaredom. Prestani s doomscrollingom."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "hr"
+  },
+  "session_quickReturnExplanationCount__few": {
+    "message": "To je već $1 sesije zaredom. Prestani s doomscrollingom."
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "To je već $1 sesija zaredom. Prestani s doomscrollingom."
+  },
+  "session_overrideSizeLow": {
+    "message": "Do 2 min"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Do 10 min"
+  },
+  "session_overrideSizeHigh": {
+    "message": "Do 60 min"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Koliko ti dodatnog vremena treba?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Brzi zadatak za otključavanje"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Srednje težak zadatak za otključavanje"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Težak zadatak za otključavanje"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Tvoje zaštite ne dopuštaju dodatno vrijeme."
+  },
+  "session_dailyLimitReached": {
+    "message": "Dnevno ograničenje iskorišteno"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Danas je iskorišteno $1 min."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Prošeći, obavi onaj posao koji odgađaš ili nazovi prijatelja."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Nemam pametnijeg posla"
+  },
+  "session_chooseLength": {
+    "message": "Odaberi trajanje sesije"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Otključavanje na određeno vrijeme"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Dodirni trajanje i pokreni sesiju. Kad vrijeme istekne, sve ćemo ponovno zaključati."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Pokreni sesiju: $1 min"
+  },
+  "settings_title": {
+    "message": "Prilagodi web-stranice"
+  },
+  "settings_igComments": {
+    "message": "Sakrij komentare na Instagramu"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Osim računa koje pratiš"
+  },
+  "settings_igStories": {
+    "message": "Priče na Instagramu"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Prekrij objave nepoznatih računa u feedu"
+  },
+  "settings_igFeedVideos": {
+    "message": "Sakrij videozapise u feedu"
+  },
+  "settings_igGuardAds": {
+    "message": "Sakrij oglase"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Na kartici „Istraži” ostavi samo pretraživanje"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Prikaži slike u sivim tonovima"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Prikaži videozapise u sivim tonovima"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Prijavljeni račun"
+  },
+  "settings_accountSignOut": {
+    "message": "Odjavi se"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Prijava putem Googlea"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Prijavi se za sinkronizaciju podataka na svim uređajima. Ako već imaš pretplatu RelockIn Pro, prijavom ćeš je vratiti."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Pretplata"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Status"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Odjaviti se?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Podaci se neće sinkronizirati među uređajima dok se ponovno ne prijaviš."
+  },
+  "settings_accountSignOutError": {
+    "message": "Odjava nije uspjela. Pokušaj ponovno."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Za prijavu je potrebno tvoje dopuštenje. Sve ostalo radi i bez računa."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Nastavkom prihvaćaš da vrijede naši $1. Naša $2 objašnjavaju kako upotrebljavamo tvoje podatke."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Izradom računa prihvaćaš da vrijede naši $1. Naša $2 objašnjavaju kako upotrebljavamo tvoje podatke."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Uvjeti korištenja"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Pravila o privatnosti"
+  },
+  "settings_accountSourceCode": {
+    "message": "Izvorni kôd"
+  },
+  "settings_accountSignInError": {
+    "message": "Prijava nije uspjela. Pokušaj ponovno."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "Na ovom telefonu nije pronađen Google račun. Otvori „Postavke” na telefonu, zatim „Zaporke i računi” (na Samsungu „Računi i sigurnosno kopiranje”) i provjeri je li ondje dodan Google račun. Ako je račun već naveden, a prijava i dalje ne uspijeva, pokušaj ga ukloniti i ponovno dodati."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Prijava putem Googlea nije ispravno postavljena za ovu aplikaciju. Obrati se podršci."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Prijava je prekinuta. Pokušaj ponovno."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Ovaj uređaj ne podržava prijavu putem Googlea. Pokušaj ažurirati usluge za Google Play ili se prijavi putem e-pošte."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Nije moguće pročitati podatke za prijavu putem Googlea. Pokušaj ponovno."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Poslužitelj za prijavu nije dostupan. Provjeri vezu i pokušaj ponovno."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Prijava je vratila neočekivane podatke. Pokušaj ponovno."
+  },
+  "settings_emailSignInCta": {
+    "message": "Prijava putem e-pošte"
+  },
+  "settings_appleSignInCta": {
+    "message": "Prijava putem Applea"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Prijava"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Prijavi se adresom e-pošte i lozinkom."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Izradi račun"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Izradi račun za sinkronizaciju na svim uređajima."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Izradi račun"
+  },
+  "settings_emailResetTitle": {
+    "message": "Resetiranje lozinke"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Unesi svoju adresu e-pošte i poslat ćemo ti poveznicu za resetiranje lozinke."
+  },
+  "settings_emailResetAction": {
+    "message": "Pošalji poveznicu"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-pošta"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Lozinka"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Potvrdi lozinku"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Zaboravljena lozinka?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Nemaš račun? Registriraj se"
+  },
+  "settings_switchToSignIn": {
+    "message": "Već imaš račun? Prijavi se"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Provjeri e-poštu"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Poslali smo poveznicu za potvrdu na tvoju adresu e-pošte. Potvrdi adresu prije prijave."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Poveznica je poslana"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Poslali smo ti e-poruku s poveznicom za resetiranje lozinke (ako račun postoji)."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Tvoja adresa e-pošte nije potvrđena. Potraži poveznicu za potvrdu u pristigloj pošti."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Previše pokušaja. Pokušaj ponovno kasnije."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Lozinka je preslaba. Upotrijebi najmanje 6 znakova."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Netočna adresa e-pošte ili lozinka. Ako je registracija bila nedavno, provjeri je li adresa e-pošte potvrđena."
+  },
+  "settings_changePasswordCta": {
+    "message": "Promijeni lozinku"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Postavi novu lozinku"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Odaberi novu lozinku za svoj račun."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Nova lozinka"
+  },
+  "settings_newPasswordAction": {
+    "message": "Ažuriraj lozinku"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Lozinka je ažurirana"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Lozinka je ažurirana. Sad se možeš prijaviti novom lozinkom."
+  },
+  "settings_newPasswordError": {
+    "message": "Ažuriranje lozinke nije uspjelo. Pokušaj ponovno."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Ispuni sva polja."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Registracija nije uspjela."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Unesi svoju adresu e-pošte."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Slanje e-poruke za resetiranje nije uspjelo."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Lozinka je uspješno ažurirana."
+  },
+  "settings_accountSigningOut": {
+    "message": "Odjava…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Prijava…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "N/D"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Besplatna verzija"
+  },
+  "settings_backToSignIn": {
+    "message": "Natrag na prijavu"
+  },
+  "settings_sending": {
+    "message": "Slanje…"
+  },
+  "settings_updating": {
+    "message": "Ažuriranje…"
+  },
+  "settings_creatingAccount": {
+    "message": "Izrada računa…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Potvrdi novu lozinku"
+  },
+  "settings_showPasswordCta": {
+    "message": "Prikaži"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Sakrij"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Lozinka mora imati najmanje 6 znakova."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Lozinke se ne podudaraju."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Račun je potvrđen"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Adresa e-pošte je potvrđena i prijava je uspjela."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Poveznica za prijavu ne radi"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Prijava putem te poveznice nije uspjela. Poveznica je možda istekla ili je već upotrijebljena. Pokušaj ponovno ili zatraži novu e-poruku.\n\nPojedinosti: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Izbriši račun"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Opasne radnje"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "OPASNE RADNJE – brisanje računa"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Što će se trajno izbrisati:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Podaci za prijavu i profil\nSinkronizirana pravila, rasporedi i postavke\nSinkronizirana povijest upotrebe i ostali podaci aplikacije"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Što se zadržava:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Evidencija kupnji i transakcija (zakonska obveza radi poreza i računovodstva)\nIzvješća o rušenju i dijagnostika"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Brisanje ne otkazuje pretplate"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Upiši „$1” za potvrdu trajnog brisanja računa"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "IZBRIŠI"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Ova se radnja ne može poništiti."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Provjera prijave nije uspjela"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Tvoju prijavu nije bilo moguće provjeriti. Prije brisanja računa ponovno se prijavi."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Račun je izbrisan"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Tvoj račun je trajno izbrisan."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Brisanje računa nije uspjelo (pogreška $1). Pokušaj ponovno kasnije ili se, ako se pogreška ponavlja, obrati podršci na relockin.com/support."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Manje ometanja, više produktivnosti"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Prikaži"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Prekrij"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Ukloni"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Odmah"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Nakon 5 s"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Nakon 10 s"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Nikad"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Nakon zadatka"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Način otkrivanja"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Zadano"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Mobilni"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Računalni"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Bez filtra"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Blago zamućenje"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Jako zamućenje"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Sivi tonovi"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Crna boja"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Sakrij Shortse"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Sakrij karticu Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Sakrij karticu Početna"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Preusmjeri s Početne na Pretplate"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Isključi automatsku reprodukciju"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Isključi preglede videozapisa"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Sakrij objave koje nisu videozapisi"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Uklanja objave kanala, ankete i fotografije s kartice Početna."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Omogući preskakanje svih oglasa"
+  },
+  "settings_ytBlockAds": {
+    "message": "Blokiraj oglase"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Sakrij videozapis „Sljedeće”"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Preporučeni videozapisi"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Način prikaza"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Filtar minijatura"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Sakrij karticu Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Sakrij karticu Početna"
+  },
+  "settings_igHomeFeed": {
+    "message": "Feed na Početnoj"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Zadano"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Uobičajeni feed Instagrama, uključujući predložene objave."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Samo Praćenja"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Nedavne objave računa koje pratiš, najprije najnovije."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Samo Favoriti"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Samo objave računa s tvojeg popisa Favoriti."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Sakrij poveznicu na uobičajeni feed"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Koristi Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Prilagodi Old Reddit za mobitele"
+  },
+  "settings_redditVersion": {
+    "message": "Verzija Reddita"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen način"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Brži i pregledniji Reddit, izgrađen na obnovljenom old.reddit.com"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Standardna"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Zadano mobilno sučelje Reddita"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "NAPOMENA: preporučujemo Zen način jer te Reddit inače može pokušati natjerati da koristiš njegovu aplikaciju"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Stil feeda"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Samo naslovi"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Brže pregledavanje uz samo naslove. Dodirni ili prijeđi prstom da otvoriš objavu."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Minijature"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Naslovi s minijaturom za svaku objavu."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Prošireni"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Slike, videozapisi i tekstualne objave prikazuju se izravno u feedu."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Ograničiti beskonačne feedove?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Prikaži sve feedove"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit radi kao i inače."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Sakrij Popularno i Sve"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Skriva feedove s objavama iz zajednica koje ne pratiš, poput „Popularno”, „Sve” i „Istraži zajednice”. Tvoja početna stranica i dalje radi."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Sakrij sve feedove"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Skriva i tvoju početnu stranicu. I dalje možeš otvarati subreddite i pretraživati."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Na početnoj stranici prikazuj samo objave iz subreddita čiji si član"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Prikaži slike u sivim tonovima"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Premjesti broj glasova ispod objava"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Oboji komentare prema razini odgovora"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Uključi prelazak prstom po komentarima"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Kratki prelazak udesno"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Dugi prelazak udesno"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Kratki prelazak ulijevo"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Dugi prelazak ulijevo"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Glasaj za"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Glasaj protiv"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Sažmi"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Odgovori"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Spremi"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Uključi prelazak prstom po objavama"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Glasaj za"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Glasaj protiv"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Sakrij"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Dijeli"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Spremi"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Otvori komentare"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Otvori izvornu poveznicu"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Pregled"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Subredditi s dopuštenim prilagođenim CSS-om"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Prilagođeni stilovi subreddita prema zadanim su postavkama skriveni kako bi sve bilo čitljivo na malim zaslonima."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "naziv subreddita (npr. politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Ukloni subreddit „$1”"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Još nema dodanih subreddita."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Sakrij „Za vas”"
+  },
+  "settings_xHideAds": {
+    "message": "Sakrij oglase"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Filtriraj objave prema stupnju veze"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Prikaži sve"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Sakrij objave veza 3. stupnja"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Sakrij objave veza 2. i 3. stupnja"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Sakrij objave s oznakom „Promoted”"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Prekrij slike i videozapise u feedu"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Prikaži slike u sivim tonovima"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Prikaži videozapise u sivim tonovima"
+  },
+  "settings_inBrowserNote": {
+    "message": "Ukloni oglase, smanji ometanja i filtriraj feedove. Vrijedi u pregledniku RelockIn."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Postavke vrijede za web-stranice u pregledniku RelockIn, **ne za aplikaciju $1.** Prijavi se da vidiš promjenu u svom feedu."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Postavke vrijede za web-stranice u pregledniku RelockIn, **ne za aplikaciju $1.** Otvori web-stranicu da vidiš promjenu."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Pogledaj na $1"
+  },
+  "settings_generalSection": {
+    "message": "Općenito"
+  },
+  "settings_showSessionTimer": {
+    "message": "Prikaži mjerač vremena sesije"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Natjeraj me da kratko udahnem prije otključavanja web-stranice"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Trajanje udaha (u sekundama)"
+  },
+  "settings_clearSection": {
+    "message": "Poništi"
+  },
+  "settings_ytAiContent": {
+    "message": "AI videozapisi"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Prikaži"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Prikazuj ih kao i sve ostale videozapise"
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Oznaka"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Dodaj oznaku AI na njihove minijature"
+  },
+  "settings_ytAiContentCover": {
+    "message": "Prekrij"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Prekrij ih, a pojedini ipak možeš prikazati"
+  },
+  "settings_ytAiContentHide": {
+    "message": "Sakrij"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Ukloni ih iz feedova, pretraživanja i preporuka"
+  },
+  "settings_ytAiVotes": {
+    "message": "Tvoji AI glasovi"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Nije AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Još nema kanala"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Ukloni kanal „$1”"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Blokirani kanali"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Njihovi su videozapisi skriveni posvuda na YouTubeu. Upotrijebi gumb „Blokiraj kanal” ispod videozapisa ili na stranici kanala."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts i oglasi"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Pokreti prstom"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Početna i feed"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI i kanali"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Sljedeće"
+  },
+  "settings_sectionTabs": {
+    "message": "Kartice"
+  },
+  "settings_sectionFeed": {
+    "message": "Feed"
+  },
+  "settings_sectionFeeds": {
+    "message": "Feedovi"
+  },
+  "settings_sectionAppearance": {
+    "message": "Izgled"
+  },
+  "settings_sectionOther": {
+    "message": "Ostalo"
+  },
+  "support_titleHelp": {
+    "message": "Zatraži pomoć"
+  },
+  "support_titleFeedback": {
+    "message": "Pošalji povratne informacije"
+  },
+  "support_titleReportProblem": {
+    "message": "Prijavi problem"
+  },
+  "support_sentimentTitle": {
+    "message": "Što nam želiš poručiti?"
+  },
+  "support_sentimentPositive": {
+    "message": "Nešto mi se sviđa"
+  },
+  "support_sentimentNegative": {
+    "message": "Nešto treba poboljšati"
+  },
+  "support_reviewTitle": {
+    "message": "Drago nam je to čuti!"
+  },
+  "support_reviewBody": {
+    "message": "Možeš li ostaviti kratku recenziju? Tako će i drugi lakše pronaći RelockIn.\n\nNašem malom timu to puno znači."
+  },
+  "support_reviewCta": {
+    "message": "Napiši recenziju"
+  },
+  "support_personalNoteTitle": {
+    "message": "Poruka developera"
+  },
+  "support_personalNoteBody": {
+    "message": "Hvala ti što koristiš RelockIn. Svaku poruku čitam osobno i odgovorit ću čim stignem."
+  },
+  "support_personalNoteSignOff": {
+    "message": "– Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Hvala! Imaš li kakav komentar ili prijedlog?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Žao nam je što to čujemo. Napiši nam što ne radi kako treba i pogledat ćemo to."
+  },
+  "support_messageLabel": {
+    "message": "Tvoja poruka"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Kako ti možemo pomoći?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "O čemu razmišljaš?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Što ne radi na ovoj web-stranici?"
+  },
+  "support_siteLabel": {
+    "message": "Web-stranica"
+  },
+  "support_emailLabel": {
+    "message": "Tvoja adresa e-pošte"
+  },
+  "support_emailPlaceholder": {
+    "message": "ime@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Unesi valjanu adresu e-pošte."
+  },
+  "support_sendCta": {
+    "message": "Pošalji"
+  },
+  "support_sendError": {
+    "message": "Slanje poruke nije uspjelo. Provjeri vezu i pokušaj ponovno."
+  },
+  "support_sentTitle": {
+    "message": "Poruka je poslana"
+  },
+  "support_sentBodyFormat": {
+    "message": "Hvala! Odgovorit ćemo na adresu $1 što prije."
+  },
+  "support_sendAnotherCta": {
+    "message": "Pošalji još jednu poruku"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Trebaš pomoć?"
+  },
+  "support_accountFooterCta": {
+    "message": "Obrati se podršci"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Poruka stiže izravno developeru"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Dijagnostički zapisnici"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Dijagnostički zapisnici"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Još nema zapisa."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Zapisnik za otklanjanje pogrešaka"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Ovi se zapisi spremaju samo lokalno na ovom uređaju. Nikad se ne prenose ni dijele automatski. Kad prijavljuješ problem, gumbom za dijeljenje pošalji ih developeru."
+  },
+  "target_domainType": {
+    "message": "Cijela web-stranica"
+  },
+  "target_urlPatternType": {
+    "message": "Podudaranje URL-a"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Zaključava cijelu web-stranicu, sa svim podstranicama. Samo upiši njezin naziv (npr. reddit.com) – poddomene i putanje URL-a nisu važne."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Zaključava svaki URL koji sadrži ovaj tekst. Znak * zamjenjuje bilo što između.\n\nPrimjeri:\n- youtube.com/shorts zaključava Shortse na YouTubeu, ali ne i obične videozapise\n- reddit.com/r/politics zaključava samo taj subreddit\n- x.com/*/status/* zaključava pojedinačne tweetove, ali ne i ostatak X-a, npr. stranice profila"
+  },
+  "target_scopeNote": {
+    "message": "Zaključavanja vrijede u pregledniku RelockIn, ali ne i u drugim preglednicima poput Safarija. Za vremenski ograničeno otključavanje pokreni sesiju."
+  },
+  "target_emptyPattern": {
+    "message": "(prazno)"
+  },
+  "target_addTargetTitle": {
+    "message": "Zaključaj web-stranicu"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Što želiš zaključati?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Ukloni web-stranicu"
+  },
+  "target_editTargetTitle": {
+    "message": "Uredi stavku"
+  },
+  "target_editingLabel": {
+    "message": "Uređivanje"
+  },
+  "target_typePickerLabel": {
+    "message": "Vrsta"
+  },
+  "typingSentences_short1": {
+    "message": "Ovo biram potpuno svjesno."
+  },
+  "typingSentences_short2": {
+    "message": "Preuzimam odgovornost za ovu odluku."
+  },
+  "typingSentences_short3": {
+    "message": "Sada stojim iza ovog izbora."
+  },
+  "typingSentences_short4": {
+    "message": "Ovo je moja promišljena odluka."
+  },
+  "typingSentences_short5": {
+    "message": "Ovu odluku donosim smireno i pažljivo."
+  },
+  "typingSentences_long1": {
+    "message": "Svjesno zaobilazim vlastita ograničenja koja štite moje vrijeme i fokus i prihvaćam odgovornost koju nosi ovaj izbor."
+  },
+  "typingSentences_long2": {
+    "message": "Mi smo ono što stalno činimo. Izvrsnost, dakle, nije čin, nego navika. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Izbori postaju navike. Navike postaju karakter. A karakter postaje sudbina."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrolling ili doomsurfing je provođenje pretjerano mnogo vremena uz kratke videozapise ili velike količine sadržaja koji stvaraju korisnici te vijesti, osobito negativne, na webu i društvenim mrežama. Ankete i istraživanja upućuju na to da je doomscrolling najrašireniji među mladima. Istraživanje američke Nacionalne akademije znanosti iz 2019. pokazalo je da se doomscrolling može povezati s pogoršanjem mentalnog i fizičkog zdravlja."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Beskonačno skrolanje način je dizajna koji neprestano učitava sadržaj dok se korisnik pomiče prema dolje, pa nema potrebe za podjelom na stranice. Zbog toga ta značajka može pojačati doomscrolling jer uklanja prirodne točke na kojima bi korisnik mogao zastati. Istraživanja su također pokazala da sklonost društvenih mreža pojačavanju negativnog sadržaja može pogoršati to neprekidno skrolanje, pa korisnici dulje ostaju zaokupljeni lošim vijestima."
+  },
+  "typingSentences_paragraph3": {
+    "message": "Poslovni modeli većine društvenih mreža uvelike se oslanjaju na angažman korisnika, što znači da što ljudi dulje ostaju na platformi, to vide više oglasa i to se o njihovu ponašanju prikuplja više podataka. Tako nastaje krug u kojem se emocionalno nabijen sadržaj - često negativan ili onaj koji izaziva tjeskobu - stalno gura korisnicima i potiče ih da nastave skrolati i trošiti još sadržaja."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Trenutačna zabava, informacije i povezanost čine društvene mreže privlačnima. Ovisnost o društvenim mrežama obilježava pretjerana i kompulzivna upotreba koja utječe na svakodnevno funkcioniranje i opću dobrobit. Ona nije samo provođenje previše vremena na internetu, nego uključuje kompulzivno provjeravanje novosti, tjeskobu izvan mreže te negativne posljedice za odnose i obveze u stvarnom životu."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Algoritmi kratkih videozapisa stvaraju snažnu ovisnost jer iz jednadžbe uklanjaju tvoj izbor i namjeru. Uklanjanjem kognitivnog tereta odlučivanja o tome što slijedi aplikacije svjesno odlučivanje zamjenjuju neprekidnim, pasivnim stanjem zanesenosti na autopilotu. U tom je stanju nevjerojatno lako i ugodno nastaviti, a nevjerojatno teško prestati."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Društvene mreže osmišljene su da stvaraju ovisnost. Tehnološke tvrtke dizajniraju te aplikacije da zaokupe tvoju pažnju aktiviranjem centra za nagradu u mozgu. Spoj odobravanja potaknutog dopaminom, nepredvidljivih nagrada i psiholoških udica čini da je mobitel nevjerojatno teško odložiti. Prepoznavanje tih taktika dizajna prvi je korak prema ponovnom preuzimanju kontrole nad digitalnim navikama i zdravijem odnosu prema tehnologiji."
+  },
+  "usage_title": {
+    "message": "Upotreba"
+  },
+  "usage_subtitle": {
+    "message": "Prati svoje vrijeme pred ekranom po pravilima i sesijama."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Nema podataka o upotrebi"
+  },
+  "usage_noUsageBody": {
+    "message": "Ovdje ćeš vidjeti podatke o upotrebi nakon prve sesije."
+  },
+  "usage_today": {
+    "message": "Danas"
+  },
+  "usage_thisWeek": {
+    "message": "Ovaj tjedan"
+  },
+  "usage_thisMonth": {
+    "message": "Ovaj mjesec"
+  },
+  "usage_yesterday": {
+    "message": "Jučer"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Još nema pravila."
+  },
+  "usage_daily": {
+    "message": "Dnevno"
+  },
+  "usage_weekly": {
+    "message": "Tjedno"
+  },
+  "usage_monthly": {
+    "message": "Mjesečno"
+  },
+  "usage_previousPeriod": {
+    "message": "Prethodno razdoblje"
+  },
+  "usage_nextPeriod": {
+    "message": "Sljedeće razdoblje"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Razdoblje"
+  },
+  "usage_unknownRule": {
+    "message": "Nepoznato pravilo"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 od $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

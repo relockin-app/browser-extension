@@ -1,0 +1,2807 @@
+{
+  "about_tagline": {
+    "message": "방해 요소는 차단하고, 최고의 나에게 집중하세요."
+  },
+  "about_welcome": {
+    "message": "RelockIn에 오신 것을 환영해요!"
+  },
+  "about_sentence": {
+    "message": "RelockIn은 방해 요소를 없애 주는 브라우저예요. 포커스 허브에서 규칙과 스케줄을 간단히 설정해 방해되는 앱과 웹사이트의 사용을 제한할 수 있어요. 원리는 단순해요. 휴대폰을 쓰는 매 순간이 의도한 시간이라면 어떨까요?\n\n또한 RelockIn에는 자유롭게 맞춤설정할 수 있고 개인정보를 중시하는 모바일 브라우저가 포함되어 있어요. RelockIn은 검색 기록을 추적하지 않으며, 데이터를 누구와도 공유하지 않아요. RelockIn은 브라우저가 완전히 통합된 유일한 포커스 앱이라서, 릴스와 Shorts 같은 방해 요소를 웹사이트에서 제거할 수 있는 유일한 앱이에요. 덕분에 한층 더 세밀하게 제어할 수 있어요."
+  },
+  "about_versionHeader": {
+    "message": "Android용 RelockIn"
+  },
+  "about_extensionName": {
+    "message": "RelockIn - AI 슬롭, Shorts, 릴스, 웹사이트 차단 | 집중 및 스크린 타임"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn - AI 슬롭, Shorts, 릴스, 웹사이트 차단"
+  },
+  "about_extensionDescription": {
+    "message": "AI 영상, Shorts, 릴스, 끝없는 피드를 차단하세요. 모든 웹사이트에 사용 시간 제한과 스케줄도 설정할 수 있어요."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "이 규칙을 삭제할"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "‘$1’에 대한 제한을 없앨"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "일일 한도를 늘릴"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "휴식을 건너뛸"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "스케줄 제한을 일시 해제할"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "일일 한도를 넘어 사용할"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "이 스케줄을 삭제할"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "이 스케줄을 완화할"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "외부 앱이나 웹사이트를 차단 목록에서 제거할"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "이 안전장치를 완화할"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "‘$1’ 챌린지의 난이도를 낮출"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "‘$1’ 챌린지를 삭제할"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "‘안전장치 완화 전에 챌린지 진행’ 설정을 끌"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "일일 한도를 다 써서 시간이 더 필요하면…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "최대 2분"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2~10분"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "10분 초과"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "스케줄 제한을 일시 해제하고 싶다면…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "휴식 알림이 떠도 계속 사용하고 싶다면…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "연속 세션을 너무 많이 시작하면 휴식을 권해요. 휴식 시간은 ‘연속 사용 방지’에서 바꿀 수 있어요."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "연속 세션 1회"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "연속 세션 2~3회"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "연속 세션 4회 이상"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "스크린 타임 규칙을 완화한다면…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "앱 제거"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "웹사이트 제거"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "규칙 삭제"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "일일 한도 늘리기"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "스케줄을 완화한다면…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "차단 중이 아닐 때"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "차단 중일 때"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "계속하려면 문장을 입력하세요"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "계속하려면 문단을 입력하세요"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "문단:\n“$1”"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "타이머가 끝날 때까지 기다려 주세요"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "카운트다운이 끝나야 계속할 수 있어요."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "타이머가 끝났어요. 계속할 수 있어요."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "정말 진행할까요?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "정말 $1 건가요?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "더 확실한 보호가 필요하세요? ‘안전장치’ 탭에서 목표를 지키는 데 도움이 되는 적당한 제약을 설정해 보세요."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "네, 계속할게요"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "$1 수 없어요"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "할 수 없어요"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "안전장치 설정으로 막혀 있어서 어떤 챌린지로도 진행할 수 없어요."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "꼭 해야 해요"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "안전장치 설정은 ‘안전장치’ 탭에서 변경할 수 있어요."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "안전장치로 이동"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "문장:\n“$1”"
+  },
+  "challengeUi_confirm": {
+    "message": "확인"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "아직 일치하지 않아요. 맞춤법과 문장부호를 확인해 보세요."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "완료됐어요."
+  },
+  "challengeUi_typeExactly": {
+    "message": "문장을 보이는 그대로 입력하세요."
+  },
+  "challengeUi_keepGoing": {
+    "message": "계속 입력하세요…"
+  },
+  "challengeUi_typingReady": {
+    "message": "다 됐어요!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "일치하지 않아요. 오타가 있는지 꼼꼼히 비교해 보세요."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "계속하려면 문제를 모두 풀어 주세요"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "답을 입력하고 ‘확인’을 탭하세요."
+  },
+  "challengeUi_allCorrect": {
+    "message": "모두 맞았어요!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "틀린 답이 있어요. 강조 표시된 입력란을 확인하세요."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "$1번 문제의 답"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "책임 파트너에게 알림이 가요"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "제한을 풀기로 했다는 이메일이 책임 파트너에게 전송돼요. 이 알림은 목표를 끝까지 지킬 수 있도록 돕기 위한 거예요."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "알림 보내고 계속"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "못 하겠어요"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "대신 $1분 기다리기"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "ko"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "없음"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "쉬움"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "보통"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "어려움"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "매우 어려움"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "극한"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "불가능"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "간단한 확인"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "기본값: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "저장하지 못했어요"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "$1 남음"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "챌린지 입력란"
+  },
+  "challenges_customizeChallenges": {
+    "message": "챌린지 편집"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "‘쉬움’, ‘보통’, ‘어려움’ 챌린지에 포함된 단계를 바꾸거나 직접 만들 수 있어요"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "챌린지가 필요한 상황"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "스크린 타임 규칙 삭제, 추가 시간 받기 등의 난이도를 바꿀 수 있어요"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "기본 제공"
+  },
+  "challenges_customChallengesSection": {
+    "message": "사용자 지정"
+  },
+  "challenges_newChallenge": {
+    "message": "새로 만들기"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "아직 사용자 지정 챌린지가 없어요. +를 탭해 만들어 보세요."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "이름 (예: “지옥”)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "새 챌린지"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "챌린지에 고유한 이름을 지어 주세요."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "각 챌린지에서 할 일을 고르거나 직접 만들어 보세요."
+  },
+  "challenges_savedBadge": {
+    "message": "저장됨"
+  },
+  "challenges_noSteps": {
+    "message": "단계가 없어요. 저장하려면 하나 이상 추가하세요."
+  },
+  "challenges_addStep": {
+    "message": "단계 추가"
+  },
+  "challenges_difficultyLabel": {
+    "message": "난이도"
+  },
+  "challenges_problemsLabel": {
+    "message": "문제 수"
+  },
+  "challenges_operationsLabel": {
+    "message": "연산"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "짧은 문장 입력"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "긴 문장 입력"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "문단 입력"
+  },
+  "challenges_stepNameMath": {
+    "message": "수학 문제 풀기"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "책임 파트너 이메일"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "타이머 기다리기"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "시간: $1분 $2초"
+  },
+  "challenges_stepCount": {
+    "message": "단계 $1개"
+  },
+  "challenges_stepCount__lang": {
+    "message": "ko"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "이 규칙의 챌린지"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "‘$1’ 규칙에만 적용돼요."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "모든 규칙의 챌린지를 바꾸거나 단계를 수정하려면:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "안전장치 탭으로 이동"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "안전장치 완화 전에 챌린지 진행"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "챌린지를 쉽게 바꾸려면 먼저 제거할 단계를 직접 완료해야 해요."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "앞으로 $1분 동안은 안전장치를 자유롭게 조정할 수 있어요. 그 후에 완화하려면 챌린지가 필요해요."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "ko"
+  },
+  "common_save": {
+    "message": "저장"
+  },
+  "common_cancel": {
+    "message": "취소"
+  },
+  "common_done": {
+    "message": "완료"
+  },
+  "common_ok": {
+    "message": "확인"
+  },
+  "common_edit": {
+    "message": "편집"
+  },
+  "common_delete": {
+    "message": "삭제"
+  },
+  "common_defaultOption": {
+    "message": "기본값"
+  },
+  "common_back": {
+    "message": "뒤로"
+  },
+  "common_skip": {
+    "message": "건너뛰기"
+  },
+  "common_next": {
+    "message": "다음"
+  },
+  "common_gotIt": {
+    "message": "확인"
+  },
+  "common_none": {
+    "message": "없음"
+  },
+  "common_yes": {
+    "message": "예"
+  },
+  "common_no": {
+    "message": "아니요"
+  },
+  "common_start": {
+    "message": "시작"
+  },
+  "common_loading": {
+    "message": "불러오는 중…"
+  },
+  "common_error": {
+    "message": "오류"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "닫기"
+  },
+  "common_continue": {
+    "message": "계속"
+  },
+  "common_dismiss": {
+    "message": "닫기"
+  },
+  "common_notNow": {
+    "message": "나중에"
+  },
+  "common_noThanks": {
+    "message": "괜찮아요"
+  },
+  "common_maybeLater": {
+    "message": "다음에 할게요"
+  },
+  "common_add": {
+    "message": "추가"
+  },
+  "common_create": {
+    "message": "만들기"
+  },
+  "common_startSetup": {
+    "message": "설정 시작"
+  },
+  "common_continueSetup": {
+    "message": "설정 계속하기"
+  },
+  "common_resumeSetupTitle": {
+    "message": "하던 설정 이어서 하기"
+  },
+  "common_setItUp": {
+    "message": "설정하기"
+  },
+  "common_howItWorks": {
+    "message": "작동 방식"
+  },
+  "common_getStarted": {
+    "message": "시작하기"
+  },
+  "common_signIn": {
+    "message": "로그인"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1분"
+  },
+  "common_hoursCount": {
+    "message": "$1시간"
+  },
+  "common_hoursCount__lang": {
+    "message": "ko"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "$2단계 중 $1단계"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "피드에서 Shorts $1개를 제거했어요"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "ko"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "닫기"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "RelockIn이 가렸어요"
+  },
+  "domShared_coverDismiss": {
+    "message": "가림 해제"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "가림 해제 불가"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "가림 해제 ($1초)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "로그인이 필요해요."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "로그인"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "닫기"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit이 앱 설치를 강요하려 했어요."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "문제가 생기면 페이지를 새로고침하거나 Zen 모드로 전환해 보세요."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "닫기"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "이 피드는 숨겨져 있어요"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Reddit의 ‘인기’와 ‘전체’ 피드를 숨기도록 설정했어요."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Reddit 피드를 숨기도록 설정했어요."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "참여한 서브레딧"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "RelockIn 설정에서 변경할 수 있어요."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "모두 확인했어요"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "참여한 서브레딧의 새 게시물은 여기까지예요."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "더 불러오기"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "재생"
+  },
+  "domShared_ytControlsPause": {
+    "message": "일시중지"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "광고 건너뛰기"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "재생 속도"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "볼륨"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "추천"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "비추천"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "투표 취소"
+  },
+  "domShared_redditActionSave": {
+    "message": "저장"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "저장 취소"
+  },
+  "domShared_redditActionHide": {
+    "message": "숨기기"
+  },
+  "domShared_redditActionShare": {
+    "message": "공유"
+  },
+  "domShared_redditActionComments": {
+    "message": "댓글"
+  },
+  "domShared_redditActionExpand": {
+    "message": "펼치기"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "접기"
+  },
+  "domShared_redditActionReply": {
+    "message": "답글"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "옵션 더보기"
+  },
+  "domShared_redditActionScore": {
+    "message": "점수"
+  },
+  "domShared_redditActionSource": {
+    "message": "출처"
+  },
+  "domShared_redditActionPreview": {
+    "message": "미리보기"
+  },
+  "domShared_redditMenuSave": {
+    "message": "저장"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "저장 취소"
+  },
+  "domShared_redditMenuHide": {
+    "message": "숨기기"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "숨기기 취소"
+  },
+  "domShared_redditMenuShare": {
+    "message": "공유"
+  },
+  "domShared_redditMenuReport": {
+    "message": "신고"
+  },
+  "domShared_redditMenuParent": {
+    "message": "상위 댓글"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "고정 링크"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "삽입"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "교차 게시"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "댓글 링크 복사"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "게시물 링크 복사"
+  },
+  "domShared_redditAgeNow": {
+    "message": "방금"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1분"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1시간"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1일"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1개월"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1년"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Instagram 스토리"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "모르는 사람의 게시물을 숨겼어요."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "이 동영상을 숨겼어요."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "이 광고를 숨겼어요."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "작성자: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "3촌 관계인 회원의 게시물이에요"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "1촌이 아닌 회원의 게시물이에요"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "집중을 지키기 위해 가렸어요."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "집중을 위해 이 광고를 숨겼어요"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "눌러서 가림 해제"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "집중을 위해 이미지를 가렸어요"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "눌러서 가림 해제"
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "집중을 위해 동영상을 가렸어요."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "추천 동영상"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "재생 속도: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "볼륨: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "10초 뒤로"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "10초 앞으로"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "더 좋은 일에 시간을 써 보세요."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "AI 생성 동영상"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "내가 ‘AI’로 투표한 채널"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "그래도 보기"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "그래도 시청"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "AI 아님"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "AI 가능성 있음"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "AI 추정"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "AI 가능성 매우 높음"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "의견 엇갈림"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "RelockIn 검토 완료"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "AI 생성 추정"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "AI 생성 가능성 매우 높음"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "RelockIn 사용자 투표 결과"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "AI 영상 채널인가요?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "어떤 경우가 AI인가요?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "지금은 내 투표가 나에게만 적용돼요. RelockIn에 로그인하면 다른 사용자와 공유할 수 있어요."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "로그인"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "닫기"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "채널 동영상 대부분에 다음이 쓰였다면 ‘AI’에 투표하세요:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "AI가 쓴 대본"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "AI 음성"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "AI로 만든 이미지나 영상"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "AI 음악"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "AI가 아닌 경우:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "AI 도구 리뷰처럼 AI를 다루는 동영상"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "음질 보정 같은 가벼운 AI 편집"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "투표는 내 화면에 바로 반영되고, 다른 RelockIn 사용자에게도 도움이 돼요."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "라벨이 잘못됐나요? 이의 제기하기"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "옵션 더보기"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "채널 차단"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "차단됨"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "채널 차단 해제"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "차단한 채널이에요"
+  },
+  "limits_title": {
+    "message": "규칙 및 세션"
+  },
+  "limits_subtitle": {
+    "message": "세션을 시작하고 스크린 타임 규칙을 관리하세요."
+  },
+  "limits_addRule": {
+    "message": "+ 규칙 추가"
+  },
+  "limits_webextRulesTitle": {
+    "message": "스크린 타임 규칙"
+  },
+  "limits_webextRulesDescription": {
+    "message": "일일 한도와 세션으로 내 시간을 지켜요"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "아직 규칙이 없어요. 규칙을 추가해 사용 시간을 제한해 보세요."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "SNS"
+  },
+  "main_backToBrowser": {
+    "message": "브라우저로 돌아가기"
+  },
+  "main_openFullPage": {
+    "message": "전체 페이지로 열기"
+  },
+  "main_tabLimits": {
+    "message": "규칙"
+  },
+  "main_tabSettings": {
+    "message": "맞춤설정"
+  },
+  "main_protectionTitle": {
+    "message": "안전장치"
+  },
+  "main_protectionSubtitle": {
+    "message": "충동적인 결정 전에 잠깐 멈추게 해 줘요"
+  },
+  "main_tabAccount": {
+    "message": "계정"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "일일 평균"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "평균"
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "툴바에서 **퍼즐 조각** 아이콘을 클릭하세요"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "**RelockIn**을 찾아 **핀** 아이콘을 클릭하세요"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "내 스크린 타임 규칙"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "규칙을 클릭하면 편집할 수 있어요. 규칙마다 일일 한도가 따로 있어요."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "**RelockIn**에 오신 걸 환영해요"
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "1분 정도면 끝나요"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "별로요"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "YouTube의 AI 슬롭, 지겨우세요?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "이제 피드부터 검색 결과까지, 대충 찍어낸 AI 영상이 어디에나 있어요."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "스크롤하는 시간을 줄이고 싶으세요?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "의지력에만 기대지 않아도 돼요."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AI 콘텐츠"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "클릭하기 **전에** AI 영상을 알아보세요"
+  },
+  "onboardingWebext_aiBody": {
+    "message": "RelockIn으로 피드의 AI 콘텐츠를 가리거나 숨기거나 라벨을 붙일 수 있어요."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "선택 사항"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "함께 AI 콘텐츠를 **가려내요**"
+  },
+  "onboardingWebext_accountBody": {
+    "message": "RelockIn 커뮤니티가 함께 AI 콘텐츠를 가려내고 있어요. 가입하면 내 투표로 다른 사용자도 AI를 알아보고 차단할 수 있어요."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "로그인됨"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "이제 내 투표로 다른 사용자도 AI를 알아보고 차단할 수 있어요."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "이메일로 계속하기"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "숏폼 영상"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Shorts와 릴스를 **사라지게** 하세요"
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "YouTube의 Shorts, Instagram의 릴스만 쏙 빼고 나머지는 그대로 쓰세요."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Shorts와 릴스 숨기기"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "선택 사항: 일일 한도"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "**목적을 갖고** 스크롤하세요"
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "어떤 사이트에 한도를 설정할까요?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "나중에 더 추가할 수 있어요."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "사이트를 선택하면 여기에 규칙이 표시돼요"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "빠른 실행"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "고정했어요. 좋아요!"
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "iPhone·Android용 RelockIn"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "**휴대폰**에서도 사용하세요"
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "RelockIn 앱으로 YouTube, Instagram 등을 맞춤설정해 AI 콘텐츠와 Shorts, 릴스처럼 집중을 방해하는 요소를 없앨 수 있어요.\n\n방해되는 앱도 잠글 수 있어서 내 시간을 되찾을 수 있어요."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "휴대폰 카메라로 스캔하세요"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "모든 준비가 끝났어요"
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "YouTube에서 확인하기"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "설정을 마무리하세요"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "설정은 새 탭에서 열리고 1분 정도면 끝나요."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "설정 계속하기"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "자주 쓰는 사이트에서 AI 슬롭, Shorts, 끝없는 피드를 없애 보세요."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "계정을 만들면 뭐가 좋나요?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "계정이 없으면 내 투표는 나에게만 AI 채널을 표시해 주고, 다른 사람에게는 도움이 되지 않아요. 계정을 만들면 투표를 신뢰할 수 있어서 커뮤니티 전체가 AI 콘텐츠를 가려내는 데 도움이 돼요. 내가 어떻게 투표했는지 다른 사용자는 볼 수 없어요.\n\n계정은 iPhone과 Android용 RelockIn에서도 사용할 수 있어요."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "투명성을 중요하게 생각해요. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "코드는 공개되어 있어요"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "사이트 맞춤설정"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "사이트의 중독성을 낮추는 **40가지 이상의 방법**"
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn으로 YouTube, Instagram, Reddit, X, LinkedIn을 바꿀 수 있어요. 여기서 몇 가지를 사용해 보고, 나머지는 설정에서 확인하세요."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "$1의 일일 한도"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "**클릭 한 번**이면 RelockIn이 바로 열려요"
+  },
+  "onboardingWebext_pinBody": {
+    "message": "확장 프로그램을 고정해 두면 어떤 설정이든 쉽게 바꿀 수 있어요."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "설정 닫기"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "아직 한도가 없어요"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "시간을 많이 뺏기는 사이트를 골라 각각 일일 한도를 설정하세요. 30초 정도면 끝나요."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "한도 설정하기"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "피드에 팔로우하는 계정의 게시물만 표시"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "r/popular, r/all 끄기"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI 영상"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts와 릴스"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "사이트 맞춤설정"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "일일 한도"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "AI 판별 투표"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "숨김"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "표시"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "꺼짐"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "가려짐"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "라벨 표시됨"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "커뮤니티 전체를 위해"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "나에게만 적용"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1개 켜짐"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "ko"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "사이트 $1개"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "ko"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "SNS의 중독성을 낮추고 싶으세요?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "좋아하는 부분은 그대로 두고, 방해 요소만 줄여 보세요."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "제대로 찾아오셨어요"
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "알겠어요. 주요 기능을 보여 드릴게요"
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "어떤 사이트든 일일 한도를 설정해 스크린 타임을 관리할 수 있어요.\n\nRelockIn이 무심코 스크롤하는 습관을 멈추도록 도와드려요."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "필요한 시간 고르기"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "사이트 사용하기"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "시간이 다 되면 다시 잠금"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "일일 한도 사용해 보기"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "모든 기능이 **여기** 있어요"
+  },
+  "onboardingWebext_tourBody": {
+    "message": "툴바의 RelockIn 아이콘을 클릭하면 언제든 이 패널을 열 수 있어요."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "$1에서 시간을 얼마나 보낼까요?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "$1 세션이 끝났어요."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "분/일"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5분 줄이기"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5분 늘리기"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "스크린 타임"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "툴바의 RelockIn 아이콘에서 무엇이든 바꿀 수 있어요."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "브라우저 확장 프로그램 메뉴의 RelockIn에서 무엇이든 바꿀 수 있어요."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "지금 이 시간을 가장 잘 쓰고 있나요?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "깊게 숨을 쉬어 보세요"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "또는 $1에 꼭 계속 접속해야 한다면, ‘$2’ 규칙의 세션을 시작할 수 있어요"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "오늘 $1분 $2초 남음"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "휴대폰에도 RelockIn을 설치해 보세요"
+  },
+  "overlay_closeTab": {
+    "message": "이 탭 닫기"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "오늘 남은 시간"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "오늘 사용 시간"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "새 한도 시작"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "또는 꼭 계속 이용해야 한다면, ‘$1’ 규칙의 세션을 시작할 수 있어요"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "‘$1’"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "현재 규칙: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "RelockIn 열기"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "옵션 더보기"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "일일 사용량"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "RelockIn 다운로드용 QR 코드"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "**RelockIn** 앱을 받으세요"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Shorts, 릴스, AI 영상 제거"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "원하는 앱과 사이트에 일일 한도 설정"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "수면과 집중 시간 지키기"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "휴대폰에서는 이 확장 프로그램의 기능이 제한돼요"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "RelockIn 앱을 쓰면 어떤 앱이든 사용을 제한하고, 방해 요소와 AI 영상을 모두 제거할 수 있어요."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "YouTube, Instagram 앱에서는 작동하지 않아요"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "일일 한도와 스케줄은 각각 1개만 만들 수 있어요"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "AI 영상에 라벨은 붙일 수 있지만 숨길 수는 없어요"
+  },
+  "phoneWebext_getApp": {
+    "message": "앱 받기"
+  },
+  "phoneWebext_continueHere": {
+    "message": "브라우저에서 계속하기"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "또는 여기서 계속하기(기능 제한)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "스크린 타임 규칙을 제한 없이 만들려면 RelockIn 앱을 받으세요"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "스케줄을 제한 없이 만들려면 RelockIn 앱을 받으세요"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "**RelockIn 앱**에서 모든 설정을 사용해 보세요"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "RelockIn Pro 기능"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "무료 버전에서는 이 사이트들이 일일 한도 하나를 함께 사용해요."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "충동적인 행동에 제동 걸기"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "일일 한도 초과 사용이나 규칙 삭제 전에 일부러 한 단계를 더 거치도록 설정해요.\n1분 정도 걸려요."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "안전장치 설정"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "연속 사용 방지"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "세션을 연달아 너무 많이 쓰면 잠시 쉬어 가요"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "먼저 규칙부터 설정해 주세요"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "안전장치를 추가하기 전에 ‘규칙’ 탭에서 규칙 설정을 마쳐 주세요."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "충동적인 결정 전에 잠시 멈춰 보세요"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "일일 한도 초과 사용이나 규칙 삭제 같은 동작 전에, RelockIn이 간단한 챌린지로 의도한 행동인지 확인할 수 있어요."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "언제든 직접 조절할 수 있어요."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "직접 해 보기"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "카드를 탭해서 챌린지를 직접 해 보세요."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "일일 한도를 조금 넘겨 사용"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "짧은 문장 입력"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "차단 목록에서 앱 제거"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "수학 문제 몇 개 풀기"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "스케줄 완화"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "긴 문장 입력"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "안전장치를 얼마나 엄격하게 할까요?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "언제든 바꿀 수 있어요."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "가벼움"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "충동적인 행동 전에 가볍게 알려 줘요."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "균형"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "자주 하는 실수를 막는 추가 단계예요."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "엄격"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "나쁜 습관을 끊도록 더 강력하게 막아요."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "추천"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "‘$1’ 단계로 설정"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "연속 사용 방지"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "세션을 연달아 너무 많이 시작하면 휴식하게 할 수 있어요."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "내가 세션을 연속으로 2번 이상 시작하면 (간격이"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "미만일 때),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "휴식 시간:"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "예시"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  ‘SNS’ 5분 세션을 시작해요."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  5분 세션을 또 시작해요"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  세 번째 세션을 시작하기 전에 휴식하게 해요"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30초"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1분"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2분"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3분"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5분"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10분"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "안전장치가 켜졌어요"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "언제든 변경할 수 있어요:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "챌린지가 필요한 시점"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "각 챌린지에서 해야 할 일"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "특정 규칙의 챌린지"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "메인 앱으로 돌아가기"
+  },
+  "rule_noAppsBlocked": {
+    "message": "차단된 앱 없음"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "규칙 이름"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "맛보기"
+  },
+  "rule_deleteRule": {
+    "message": "규칙 삭제"
+  },
+  "rule_editRule": {
+    "message": "규칙 편집"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "차단된 앱"
+  },
+  "rule_changeBlockedApps": {
+    "message": "차단된 앱 변경"
+  },
+  "rule_blockedInsideSection": {
+    "message": "RelockIn 브라우저에서 차단된 사이트"
+  },
+  "rule_noTargets": {
+    "message": "아직 차단된 사이트가 없어요."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "규칙 설정"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "일일 허용 시간(분)"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "분"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "일일 한도 $1분 줄이기"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "ko"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "일일 한도 $1분 늘리기"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "ko"
+  },
+  "rule_customizeGuardrails": {
+    "message": "안전장치 조정"
+  },
+  "rule_targetsSection": {
+    "message": "대상 사이트"
+  },
+  "rule_defaultRuleName": {
+    "message": "새 규칙"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "세션 진행 중"
+  },
+  "rule_lockedAccessibility": {
+    "message": "잠김"
+  },
+  "rule_appCount": {
+    "message": "앱 $1개"
+  },
+  "rule_appCount__lang": {
+    "message": "ko"
+  },
+  "rule_siteCount": {
+    "message": "사이트 $1개"
+  },
+  "rule_siteCount__lang": {
+    "message": "ko"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "스케줄 이름"
+  },
+  "scheduleCard_unsaved": {
+    "message": "저장 안 됨"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "시간대"
+  },
+  "scheduleCard_startLabel": {
+    "message": "시작"
+  },
+  "scheduleCard_endLabel": {
+    "message": "종료"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "적용 요일"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "매일"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "요일 없음"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "평일"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "주말"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "일"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "월"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "화"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "수"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "목"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "금"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "토"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "일"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "월"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "화"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "수"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "목"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "금"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "토"
+  },
+  "scheduleCard_modeSection": {
+    "message": "모드"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "시간 중 차단"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "시간 중에만 허용"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "이 시간에는 세션을 시작할 수 없어요."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "이 시간에만 잠금 해제 세션을 시작할 수 있어요. 그 외 시간에는 해당 앱의 잠금을 해제할 수 없어요."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "잠금 해제 가능"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "잠금 해제 불가"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "적용할 규칙"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "아직 만든 규칙이 없어요."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "새 규칙에 자동 적용"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "변경사항 저장"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "이 스케줄을 삭제할까요?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "스케줄 삭제"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "스케줄"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "스케줄 편집"
+  },
+  "schedules_title": {
+    "message": "스케줄"
+  },
+  "schedules_subtitle": {
+    "message": "세션을 시작할 수 있는 시간을 관리해요."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "아직 스케줄이 없어요"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "스케줄을 추가해 규칙의 시간 제한을 설정해 보세요."
+  },
+  "schedules_addSchedule": {
+    "message": "+ 스케줄 추가"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "수면"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "먼저 스크린 타임 규칙을 설정하세요"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "스케줄을 만들기 전에 ‘규칙’ 탭에서 설정을 마쳐 주세요."
+  },
+  "schedules_moreInfoContent": {
+    "message": "규칙은 세션을 시작하기 전까지 앱과 웹사이트를 차단해요. 스케줄은 여기에 한 겹을 더해, 세션을 ‘언제’ 시작할 수 있는지 제한해요.\n\n수면, 공부, 집중 시간을 지키거나 휴식 시간대를 미리 정해 보세요."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "스케줄을 2개 이상 만들려면 무료 체험을 시작해야 해요"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "오류: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "스케줄을 추가하지 못했어요: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "업데이트하지 못했어요: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "삭제하지 못했어요: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "연결된 규칙을 업데이트하지 못했어요: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "5분만 쉬면서 Instagram 좀 봐야지"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "앱은 잠금을 해제하기 전까지 잠겨 있어요"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "선택한 사이트는 잠금을 해제하기 전까지 잠겨 있어요"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "하지만 계속 잠가 두고 싶은 시간도 있죠"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "하지만 계속 잠가 두고 싶은 시간도 있죠"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "스케줄 시간에는 잠금을 해제할 수 없어요"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "그래서 스케줄이 끝날 때까지 앱이 잠겨 있어요."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "그래서 스케줄이 끝날 때까지 사이트가 잠겨 있어요."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "아쉽다! 그냥 자야겠다."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "수면 시간을 지켜 보세요"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "스크롤 대신 잠들어 있고 싶은 시간을 선택하세요."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "수면 시간 지키기"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "이제 수면 시간을 지킬 수 있어요"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "$1부터 $2까지는 잠금을 해제할 수 없어요. 요일, 시간, 규칙은 언제든지 바꿀 수 있어요."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "업무나 공부 시간도 지키고 싶으세요?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "스케줄은 언제든지 추가할 수 있어요."
+  },
+  "session_sectionTitleActive": {
+    "message": "세션"
+  },
+  "session_sectionTitleInactive": {
+    "message": "세션 시작"
+  },
+  "session_endingSession": {
+    "message": "세션 종료 중…"
+  },
+  "session_startingSession": {
+    "message": "세션 시작 중…"
+  },
+  "session_remainingInSession": {
+    "message": "세션 남은 시간"
+  },
+  "session_endSession": {
+    "message": "세션 종료"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "스케줄 제한 활성화됨"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "스케줄 때문에 ‘$1’ 사용이 제한돼요"
+  },
+  "session_blockedBadge": {
+    "message": "차단됨"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "스케줄 때문에 지금은 세션을 시작할 수 없어요."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "스케줄 제한 일시 해제"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "지금 함께 적용 중인 제한:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "여러 제한이 동시에 적용 중이에요. 가장 엄격한 제한 하나만 일시 해제해도 세션을 시작할 수 있어요."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "스케줄 제한"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "연속 사용 휴식"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "‘$1’ 스케줄로 $2까지 차단됨"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "허용 시간이 아니에요. ‘$1’ 스케줄은 $2에 시작돼요"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "허용된 스케줄 시간대가 아니에요"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "‘$1’ 스케줄이 차단을 시작하는 $2까지 허용"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "‘$1’ 스케줄이 끝나는 $2까지 허용"
+  },
+  "session_other": {
+    "message": "직접 설정"
+  },
+  "session_duration": {
+    "message": "세션 시간"
+  },
+  "session_startSession": {
+    "message": "세션 시작"
+  },
+  "session_takeABreak": {
+    "message": "잠시 쉬어 가세요"
+  },
+  "session_reopensInFormat": {
+    "message": "$1초 후 다시 시작 가능"
+  },
+  "session_reopensInLabel": {
+    "message": "다시 시작까지"
+  },
+  "session_bypassBreak": {
+    "message": "휴식 건너뛰기"
+  },
+  "session_quickReturnExplanation": {
+    "message": "둠스크롤링은 이제 그만하세요."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "벌써 $1번 연속으로 세션을 시작했어요. 둠스크롤링은 이제 그만하세요."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "ko"
+  },
+  "session_overrideSizeLow": {
+    "message": "최대 2분"
+  },
+  "session_overrideSizeMedium": {
+    "message": "최대 10분"
+  },
+  "session_overrideSizeHigh": {
+    "message": "최대 60분"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "추가 시간이 얼마나 필요하세요?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "쉬운 챌린지 필요"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "보통 챌린지 필요"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "어려운 챌린지 필요"
+  },
+  "session_overridesNotAllowed": {
+    "message": "안전장치 설정상 추가 시간을 받을 수 없어요."
+  },
+  "session_dailyLimitReached": {
+    "message": "일일 한도에 도달했어요"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "오늘 $1분 사용했어요."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "산책을 하거나, 미뤄 둔 집안일을 끝내거나, 친구에게 전화해 보세요."
+  },
+  "session_nothingBetterToDo": {
+    "message": "더 나은 할 일이 없어요"
+  },
+  "session_chooseLength": {
+    "message": "세션 시간 선택"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "잠금 해제는 정해진 시간 동안만 돼요"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "원하는 시간을 탭해 세션을 시작하세요. 시간이 끝나면 다시 잠겨요."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "세션 시작: $1분"
+  },
+  "settings_title": {
+    "message": "사이트 맞춤설정"
+  },
+  "settings_igComments": {
+    "message": "Instagram 댓글 숨기기"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "팔로우하는 계정은 예외로 두기"
+  },
+  "settings_igStories": {
+    "message": "Instagram 스토리"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "피드에서 모르는 사람의 게시물 가리기"
+  },
+  "settings_igFeedVideos": {
+    "message": "피드에서 동영상 숨기기"
+  },
+  "settings_igGuardAds": {
+    "message": "광고 숨기기"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "‘탐색’ 탭을 검색 전용으로 만들기"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "사진을 흑백으로 표시"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "동영상을 흑백으로 표시"
+  },
+  "settings_accountSignedInAs": {
+    "message": "로그인한 계정"
+  },
+  "settings_accountSignOut": {
+    "message": "로그아웃"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Google 계정으로 로그인"
+  },
+  "settings_accountSignInDescription": {
+    "message": "로그인하면 기기 간에 데이터를 동기화할 수 있어요. 이미 RelockIn Pro를 구매했다면 로그인할 때 구독이 복원돼요."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "구독"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "상태"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "로그아웃할까요?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "다시 로그인할 때까지 기기 간 데이터 동기화가 중단돼요."
+  },
+  "settings_accountSignOutError": {
+    "message": "로그아웃하지 못했어요. 다시 시도해 주세요."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "로그인하려면 권한을 허용해야 해요. 다른 기능은 모두 계정 없이 사용할 수 있어요."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "계속하면 $1에 동의하게 돼요. 데이터 사용 방식은 $2에서 확인할 수 있어요."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "계정을 만들면 $1에 동의하게 돼요. 데이터 사용 방식은 $2에서 확인할 수 있어요."
+  },
+  "settings_accountTermsOfService": {
+    "message": "이용약관"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "개인정보 처리방침"
+  },
+  "settings_accountSourceCode": {
+    "message": "소스 코드"
+  },
+  "settings_accountSignInError": {
+    "message": "로그인하지 못했어요. 다시 시도해 주세요."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "이 휴대폰에서 Google 계정을 찾지 못했어요. 휴대폰의 설정 > 비밀번호 및 계정(삼성 휴대폰은 계정 및 백업 > 계정 관리)에서 Google 계정이 추가되어 있는지 확인해 주세요. 이미 추가되어 있는데도 로그인되지 않으면 계정을 제거한 후 다시 추가해 보세요."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "이 앱의 Google 로그인 설정이 올바르지 않아요. 고객 지원팀에 문의해 주세요."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "로그인이 중단되었어요. 다시 시도해 주세요."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "이 기기에서는 Google 로그인을 사용할 수 없어요. Google Play 서비스를 업데이트하거나 이메일로 로그인해 보세요."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Google 로그인 정보를 읽지 못했어요. 다시 시도해 주세요."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "로그인 서버에 연결하지 못했어요. 네트워크 연결을 확인하고 다시 시도해 주세요."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "로그인 중 예상치 못한 인증 정보를 받았어요. 다시 시도해 주세요."
+  },
+  "settings_emailSignInCta": {
+    "message": "이메일로 로그인"
+  },
+  "settings_appleSignInCta": {
+    "message": "Apple로 로그인"
+  },
+  "settings_emailSignInTitle": {
+    "message": "로그인"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "이메일과 비밀번호로 로그인하세요."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "계정 만들기"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "계정을 만들어 여러 기기에서 동기화하세요."
+  },
+  "settings_emailSignUpAction": {
+    "message": "계정 만들기"
+  },
+  "settings_emailResetTitle": {
+    "message": "비밀번호 재설정"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "이메일을 입력하면 비밀번호 재설정 링크를 보내 드려요."
+  },
+  "settings_emailResetAction": {
+    "message": "재설정 링크 보내기"
+  },
+  "settings_emailPlaceholder": {
+    "message": "이메일"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "비밀번호"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "비밀번호 확인"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "비밀번호를 잊으셨나요?"
+  },
+  "settings_switchToSignUp": {
+    "message": "계정이 없으신가요? 가입하기"
+  },
+  "settings_switchToSignIn": {
+    "message": "이미 계정이 있으신가요? 로그인"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "이메일을 확인해 주세요"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "입력한 이메일로 확인 링크를 보냈어요. 로그인하기 전에 이메일 주소를 인증해 주세요."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "재설정 링크를 보냈어요"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "계정이 있다면 비밀번호 재설정 링크가 담긴 이메일을 보냈어요."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "이메일이 인증되지 않았어요. 받은편지함에서 확인 링크를 찾아 주세요."
+  },
+  "settings_emailRateLimitError": {
+    "message": "시도 횟수가 너무 많아요. 잠시 후 다시 시도해 주세요."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "비밀번호가 너무 약해요. 6자 이상으로 입력해 주세요."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "이메일 또는 비밀번호가 올바르지 않아요. 최근에 가입했다면 이메일 인증을 완료했는지 확인해 주세요."
+  },
+  "settings_changePasswordCta": {
+    "message": "비밀번호 변경"
+  },
+  "settings_newPasswordTitle": {
+    "message": "새 비밀번호 설정"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "계정에 사용할 새 비밀번호를 입력하세요."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "새 비밀번호"
+  },
+  "settings_newPasswordAction": {
+    "message": "비밀번호 업데이트"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "비밀번호 변경 완료"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "비밀번호를 변경했어요. 이제 새 비밀번호로 로그인할 수 있어요."
+  },
+  "settings_newPasswordError": {
+    "message": "비밀번호를 변경하지 못했어요. 다시 시도해 주세요."
+  },
+  "settings_errorFillAllFields": {
+    "message": "모든 항목을 입력해 주세요."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "가입하지 못했어요."
+  },
+  "settings_errorEnterEmail": {
+    "message": "이메일을 입력해 주세요."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "재설정 이메일을 보내지 못했어요."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "비밀번호를 변경했어요."
+  },
+  "settings_accountSigningOut": {
+    "message": "로그아웃 중…"
+  },
+  "settings_accountSigningIn": {
+    "message": "로그인 중…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "정보 없음"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "무료"
+  },
+  "settings_backToSignIn": {
+    "message": "로그인으로 돌아가기"
+  },
+  "settings_sending": {
+    "message": "보내는 중…"
+  },
+  "settings_updating": {
+    "message": "변경 중…"
+  },
+  "settings_creatingAccount": {
+    "message": "계정 만드는 중…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "새 비밀번호 확인"
+  },
+  "settings_showPasswordCta": {
+    "message": "표시"
+  },
+  "settings_hidePasswordCta": {
+    "message": "숨기기"
+  },
+  "settings_passwordTooShortError": {
+    "message": "비밀번호는 6자 이상이어야 해요."
+  },
+  "settings_passwordMismatchError": {
+    "message": "비밀번호가 일치하지 않아요."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "계정 인증 완료"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "이메일 인증이 끝났고 로그인됐어요."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "로그인 링크 오류"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "로그인 링크를 처리하지 못했어요. 링크가 만료되었거나 이미 사용되었을 수 있어요. 다시 시도해 주세요. 계속 안 되면 새 이메일을 요청해 주세요.\n\n세부 정보: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "계정 삭제"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "위험 작업"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "위험 작업 — 계정 삭제"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "영구적으로 삭제되는 데이터:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "계정 인증 정보와 프로필\n동기화된 규칙, 스케줄, 설정\n동기화된 사용 기록 및 기타 앱 데이터"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "보관되는 데이터:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "구매 및 거래 기록(세금·회계 처리를 위해 법적으로 보관해야 함)\n비정상 종료 보고서 및 진단 정보"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "계정을 삭제해도 구독은 취소되지 않아요"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "계정을 영구 삭제하려면 다음을 입력하세요: ‘$1’"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "삭제"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "이 작업은 되돌릴 수 없어요."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "인증 실패"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "로그인 상태를 확인할 수 없어요. 계정을 삭제하려면 다시 로그인해 주세요."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "계정 삭제 완료"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "계정이 영구적으로 삭제되었어요."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "계정을 삭제하지 못했어요. 오류 코드: $1. 잠시 후 다시 시도해 주세요. 문제가 계속되면 relockin.com/support에서 문의해 주세요."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "방해 요소를 없애고 생산성을 높이세요"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "표시"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "가리기"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "제거"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "바로 가림 해제"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "5초 후 가림 해제"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "10초 후 가림 해제"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "가림 해제 불가"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "챌린지로 가림 해제"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "가림 해제 방법"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "기본"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "모바일"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "데스크톱"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "표시"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "약간 흐리게"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "많이 흐리게"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "흑백"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "검은색"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Shorts 숨기기"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Shorts 탭 숨기기"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "홈 탭 숨기기"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "‘홈’ 대신 ‘구독’ 열기"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "자동재생 끄기"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "동영상 미리보기 끄기"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "동영상이 아닌 게시물 숨기기"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "홈 피드에서 커뮤니티 게시물, 설문조사, 사진 게시물을 제거해요."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "모든 광고 건너뛰기 허용"
+  },
+  "settings_ytBlockAds": {
+    "message": "광고 차단"
+  },
+  "settings_ytHideEndCard": {
+    "message": "‘다음 동영상’ 숨기기"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "추천 동영상"
+  },
+  "settings_ytDisplayMode": {
+    "message": "표시 모드"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "썸네일 필터"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "릴스 탭 숨기기"
+  },
+  "settings_hideHomeTab": {
+    "message": "홈 탭 숨기기"
+  },
+  "settings_igHomeFeed": {
+    "message": "홈 피드"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "기본"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "추천 게시물이 포함된 Instagram의 기본 피드예요."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "팔로잉만"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "팔로우하는 계정의 게시물을 최신순으로 보여줘요."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "즐겨찾기만"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "즐겨찾기 목록에 있는 계정의 게시물만 보여줘요."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "기본 피드로 돌아가는 링크 숨기기"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Old Reddit 사용"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Old Reddit 모바일 최적화"
+  },
+  "settings_redditVersion": {
+    "message": "Reddit 버전"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen 모드"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "개편된 old.reddit.com 기반의 더 빠르고 깔끔한 Reddit 환경"
+  },
+  "settings_redditVersionStandard": {
+    "message": "기본"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Reddit의 기본 모바일 인터페이스"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "참고: Zen 모드 사용을 권장해요. 그렇지 않으면 Reddit이 앱 사용을 강요할 수 있어요."
+  },
+  "settings_redditFeedStyle": {
+    "message": "피드 스타일"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "제목만"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "제목만 보여 줘서 더 빠르게 둘러볼 수 있어요. 탭하거나 스와이프해서 게시물을 열어 보세요."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "썸네일"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "게시물마다 제목과 미리보기 썸네일이 표시돼요."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "펼침"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "이미지, 동영상, 텍스트 게시물을 피드에서 바로 보여 줘요."
+  },
+  "settings_redditHideFeeds": {
+    "message": "무한 스크롤 피드 제한"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "모든 피드 표시"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit이 평소대로 작동해요."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "‘인기’와 ‘전체’ 숨기기"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "‘인기’, ‘전체’, ‘탐색’처럼 모르는 사람의 게시물이 올라오는 피드를 숨겨요. 홈 피드는 그대로 쓸 수 있어요."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "모든 피드 숨기기"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "홈 피드도 숨겨요. 서브레딧 방문과 검색은 계속할 수 있어요."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "홈 피드에는 참여한 서브레딧의 게시물만 표시"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "이미지를 흑백으로 표시"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "추천 수를 게시물 아래로 이동"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "댓글 단계별 색상 구분"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "댓글에서 스와이프 제스처 사용"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "오른쪽으로 짧게 스와이프"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "오른쪽으로 길게 스와이프"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "왼쪽으로 짧게 스와이프"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "왼쪽으로 길게 스와이프"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "추천"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "비추천"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "접기"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "답글"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "저장"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "게시물에서 스와이프 제스처 사용"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "추천"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "비추천"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "숨기기"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "공유"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "저장"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "댓글 열기"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "원본 링크 열기"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "미리보기"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "맞춤 CSS를 허용할 서브레딧"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "작은 화면에서도 읽기 편하도록 서브레딧의 맞춤 스타일은 기본적으로 숨겨져 있어요."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "서브레딧 이름 (예: politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "$1 제거"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "아직 추가한 서브레딧이 없어요."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "추천 탭 숨기기"
+  },
+  "settings_xHideAds": {
+    "message": "광고 숨기기"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "촌수별 게시물 필터"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "모두 표시"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "3촌 게시물 숨기기"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "2촌·3촌 게시물 숨기기"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "프로모션 게시물 숨기기"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "피드의 미디어 가리기"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "사진을 흑백으로 표시"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "동영상을 흑백으로 표시"
+  },
+  "settings_inBrowserNote": {
+    "message": "광고를 제거하고, 방해 요소를 없애고, 피드를 필터링하세요. RelockIn 브라우저에서 적용돼요."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "설정은 RelockIn 브라우저의 웹사이트에 적용되며, **$1 앱에는 적용되지 않아요.** 로그인하면 피드에서 변경 사항을 확인할 수 있어요."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "설정은 RelockIn 브라우저의 웹사이트에 적용되며, **$1 앱에는 적용되지 않아요.** 웹사이트를 열어 변경 사항을 확인해 보세요."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "$1에서 보기"
+  },
+  "settings_generalSection": {
+    "message": "일반"
+  },
+  "settings_showSessionTimer": {
+    "message": "세션 타이머 표시"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "웹사이트 잠금을 해제하기 전에 잠깐 숨 고르기"
+  },
+  "settings_breathLengthLabel": {
+    "message": "숨 고르기 시간(초)"
+  },
+  "settings_clearSection": {
+    "message": "초기화"
+  },
+  "settings_ytAiContent": {
+    "message": "AI 생성 동영상"
+  },
+  "settings_ytAiContentOff": {
+    "message": "표시"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "AI 생성 동영상도 다른 동영상처럼 그대로 보여줘요."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "라벨 붙이기"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "AI 생성 동영상의 썸네일에 AI 라벨을 붙여요."
+  },
+  "settings_ytAiContentCover": {
+    "message": "가리기"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "AI 생성 동영상을 가려요. 보고 싶은 동영상은 하나씩 가림을 해제할 수 있어요."
+  },
+  "settings_ytAiContentHide": {
+    "message": "숨기기"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "AI 생성 동영상을 피드, 검색 결과, 추천에 표시하지 않아요."
+  },
+  "settings_ytAiVotes": {
+    "message": "AI 여부 투표 내역"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "AI 아님"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "아직 없어요"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "$1 제거"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "차단한 채널"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "차단한 채널의 동영상은 YouTube 어디에서도 표시되지 않아요. 동영상 아래나 채널 페이지에서 ‘채널 차단’을 누르면 추가돼요."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts 및 광고"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "스와이프 제스처"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "홈 및 피드"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI 및 채널"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "다음 동영상"
+  },
+  "settings_sectionTabs": {
+    "message": "탭"
+  },
+  "settings_sectionFeed": {
+    "message": "피드"
+  },
+  "settings_sectionFeeds": {
+    "message": "피드"
+  },
+  "settings_sectionAppearance": {
+    "message": "모양"
+  },
+  "settings_sectionOther": {
+    "message": "기타"
+  },
+  "support_titleHelp": {
+    "message": "도움 받기"
+  },
+  "support_titleFeedback": {
+    "message": "의견 보내기"
+  },
+  "support_titleReportProblem": {
+    "message": "문제 신고"
+  },
+  "support_sentimentTitle": {
+    "message": "어떤 의견을 보내실 건가요?"
+  },
+  "support_sentimentPositive": {
+    "message": "마음에 드는 점이 있어요"
+  },
+  "support_sentimentNegative": {
+    "message": "개선이 필요한 점이 있어요"
+  },
+  "support_reviewTitle": {
+    "message": "정말 반가운 소식이에요!"
+  },
+  "support_reviewBody": {
+    "message": "간단한 리뷰를 남겨 주시겠어요? 더 많은 분이 RelockIn을 찾는 데 도움이 돼요.\n\n작은 팀으로 운영되는 RelockIn에 큰 힘이 돼요."
+  },
+  "support_reviewCta": {
+    "message": "리뷰 쓰기"
+  },
+  "support_personalNoteTitle": {
+    "message": "개발자의 한마디"
+  },
+  "support_personalNoteBody": {
+    "message": "RelockIn을 사용해 주셔서 감사해요. 보내 주신 메시지는 모두 제가 직접 읽고, 최대한 빨리 답장해 드릴게요."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "감사해요! 의견이나 제안이 있으신가요?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "불편을 드려 죄송해요. 어떤 점이 잘 안 되는지 알려 주시면 확인해 볼게요."
+  },
+  "support_messageLabel": {
+    "message": "메시지"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "무엇을 도와드릴까요?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "어떤 이야기를 전하고 싶으세요?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "이 사이트에 어떤 문제가 있나요?"
+  },
+  "support_siteLabel": {
+    "message": "사이트"
+  },
+  "support_emailLabel": {
+    "message": "이메일"
+  },
+  "support_emailPlaceholder": {
+    "message": "you@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "올바른 이메일 주소를 입력해 주세요."
+  },
+  "support_sendCta": {
+    "message": "보내기"
+  },
+  "support_sendError": {
+    "message": "메시지를 보내지 못했어요. 연결 상태를 확인하고 다시 시도해 주세요."
+  },
+  "support_sentTitle": {
+    "message": "메시지를 보냈어요"
+  },
+  "support_sentBodyFormat": {
+    "message": "감사해요! 최대한 빨리 $1 주소로 답장을 보내 드릴게요."
+  },
+  "support_sendAnotherCta": {
+    "message": "다른 메시지 보내기"
+  },
+  "support_accountFooterPrompt": {
+    "message": "도움이 필요하세요?"
+  },
+  "support_accountFooterCta": {
+    "message": "지원팀에 문의"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "메시지가 개발자에게 바로 전달돼요"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "진단 로그"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "진단 로그"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "아직 로그 항목이 없어요."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "디버그 로그"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "이 항목은 이 기기에만 저장돼요. 자동으로 업로드되거나 공유되지 않아요. 문제를 신고할 때는 공유 버튼으로 개발자에게 보내 주세요."
+  },
+  "target_domainType": {
+    "message": "사이트 전체"
+  },
+  "target_urlPatternType": {
+    "message": "URL 패턴"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "사이트의 모든 페이지를 잠가요. 사이트 이름(예: reddit.com)만 입력하세요. 하위 도메인이나 URL 경로는 상관없어요."
+  },
+  "target_urlPatternExplanation": {
+    "message": "이 텍스트가 포함된 모든 URL을 잠가요. 중간에 어떤 내용이든 올 수 있게 하려면 * 와일드카드를 사용하세요.\n\n예시:\n- youtube.com/shorts: 일반 동영상은 두고 YouTube Shorts만 잠가요\n- reddit.com/r/politics: 해당 서브레딧만 잠가요\n- x.com/*/status/*: 프로필 페이지 등 X의 다른 부분은 그대로 두고 개별 게시물만 잠가요"
+  },
+  "target_scopeNote": {
+    "message": "잠금은 RelockIn 브라우저에서 적용되고, Safari 같은 다른 브라우저에서는 적용되지 않아요. 세션을 시작하면 일정 시간 동안 잠금을 해제할 수 있어요."
+  },
+  "target_emptyPattern": {
+    "message": "(비어 있음)"
+  },
+  "target_addTargetTitle": {
+    "message": "웹사이트 잠금"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "무엇을 잠글까요?"
+  },
+  "target_removeTargetTitle": {
+    "message": "사이트 제거"
+  },
+  "target_editTargetTitle": {
+    "message": "대상 편집"
+  },
+  "target_editingLabel": {
+    "message": "편집 중"
+  },
+  "target_typePickerLabel": {
+    "message": "유형"
+  },
+  "typingSentences_short1": {
+    "message": "저는 충분히 알고서 이 선택을 해요."
+  },
+  "typingSentences_short2": {
+    "message": "저는 이 결정에 책임을 져요."
+  },
+  "typingSentences_short3": {
+    "message": "지금 이 선택의 주인은 저예요."
+  },
+  "typingSentences_short4": {
+    "message": "이것은 제가 신중하게 내린 결정이에요."
+  },
+  "typingSentences_short5": {
+    "message": "저는 차분히 생각하며 이 선택을 해요."
+  },
+  "typingSentences_long1": {
+    "message": "저는 제 시간과 집중력을 지키려고 정한 한도를 스스로 넘어서 사용한다는 점을 충분히 인지하며, 이 선택에 따르는 책임을 받아들여요."
+  },
+  "typingSentences_long2": {
+    "message": "우리가 반복하는 행동이 곧 우리예요. 그러므로 탁월함은 행동이 아니라 습관이에요. 윌 듀런트"
+  },
+  "typingSentences_long3": {
+    "message": "선택은 습관이 돼요. 습관은 성격이 돼요. 그리고 성격은 운명이 돼요."
+  },
+  "typingSentences_paragraph1": {
+    "message": "둠스크롤링 또는 둠서핑은 웹과 소셜 미디어에서 숏폼 콘텐츠나 사용자가 만든 방대한 콘텐츠나 뉴스, 특히 부정적인 뉴스를 지나치게 오래 보는 행동을 말해요. 여러 조사와 연구에 따르면 둠스크롤링은 젊은 층에서 특히 많이 나타나요. 이천십구 년 미국 국립과학원의 한 연구에서는 둠스크롤링이 정신 건강과 신체 건강의 악화와 관련될 수 있다는 결과가 나왔어요."
+  },
+  "typingSentences_paragraph2": {
+    "message": "무한 스크롤은 사용자가 아래로 내릴 때 콘텐츠를 계속 불러오는 디자인 방식으로, 페이지를 나눌 필요가 없어요. 그래서 이 기능은 사용자가 잠시 쉬어 갈 수 있는 자연스러운 멈춤 지점을 없애 둠스크롤링을 더 심하게 만들 수 있어요. 또 소셜 미디어 플랫폼이 부정적인 콘텐츠를 증폭하는 경향이 이러한 끝없는 스크롤 행동을 악화시켜, 사용자가 부정적인 뉴스를 오랫동안 계속 보게 만든다는 연구 결과도 있어요."
+  },
+  "typingSentences_paragraph3": {
+    "message": "대부분의 소셜 미디어 플랫폼은 사업 모델이 사용자 참여에 크게 의존해요. 사람들이 플랫폼에 오래 머물수록 더 많은 광고를 보게 되고, 행동에 관한 데이터도 더 많이 수집된다는 뜻이에요. 그 결과 부정적이거나 불안을 일으키는 정보처럼 감정을 자극하는 콘텐츠가 사용자에게 계속 노출되고, 사용자는 계속 스크롤하며 더 많은 콘텐츠를 소비하게 되는 악순환이 생겨요."
+  },
+  "typingSentences_paragraph4": {
+    "message": "즉각적인 즐거움과 정보, 연결감 덕분에 소셜 미디어는 매력적이에요. 소셜 미디어 중독은 일상생활과 전반적인 행복에 영향을 주는 과도하고 강박적인 사용이 특징이에요. 온라인에서 지나치게 오랜 시간을 보내는 것만을 뜻하지 않아요. 새 소식을 강박적으로 확인하고, 오프라인일 때 불안해하며, 현실의 인간관계와 책임에 나쁜 영향을 받는 것까지 포함해요."
+  },
+  "typingSentences_paragraph5": {
+    "message": "숏폼 콘텐츠 알고리즘은 선택과 의도를 없애 버리기 때문에 몹시 중독성이 강해요. 다음에 볼 것을 정해야 하는 인지적 부담이 사라지면서, 앱은 의식적인 결정을 자동 조종 상태의 매끄럽고 수동적인 몰입 상태로 바꿔 놓아요. 이 몰입 상태에서는 계속하기는 놀랍도록 쉽고 만족스럽고, 그만두기는 놀랍도록 어려워요."
+  },
+  "typingSentences_paragraph6": {
+    "message": "소셜 미디어는 처음부터 중독되도록 설계되어 있어요. 기술 기업들은 뇌의 보상 중추를 자극해 주의를 사로잡도록 이런 앱을 만들어요. 도파민이 이끄는 인정 욕구, 예측할 수 없는 보상, 심리적 장치가 합쳐지면 휴대폰을 내려놓기가 몹시 어려워져요. 이러한 설계 전략을 알아차리는 것이 디지털 습관을 다시 통제하고 기술과 더 건강한 관계를 만드는 첫걸음이에요."
+  },
+  "usage_title": {
+    "message": "사용 현황"
+  },
+  "usage_subtitle": {
+    "message": "규칙과 세션별 스크린 타임을 확인해 보세요."
+  },
+  "usage_noUsageHeadline": {
+    "message": "사용 기록이 없어요"
+  },
+  "usage_noUsageBody": {
+    "message": "세션을 시작하면 여기에 사용 시간이 표시돼요."
+  },
+  "usage_today": {
+    "message": "오늘"
+  },
+  "usage_thisWeek": {
+    "message": "이번 주"
+  },
+  "usage_thisMonth": {
+    "message": "이번 달"
+  },
+  "usage_yesterday": {
+    "message": "어제"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "아직 만든 규칙이 없어요."
+  },
+  "usage_daily": {
+    "message": "일별"
+  },
+  "usage_weekly": {
+    "message": "주별"
+  },
+  "usage_monthly": {
+    "message": "월별"
+  },
+  "usage_previousPeriod": {
+    "message": "이전 기간"
+  },
+  "usage_nextPeriod": {
+    "message": "다음 기간"
+  },
+  "usage_periodPickerLabel": {
+    "message": "기간"
+  },
+  "usage_unknownRule": {
+    "message": "알 수 없는 규칙"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$2 중 $1"
+  },
+  "locale_firstWeekday": {
+    "message": "0"
+  }
+}

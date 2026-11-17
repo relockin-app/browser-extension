@@ -1,0 +1,2843 @@
+{
+  "about_tagline": {
+    "message": "Stäng ute distraktionerna. Ge plats åt ditt bästa jag."
+  },
+  "about_welcome": {
+    "message": "Välkommen till RelockIn!"
+  },
+  "about_sentence": {
+    "message": "RelockIn är webbläsaren som gör slut på distraktionerna. I Fokuscentret kan du enkelt ställa in regler och scheman som begränsar hur mycket du använder distraherande appar och webbplatser. Principen är enkel: tänk om varje minut du tillbringade med telefonen var ett medvetet val?\n\nRelockIn har dessutom en mobil webbläsare som värnar om din integritet och går att anpassa helt. RelockIn spårar aldrig dina sökningar och delar aldrig dina uppgifter med någon. Eftersom RelockIn är den enda fokusappen med en helt integrerad webbläsare är det också den enda app där du kan anpassa webbplatser och ta bort distraherande funktioner som Reels och Shorts – en extra nivå av kontroll."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn för Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn – Blockera AI-skräp, Shorts, Reels och webbplatser | Skärmtid"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn – Blockera AI-skräp, Shorts & webbplatser"
+  },
+  "about_extensionDescription": {
+    "message": "Blockera AI-videor, Shorts, Reels och oändliga flöden. Dessutom kan du ställa in tidsgränser och scheman för alla webbplatser."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "radera den här regeln"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "ta bort gränsen för ”$1”"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "höja din dagsgräns"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "hoppa över pausen"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "åsidosätta schemat"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "åsidosätta din dagsgräns"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "radera det här schemat"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "lätta på det här schemat"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "ta bort appar eller webbplatser utanför RelockIn från din blockeringslista"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "lätta på det här skyddet"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "förenkla uppgiften ”$1”"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "radera uppgiften ”$1”"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "sluta kräva en uppgift för att lätta på skydden"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Om jag har nått min dagsgräns och behöver mer tid …"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Upp till 2 min"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 min"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Över 10 min"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Om jag behöver åsidosätta schemats blockering …"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Om jag vill fortsätta utan paus när det är dags för en …"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Om du startar för många sessioner direkt efter varandra ber vi dig att ta en paus. Du kan ändra hur lång pausen är under ”Paus mellan sessioner”."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 session direkt efter en annan"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 sessioner direkt efter varandra"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ sessioner direkt efter varandra"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Om jag lättar på mina skärmtidsregler …"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Ta bort en app"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Ta bort en webbplats"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Radera en regel"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Höja en dagsgräns"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Om jag lättar på ett schema …"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "När det inte blockerar"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "När det blockerar"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Skriv meningen för att fortsätta"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Skriv stycket för att fortsätta"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Stycke:\n”$1”"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Vänta på timern"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Du kan inte fortsätta förrän nedräkningen är slut."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Tiden är ute – du kan fortsätta."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Vill du verkligen göra det här?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Vill du verkligen $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Vill du göra det svårare här? Gå till fliken Skydd och lägg in nyttiga hinder som skyddar dina mål."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Ja, fortsätt"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Du kan inte $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Det kan du inte göra"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Dina skydd gör det här omöjligt, och ingen uppgift kan ändra på det."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Jag måste verkligen göra det här"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Du kan ändra inställningarna för dina skydd på fliken Skydd."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Gå till Skydd"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Mening:\n”$1”"
+  },
+  "challengeUi_confirm": {
+    "message": "Bekräfta"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Det stämmer inte än. Kontrollera stavning och skiljetecken."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Slutfört."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Skriv meningen exakt som den visas."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Fortsätt skriva …"
+  },
+  "challengeUi_typingReady": {
+    "message": "Klart!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Något skiljer sig. Jämför noga: du har skrivit fel."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Lös alla tal för att fortsätta"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Skriv in dina svar och tryck på Bekräfta."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Alla rätt!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Några svar är fel. Kontrollera de markerade fälten."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Svar på tal $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Din förtroendeperson kommer att meddelas"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Din förtroendeperson får ett e-postmeddelande om att du har valt att åsidosätta dina gränser. Meddelandet ska hjälpa dig att hålla fast vid dina mål."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Skicka meddelande och fortsätt"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Jag klarar inte det här"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Vänta $1 minuter i stället"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "sv"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Vänta $1 minut i stället"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Ingen"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Lätt"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Medel"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Svår"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Extra svår"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Extrem"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Omöjlig"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Bara bekräftelse"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Standard: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Det gick inte att spara"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "$1 kvar"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Svarsfält för uppgiften"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Anpassa uppgifter"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Ändra vilka steg som ingår i uppgifterna Lätt, Medel och Svår, eller skapa egna"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "När jag ska få en uppgift"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Ändra hur svårt det är att radera en skärmtidsregel, få extra tid med mera"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Inbyggda"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Egna"
+  },
+  "challenges_newChallenge": {
+    "message": "Ny"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Inga egna uppgifter än. Tryck på + för att skapa en."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Namn (t.ex. ”Stenhård”)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Ny uppgift"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Ge uppgiften ett unikt namn."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Välj vad varje uppgift kräver av dig, eller skapa egna."
+  },
+  "challenges_savedBadge": {
+    "message": "Sparat"
+  },
+  "challenges_noSteps": {
+    "message": "Inga steg – lägg till minst ett för att spara."
+  },
+  "challenges_addStep": {
+    "message": "Lägg till steg"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Svårighetsgrad"
+  },
+  "challenges_problemsLabel": {
+    "message": "Antal tal"
+  },
+  "challenges_operationsLabel": {
+    "message": "Räknesätt"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Skriv en kort mening"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Skriv en lång mening"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Skriv ett stycke"
+  },
+  "challenges_stepNameMath": {
+    "message": "Lös matteuppgifter"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "Mejla förtroendeperson"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Vänta på timern"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Längd: $1 min $2 s"
+  },
+  "challenges_stepCount": {
+    "message": "$1 steg"
+  },
+  "challenges_stepCount__lang": {
+    "message": "sv"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 steg"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Uppgifter för den här regeln"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Gäller bara ”$1”."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Om du vill ändra uppgifterna för alla regler eller redigera deras steg:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Gå till fliken Skydd"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Ge mig en uppgift innan jag lättar på skydden"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "För att göra en uppgift lättare måste du först utföra det du tar bort."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Du kan ändra skydden fritt i $1 minuter till. Därefter krävs en uppgift för att lätta på dem."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "sv"
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Du kan ändra skydden fritt i $1 minut till. Därefter krävs en uppgift för att lätta på dem."
+  },
+  "common_save": {
+    "message": "Spara"
+  },
+  "common_cancel": {
+    "message": "Avbryt"
+  },
+  "common_done": {
+    "message": "Klar"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Redigera"
+  },
+  "common_delete": {
+    "message": "Radera"
+  },
+  "common_defaultOption": {
+    "message": "Standard"
+  },
+  "common_back": {
+    "message": "Tillbaka"
+  },
+  "common_skip": {
+    "message": "Hoppa över"
+  },
+  "common_next": {
+    "message": "Nästa"
+  },
+  "common_gotIt": {
+    "message": "Jag förstår"
+  },
+  "common_none": {
+    "message": "Ingen"
+  },
+  "common_yes": {
+    "message": "Ja"
+  },
+  "common_no": {
+    "message": "Nej"
+  },
+  "common_start": {
+    "message": "Starta"
+  },
+  "common_loading": {
+    "message": "Laddar …"
+  },
+  "common_error": {
+    "message": "Fel"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Stäng"
+  },
+  "common_continue": {
+    "message": "Fortsätt"
+  },
+  "common_dismiss": {
+    "message": "Stäng"
+  },
+  "common_notNow": {
+    "message": "Inte nu"
+  },
+  "common_noThanks": {
+    "message": "Nej tack"
+  },
+  "common_maybeLater": {
+    "message": "Kanske senare"
+  },
+  "common_add": {
+    "message": "Lägg till"
+  },
+  "common_create": {
+    "message": "Skapa"
+  },
+  "common_startSetup": {
+    "message": "Börja ställa in"
+  },
+  "common_continueSetup": {
+    "message": "Fortsätt ställa in"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Fortsätt där du slutade"
+  },
+  "common_setItUp": {
+    "message": "Ställ in"
+  },
+  "common_howItWorks": {
+    "message": "Så fungerar det"
+  },
+  "common_getStarted": {
+    "message": "Kom igång"
+  },
+  "common_signIn": {
+    "message": "Logga in"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 min"
+  },
+  "common_hoursCount": {
+    "message": "$1 timmar"
+  },
+  "common_hoursCount__lang": {
+    "message": "sv"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 timme"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Steg $1 av $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Vi tog bort $1 Shorts från ditt flöde"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "sv"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Vi tog bort $1 Short från ditt flöde"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Stäng"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Övertäckt av RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Visa"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Kan inte visas"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Visa ($1 s)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Logga in för att göra det."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Logga in"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Stäng"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit försökte precis tvinga dig till sin app."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Om något strular kan du ladda om sidan eller byta till Zen-läge."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Stäng"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Det här flödet är dolt"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Du har valt att dölja flödena ”Populärt” och ”Alla” på Reddit."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Du har valt att dölja dina Reddit-flöden."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Dina subreddits"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Du kan ändra det här i RelockIns inställningar."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Du är ikapp"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Det var allt nytt från subreddits du har gått med i."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Kolla efter fler"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Spela upp"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Pausa"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Hoppa över annons"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Uppspelningshastighet"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Volym"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "rösta upp"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "rösta ner"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "ta bort röst"
+  },
+  "domShared_redditActionSave": {
+    "message": "spara"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "ta bort från sparade"
+  },
+  "domShared_redditActionHide": {
+    "message": "dölj"
+  },
+  "domShared_redditActionShare": {
+    "message": "dela"
+  },
+  "domShared_redditActionComments": {
+    "message": "kommentarer"
+  },
+  "domShared_redditActionExpand": {
+    "message": "expandera"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "fäll ihop"
+  },
+  "domShared_redditActionReply": {
+    "message": "svara"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "fler alternativ"
+  },
+  "domShared_redditActionScore": {
+    "message": "poäng"
+  },
+  "domShared_redditActionSource": {
+    "message": "Källa"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Förhandsvisning"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Spara"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Ta bort från sparade"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Dölj"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Visa igen"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Dela"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Rapportera"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Överordnad kommentar"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Permalänk"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Bädda in"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Dela i annan subreddit"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Kopiera länk till kommentar"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Kopiera länk till inlägg"
+  },
+  "domShared_redditAgeNow": {
+    "message": "nu"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1m"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1h"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1d"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1mån"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1 år"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Händelser på Instagram"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Vi dolde det här inlägget från ett konto du inte följer."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Vi dolde den här videon."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Vi dolde den här annonsen."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Av: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Det här inlägget är från en kontakt på 3:e nivån"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Det här inlägget är inte från en kontakt på 1:a nivån"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Vi täckte över det för att skydda ditt fokus."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Vi dolde den här annonsen för att skydda ditt fokus"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Tryck för att visa"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Bilden är övertäckt för att skydda ditt fokus"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Tryck för att visa."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Videon är övertäckt för att skydda ditt fokus."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Rekommenderade videor"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Uppspelningshastighet: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Volym: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "Bakåt 10 sekunder"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "Framåt 10 sekunder"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "gör något bättre."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "AI-genererad video"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Du har röstat ”AI” för den här kanalen"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Visa ändå"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Titta ändå"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Inte AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Kanske AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Troligen AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Högst troligen AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Omstridd"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Granskad av RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Troligen AI-genererad"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Högst troligen AI-genererad"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Enligt röster från RelockIn-användare"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Gör den här kanalen AI-videor?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Vad räknas som AI?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Din röst gäller bara för dig. Logga in på RelockIn för att dela den med communityn."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Logga in"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Stäng"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Rösta ”AI” om de flesta av kanalens videor har:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Ett AI-skrivet manus"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "AI-genererat tal eller sång"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "AI-genererade bilder eller videor"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "AI-musik"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Räknas inte som AI:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Videor om AI, till exempel tester av AI-verktyg"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Mindre AI-justeringar, till exempel förbättrat ljud"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Din röst gäller direkt för dig och hjälper andra RelockIn-användare."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Fel märkning? Begär omprövning"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Fler alternativ"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Blockera kanal"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Blockerad"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Avblockera kanal"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Du har blockerat den här kanalen"
+  },
+  "limits_title": {
+    "message": "Regler och sessioner"
+  },
+  "limits_subtitle": {
+    "message": "Starta sessioner och hantera dina skärmtidsregler."
+  },
+  "limits_addRule": {
+    "message": "+ Lägg till regel"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Skärmtidsregler"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Skydda din tid med dagsgränser och sessioner"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Inga regler än. Lägg till en för att ställa in dagsgränser."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Sociala medier"
+  },
+  "main_backToBrowser": {
+    "message": "Tillbaka till webbläsaren"
+  },
+  "main_openFullPage": {
+    "message": "Öppna som helsida"
+  },
+  "main_tabLimits": {
+    "message": "Regler"
+  },
+  "main_tabSettings": {
+    "message": "Webbplatser"
+  },
+  "main_protectionTitle": {
+    "message": "Skydd"
+  },
+  "main_protectionSubtitle": {
+    "message": "Bygg in sunda hinder mot impulsiva beslut"
+  },
+  "main_tabAccount": {
+    "message": "Konto"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Snitt per dag"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "snitt"
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Klicka på ikonen med **pusselbiten** i verktygsfältet"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Leta upp **RelockIn** och klicka på ikonen **Fäst**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Dina skärmtidsregler"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Klicka på en regel för att redigera den. Varje regel har en egen dagsgräns."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Välkommen till **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Tar ungefär en minut"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Inte direkt"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Trött på AI-skräp på YouTube?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Slarviga AI-videor finns överallt nu, från flödet till sökresultaten."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Vill du lägga mindre tid på att scrolla?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Utan att behöva lita på viljestyrkan ensam."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AI-innehåll"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Upptäck AI-videor **innan** du klickar."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Vi kan täcka över, dölja eller märka AI-innehåll i ditt flöde."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Valfritt"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Hjälp till att **flagga** AI-innehåll."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Vår community flaggar AI-innehåll. Om du skapar ett konto hjälper dina röster andra att känna igen och blockera AI."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Inloggad"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Dina röster hjälper nu andra att känna igen och blockera AI."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Fortsätt med e-post"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Korta videor"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Få Shorts och Reels att **försvinna**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Bort med Shorts på YouTube och Reels på Instagram. Resten behåller du."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Dölj Shorts och Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Valfritt: dagsgränser"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Scrolla **medvetet**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Vilka webbplatser ska få en gräns?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Du kan lägga till fler senare."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Välj en webbplats för att se regeln här"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Snabb åtkomst"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Fäst. Snyggt."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn för iPhone och Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Ta med RelockIn i **mobilen**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "Med RelockIn-appen kan du anpassa YouTube, Instagram med flera och ta bort AI och distraktioner som Shorts och Reels.\n\nDen kan också låsa appar som distraherar, så att du tar tillbaka kontrollen över din tid."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Skanna med mobilens kamera"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Nu är allt klart."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Se det på YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Slutför inställningen"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Inställningen öppnas i en egen flik och tar ungefär en minut."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Fortsätt ställa in"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Bort med AI-skräp, Shorts och oändliga flöden på webbplatserna du använder mest."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Varför skapa ett konto?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Utan konto flaggar dina röster AI-kanaler bara för dig och kan inte hjälpa någon annan. Med ett konto kan vi lita på dina röster, så att de hjälper till att flagga AI-innehåll för hela communityn. Andra kan inte se hur du har röstat.\n\nDitt konto fungerar också i RelockIn för iPhone och Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Transparens är viktigt för oss. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Vår kod är offentlig"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Anpassa webbplatser"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**40+ sätt** att göra webbplatser mindre beroendeframkallande."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn kan ändra YouTube, Instagram, Reddit, X och LinkedIn. Testa några här – resten finns i inställningarna."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Dagsgräns för $1"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Ha RelockIn **nära till hands**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Fäst tillägget, så kan du enkelt ändra alla inställningar."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Avsluta inställningen"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Inga dagsgränser än"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Välj webbplatserna du förlorar tid på och ge varje webbplats en dagsgräns. Tar ungefär 30 sekunder."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Ställ in dagsgränser"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Visa bara inlägg från konton du följer i flödet"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Inaktivera r/popular och r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI-videor"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts & Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Anpassningar"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Dagsgränser"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Röster om AI"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Dolda"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Synliga"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Av"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Övertäckta"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Märkta"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "För hela gemenskapen"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Bara för dig"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 på"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "sv"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "$1 på"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 webbplatser"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "sv"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 webbplats"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Vill du att sociala medier ska vara mindre beroendeframkallande?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Färre distraktioner, utan att du behöver ge upp det du gillar."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Du har kommit rätt."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Uppfattat. Nu visar vi dig runt."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Du kan ställa in en dagsgräns för vilken webbplats som helst.\n\nRelockIn hjälper dig att sluta scrolla på autopilot."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Välj hur mycket tid du behöver"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Använd webbplatsen"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "När tiden är slut låses den igen"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Testa dagsgränser"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Allt finns **här**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Öppna panelen när du vill via RelockIn-ikonen i verktygsfältet."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Hur länge vill du vara på $1?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Din session på $1 är slut."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "min/dag"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 minuter mindre"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 minuter mer"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Skärmtid"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Ändra allt via RelockIn-ikonen i verktygsfältet."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Ändra allt via RelockIn i webbläsarens tilläggsmeny."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Är det här det bästa du kan göra med din tid just nu?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "andas djupt"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Om du verkligen behöver fortsätta till $1 kan du i stället starta en session för regeln ”$2”"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "$1 min $2 s kvar i dag"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Skaffa RelockIn i mobilen"
+  },
+  "overlay_closeTab": {
+    "message": "Stäng fliken"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "kvar i dag"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "använt i dag"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "ny gräns kl."
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Om du verkligen behöver fortsätta kan du i stället starta en session för regeln ”$1”"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "”$1”"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Aktuell regel: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Öppna RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Fler alternativ"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "dagens användning"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR-kod för att ladda ned RelockIn"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Skaffa **RelockIn**-appen"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Ta bort Shorts, Reels och AI-videor"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Ställ in dagsgränser för alla appar och webbplatser"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Skydda din sömn och ditt fokus"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Tillägget är begränsat i mobilen"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Med RelockIn-appen kan du begränsa vilken app som helst och ta bort alla distraktioner och AI-videor."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Fungerar inte i YouTube- eller Instagram-appen"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Bara en dagsgräns och ett schema"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Kan märka AI-videor, men inte dölja dem"
+  },
+  "phoneWebext_getApp": {
+    "message": "Skaffa appen"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Fortsätt i webbläsaren"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Eller fortsätt här (begränsat)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Med RelockIn-appen får du så många skärmtidsregler som du vill:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Med RelockIn-appen får du så många scheman som du vill:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Prova **RelockIn-appen** för att få tillgång till alla inställningar"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Ingår i RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "I gratisversionen har de här webbplatserna en gemensam dagsgräns."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Bromsa impulsiva handlingar"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Lägg in medvetna hinder före sådant som att åsidosätta en dagsgräns eller radera regler.\nTar ungefär en minut."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Ställ in skydd"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Paus mellan sessioner"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Ta en paus efter för många sessioner i rad"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Ställ in dina regler först"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Gör klart dina regler på fliken Regler innan du lägger till skydd."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Stanna upp före impulsiva beslut"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Innan du till exempel åsidosätter en dagsgräns eller raderar regler kan RelockIn kräva en snabb uppgift, så att det verkligen är ett medvetet val."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Du bestämmer alltid själv."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Prova på"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Tryck på ett kort för att testa uppgiften själv."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Överskrid en dagsgräns en liten bit"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Skriv en kort mening"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Ta bort en app från din blockeringslista"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Lös några matteuppgifter"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Lätta på ett schema"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Skriv en längre mening"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Hur strikt ska skyddet vara?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Du kan ändra det här när du vill."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Mild"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Små påminnelser före impulsiva handlingar."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Balanserad"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Extra hinder vid vanliga snedsteg."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Strikt"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Starkare hinder för att bryta dåliga vanor."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Rekommenderas"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Använd ”$1”"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Paus mellan sessioner"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Vi kan tvinga dig att ta en paus om du startar för många sessioner direkt efter varandra."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Om jag startar 2+ sessioner i rad (med mindre än"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "emellan),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "ge mig en paus på"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Exempel"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8.00  Du startar en 5-minuterssession för Sociala medier."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8.05  Du startar en till 5-minuterssession"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8.10  Vi tvingar dig att ta en paus innan du kan starta en tredje session"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 sekunder"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 minut"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 minuter"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 minuter"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 minuter"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 minuter"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Skyddet är på plats"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Du kan när som helst ändra:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "När du får en uppgift"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Vad varje uppgift kräver av dig"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Uppgifter för enskilda regler"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Tillbaka till appen"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Inga appar blockeras"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Regelns namn"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Smakprov"
+  },
+  "rule_deleteRule": {
+    "message": "Radera regeln"
+  },
+  "rule_editRule": {
+    "message": "Redigera regeln"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Blockerade appar"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Ändra blockerade appar"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Blockeras i RelockIn-webbläsaren"
+  },
+  "rule_noTargets": {
+    "message": "Inga webbplatser blockeras än."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Regelinställningar"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Dagsgräns i minuter"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Minuter"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Minska dagsgränsen med $1 minuter"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "sv"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Minska dagsgränsen med $1 minut"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Öka dagsgränsen med $1 minuter"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "sv"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Öka dagsgränsen med $1 minut"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Justera skyddet"
+  },
+  "rule_targetsSection": {
+    "message": "Låsta webbplatser"
+  },
+  "rule_defaultRuleName": {
+    "message": "Ny regel"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Session pågår"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Låst"
+  },
+  "rule_appCount": {
+    "message": "$1 appar"
+  },
+  "rule_appCount__lang": {
+    "message": "sv"
+  },
+  "rule_appCount__one": {
+    "message": "$1 app"
+  },
+  "rule_siteCount": {
+    "message": "$1 webbplatser"
+  },
+  "rule_siteCount__lang": {
+    "message": "sv"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 webbplats"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Schemats namn"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Ej sparat"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "TIDSINTERVALL"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Start"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Slut"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "AKTIVA DAGAR"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Varje dag"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Inga dagar"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Vardagar"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Helger"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "S"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "M"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "T"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "O"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "T"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "F"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "L"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "sön"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "mån"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "tis"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "ons"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "tors"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "fre"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "lör"
+  },
+  "scheduleCard_modeSection": {
+    "message": "LÄGE"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Blockera under tidsintervallet"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Tillåt bara under tidsintervallet"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Du kan inte starta sessioner under den här tiden."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Du kan *bara* starta sessioner under den här tiden. Resten av dygnet går det inte att låsa upp de här apparna."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Kan låsas upp"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Kan inte låsas upp"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "GÄLLER FÖR REGLER"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Inga regler har skapats än."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Tillämpa automatiskt på nya regler"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Spara ändringar"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Vill du radera schemat?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Radera schemat"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Schema"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Redigera schemat"
+  },
+  "schedules_title": {
+    "message": "Scheman"
+  },
+  "schedules_subtitle": {
+    "message": "Bestäm när du får starta sessioner."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Inga scheman än"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Lägg till ett schema för att ställa in tidsbegränsningar för dina regler."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Lägg till schema"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Sömn"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Ställ in dina skärmtidsregler först"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Gör klart inställningarna på fliken Regler innan du skapar scheman."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Dina regler blockerar appar och webbplatser tills du startar en session. Scheman lägger till ett extra lager: de begränsar *när* du kan starta sessionerna.\n\nSkydda tiden för sömn, studier eller fokus, eller planera in pauser åt dig själv."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Starta din gratis provperiod för att kunna ha mer än 1 schema"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Fel: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Det gick inte att lägga till schemat: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Det gick inte att uppdatera: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Det gick inte att radera: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Det gick inte att uppdatera kopplade regler: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Jag vill ta 5 minuters paus och scrolla Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Dina appar är låsta tills du låser upp dem"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Webbplatserna du har valt är låsta tills du låser upp dem"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Men vissa tider på dygnet vill du att de ska förbli låsta"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Men vissa tider på dygnet vill du att de ska förbli låsta"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Scheman tar bort upplåsningsknappen"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Så apparna förblir låsta tills schemat tar slut."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Så webbplatserna förblir låsta tills schemat tar slut."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Attans! Då får jag väl gå och lägga mig."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Nu skyddar vi din sömn"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Välj timmarna då du vill sova i stället för att scrolla."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Skydda min sömn"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Din sömn är skyddad"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Ingen upplåsning mellan $1 och $2. Du kan ändra dagar, tider eller regler när du vill."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Vill du skydda tid för jobb eller studier också?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Lägg till ett schema när du vill."
+  },
+  "session_sectionTitleActive": {
+    "message": "Session"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Starta session"
+  },
+  "session_endingSession": {
+    "message": "Avslutar sessionen …"
+  },
+  "session_startingSession": {
+    "message": "Startar sessionen …"
+  },
+  "session_remainingInSession": {
+    "message": "kvar av sessionen"
+  },
+  "session_endSession": {
+    "message": "Avsluta session"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Schemabegränsning aktiv"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Ditt schema gör att du inte kan använda ”$1” just nu"
+  },
+  "session_blockedBadge": {
+    "message": "BLOCKERAD"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Ditt schema gör att du inte kan starta sessioner just nu."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Åsidosätt schemat"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Blockerar också just nu:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Flera begränsningar gäller samtidigt. Det räcker att klara uppgiften för den strängaste begränsningen för att starta en session."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Schemabegränsning"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Paus mellan sessioner"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Blockeras av ”$1” till kl. $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Utanför tillåtna tider. ”$1” börjar kl. $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Utanför alla tillåtna tidsintervall i dina scheman"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Kan pågå tills ”$1” blockerar kl. $2"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Kan pågå tills ”$1” slutar kl. $2"
+  },
+  "session_other": {
+    "message": "Annat"
+  },
+  "session_duration": {
+    "message": "Längd"
+  },
+  "session_startSession": {
+    "message": "Starta session"
+  },
+  "session_takeABreak": {
+    "message": "Ta en paus."
+  },
+  "session_reopensInFormat": {
+    "message": "Ny session om $1 s"
+  },
+  "session_reopensInLabel": {
+    "message": "Ny session om"
+  },
+  "session_bypassBreak": {
+    "message": "Hoppa över pausen"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Sluta doomscrolla."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Det är $1 sessioner i rad. Sluta doomscrolla."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "sv"
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "Det är $1 session i rad. Sluta doomscrolla."
+  },
+  "session_overrideSizeLow": {
+    "message": "Upp till 2 min"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Upp till 10 min"
+  },
+  "session_overrideSizeHigh": {
+    "message": "Upp till 60 min"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Hur mycket extra tid behöver du?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Kräver en snabb uppgift"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Kräver en medelsvår uppgift"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Kräver en svår uppgift"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Dina skydd tillåter inte extra tid."
+  },
+  "session_dailyLimitReached": {
+    "message": "Dagsgränsen är nådd"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Du har använt $1 min i dag."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Ta en promenad, fixa den där sysslan eller ring en vän."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Jag har inget bättre för mig"
+  },
+  "session_chooseLength": {
+    "message": "Välj sessionslängd"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Upplåsning är tidsbegränsad"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Tryck på en längd för att starta sessionen. Vi låser igen när tiden är slut."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Starta session: $1 min"
+  },
+  "settings_title": {
+    "message": "Anpassa webbplatser"
+  },
+  "settings_igComments": {
+    "message": "Dölj Instagram-kommentarer"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Gäller inte konton du följer"
+  },
+  "settings_igStories": {
+    "message": "Händelser på Instagram"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Täck över inlägg från konton du inte följer"
+  },
+  "settings_igFeedVideos": {
+    "message": "Dölj videor i flödet"
+  },
+  "settings_igGuardAds": {
+    "message": "Dölj reklam"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Visa bara sökning på fliken Utforska"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Visa bilder i gråskala"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Visa videor i gråskala"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Inloggad som"
+  },
+  "settings_accountSignOut": {
+    "message": "Logga ut"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Logga in med Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Logga in för att synkronisera dina data mellan enheter. Om du redan har köpt RelockIn Pro återställs ditt abonnemang när du loggar in."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Abonnemang"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Status"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Vill du logga ut?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Dina data synkroniseras inte längre mellan enheter förrän du loggar in igen."
+  },
+  "settings_accountSignOutError": {
+    "message": "Det gick inte att logga ut. Försök igen."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Du måste ge behörighet för att logga in. Allt annat fungerar utan konto."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Genom att fortsätta godkänner du våra $1. I vår $2 förklarar vi hur vi använder dina uppgifter."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Genom att skapa ett konto godkänner du våra $1. I vår $2 förklarar vi hur vi använder dina uppgifter."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Användarvillkor"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Integritetspolicy"
+  },
+  "settings_accountSourceCode": {
+    "message": "Källkod"
+  },
+  "settings_accountSignInError": {
+    "message": "Det gick inte att logga in. Försök igen."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "Inloggningen hittade inget Google-konto på telefonen. Öppna telefonens Inställningar och sedan ”Lösenord och konton” (på Samsung ”Konton och säkerhetskopiering”) och kontrollera att ett Google-konto har lagts till där. Om ett konto redan finns men inloggningen ändå misslyckas kan du försöka ta bort det och lägga till det igen."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Inloggning med Google är inte korrekt konfigurerad i den här appen. Kontakta supporten."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Inloggningen avbröts. Försök igen."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Den här enheten kan inte logga in med Google. Försök uppdatera Google Play-tjänster eller logga in med e-post i stället."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Det gick inte att läsa inloggningsuppgifterna från Google. Försök igen."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Det gick inte att nå inloggningsservern. Kontrollera anslutningen och försök igen."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Inloggningen returnerade oväntade uppgifter. Försök igen."
+  },
+  "settings_emailSignInCta": {
+    "message": "Logga in med e-post"
+  },
+  "settings_appleSignInCta": {
+    "message": "Logga in med Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Logga in"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Logga in med din e-postadress och ditt lösenord."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Skapa konto"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Skapa ett konto för att synkronisera mellan enheter."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Skapa konto"
+  },
+  "settings_emailResetTitle": {
+    "message": "Återställ lösenord"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Ange din e-postadress så skickar vi en länk för att återställa lösenordet."
+  },
+  "settings_emailResetAction": {
+    "message": "Skicka återställningslänk"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-post"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Lösenord"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Bekräfta lösenord"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Glömt lösenordet?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Har du inget konto? Registrera dig"
+  },
+  "settings_switchToSignIn": {
+    "message": "Har du redan ett konto? Logga in"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Kolla din e-post"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Vi har skickat en bekräftelselänk till din e-post. Verifiera din adress innan du loggar in."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Återställningslänk skickad"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Vi har skickat en länk för att återställa lösenordet till din e-post (om kontot finns)."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Din e-postadress har inte verifierats. Leta efter en bekräftelselänk i din inkorg."
+  },
+  "settings_emailRateLimitError": {
+    "message": "För många försök. Försök igen senare."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Lösenordet är för svagt. Använd minst 6 tecken."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Fel e-postadress eller lösenord. Om du nyss har registrerat dig, kontrollera att du har verifierat din e-postadress."
+  },
+  "settings_changePasswordCta": {
+    "message": "Byt lösenord"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Ange nytt lösenord"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Välj ett nytt lösenord för ditt konto."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Nytt lösenord"
+  },
+  "settings_newPasswordAction": {
+    "message": "Uppdatera lösenord"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Lösenordet har uppdaterats"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Ditt lösenord har uppdaterats. Nu kan du logga in med ditt nya lösenord."
+  },
+  "settings_newPasswordError": {
+    "message": "Det gick inte att uppdatera lösenordet. Försök igen."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Fyll i alla fält."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Registreringen misslyckades."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Ange din e-postadress."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Det gick inte att skicka återställningslänken."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Lösenordet har uppdaterats."
+  },
+  "settings_accountSigningOut": {
+    "message": "Loggar ut …"
+  },
+  "settings_accountSigningIn": {
+    "message": "Loggar in …"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "Ej tillg."
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Gratisversion"
+  },
+  "settings_backToSignIn": {
+    "message": "Tillbaka till inloggningen"
+  },
+  "settings_sending": {
+    "message": "Skickar …"
+  },
+  "settings_updating": {
+    "message": "Uppdaterar …"
+  },
+  "settings_creatingAccount": {
+    "message": "Skapar konto …"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Bekräfta nytt lösenord"
+  },
+  "settings_showPasswordCta": {
+    "message": "Visa"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Dölj"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Lösenordet måste ha minst 6 tecken."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Lösenorden matchar inte."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Kontot är bekräftat"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Din e-postadress är verifierad och du är nu inloggad."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Inloggningslänken fungerade inte"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Vi kunde inte slutföra inloggningen via länken. Den kan ha gått ut eller redan ha använts. Försök igen eller be om en ny länk via e-post.\n\nDetaljer: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Radera konto"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Farozon"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "FAROZON – Radera konto"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Det här raderas permanent:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Dina inloggningsuppgifter och din profil\nAlla synkroniserade regler, scheman och inställningar\nAll synkroniserad användningshistorik och övrig appdata"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Det här sparas:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Köp- och transaktionsuppgifter (krävs enligt lag för skatte- och bokföringsändamål)\nKraschrapporter och diagnostikdata"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Abonnemang avslutas inte när kontot raderas"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Skriv $1 för att bekräfta att kontot raderas permanent"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "RADERA"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Det går inte att ångra."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Autentiseringen misslyckades"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Vi kunde inte verifiera din inloggning. Logga in igen innan du raderar kontot."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Kontot har raderats"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Ditt konto har raderats permanent."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Kontot kunde inte raderas (fel $1). Försök igen senare eller kontakta supporten på relockin.com/support om felet kvarstår."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Rensa bort distraktioner och bli mer produktiv"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Visa"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Täck över"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Ta bort"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Kan visas direkt"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Kan visas efter 5 s"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Kan visas efter 10 s"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Kan inte visas"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Kan visas efter en uppgift"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "När innehållet kan visas"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Standard"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Mobil"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Dator"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Inget filter"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Lätt oskärpa"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Kraftig oskärpa"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Gråskala"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Svart"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Dölj Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Dölj fliken Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Dölj fliken Hem"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Visa Prenumerationer i stället för Hem"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Stäng av automatisk uppspelning"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Stäng av förhandsvisningar av videor"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Dölj inlägg utan video"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Tar bort inlägg, omröstningar och bilduppdateringar från flödet på startsidan."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Gör all reklam överhoppningsbar"
+  },
+  "settings_ytBlockAds": {
+    "message": "Blockera reklam"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Dölj videon ”Nästa”"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Rekommenderade videor"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Visningsläge"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Filter för miniatyrbilder"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Dölj fliken Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Dölj fliken Hem"
+  },
+  "settings_igHomeFeed": {
+    "message": "Hemflöde"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Standard"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Instagrams vanliga flöde, med föreslagna inlägg."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Bara Följer"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "De senaste inläggen från konton du följer, nyaste först."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Bara Favoriter"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Bara inlägg från konton i dina Favoriter."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Dölj länken tillbaka till standardflödet"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Använd Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Anpassa Old Reddit för mobilen"
+  },
+  "settings_redditVersion": {
+    "message": "Reddit-version"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen-läge"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "En snabbare och renare Reddit-upplevelse byggd på ett förnyat old.reddit.com"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Standard"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Reddits vanliga mobilgränssnitt"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "OBS: Vi rekommenderar Zen-läget, annars kan Reddit försöka tvinga dig att använda sin app"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Flödesstil"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Bara rubriker"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Bläddra snabbare med bara rubriker. Tryck eller svep för att öppna inlägg."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Miniatyrbilder"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Rubriker med en liten bild för varje inlägg."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Utfälld"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Visa bilder, videor och textinlägg direkt i flödet."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Begränsa oändliga flöden?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Visa alla flöden"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit fungerar som vanligt."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Dölj ”Populärt” och ”Alla”"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Döljer flöden med inlägg från främlingar, till exempel ”Populärt”, ”Alla” och ”Utforska”. Flödet på ”Startsida” fungerar fortfarande."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Dölj alla flöden"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Döljer även flödet på ”Startsida”. Du kan fortfarande besöka subreddits och söka."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Begränsa flödet på ”Startsida” till inlägg från subreddits du har gått med i"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Visa bilder i gråskala"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Flytta röstantalet under inläggen"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Färgkoda kommentarsnivåer"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Aktivera svepgester på kommentarer"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Kort svep åt höger"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Långt svep åt höger"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Kort svep åt vänster"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Långt svep åt vänster"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Rösta upp"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Rösta ner"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Fäll ihop"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Svara"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Spara"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Aktivera svepgester på inlägg"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Rösta upp"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Rösta ner"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Dölj"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Dela"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Spara"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Öppna kommentarer"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Öppna källänken"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Förhandsvisning"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Tillåt egen CSS i följande subreddits"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Egen CSS för subreddits är avstängd som standard för att inläggen ska vara läsbara på små skärmar."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "namn på subreddit (t.ex. politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Ta bort $1"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Inga subreddits har lagts till än."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Dölj fliken ”För dig”"
+  },
+  "settings_xHideAds": {
+    "message": "Dölj reklam"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Filtrera inlägg efter kontaktnivå"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Visa alla"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Dölj inlägg från 3:e nivån"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Dölj inlägg från 2:a och 3:e nivån"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Dölj marknadsförda inlägg"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Täck över bilder och videor i flödet"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Visa bilder i gråskala"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Visa videor i gråskala"
+  },
+  "settings_inBrowserNote": {
+    "message": "Ta bort reklam, slipp distraktioner och filtrera dina flöden. Gäller i RelockIn-webbläsaren."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Inställningarna gäller webbplatser i RelockIn-webbläsaren, **inte $1-appen.** Logga in för att se ändringen i ditt flöde."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Inställningarna gäller webbplatser i RelockIn-webbläsaren, **inte $1-appen.** Öppna webbplatsen för att se ändringen."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Se ändringen på $1"
+  },
+  "settings_generalSection": {
+    "message": "Allmänt"
+  },
+  "settings_showSessionTimer": {
+    "message": "Visa sessionstimer"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Tvinga mig att ta ett andetag innan jag låser upp en webbplats"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Andningspausens längd (sekunder)"
+  },
+  "settings_clearSection": {
+    "message": "Återställ"
+  },
+  "settings_ytAiContent": {
+    "message": "AI-genererade videor"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Visa"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Visar AI-videor som alla andra videor."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Märk"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Märker AI-videornas miniatyrbilder med ”AI”."
+  },
+  "settings_ytAiContentCover": {
+    "message": "Täck över"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Täcker över AI-videor. Enskilda videor kan du ändå visa."
+  },
+  "settings_ytAiContentHide": {
+    "message": "Dölj"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Döljer AI-videor i flöden, sökresultat och rekommendationer."
+  },
+  "settings_ytAiVotes": {
+    "message": "Dina röster: AI eller inte"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Inte AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Inga kanaler än"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Ta bort $1"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Blockerade kanaler"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Deras videor döljs överallt på YouTube. Använd ”Blockera kanal” under en video eller på en kanalsida."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts och reklam"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Svepgester"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Hem och flöde"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI och kanaler"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Nästa"
+  },
+  "settings_sectionTabs": {
+    "message": "Flikar"
+  },
+  "settings_sectionFeed": {
+    "message": "Flöde"
+  },
+  "settings_sectionFeeds": {
+    "message": "Flöden"
+  },
+  "settings_sectionAppearance": {
+    "message": "Utseende"
+  },
+  "settings_sectionOther": {
+    "message": "Övrigt"
+  },
+  "support_titleHelp": {
+    "message": "Få hjälp"
+  },
+  "support_titleFeedback": {
+    "message": "Ge feedback"
+  },
+  "support_titleReportProblem": {
+    "message": "Rapportera ett problem"
+  },
+  "support_sentimentTitle": {
+    "message": "Vilken typ av feedback har du?"
+  },
+  "support_sentimentPositive": {
+    "message": "Något jag gillar"
+  },
+  "support_sentimentNegative": {
+    "message": "Något kan bli bättre"
+  },
+  "support_reviewTitle": {
+    "message": "Vad roligt att höra!"
+  },
+  "support_reviewBody": {
+    "message": "Vill du skriva en kort recension? Det hjälper andra att hitta RelockIn.\n\nDet betyder mycket för vårt lilla team."
+  },
+  "support_reviewCta": {
+    "message": "Skriv en recension"
+  },
+  "support_personalNoteTitle": {
+    "message": "Några rader från utvecklaren"
+  },
+  "support_personalNoteBody": {
+    "message": "Tack för att du använder RelockIn. Jag läser varje meddelande själv och svarar så snart jag kan."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Tack! Har du några synpunkter eller förslag?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Tråkigt att höra. Berätta vad som inte fungerar så tittar vi på det."
+  },
+  "support_messageLabel": {
+    "message": "Ditt meddelande"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Vad kan vi hjälpa dig med?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Vad vill du berätta?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Vad fungerar inte på den här webbplatsen?"
+  },
+  "support_siteLabel": {
+    "message": "Webbplats"
+  },
+  "support_emailLabel": {
+    "message": "Din e-postadress"
+  },
+  "support_emailPlaceholder": {
+    "message": "du@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Ange en giltig e-postadress."
+  },
+  "support_sendCta": {
+    "message": "Skicka"
+  },
+  "support_sendError": {
+    "message": "Det gick inte att skicka meddelandet. Kontrollera anslutningen och försök igen."
+  },
+  "support_sentTitle": {
+    "message": "Meddelandet har skickats"
+  },
+  "support_sentBodyFormat": {
+    "message": "Tack! Vi skickar ett svar till $1 så snart vi kan."
+  },
+  "support_sendAnotherCta": {
+    "message": "Skicka ett nytt meddelande"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Behöver du hjälp?"
+  },
+  "support_accountFooterCta": {
+    "message": "Kontakta supporten"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Ditt meddelande går direkt till utvecklaren"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Diagnostikloggar"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Diagnostikloggar"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Inga loggposter än."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Felsökningslogg"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "De här posterna sparas bara lokalt på den här enheten. De laddas aldrig upp eller delas automatiskt. Använd delningsknappen för att skicka dem till utvecklaren när du rapporterar ett problem."
+  },
+  "target_domainType": {
+    "message": "Hela webbplatsen"
+  },
+  "target_urlPatternType": {
+    "message": "URL-mönster"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Låser alla sidor på en webbplats. Skriv bara webbplatsens namn (t.ex. reddit.com) – underdomäner och sökvägar spelar ingen roll."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Låser alla URL:er som innehåller den här texten. Använd * som jokertecken för allt som står däremellan.\n\nTill exempel:\n- youtube.com/shorts låser YouTube Shorts men inte vanliga videor\n- reddit.com/r/politics låser bara just den subredditen\n- x.com/*/status/* låser enskilda inlägg utan att låsa resten av X, t.ex. profilsidor"
+  },
+  "target_scopeNote": {
+    "message": "Blockeringarna gäller i RelockIn-webbläsaren, men inte i andra webbläsare som Safari. Du kan starta en session för att låsa upp en stund."
+  },
+  "target_emptyPattern": {
+    "message": "(tom)"
+  },
+  "target_addTargetTitle": {
+    "message": "Lås en webbplats"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Vad vill du låsa?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Ta bort webbplats"
+  },
+  "target_editTargetTitle": {
+    "message": "Redigera objekt"
+  },
+  "target_editingLabel": {
+    "message": "Redigeras"
+  },
+  "target_typePickerLabel": {
+    "message": "Typ"
+  },
+  "typingSentences_short1": {
+    "message": "Jag väljer detta fullt medvetet."
+  },
+  "typingSentences_short2": {
+    "message": "Jag tar ansvar för det här beslutet."
+  },
+  "typingSentences_short3": {
+    "message": "Jag står för det här valet just nu."
+  },
+  "typingSentences_short4": {
+    "message": "Det här är mitt genomtänkta beslut."
+  },
+  "typingSentences_short5": {
+    "message": "Jag gör det här valet med eftertanke."
+  },
+  "typingSentences_long1": {
+    "message": "Jag är fullt medveten om att jag åsidosätter de gränser jag satt för att skydda min egen tid och mitt fokus, och jag tar det ansvar som följer med det här valet."
+  },
+  "typingSentences_long2": {
+    "message": "Vi är vad vi upprepade gånger gör. Förträfflighet är alltså inte en handling utan en vana. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Dina val blir dina vanor. Dina vanor blir din karaktär. Och din karaktär blir ditt öde."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrolling eller doomsurfing innebär att man lägger överdrivet mycket tid på att titta på korta videor eller stora mängder användargenererat innehåll eller nyheter, särskilt negativa nyheter, på webben och i sociala medier. Enkäter och studier tyder på att doomscrolling är vanligast bland unga. År 2019 visade en studie från amerikanska National Academy of Sciences att doomscrolling kan kopplas till försämrad psykisk och fysisk hälsa."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Oändlig scrollning är en designmetod som laddar innehåll kontinuerligt medan användaren scrollar nedåt, så att sidnumrering inte behövs. Därför kan funktionen förvärra doomscrolling, eftersom den tar bort naturliga stopp där användaren annars kunde ha pausat. Forskning har också visat att sociala mediers tendens att förstärka negativt innehåll kan göra detta ständiga scrollande värre, så att användare fastnar i negativa nyheter under längre tid."
+  },
+  "typingSentences_paragraph3": {
+    "message": "De flesta sociala mediers affärsmodeller bygger i hög grad på användarnas engagemang. Ju längre folk stannar på plattformarna, desto mer reklam ser de och desto mer data samlas in om deras beteende. Det skapar en ond cirkel där känsloladdat innehåll - ofta med negativa eller ångestväckande budskap - visas för användarna om och om igen och får dem att fortsätta scrolla och konsumera mer innehåll."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Direkt underhållning, information och kontakt med andra gör sociala medier lockande. Beroende av sociala medier kännetecknas av överdriven och tvångsmässig användning som påverkar vardagen och det allmänna välbefinnandet. Det handlar om mer än att bara tillbringa för mycket tid på nätet; det innebär att tvångsmässigt leta efter uppdateringar, känna oro när man är offline och drabbas av negativa följder för relationer och ansvar i verkliga livet."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Algoritmerna bakom korta videor är extremt beroendeframkallande eftersom de tar bort dina val och din avsikt ur ekvationen. När apparna väljer nästa video åt dig behöver du inte fatta ett medvetet beslut varje gång. Det känns hela tiden lockande att titta vidare, medan det blir svårt att sluta."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Sociala medier är gjorda för att vara beroendeframkallande. Techföretag bygger apparna för att fånga din uppmärksamhet genom att aktivera hjärnans belöningssystem. Kombinationen av dopamindriven bekräftelse, oförutsägbara belöningar och psykologiska krokar gör det otroligt svårt att lägga ifrån sig telefonen. Att känna igen de här designknepen är första steget mot att ta tillbaka kontrollen över dina digitala vanor och få en sundare relation till tekniken."
+  },
+  "usage_title": {
+    "message": "Användning"
+  },
+  "usage_subtitle": {
+    "message": "Se din skärmtid per regel och session."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Ingen användning registrerad"
+  },
+  "usage_noUsageBody": {
+    "message": "Din användning visas här när du har startat sessioner."
+  },
+  "usage_today": {
+    "message": "I dag"
+  },
+  "usage_thisWeek": {
+    "message": "Den här veckan"
+  },
+  "usage_thisMonth": {
+    "message": "Den här månaden"
+  },
+  "usage_yesterday": {
+    "message": "I går"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Inga regler har skapats än."
+  },
+  "usage_daily": {
+    "message": "Dag"
+  },
+  "usage_weekly": {
+    "message": "Vecka"
+  },
+  "usage_monthly": {
+    "message": "Månad"
+  },
+  "usage_previousPeriod": {
+    "message": "Föregående period"
+  },
+  "usage_nextPeriod": {
+    "message": "Nästa period"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Period"
+  },
+  "usage_unknownRule": {
+    "message": "Okänd regel"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 av $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

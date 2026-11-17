@@ -1,0 +1,2843 @@
+{
+  "about_tagline": {
+    "message": "Zárd ki a zavaró tényezőket. Hozd ki magadból a legtöbbet."
+  },
+  "about_welcome": {
+    "message": "Üdvözlünk a RelockIn-ben!"
+  },
+  "about_sentence": {
+    "message": "A RelockIn a böngésző, amely kiiktatja a zavaró tényezőket. A Fókuszközpontban könnyedén beállíthatsz szabályokat és ütemezéseket, hogy korlátozd a figyelemelterelő appok és weboldalak használatát. Egyszerű elven működik: mi lenne, ha minden telefonon töltött perced tudatos lenne?\n\nEmellett a RelockIn egy teljesen testreszabható, a magánszférádat tiszteletben tartó mobilböngészőt is kínál. A RelockIn soha nem követi a kereséseidet, és soha senkivel nem osztja meg az adataidat. Mivel a RelockIn az egyetlen fókuszapp teljesen beépített böngészővel, csak vele szabhatod testre a weboldalakat úgy, hogy eltávolítsd a zavaró funkciókat, például a Reels- és Shorts-videókat. Így jóval több mindent tarthatsz kézben."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn Androidra"
+  },
+  "about_extensionName": {
+    "message": "RelockIn – MI-szemét, Shorts, Reels és weboldalak letiltása | Képernyőidő"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn – MI-szemét, Shorts, weboldalak letiltása"
+  },
+  "about_extensionDescription": {
+    "message": "Tiltsd le az MI-, Shorts- és Reels-videókat és a végtelen hírfolyamokat. Ráadásul időkorlátok és ütemezések bármely weboldalra."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "törölni ezt a szabályt"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "megszüntetni a(z) „$1” korlátozását"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "megemelni a napi időkeretedet"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "kihagyni a szünetet"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "kivételt tenni az ütemezési korlátozás alól"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "túllépni a napi időkeretedet"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "törölni ezt az ütemezést"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "kevésbé szigorúvá tenni ezt az ütemezést"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "külső appokat vagy weboldalakat eltávolítani a tiltólistádról"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "enyhíteni ezt a védelmi beállítást"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "könnyíteni a(z) „$1” feladaton"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "törölni a(z) „$1” feladatot"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "kikapcsolni a feladatot a védelem enyhítése előtt"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Ha elfogyott a napi időkeretem, és több időre van szükségem…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Legfeljebb 2 perc"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 perc"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Több mint 10 perc"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Ha meg kell kerülnöm az ütemezés szerinti letiltást…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Ha a RelockIn szünetet kér, de én még folytatnám…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Ha túl sok feloldást indítasz egymás után, megkérünk, hogy tarts egy szünetet. A szünet hosszát a „Szünet a feloldások között” beállításban módosíthatod."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 egymás utáni feloldás"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 egymás utáni feloldás"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ egymás utáni feloldás"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Ha kevésbé szigorúvá teszem a képernyőidő-szabályaimat…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "App eltávolítása"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Weboldal eltávolítása"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Szabály törlése"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Napi időkeret megemelése"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Ha kevésbé szigorúvá teszek egy ütemezést…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Amikor épp nem tilt"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Amikor épp tilt"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "A folytatáshoz gépeld be a mondatot"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "A folytatáshoz gépeld be a bekezdést"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Bekezdés:\n„$1”"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Várd meg, amíg lejár az időzítő"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "A visszaszámlálás végéig nem léphetsz tovább."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Lejárt az idő – folytathatod."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Biztosan ezt szeretnéd?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Tényleg szeretnéd $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Itt is jól jönne egy kis védelem? A Védelem lapon egészséges akadályokat állíthatsz be, hogy megóvd a céljaidat."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Igen, folytatom"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Nem lehet $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Ezt nem teheted meg"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "A védelmi beállításaid szerint ez lehetetlen, így semmilyen feladattal nem teheted elérhetővé."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Erre tényleg szükségem van"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "A védelmi beállításaidat a Védelem lapon módosíthatod."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Ugrás a Védelem lapra"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Mondat:\n„$1”"
+  },
+  "challengeUi_confirm": {
+    "message": "Megerősítés"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Ez még nem egyezik. Ellenőrizd a helyesírást és az írásjeleket."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Kész."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Gépeld be a mondatot pontosan úgy, ahogy látod."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Csak így tovább…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Megvan!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Eltérés van. Nézd meg alaposan: elgépeltél valamit."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "A folytatáshoz oldd meg mindegyik példát"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Írd be a válaszaidat, és koppints a Megerősítés gombra."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Mind helyes!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Néhány válasz hibás. Ellenőrizd a kiemelt mezőket."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "$1. példa válasza"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Értesítjük a bizalmi személyedet"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "E-mailt küldünk a bizalmi személyednek arról, hogy úgy döntöttél, felülbírálod a korlátaidat. Az értesítés segít, hogy kitarts a céljaid mellett."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Értesítés küldése és folytatás"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Nem tudom megoldani"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Inkább várj $1 percet"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "hu"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Inkább várj $1 percet"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Nincs"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Könnyű"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Közepes"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Nehéz"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Nagyon nehéz"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Extrém"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Lehetetlen"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Csak megerősítés"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Alapértelmezés: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Nem sikerült menteni"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Hátralévő idő: $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "A feladat beviteli mezője"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Feladatok testreszabása"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Módosítsd, milyen lépésekből álljanak a Könnyű, Közepes és Nehéz feladatok, vagy hozz létre sajátot"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Mikor kapjak feladatot"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Állítsd be, mennyire legyen nehéz egy képernyőidő-szabály törlése, a plusz idő kérése és más műveletek"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Beépített"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Egyéni"
+  },
+  "challenges_newChallenge": {
+    "message": "Új"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Még nincs egyéni feladat. Koppints a + gombra, és hozz létre egyet."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Név (pl. „Kegyetlen”)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Új feladat"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Adj egyedi nevet ennek a feladatnak."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Döntsd el, mit kérjenek tőled az egyes feladatok, vagy hozz létre sajátot."
+  },
+  "challenges_savedBadge": {
+    "message": "Mentve"
+  },
+  "challenges_noSteps": {
+    "message": "Nincsenek lépések – a mentéshez adj hozzá legalább egyet."
+  },
+  "challenges_addStep": {
+    "message": "Lépés hozzáadása"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Nehézség"
+  },
+  "challenges_problemsLabel": {
+    "message": "Példák"
+  },
+  "challenges_operationsLabel": {
+    "message": "Műveletek"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Rövid mondat begépelése"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Hosszú mondat begépelése"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Bekezdés begépelése"
+  },
+  "challenges_stepNameMath": {
+    "message": "Számolás"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "E-mail a bizalmi személyednek"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Várakozás az időzítőre"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Időtartam: $1 perc $2 mp"
+  },
+  "challenges_stepCount": {
+    "message": "$1 lépés"
+  },
+  "challenges_stepCount__lang": {
+    "message": "hu"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 lépés"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Feladatok ehhez a szabályhoz"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Csak a(z) „$1” szabályra vonatkozik."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Ha az összes szabály feladatait vagy a feladatok lépéseit szeretnéd módosítani:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Ugrás a Védelem lapra"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Feladat a védelem enyhítése előtt"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Ha könnyítesz egy feladaton, előbb el kell végezned azt, amit eltávolítasz belőle."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Még $1 percig szabadon módosíthatod a védelmet. Utána az enyhítéshez feladatot kell megoldanod."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "hu"
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Még $1 percig szabadon módosíthatod a védelmet. Utána az enyhítéshez feladatot kell megoldanod."
+  },
+  "common_save": {
+    "message": "Mentés"
+  },
+  "common_cancel": {
+    "message": "Mégse"
+  },
+  "common_done": {
+    "message": "Kész"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Szerkesztés"
+  },
+  "common_delete": {
+    "message": "Törlés"
+  },
+  "common_defaultOption": {
+    "message": "Alapértelmezett"
+  },
+  "common_back": {
+    "message": "Vissza"
+  },
+  "common_skip": {
+    "message": "Kihagyás"
+  },
+  "common_next": {
+    "message": "Tovább"
+  },
+  "common_gotIt": {
+    "message": "Értem"
+  },
+  "common_none": {
+    "message": "Nincs"
+  },
+  "common_yes": {
+    "message": "Igen"
+  },
+  "common_no": {
+    "message": "Nem"
+  },
+  "common_start": {
+    "message": "Indítás"
+  },
+  "common_loading": {
+    "message": "Betöltés…"
+  },
+  "common_error": {
+    "message": "Hiba"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Bezárás"
+  },
+  "common_continue": {
+    "message": "Folytatás"
+  },
+  "common_dismiss": {
+    "message": "Bezárás"
+  },
+  "common_notNow": {
+    "message": "Most nem"
+  },
+  "common_noThanks": {
+    "message": "Nem, köszönöm"
+  },
+  "common_maybeLater": {
+    "message": "Majd később"
+  },
+  "common_add": {
+    "message": "Hozzáadás"
+  },
+  "common_create": {
+    "message": "Létrehozás"
+  },
+  "common_startSetup": {
+    "message": "Beállítás indítása"
+  },
+  "common_continueSetup": {
+    "message": "Beállítás folytatása"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Folytasd ott, ahol abbahagytad"
+  },
+  "common_setItUp": {
+    "message": "Beállítás"
+  },
+  "common_howItWorks": {
+    "message": "Hogyan működik?"
+  },
+  "common_getStarted": {
+    "message": "Kezdjük"
+  },
+  "common_signIn": {
+    "message": "Bejelentkezés"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 perc"
+  },
+  "common_hoursCount": {
+    "message": "$1 óra"
+  },
+  "common_hoursCount__lang": {
+    "message": "hu"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 óra"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "$1/$2. lépés"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "$1 Shorts-videót eltávolítottunk a hírfolyamodból"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "hu"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "$1 Shorts-videót eltávolítottunk a hírfolyamodból"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Bezárás"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "A RelockIn letakarta"
+  },
+  "domShared_coverDismiss": {
+    "message": "Megjelenítés"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Nem jeleníthető meg"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Megjelenítés ($1 mp)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Ehhez be kell jelentkezned."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Bejelentkezés"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Bezárás"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "A Reddit épp megpróbált rákényszeríteni a saját appjára."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Ha bármilyen hibát tapasztalsz, töltsd újra az oldalt, vagy válts Zen módra."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Bezárás"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Ez a hírfolyam el van rejtve"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Úgy döntöttél, hogy elrejted a Reddit Népszerűek és Mind hírfolyamát."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Úgy döntöttél, hogy elrejted a hírfolyamaidat a Redditen."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "A subredditjeid"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Ezt a RelockIn beállításaiban módosíthatod."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Naprakész vagy"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Ennyi volt az újdonság azokból a subredditekből, amelyekhez csatlakoztál."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Továbbiak keresése"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Lejátszás"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Szünet"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Hirdetés átugrása"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Lejátszási sebesség"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Hangerő"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "felszavazás"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "leszavazás"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "szavazat visszavonása"
+  },
+  "domShared_redditActionSave": {
+    "message": "mentés"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "mentés visszavonása"
+  },
+  "domShared_redditActionHide": {
+    "message": "elrejtés"
+  },
+  "domShared_redditActionShare": {
+    "message": "megosztás"
+  },
+  "domShared_redditActionComments": {
+    "message": "hozzászólások"
+  },
+  "domShared_redditActionExpand": {
+    "message": "kibontás"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "összecsukás"
+  },
+  "domShared_redditActionReply": {
+    "message": "válasz"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "további lehetőségek"
+  },
+  "domShared_redditActionScore": {
+    "message": "pontszám"
+  },
+  "domShared_redditActionSource": {
+    "message": "Forrás"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Előnézet"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Mentés"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Mentés visszavonása"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Elrejtés"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Megjelenítés"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Megosztás"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Jelentés"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Szülő hozzászólás"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Állandó link"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Beágyazás"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Crosspost"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Hozzászólás linkjének másolása"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Bejegyzés linkjének másolása"
+  },
+  "domShared_redditAgeNow": {
+    "message": "most"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1 p"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1 ó"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1 n"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1 hó"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1 é"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Instagram-történetek"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Elrejtettük egy ismeretlen bejegyzését."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Elrejtettük ezt a videót."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Elrejtettük ezt a hirdetést."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Szerző: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Ez a bejegyzés harmadfokú kapcsolattól származik"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Ez a bejegyzés nem elsőfokú kapcsolattól származik"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "A fókuszod védelmében letakartuk."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "A fókuszod védelmében elrejtettük ezt a hirdetést"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Koppints a megjelenítéshez"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "A fókuszod védelmében letakartuk a képet"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Koppints a megjelenítéshez."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "A fókuszod védelmében letakartuk a videót."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Ajánlott videók"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Lejátszási sebesség: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Hangerő: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "10 másodperccel vissza"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "10 másodperccel előre"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "csinálj valami jobbat."
+  },
+  "domShared_ytAiBadge": {
+    "message": "MI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "MI-vel készült videó"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "MI-csatornának jelölted"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Mégis megjelenítem"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Mégis megnézem"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Nem MI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "MI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Talán MI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Valószínűleg MI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Nagy valószínűséggel MI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Vitatott"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "A RelockIn ellenőrizte"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Valószínűleg MI-vel készült"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Nagy valószínűséggel MI-vel készült"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "A RelockIn-felhasználók szavazatai alapján"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Ez egy MI-csatorna?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "MI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Mi számít MI-nek?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "A szavazatod egyelőre csak rád vonatkozik. Jelentkezz be a RelockIn-be, hogy a közösséggel is megoszd."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Bejelentkezés"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Bezárás"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Az MI gombbal szavazz, ha a csatorna legtöbb videója ezeket használja:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "MI-vel írt forgatókönyv"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "MI-hang"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "MI-vel generált képek vagy videók"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "MI-zene"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Ami nem számít MI-nek:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "MI-ről szóló videók, például MI-eszközök tesztjei"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Apró MI-s simítások, például feljavított hang"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "A szavazatod nálad azonnal érvénybe lép, és a többi RelockIn-felhasználónak is segít."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Téves a jelölés? Kérj felülvizsgálatot"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "További lehetőségek"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Csatorna letiltása"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Letiltva"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Letiltás feloldása"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Letiltottad ezt a csatornát"
+  },
+  "limits_title": {
+    "message": "Szabályok és feloldások"
+  },
+  "limits_subtitle": {
+    "message": "Indíts feloldásokat, és kezeld a képernyőidő-szabályaidat."
+  },
+  "limits_addRule": {
+    "message": "+ Új szabály"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Képernyőidő-szabályok"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Védd az idődet napi időkeretekkel és feloldásokkal"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Még nincsenek szabályaid. Adj hozzá egyet, és állíts be napi időkeretet."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Közösségi média"
+  },
+  "main_backToBrowser": {
+    "message": "Vissza a böngészőbe"
+  },
+  "main_openFullPage": {
+    "message": "Megnyitás teljes oldalon"
+  },
+  "main_tabLimits": {
+    "message": "Szabályok"
+  },
+  "main_tabSettings": {
+    "message": "Weboldalak"
+  },
+  "main_protectionTitle": {
+    "message": "Védelem"
+  },
+  "main_protectionSubtitle": {
+    "message": "Egészséges akadályok az elhamarkodott döntések előtt"
+  },
+  "main_tabAccount": {
+    "message": "Fiók"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Napi átlag"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "átl."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Kattints az eszköztáron a **puzzle** ikonra"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Keresd meg a **RelockIn** bővítményt, és kattints a **gombostű** ikonra"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "A képernyőidő-szabályaid"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Kattints egy szabályra a szerkesztéshez. Mindegyiknek saját napi időkerete van."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Üdvözöl a **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Nagyjából egy perc az egész"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Nem igazán"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Eleged van az MI-szemétből a YouTube-on?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Az igénytelen MI-videók ma már mindenhol ott vannak, a hírfolyamodtól a keresésig."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Szeretnél kevesebb időt görgetéssel tölteni?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Úgy, hogy ne csak az akaraterődre kelljen hagyatkoznod."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "MI-tartalom"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Szúrd ki az MI-videókat, **mielőtt** rákattintasz."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Az MI-tartalmakat letakarhatjuk, elrejthetjük vagy megjelölhetjük a hírfolyamodban."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Nem kötelező"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Segíts **kiszűrni** az MI-tartalmakat."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "A közösségünk együtt szűri ki az MI-tartalmakat. Ha regisztrálsz, a szavazataiddal másoknak is segítesz felismerni és letiltani őket."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Bejelentkezve"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "A szavazataid mostantól másoknak is segítenek felismerni és letiltani az MI-tartalmakat."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Folytatás e-mail-címmel"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Rövid videók"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "**Tüntesd el** a Shorts- és Reels-videókat."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Száműzd a Shorts-videókat a YouTube-ról, a Reels-videókat az Instagramról. Ami tetszik, az marad."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Shorts és Reels elrejtése"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Nem kötelező: időkeretek"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Görgess **tudatosan**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Melyik weboldalak kapjanak időkeretet?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Később továbbiakat is hozzáadhatsz."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Válassz egy weboldalt, hogy itt lásd a szabályát"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Gyors elérés"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Rögzítve. Szuper."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn iPhone-ra és Androidra"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Vidd át a **telefonodra** is."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "A RelockIn appal testre szabhatod a YouTube-ot, az Instagramot és más oldalakat, és eltávolíthatod az MI-tartalmakat és az olyan zavaró elemeket, mint a Shorts és a Reels.\n\nA zavaró appokat is zárolni tudja, így újra te döntöd el, mire fordítod az idődet."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Olvasd be a telefonod kamerájával"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Minden készen áll."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Irány a YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Fejezzük be a beállítást"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "A beállítás külön lapon nyílik meg, és nagyjából egy percig tart."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Beállítás folytatása"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Szabadulj meg az MI-szeméttől, a Shortstól és a végtelen hírfolyamoktól a leggyakrabban használt oldalaidon."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Miért érdemes regisztrálni?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Fiók nélkül a szavazataid csak neked jelölik meg az MI-csatornákat, másoknak nem tudnak segíteni. Ha viszont regisztrálsz, megbízhatunk a szavazataidban, így a teljes közösségnek segítenek megjelölni az MI-tartalmakat. Más felhasználók nem látják, hogyan szavaztál.\n\nA fiókod az iPhone-os és androidos RelockIn appban is működik."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Fontos számunkra az átláthatóság. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "A kódunk nyilvános"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Weboldalak testreszabása"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**40+ módszer**, hogy kevésbé legyenek addiktívak a weboldalak."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "A RelockIn a YouTube-ot, az Instagramot, a Redditet, az X-et és a LinkedIn-t is át tudja alakítani. Próbálj ki itt néhányat, a többit a beállításokban találod."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Napi időkeret: $1"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Legyen a RelockIn **egy kattintásnyira**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Rögzítsd a bővítményt, hogy bármelyik beállítást könnyen módosíthasd."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Beállítás bezárása"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Még nincs időkeret"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Válaszd ki a weboldalakat, amelyeken sok időt elvesztegetsz, és adj mindegyiknek napi időkeretet. Körülbelül 30 másodperc az egész."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Időkeretek beállítása"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Csak a követett fiókok bejegyzései a hírfolyamban"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Az r/popular és az r/all kikapcsolása"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "MI-videók"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts és Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Testreszabások"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Napi időkeretek"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "MI-szavazatok"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Elrejtve"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Megjelenítve"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Kikapcsolva"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Letakarva"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Megjelölve"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Az egész közösségnek"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Csak neked"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 bekapcsolva"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "hu"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "$1 bekapcsolva"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 weboldal"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "hu"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 weboldal"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Szeretnéd, ha kevésbé lenne addiktív a közösségi média?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Kevesebb figyelemelterelés, és nem kell lemondanod arról, amit szeretsz."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Jó helyen jársz."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Rendben. Megmutatjuk, mi hol van."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Bármelyik weboldalhoz beállíthatsz időkeretet.\n\nA RelockIn segít, hogy ne görgess gépiesen."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Válaszd ki, mennyi időre van szükséged"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Használd a weboldalt"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Ha lejár az idő, újra zárolódik"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Időkeretek kipróbálása"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Minden **itt** van."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Ezt a panelt bármikor megnyithatod, ha az eszköztáron a RelockIn ikonjára kattintasz."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Mennyi időt töltenél a(z) $1 weboldalon?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Véget ért a feloldásod a(z) $1 weboldalon."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "perc/nap"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 perccel kevesebb"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 perccel több"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Képernyőidő"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Bármit módosíthatsz, ha az eszköztáron a RelockIn ikonjára kattintasz."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Bármit módosíthatsz, ha a böngésző bővítménymenüjében a RelockIn bővítményre kattintasz."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Tényleg ez a legjobb, amire most az idődet fordíthatod?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "vegyél egy mély levegőt"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Vagy ha tényleg muszáj továbbmenned a(z) $1 weboldalra, indíthatsz feloldást a(z) „$2” szabályhoz."
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Ma még $1 perc $2 mp"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Használd a RelockIn appot a telefonodon is"
+  },
+  "overlay_closeTab": {
+    "message": "Lap bezárása"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "ma még maradt"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "mai használat"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "újraindul"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Vagy ha tényleg muszáj folytatnod, indíthatsz feloldást a(z) „$1” szabályhoz."
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "„$1”"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Jelenlegi szabály: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "RelockIn megnyitása"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "További lehetőségek"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "napi használat"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR-kód a RelockIn letöltéséhez"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Töltsd le a **RelockIn** appot"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Távolítsd el a Shortsot, a Reelst és az MI-videókat"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Állíts be időkeretet bármelyik appra vagy weboldalra"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Óvd meg az alvásodat és a koncentrációdat"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Ez a bővítmény telefonon korlátozottan működik"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "A RelockIn appal bármelyik appot korlátozhatod, és minden zavaró elemet és MI-videót eltávolíthatsz."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Nem működik a YouTube és az Instagram appban"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Csak egy időkeret és egy ütemezés"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Az MI-videókat meg tudja jelölni, de elrejteni nem"
+  },
+  "phoneWebext_getApp": {
+    "message": "App letöltése"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Folytatás a böngészőben"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Vagy folytasd itt (korlátozottan)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Korlátlan számú képernyőidő-szabályhoz töltsd le a RelockIn appot:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Korlátlan számú ütemezéshez töltsd le a RelockIn appot:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Minden beállítás eléréséhez próbáld ki a **RelockIn appot**"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "A RelockIn Pro része"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "Az ingyenes verzióban ezekre a weboldalakra egy közös napi időkeret vonatkozik."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Fékezd meg a hirtelen késztetéseket"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Építs be tudatos akadályokat olyan műveletek elé, mint a napi időkeret túllépése vagy a szabályok törlése.\nNagyjából egy percig tart."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Védelem beállítása"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Szünet a feloldások között"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Kötelező szünet túl sok egymás utáni feloldás után"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Előbb állítsd be a szabályaidat"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "A védelem hozzáadása előtt fejezd be a szabályok beállítását a Szabályok lapon."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Egy pillanat szünet a hirtelen döntések előtt"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Az olyan műveletek előtt, mint a napi időkeret túllépése vagy a szabályok törlése, a RelockIn kérhet egy gyors feladatot, hogy biztosan tudatos legyen a döntésed."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Mindig te irányítasz."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Próbáld ki"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Koppints bármelyik kártyára, és próbáld ki a feladatot."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "A napi időkeret kis túllépése"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Írj be egy rövid mondatot"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Egy app eltávolítása a tiltólistádról"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Oldj meg néhány matekfeladatot"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Egy ütemezés enyhítése"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Írj be egy hosszabb mondatot"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Mennyire legyen szigorú a védelem?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Ezt bármikor módosíthatod."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Enyhe"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Apró emlékeztetők az impulzív döntések előtt."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Kiegyensúlyozott"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Több akadály a gyakori megbotlások ellen."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Szigorú"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Erős akadályok a rossz szokások megtöréséhez."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Ajánlott"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Ezt választom: $1"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Szünet a feloldások között"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Ha túl sok feloldást indítasz egymás után, kötelező szünetet iktathatunk be."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Ha legalább 2 feloldást indítok egymás után (köztük kevesebb mint"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "telik el),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "tarts vissza ennyi ideig:"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Példa"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  Elindítasz egy 5 perces feloldást a Közösségi média szabályhoz."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  Elindítasz még egy 5 perces feloldást"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  Kötelező szünetet iktatunk be, mielőtt elindíthatnád a harmadik feloldást"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 másodperc"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 perc"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 perc"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 perc"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 perc"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 perc"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "A védelem be van kapcsolva"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Bármikor módosíthatod:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Mikor kell feladatot megoldanod"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Mit kérnek tőled az egyes feladatok"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Szabályonkénti feladatok"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Vissza az appba"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Nincs letiltott app"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Szabály neve"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Ízelítő"
+  },
+  "rule_deleteRule": {
+    "message": "Szabály törlése"
+  },
+  "rule_editRule": {
+    "message": "Szabály szerkesztése"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Letiltott appok"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Letiltott appok módosítása"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Letiltott weboldalak a RelockIn böngészőben"
+  },
+  "rule_noTargets": {
+    "message": "Még nincs letiltott weboldal."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Szabálybeállítások"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Napi időkeret (perc)"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Perc"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Napi időkeret csökkentése $1 perccel"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "hu"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Napi időkeret csökkentése $1 perccel"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Napi időkeret növelése $1 perccel"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "hu"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Napi időkeret növelése $1 perccel"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Védelem módosítása"
+  },
+  "rule_targetsSection": {
+    "message": "Célzott weboldalak"
+  },
+  "rule_defaultRuleName": {
+    "message": "Új szabály"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Feloldás folyamatban"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Zárolva"
+  },
+  "rule_appCount": {
+    "message": "$1 app"
+  },
+  "rule_appCount__lang": {
+    "message": "hu"
+  },
+  "rule_appCount__one": {
+    "message": "$1 app"
+  },
+  "rule_siteCount": {
+    "message": "$1 weboldal"
+  },
+  "rule_siteCount__lang": {
+    "message": "hu"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 weboldal"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Ütemezés neve"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Nincs mentve"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "IDŐSZAK"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Kezdet"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Vége"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "AKTÍV NAPOK"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Minden nap"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Egy nap sem"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Hétköznapokon"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Hétvégén"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "V"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "H"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "K"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "Sz"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "Cs"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "P"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "Szo"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "V"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "H"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "K"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "Sze"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "Cs"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "P"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "Szo"
+  },
+  "scheduleCard_modeSection": {
+    "message": "MÓD"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Letiltás az időszakban"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Engedélyezés csak az időszakban"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Ebben az időszakban nem indíthatsz feloldást."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "*Csak* ebben az időszakban indíthatsz feloldást. A nap többi részében nem oldhatod fel ezeket az appokat és weboldalakat."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Feloldható"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Nem oldható fel"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "ÉRINTETT SZABÁLYOK"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Még nem hoztál létre szabályt."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Automatikus alkalmazás az új szabályokra"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Módosítások mentése"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Törlöd ezt az ütemezést?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Ütemezés törlése"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Ütemezés"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Ütemezés szerkesztése"
+  },
+  "schedules_title": {
+    "message": "Ütemezések"
+  },
+  "schedules_subtitle": {
+    "message": "Szabd meg, mikor indíthatsz feloldást."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Még nincs ütemezés"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Adj hozzá egy ütemezést, hogy időben korlátozd a szabályaidat."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Ütemezés hozzáadása"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Alvás"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Előbb állítsd be a képernyőidő-szabályaidat"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Az ütemezések létrehozása előtt fejezd be a beállítást a Szabályok lapon."
+  },
+  "schedules_moreInfoContent": {
+    "message": "A szabályaid letiltják az appokat és weboldalakat, amíg el nem indítasz egy feloldást. Az ütemezések ehhez még egy réteget adnak: azt korlátozzák, *mikor* indíthatsz feloldást.\n\nÓvd meg az alvásra, a tanulásra vagy az elmélyült munkára szánt idődet, vagy jelölj ki előre szüneteket magadnak."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Több mint 1 ütemezéshez el kell indítanod az ingyenes próbaidőszakot"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Hiba: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Nem sikerült hozzáadni az ütemezést: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Nem sikerült a mentés: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Nem sikerült a törlés: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Nem sikerült frissíteni a kapcsolt szabályokat: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Kéne egy 5 perces szünet, hogy kicsit Instagramozzak"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Az appjaid zárolva maradnak, amíg fel nem oldod őket"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "A kiválasztott weboldalaid zárolva maradnak, amíg fel nem oldod őket"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "De bizonyos órákban azt szeretnéd, hogy zárolva maradjanak"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "De bizonyos órákban azt szeretnéd, hogy zárolva maradjanak"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Az ütemezések elveszik tőled a feloldás gombot"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Így az appjaid zárolva maradnak, amíg az ütemezés véget nem ér."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Így a weboldalaid zárolva maradnak, amíg az ütemezés véget nem ér."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "A fenébe! Akkor irány az ágy."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Védjük meg az alvásodat"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Válaszd ki az órákat, amikor inkább aludnál, mint görgetnél."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Védd meg az alvásomat"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Az alvásidőd most már védett"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "$1 és $2 között nincs feloldás. A napokat, az időpontokat és a szabályokat bármikor módosíthatod."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "A munka- vagy tanulási idődet is megvédenéd?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Új ütemezést bármikor felvehetsz."
+  },
+  "session_sectionTitleActive": {
+    "message": "Feloldás"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Feloldás indítása"
+  },
+  "session_endingSession": {
+    "message": "Feloldás befejezése…"
+  },
+  "session_startingSession": {
+    "message": "Feloldás indítása…"
+  },
+  "session_remainingInSession": {
+    "message": "maradt a feloldásból"
+  },
+  "session_endSession": {
+    "message": "Feloldás befejezése"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Ütemezési korlátozás aktív"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "„$1”: az ütemezésed miatt most nem elérhető"
+  },
+  "session_blockedBadge": {
+    "message": "LETILTVA"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Az ütemezésed miatt most nem indíthatsz feloldást."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Kivétel az ütemezés alól"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Jelenleg ezek is korlátoznak:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Egyszerre több korlátozás is aktív. Elég a legszigorúbbhoz tartozó feladatot megoldanod, és indíthatod a feloldást."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Ütemezési korlátozás"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Kötelező szünet"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Letiltva a(z) „$1” ütemezés miatt (vége: $2)"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Az engedélyezett időszakon kívül vagy. A(z) „$1” ütemezés kezdete: $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Minden engedélyezett ütemezési időszakon kívül vagy"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Engedélyezve eddig: $2 (ekkor kezdődik a(z) „$1” ütemezés)"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Engedélyezve eddig: $2 (ekkor ér véget a(z) „$1” ütemezés)"
+  },
+  "session_other": {
+    "message": "Egyéb"
+  },
+  "session_duration": {
+    "message": "Időtartam"
+  },
+  "session_startSession": {
+    "message": "Feloldás indítása"
+  },
+  "session_takeABreak": {
+    "message": "Tarts egy szünetet."
+  },
+  "session_reopensInFormat": {
+    "message": "Új feloldás $1 mp múlva"
+  },
+  "session_reopensInLabel": {
+    "message": "Következő feloldásig"
+  },
+  "session_bypassBreak": {
+    "message": "Szünet kihagyása"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Hagyd abba a doomscrollingot."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Már $1 feloldás egymás után. Hagyd abba a doomscrollingot."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "hu"
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "Már $1 feloldás egymás után. Hagyd abba a doomscrollingot."
+  },
+  "session_overrideSizeLow": {
+    "message": "Legfeljebb 2 perc"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Legfeljebb 10 perc"
+  },
+  "session_overrideSizeHigh": {
+    "message": "Legfeljebb 60 perc"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Mennyi plusz időre van szükséged?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Gyors feladattal elérhető"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Közepes feladattal elérhető"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Nehéz feladattal elérhető"
+  },
+  "session_overridesNotAllowed": {
+    "message": "A védelmi beállításaid szerint nem kérhetsz plusz időt."
+  },
+  "session_dailyLimitReached": {
+    "message": "Elérted a napi időkeretet"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Ma $1 percet használtál."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Menj el sétálni, intézd el azt a halogatott teendőt, vagy hívj fel egy barátot."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Nincs jobb dolgom"
+  },
+  "session_chooseLength": {
+    "message": "Válaszd ki a feloldás hosszát"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "A feloldás mindig időre szól"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Koppints egy időtartamra a feloldás indításához. Ha lejár az idő, újra zároljuk az appokat."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Feloldás indítása: $1 perc"
+  },
+  "settings_title": {
+    "message": "Weboldalak testreszabása"
+  },
+  "settings_igComments": {
+    "message": "Instagram-hozzászólások elrejtése"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Követett fiókok kivételével"
+  },
+  "settings_igStories": {
+    "message": "Instagram-történetek"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Ismeretlenek bejegyzéseinek letakarása a hírfolyamban"
+  },
+  "settings_igFeedVideos": {
+    "message": "Videók elrejtése a hírfolyamban"
+  },
+  "settings_igGuardAds": {
+    "message": "Hirdetések elrejtése"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Csak keresés a Felfedezés lapon"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Szürkeárnyalatos képek"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Szürkeárnyalatos videók"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Bejelentkezve"
+  },
+  "settings_accountSignOut": {
+    "message": "Kijelentkezés"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Bejelentkezés Google-fiókkal"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Jelentkezz be, hogy szinkronizáld az adataidat az eszközeid között. Ha már van RelockIn Pro-előfizetésed, a bejelentkezéssel visszaállíthatod."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Előfizetés"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Állapot"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Kijelentkezel?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Amíg újra be nem jelentkezel, az adataid nem szinkronizálódnak az eszközeid között."
+  },
+  "settings_accountSignOutError": {
+    "message": "Nem sikerült kijelentkezni. Próbáld újra."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "A bejelentkezéshez meg kell adnod az engedélyt. Minden más fiók nélkül is működik."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "A folytatással elfogadod a következőket: $1. Az adataid kezeléséről itt tájékozódhatsz: $2."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "A fiók létrehozásával elfogadod a következőket: $1. Az adataid kezeléséről itt tájékozódhatsz: $2."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Felhasználási feltételek"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Adatvédelmi szabályzat"
+  },
+  "settings_accountSourceCode": {
+    "message": "Forráskód"
+  },
+  "settings_accountSignInError": {
+    "message": "Nem sikerült bejelentkezni. Próbáld újra."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "A bejelentkezéshez nem található Google-fiók ezen a telefonon. Nyisd meg a telefonod Beállítások appját, majd a Jelszavak és fiókok menüt, és ellenőrizd, hogy van-e ott Google-fiók. Ha már szerepel a listában, de a bejelentkezés továbbra sem sikerül, próbáld meg eltávolítani, majd újra hozzáadni."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "A Google-bejelentkezés nincs megfelelően beállítva ebben az appban. Fordulj az ügyfélszolgálathoz."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "A bejelentkezés megszakadt. Próbáld újra."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Ezen az eszközön nem használható a Google-bejelentkezés. Frissítsd a Google Play-szolgáltatásokat, vagy jelentkezz be e-mail-címmel."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Nem sikerült beolvasni a Google-bejelentkezés adatait. Próbáld újra."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Nem érhető el a bejelentkezési szerver. Ellenőrizd az internetkapcsolatot, és próbáld újra."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "A bejelentkezés váratlan azonosító adatokat adott vissza. Próbáld újra."
+  },
+  "settings_emailSignInCta": {
+    "message": "Bejelentkezés e-mail-címmel"
+  },
+  "settings_appleSignInCta": {
+    "message": "Bejelentkezés az Apple-lel"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Bejelentkezés"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Jelentkezz be az e-mail-címeddel és a jelszavaddal."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Fiók létrehozása"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Hozz létre egy fiókot, hogy szinkronizálhass az eszközeid között."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Fiók létrehozása"
+  },
+  "settings_emailResetTitle": {
+    "message": "Jelszó visszaállítása"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Add meg az e-mail-címedet, és küldünk egy linket a jelszavad visszaállításához."
+  },
+  "settings_emailResetAction": {
+    "message": "Visszaállítási link küldése"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-mail-cím"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Jelszó"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Jelszó megerősítése"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Elfelejtetted a jelszavad?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Nincs még fiókod? Regisztrálj"
+  },
+  "settings_switchToSignIn": {
+    "message": "Már van fiókod? Jelentkezz be"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Nézd meg az e-mailjeidet"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Küldtünk egy megerősítő linket az e-mail-címedre. Bejelentkezés előtt erősítsd meg a címedet."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Visszaállítási link elküldve"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Küldtünk egy e-mailt a jelszó-visszaállítási linkkel (ha létezik a fiókod)."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Az e-mail-címed még nincs megerősítve. Keresd a megerősítő linket a postafiókodban."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Túl sok próbálkozás. Próbáld újra később."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Túl gyenge a jelszó. Legalább 6 karaktert használj."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Hibás e-mail-cím vagy jelszó. Ha nemrég regisztráltál, ellenőrizd, hogy megerősítetted-e az e-mail-címedet."
+  },
+  "settings_changePasswordCta": {
+    "message": "Jelszó módosítása"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Új jelszó beállítása"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Válassz új jelszót a fiókodhoz."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Új jelszó"
+  },
+  "settings_newPasswordAction": {
+    "message": "Jelszó frissítése"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Jelszó frissítve"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "A jelszavad frissült. Most már bejelentkezhetsz az új jelszavaddal."
+  },
+  "settings_newPasswordError": {
+    "message": "Nem sikerült frissíteni a jelszót. Próbáld újra."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Tölts ki minden mezőt."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Nem sikerült a regisztráció."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Add meg az e-mail-címedet."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Nem sikerült elküldeni a visszaállítási e-mailt."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Sikeresen frissítetted a jelszavad."
+  },
+  "settings_accountSigningOut": {
+    "message": "Kijelentkezés…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Bejelentkezés…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "N/A"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Ingyenes verzió"
+  },
+  "settings_backToSignIn": {
+    "message": "Vissza a bejelentkezéshez"
+  },
+  "settings_sending": {
+    "message": "Küldés…"
+  },
+  "settings_updating": {
+    "message": "Frissítés…"
+  },
+  "settings_creatingAccount": {
+    "message": "Fiók létrehozása…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Új jelszó megerősítése"
+  },
+  "settings_showPasswordCta": {
+    "message": "Megjelenítés"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Elrejtés"
+  },
+  "settings_passwordTooShortError": {
+    "message": "A jelszónak legalább 6 karakterből kell állnia."
+  },
+  "settings_passwordMismatchError": {
+    "message": "A jelszavak nem egyeznek."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Fiók megerősítve"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Megerősítetted az e-mail-címedet, és már be is jelentkeztél."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "A bejelentkezési link nem működik"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Ezzel a bejelentkezési linkkel nem sikerült a bejelentkezés. Lehet, hogy lejárt, vagy már felhasználták. Próbáld újra, vagy kérj új e-mailt.\n\nRészletek: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Fiók törlése"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Veszélyes műveletek"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "VESZÉLYES MŰVELETEK – Fiók törlése"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Véglegesen törlődik:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "A fiókod hitelesítő adatai és profilja\nA szinkronizált szabályok, ütemezések és beállítások\nA szinkronizált használati előzmények és egyéb alkalmazásadatok"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Megmarad:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Vásárlási és tranzakciós nyilvántartások (adózási és számviteli célból a törvény előírja)\nÖsszeomlási jelentések és diagnosztikai adatok"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "A törlés nem mondja le az előfizetéseket"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "A fiók végleges törlésének megerősítéséhez írd be: $1"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "TÖRLÉS"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Ez a művelet nem vonható vissza."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Sikertelen hitelesítés"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Nem sikerült ellenőrizni a bejelentkezésedet. A fiókod törlése előtt jelentkezz be újra."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Fiók törölve"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "A fiókodat véglegesen töröltük."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Nem sikerült törölni a fiókot (hibakód: $1). Próbáld újra később, vagy ha a hiba továbbra is fennáll, fordulj az ügyfélszolgálathoz: relockin.com/support."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Szabadulj meg a zavaró elemektől, és légy produktívabb"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Megjelenítés"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Letakarás"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Eltávolítás"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Megjeleníthető azonnal"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Megjeleníthető 5 mp után"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Megjeleníthető 10 mp után"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Nem jeleníthető meg"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Megjeleníthető feladattal"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Megjelenítés módja"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Alapértelmezett"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Mobil"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Asztali"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Látható"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Enyhén elmosva"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Erősen elmosva"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Szürkeárnyalatos"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Fekete"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Shorts-videók elrejtése"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Shorts lap elrejtése"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Kezdőlap elrejtése"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Feliratkozások a Kezdőlap helyett"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Automatikus lejátszás kikapcsolása"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Videóelőnézetek kikapcsolása"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Nem videós bejegyzések elrejtése"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Eltávolítja a Kezdőlap lapról a csatornák bejegyzéseit, szavazásait és fotóit."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Minden hirdetés átugorhatóvá tétele"
+  },
+  "settings_ytBlockAds": {
+    "message": "Hirdetések letiltása"
+  },
+  "settings_ytHideEndCard": {
+    "message": "A „Következő” videó elrejtése"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Ajánlott videók"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Megjelenítési mód"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Bélyegképszűrő"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Reels lap elrejtése"
+  },
+  "settings_hideHomeTab": {
+    "message": "Kezdőlap elrejtése"
+  },
+  "settings_igHomeFeed": {
+    "message": "Kezdőlap-hírfolyam"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Alapértelmezett"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Az Instagram szokásos hírfolyama, a javasolt bejegyzésekkel együtt."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Csak Követett"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "A követett fiókok friss bejegyzései, a legújabbak elöl."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Csak Kedvencek"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Csak a Kedvencek listádon szereplő fiókok bejegyzései."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "A szokásos hírfolyamra mutató link elrejtése"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Old Reddit használata"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Mobilbarát Old Reddit"
+  },
+  "settings_redditVersion": {
+    "message": "Reddit-verzió"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen mód"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Gyorsabb, letisztultabb Reddit-élmény, amely a megújított old.reddit.com oldalra épül"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Normál mód"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "A Reddit alapértelmezett mobilfelülete"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "MEGJEGYZÉS: A Zen módot ajánljuk, különben a Reddit megpróbálhat rávenni, hogy az appját használd"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Hírfolyam stílusa"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Csak címek"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Gyorsabb böngészés csak címekkel. Koppints vagy húzd el a bejegyzések megnyitásához."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Bélyegképek"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Minden bejegyzés címe mellett egy kis előnézeti kép."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Kibontott"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "A képek, videók és szöveges bejegyzések közvetlenül a hírfolyamban jelennek meg."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Végtelen hírfolyamok korlátozása"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Minden hírfolyam megjelenítése"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "A Reddit a megszokott módon működik."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Népszerűek és Mind elrejtése"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Elrejti az ismeretlenek bejegyzéseit mutató hírfolyamokat, például a Népszerűek, a Mind és a Felfedezés oldalt. A Fő hírfolyam továbbra is működik."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Minden hírfolyam elrejtése"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "A Fő hírfolyamot is elrejti. A subredditeket továbbra is meglátogathatod, és kereshetsz is."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "A Fő hírfolyamban csak azoknak a subredditeknek a bejegyzései, amelyekhez csatlakoztál"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Szürkeárnyalatos képek"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Szavazatszám áthelyezése a bejegyzések alá"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Hozzászólásszintek színkódolása"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Csúsztatási mozdulatok a hozzászólásokon"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Rövid csúsztatás jobbra"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Hosszú csúsztatás jobbra"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Rövid csúsztatás balra"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Hosszú csúsztatás balra"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Felszavazás"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Leszavazás"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Összecsukás"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Válasz"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Mentés"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Csúsztatási mozdulatok a bejegyzéseken"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Felszavazás"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Leszavazás"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Elrejtés"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Megosztás"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Mentés"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Hozzászólások megnyitása"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Forráslink megnyitása"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Előnézet"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Subredditek, ahol megmarad az egyéni CSS"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "A subredditek egyéni stílusait alapból elrejtjük, hogy kis képernyőn is jól olvashatók maradjanak."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "subreddit neve (pl. politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Eltávolítás: $1"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Még nincs hozzáadott subreddit."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "A Neked lap elrejtése"
+  },
+  "settings_xHideAds": {
+    "message": "Hirdetések elrejtése"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Bejegyzések szűrése kapcsolati fok szerint"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Összes megjelenítése"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "3. fokú bejegyzések elrejtése"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "2. és 3. fokú bejegyzések elrejtése"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Szponzorált bejegyzések elrejtése"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Képek és videók letakarása a hírfolyamban"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Szürkeárnyalatos képek"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Szürkeárnyalatos videók"
+  },
+  "settings_inBrowserNote": {
+    "message": "Távolítsd el a hirdetéseket és a zavaró elemeket, és szűrd a hírfolyamaidat. A RelockIn böngészőben működik."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "A beállítások a RelockIn böngészőben megnyitott weboldalakra vonatkoznak, **nem a(z) $1 appra.** Jelentkezz be, és a hírfolyamodban is látni fogod a változást."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "A beállítások a RelockIn böngészőben megnyitott weboldalakra vonatkoznak, **nem a(z) $1 appra.** Nyisd meg a weboldalt, és nézd meg a változást."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Megtekintés: $1"
+  },
+  "settings_generalSection": {
+    "message": "Általános"
+  },
+  "settings_showSessionTimer": {
+    "message": "Időzítő megjelenítése feloldás közben"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Weboldal feloldása előtt tartsak egy rövid légzőszünetet"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Légzőszünet hossza (másodperc)"
+  },
+  "settings_clearSection": {
+    "message": "Visszaállítás"
+  },
+  "settings_ytAiContent": {
+    "message": "MI-vel készült videók"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Megjelenítés"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Az MI-vel készült videókat ugyanúgy jeleníti meg, mint a többit."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Megjelölés"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "MI-jelölést tesz az ilyen videók bélyegképére."
+  },
+  "settings_ytAiContentCover": {
+    "message": "Letakarás"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Letakarja az ilyen videókat, de bármelyiket megjelenítheted."
+  },
+  "settings_ytAiContentHide": {
+    "message": "Elrejtés"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Az ilyen videók nem jelennek meg a hírfolyamokban, a keresési találatok és az ajánlások között."
+  },
+  "settings_ytAiVotes": {
+    "message": "Szavazataid: MI vagy sem"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "MI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Nem MI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Még nincs csatorna"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Eltávolítás: $1"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Letiltott csatornák"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Ezeknek a csatornáknak a videói sehol sem jelennek meg a YouTube-on. Válaszd a „Csatorna letiltása” lehetőséget egy videó alatt vagy a csatorna oldalán."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts és hirdetések"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Csúsztatási mozdulatok"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Kezdőlap és hírfolyam"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "MI és csatornák"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Következő"
+  },
+  "settings_sectionTabs": {
+    "message": "Lapok"
+  },
+  "settings_sectionFeed": {
+    "message": "Hírfolyam"
+  },
+  "settings_sectionFeeds": {
+    "message": "Hírfolyamok"
+  },
+  "settings_sectionAppearance": {
+    "message": "Megjelenés"
+  },
+  "settings_sectionOther": {
+    "message": "Egyéb"
+  },
+  "support_titleHelp": {
+    "message": "Segítség"
+  },
+  "support_titleFeedback": {
+    "message": "Visszajelzés küldése"
+  },
+  "support_titleReportProblem": {
+    "message": "Probléma jelentése"
+  },
+  "support_sentimentTitle": {
+    "message": "Milyen visszajelzést küldenél?"
+  },
+  "support_sentimentPositive": {
+    "message": "Valami tetszik"
+  },
+  "support_sentimentNegative": {
+    "message": "Valamin javítani kellene"
+  },
+  "support_reviewTitle": {
+    "message": "Ennek nagyon örülünk!"
+  },
+  "support_reviewBody": {
+    "message": "Írnál egy rövid értékelést? Ezzel segítesz másoknak megtalálni a RelockIn-t.\n\nKis csapatunknak ez sokat jelent."
+  },
+  "support_reviewCta": {
+    "message": "Értékelés írása"
+  },
+  "support_personalNoteTitle": {
+    "message": "Pár szó a fejlesztőtől"
+  },
+  "support_personalNoteBody": {
+    "message": "Köszönöm, hogy a RelockIn-t használod. Minden üzenetet személyesen olvasok el, és amint tudok, válaszolok."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Köszönjük! Van visszajelzésed vagy ötleted?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Sajnáljuk. Írd meg, mi nem működik, és utánanézünk."
+  },
+  "support_messageLabel": {
+    "message": "Az üzeneted"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Miben segíthetünk?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Mit szeretnél elmondani?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Mi a gond ezzel a weboldallal?"
+  },
+  "support_siteLabel": {
+    "message": "Weboldal"
+  },
+  "support_emailLabel": {
+    "message": "Az e-mail-címed"
+  },
+  "support_emailPlaceholder": {
+    "message": "nev@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Adj meg egy érvényes e-mail-címet."
+  },
+  "support_sendCta": {
+    "message": "Küldés"
+  },
+  "support_sendError": {
+    "message": "Nem sikerült elküldeni az üzenetedet. Ellenőrizd a kapcsolatot, és próbáld újra."
+  },
+  "support_sentTitle": {
+    "message": "Üzenet elküldve"
+  },
+  "support_sentBodyFormat": {
+    "message": "Köszönjük! Hamarosan válaszolunk a(z) $1 címre."
+  },
+  "support_sendAnotherCta": {
+    "message": "Újabb üzenet küldése"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Segítségre van szükséged?"
+  },
+  "support_accountFooterCta": {
+    "message": "Írj nekünk"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Az üzeneted egyenesen a fejlesztőhöz jut"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Diagnosztikai naplók"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Diagnosztikai naplók"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Még nincsenek naplóbejegyzések."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Hibakeresési napló"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Ezeket a bejegyzéseket csak ezen az eszközön tároljuk. Soha nem töltjük fel és nem osztjuk meg őket automatikusan. Ha hibát jelentesz, a megosztás gombbal elküldheted őket a fejlesztőnek."
+  },
+  "target_domainType": {
+    "message": "Teljes weboldal"
+  },
+  "target_urlPatternType": {
+    "message": "URL-minta"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "A weboldal összes oldalát zárolja. Elég beírni a weboldal nevét (pl. reddit.com) – az aldomainek és az URL-útvonalak nem számítanak."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Minden olyan URL-t zárol, amely tartalmazza ezt a szöveget. A * helyettesítő karakter bármilyen közbülső szöveget jelöl.\n\nPéldául:\n- youtube.com/shorts: zárolja a YouTube Shorts-videókat, a normál videókat nem\n- reddit.com/r/politics: csak ezt a subredditet zárolja\n- x.com/*/status/*: az egyes tweeteket zárolja, az X többi részét (pl. a profiloldalakat) nem"
+  },
+  "target_scopeNote": {
+    "message": "A zárolások a RelockIn böngészőben érvényesek, más böngészőkben (pl. a Safariban) nem. Feloldással egy időre hozzáférhetsz az oldalakhoz."
+  },
+  "target_emptyPattern": {
+    "message": "(üres)"
+  },
+  "target_addTargetTitle": {
+    "message": "Weboldal zárolása"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Mit szeretnél zárolni?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Weboldal eltávolítása"
+  },
+  "target_editTargetTitle": {
+    "message": "Elem szerkesztése"
+  },
+  "target_editingLabel": {
+    "message": "Szerkesztés alatt"
+  },
+  "target_typePickerLabel": {
+    "message": "Típus"
+  },
+  "typingSentences_short1": {
+    "message": "Teljes tudatossággal döntök így."
+  },
+  "typingSentences_short2": {
+    "message": "Vállalom a felelősséget ezért a döntésért."
+  },
+  "typingSentences_short3": {
+    "message": "Ezt most én választom."
+  },
+  "typingSentences_short4": {
+    "message": "Ez az én tudatos döntésem."
+  },
+  "typingSentences_short5": {
+    "message": "Ezt a döntést megfontoltan hozom."
+  },
+  "typingSentences_long1": {
+    "message": "Teljesen tisztában vagyok vele, hogy felülbírálom a korlátokat, amelyeket az időm és a figyelmem védelmében állítottam be, és vállalom a döntésemmel járó felelősséget."
+  },
+  "typingSentences_long2": {
+    "message": "Azok vagyunk, amit ismételten teszünk. A kiválóság tehát nem cselekedet, hanem szokás. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "A döntéseidből szokások lesznek. A szokásaidból jellem lesz. A jellemedből pedig a sorsod."
+  },
+  "typingSentences_paragraph1": {
+    "message": "A doomscrolling vagy doomsurfing az a jelenség, amikor valaki túlzottan sok időt tölt rövid videók vagy nagy mennyiségű felhasználói tartalom és hír, különösen negatív hírek nézésével a weben és a közösségi médiában. Felmérések és kutatások szerint a doomscrolling főként a fiatalok körében elterjedt. Az amerikai Nemzeti Tudományos Akadémia 2019-es tanulmánya szerint a doomscrolling összefüggésbe hozható a mentális és fizikai egészség romlásával."
+  },
+  "typingSentences_paragraph2": {
+    "message": "A végtelen görgetés olyan tervezési megoldás, amely folyamatosan tölti be a tartalmat, ahogy a felhasználó lefelé görget, így nincs szükség lapozásra. Emiatt ez a funkció felerősítheti a doomscrollingot, mert megszünteti a természetes megállási pontokat, ahol a felhasználó megpihenhetne. Kutatások azt is kimutatták, hogy a közösségi platformok hajlama a negatív tartalmak felerősítésére tovább ronthatja ezt a folyamatos görgetést, így a felhasználók hosszabb ideig ragadnak le a kedvezőtlen híreknél."
+  },
+  "typingSentences_paragraph3": {
+    "message": "A legtöbb közösségi platform üzleti modellje nagyban a felhasználói aktivitásra épül: minél tovább maradnak az emberek a platformon, annál több hirdetést látnak, és annál több adatot gyűjtenek a viselkedésükről. Így kialakul egy körforgás, amelyben az érzelmileg felfokozott tartalmakat - gyakran negatív vagy szorongást keltő információkat - újra és újra a felhasználók elé tolják, hogy tovább görgessenek, és még több tartalmat fogyasszanak."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Az azonnali szórakozás, információ és kapcsolódás vonzóvá teszi a közösségi médiát. A közösségimédia-függőség túlzott és kényszeres használattal jár, amely kihat a mindennapi működésre és az általános jóllétre. Ez több annál, hogy valaki túl sok időt tölt online: ide tartozik a frissítések kényszeres ellenőrzése, a szorongás, amikor nincs online, és a valós kapcsolatokra és kötelezettségekre gyakorolt negatív hatás is."
+  },
+  "typingSentences_paragraph5": {
+    "message": "A rövid videók algoritmusai erősen függőséget okoznak, mert kiveszik a kezedből a döntést és a szándékot. Mivel nem kell eldöntened, mi jöjjön ezután, az appok a tudatos döntéshozatalt zökkenőmentes, passzív, robotpilóta üzemmódú flow-állapottal váltják fel. Ebben az állapotban hihetetlenül könnyű és jutalmazó folytatni, és hihetetlenül nehéz abbahagyni."
+  },
+  "typingSentences_paragraph6": {
+    "message": "A közösségi médiát úgy tervezték, hogy függőséget okozzon. A techcégek úgy alakítják ki ezeket az appokat, hogy az agy jutalmazási központjának aktiválásával megragadják a figyelmedet. A dopaminvezérelt elismerés, a kiszámíthatatlan jutalmak és a pszichológiai csapdák együtt hihetetlenül megnehezítik, hogy letedd a telefont. Ha felismered ezeket a tervezési fogásokat, megteszed az első lépést afelé, hogy visszaszerezd az irányítást a digitális szokásaid felett, és egészségesebb kapcsolatot alakíts ki a technológiával."
+  },
+  "usage_title": {
+    "message": "Használat"
+  },
+  "usage_subtitle": {
+    "message": "Kövesd nyomon a képernyőidődet szabályonként és feloldásonként."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Nincsenek használati adatok"
+  },
+  "usage_noUsageBody": {
+    "message": "A használat itt jelenik meg, amint feloldásokat indítasz."
+  },
+  "usage_today": {
+    "message": "Ma"
+  },
+  "usage_thisWeek": {
+    "message": "Ez a hét"
+  },
+  "usage_thisMonth": {
+    "message": "Ez a hónap"
+  },
+  "usage_yesterday": {
+    "message": "Tegnap"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Még nem hoztál létre szabályt."
+  },
+  "usage_daily": {
+    "message": "Napi"
+  },
+  "usage_weekly": {
+    "message": "Heti"
+  },
+  "usage_monthly": {
+    "message": "Havi"
+  },
+  "usage_previousPeriod": {
+    "message": "Előző időszak"
+  },
+  "usage_nextPeriod": {
+    "message": "Következő időszak"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Időszak"
+  },
+  "usage_unknownRule": {
+    "message": "Ismeretlen szabály"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 / $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

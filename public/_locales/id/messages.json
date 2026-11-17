@@ -1,0 +1,2807 @@
+{
+  "about_tagline": {
+    "message": "Usir distraksi. Jadilah versi terbaik dirimu."
+  },
+  "about_welcome": {
+    "message": "Selamat datang di RelockIn!"
+  },
+  "about_sentence": {
+    "message": "RelockIn adalah browser yang menyingkirkan distraksi. Dari Pusat Fokus, kamu bisa dengan mudah membuat aturan dan jadwal untuk membatasi penggunaan aplikasi dan situs yang mengganggu. Prinsipnya sederhana: bagaimana jika setiap menit yang kamu habiskan di ponsel benar-benar disengaja?\n\nSelain itu, RelockIn dilengkapi browser seluler yang menjaga privasi dan bisa disesuaikan sepenuhnya. RelockIn tidak pernah melacak pencarianmu dan tidak pernah membagikan datamu kepada siapa pun. Karena RelockIn satu-satunya aplikasi fokus dengan browser yang terintegrasi penuh, hanya RelockIn yang bisa menyesuaikan situs untuk menghapus fitur yang mengganggu seperti Reels dan Shorts, sehingga kamu punya kendali lebih."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn untuk Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn—Blokir AI Slop, Shorts, Reels & Situs | Fokus dan Waktu Layar"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn—Blokir AI Slop, Shorts, Reels & Situs"
+  },
+  "about_extensionDescription": {
+    "message": "Blokir video AI, Shorts, Reels, dan feed tanpa akhir. Plus batas waktu dan jadwal untuk situs apa pun."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "menghapus aturan ini"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "menghapus batas untuk “$1”"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "menambah batas harianmu"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "melewati jeda wajibmu"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "melewati pembatasan jadwalmu"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "melewati batas harianmu"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "menghapus jadwal ini"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "melonggarkan jadwal ini"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "mengeluarkan aplikasi atau situs lain dari daftar blokirmu"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "melonggarkan pengaman ini"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "mempermudah tugas “$1”"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "menghapus tugas “$1”"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "berhenti mewajibkan tugas sebelum melonggarkan pengaman"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Kalau batas harianku sudah habis dan aku butuh waktu tambahan…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Hingga 2 mnt"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 mnt"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Lebih dari 10 mnt"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Kalau aku perlu melewati blokir jadwalku…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Kalau aku ingin terus lanjut saat RelockIn memintaku jeda…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Kalau kamu memulai terlalu banyak sesi beruntun, kami memintamu jeda dulu. Lama jedanya bisa kamu ubah di “Jeda antarsesi”."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 sesi beruntun"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 sesi beruntun"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ sesi beruntun"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Kalau aku melonggarkan aturan waktu layarku…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Mengeluarkan aplikasi"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Mengeluarkan situs"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Menghapus aturan"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Menaikkan batas harian"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Kalau aku melonggarkan jadwal…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Saat jadwal tidak memblokir"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Saat jadwal memblokir"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Ketik kalimat ini untuk lanjut"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Ketik paragraf ini untuk lanjut"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Paragraf:\n“$1”"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Tunggu hingga timer selesai"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Kamu belum bisa lanjut sebelum hitung mundur selesai."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Timer selesai—kamu bisa lanjut."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Kamu yakin ingin melakukan ini?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Kamu yakin ingin $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Mau perlindungan ekstra? Di tab Pengaman, kamu bisa mengatur tugas yang harus diselesaikan sebelum melewati batas."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Ya, lanjutkan"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Kamu tidak bisa $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Kamu tidak bisa melakukan itu"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Pengamanmu membuat ini mustahil, jadi tidak ada tugas yang bisa membukanya."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Aku benar-benar perlu melakukan ini"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Kamu bisa mengubah pengaturan pengaman di tab Pengaman."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Buka Pengaman"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Kalimat:\n“$1”"
+  },
+  "challengeUi_confirm": {
+    "message": "Konfirmasi"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Belum cocok. Periksa ejaan dan tanda bacanya."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Selesai."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Ketik kalimatnya persis seperti yang ditampilkan."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Lanjutkan…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Cocok!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Ada yang tidak cocok. Bandingkan dengan teliti: ada salah ketik."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Selesaikan setiap soal untuk lanjut"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Masukkan jawabanmu, lalu ketuk Konfirmasi."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Semua benar!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Beberapa jawaban salah. Periksa kolom yang ditandai."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Jawaban soal $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Orang tepercayamu akan diberi tahu"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Email akan dikirim ke orang tepercayamu untuk memberi tahu bahwa kamu memilih melewati batasmu. Notifikasi ini membantumu tetap berkomitmen pada tujuanmu."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Kirim notifikasi & lanjutkan"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Aku tidak sanggup"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Tunggu $1 menit sebagai gantinya"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "id"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Tidak ada"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Mudah"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Sedang"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Sulit"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Sangat sulit"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Ekstrem"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Mustahil"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Hanya konfirmasi"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Default: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Gagal menyimpan"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Sisa $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Kolom isian tugas"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Atur tugas"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Ubah langkah di tugas Mudah, Sedang, atau Sulit, atau buat tugasmu sendiri"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Kapan aku diberi tugas"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Ubah tingkat kesulitan untuk menghapus aturan waktu layar, mendapat waktu tambahan, dan lainnya"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Bawaan"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Kustom"
+  },
+  "challenges_newChallenge": {
+    "message": "Baru"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Belum ada tugas kustom. Ketuk + untuk membuatnya."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Nama (mis. “Sadis”)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Tugas baru"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Beri tugas ini nama yang unik."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Pilih apa yang diminta setiap tugas darimu, atau buat tugasmu sendiri."
+  },
+  "challenges_savedBadge": {
+    "message": "Tersimpan"
+  },
+  "challenges_noSteps": {
+    "message": "Belum ada langkah—tambahkan minimal satu untuk menyimpan."
+  },
+  "challenges_addStep": {
+    "message": "Tambah langkah"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Tingkat kesulitan"
+  },
+  "challenges_problemsLabel": {
+    "message": "Jumlah soal"
+  },
+  "challenges_operationsLabel": {
+    "message": "Operasi hitung"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Ketik kalimat pendek"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Ketik kalimat panjang"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Ketik paragraf"
+  },
+  "challenges_stepNameMath": {
+    "message": "Kerjakan soal hitung"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "Email ke orang tepercaya"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Tunggu timer"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Durasi: $1 mnt $2 dtk"
+  },
+  "challenges_stepCount": {
+    "message": "$1 langkah"
+  },
+  "challenges_stepCount__lang": {
+    "message": "id"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Tugas untuk aturan ini"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Hanya berlaku untuk “$1”."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Kalau ingin mengubah tugas untuk semua aturan, atau mengubah langkahnya:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Buka tab Pengaman"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Beri aku tugas sebelum melonggarkan pengaman"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Untuk mempermudah tugas, kamu harus menyelesaikan dulu langkah yang ingin kamu hapus."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Kamu bisa mengubah pengaman dengan bebas selama $1 menit lagi. Setelah itu, kamu harus menyelesaikan tugas untuk melonggarkannya."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "id"
+  },
+  "common_save": {
+    "message": "Simpan"
+  },
+  "common_cancel": {
+    "message": "Batal"
+  },
+  "common_done": {
+    "message": "Selesai"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Edit"
+  },
+  "common_delete": {
+    "message": "Hapus"
+  },
+  "common_defaultOption": {
+    "message": "Default"
+  },
+  "common_back": {
+    "message": "Kembali"
+  },
+  "common_skip": {
+    "message": "Lewati"
+  },
+  "common_next": {
+    "message": "Berikutnya"
+  },
+  "common_gotIt": {
+    "message": "Mengerti"
+  },
+  "common_none": {
+    "message": "Tidak ada"
+  },
+  "common_yes": {
+    "message": "Ya"
+  },
+  "common_no": {
+    "message": "Tidak"
+  },
+  "common_start": {
+    "message": "Mulai"
+  },
+  "common_loading": {
+    "message": "Memuat…"
+  },
+  "common_error": {
+    "message": "Error"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Tutup"
+  },
+  "common_continue": {
+    "message": "Lanjutkan"
+  },
+  "common_dismiss": {
+    "message": "Tutup"
+  },
+  "common_notNow": {
+    "message": "Lain kali"
+  },
+  "common_noThanks": {
+    "message": "Tidak, terima kasih"
+  },
+  "common_maybeLater": {
+    "message": "Nanti saja"
+  },
+  "common_add": {
+    "message": "Tambah"
+  },
+  "common_create": {
+    "message": "Buat"
+  },
+  "common_startSetup": {
+    "message": "Mulai penyiapan"
+  },
+  "common_continueSetup": {
+    "message": "Lanjutkan penyiapan"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Lanjutkan dari bagian terakhir"
+  },
+  "common_setItUp": {
+    "message": "Siapkan"
+  },
+  "common_howItWorks": {
+    "message": "Cara kerjanya"
+  },
+  "common_getStarted": {
+    "message": "Mulai"
+  },
+  "common_signIn": {
+    "message": "Masuk"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 mnt"
+  },
+  "common_hoursCount": {
+    "message": "$1 jam"
+  },
+  "common_hoursCount__lang": {
+    "message": "id"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Langkah $1 dari $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Kami menghapus $1 video Shorts dari feed-mu"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "id"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Tutup"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Ditutupi oleh RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Tutup"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Tidak bisa ditutup"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Tutup ($1 dtk)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Masuk dulu untuk melakukannya."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Masuk"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Tutup"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit baru saja memaksamu pindah ke aplikasinya."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Kalau ada yang tidak beres, coba muat ulang halaman atau beralih ke Mode Zen."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Tutup"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Feed ini disembunyikan"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Kamu memilih untuk menyembunyikan feed Populer dan Semua di Reddit."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Kamu memilih untuk menyembunyikan semua feed Reddit."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Subreddit-mu"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Kamu bisa mengubahnya di pengaturan RelockIn."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Kamu sudah melihat semuanya"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Itu semua postingan baru dari subreddit yang kamu ikuti."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Muat lebih banyak"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Putar"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Jeda"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Lewati iklan"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Kecepatan pemutaran"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Volume"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "upvote"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "downvote"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "batal vote"
+  },
+  "domShared_redditActionSave": {
+    "message": "simpan"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "batal simpan"
+  },
+  "domShared_redditActionHide": {
+    "message": "sembunyikan"
+  },
+  "domShared_redditActionShare": {
+    "message": "bagikan"
+  },
+  "domShared_redditActionComments": {
+    "message": "komentar"
+  },
+  "domShared_redditActionExpand": {
+    "message": "luaskan"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "ciutkan"
+  },
+  "domShared_redditActionReply": {
+    "message": "balas"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "opsi lainnya"
+  },
+  "domShared_redditActionScore": {
+    "message": "skor"
+  },
+  "domShared_redditActionSource": {
+    "message": "Sumber"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Pratinjau"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Simpan"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Batal simpan"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Sembunyikan"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Tampilkan lagi"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Bagikan"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Laporkan"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Komentar induk"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Tautan permanen"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Sematkan"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Crosspost"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Salin tautan komentar"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Salin tautan postingan"
+  },
+  "domShared_redditAgeNow": {
+    "message": "sekarang"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1m"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1j"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1h"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1bln"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1th"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Cerita Instagram"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Kami menyembunyikan postingan orang asing ini."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Kami menyembunyikan video ini."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Kami menyembunyikan iklan ini."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Oleh: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Postingan ini dari koneksi tingkat 3"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Postingan ini bukan dari koneksi tingkat 1"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Kami menutupinya agar kamu tetap fokus."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Kami menyembunyikan iklan ini agar kamu tetap fokus"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Tekan untuk melihat"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Gambar ditutupi agar kamu tetap fokus"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Tekan untuk melihat."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Video ditutupi agar kamu tetap fokus."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Video rekomendasi"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Kecepatan pemutaran: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Volume: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "Mundur 10 detik"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "Maju 10 detik"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "lakukan hal yang lebih baik."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Video buatan AI"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Kamu memilih AI untuk channel ini"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Tetap tampilkan"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Tetap tonton"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Bukan AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Mungkin AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Kemungkinan AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Sangat mungkin AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Vote terbagi"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Ditinjau oleh RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Kemungkinan buatan AI"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Sangat mungkin buatan AI"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Berdasarkan vote pengguna RelockIn"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Apakah channel ini membuat konten AI?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Apa yang termasuk AI?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Vote-mu sudah berlaku untukmu. Masuk ke RelockIn agar vote-mu juga membantu komunitas."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Masuk"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Tutup"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Pilih “AI” jika sebagian besar video channel ini memakai:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Naskah yang ditulis AI"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Suara buatan AI"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Gambar atau video buatan AI"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "Musik buatan AI"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Tidak termasuk AI:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Video tentang AI, seperti ulasan alat AI"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Sentuhan kecil AI, seperti audio yang dijernihkan"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Pilihanmu langsung berlaku untukmu dan membantu pengguna RelockIn lainnya."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Label salah? Ajukan peninjauan"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Opsi lainnya"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Blokir channel"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Diblokir"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Buka blokir channel"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Kamu memblokir channel ini"
+  },
+  "limits_title": {
+    "message": "Aturan dan sesi"
+  },
+  "limits_subtitle": {
+    "message": "Mulai sesi dan kelola aturan waktu layarmu."
+  },
+  "limits_addRule": {
+    "message": "+ Tambah aturan"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Aturan waktu layar"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Lindungi waktumu dengan batas harian & sesi"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Belum ada aturan. Tambahkan satu untuk mengatur batas harian."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Media sosial"
+  },
+  "main_backToBrowser": {
+    "message": "Kembali ke browser"
+  },
+  "main_openFullPage": {
+    "message": "Buka di halaman penuh"
+  },
+  "main_tabLimits": {
+    "message": "Aturan"
+  },
+  "main_tabSettings": {
+    "message": "Penyesuaian"
+  },
+  "main_protectionTitle": {
+    "message": "Pengaman"
+  },
+  "main_protectionSubtitle": {
+    "message": "Ambil jeda sebelum bertindak impulsif"
+  },
+  "main_tabAccount": {
+    "message": "Akun"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Rata-rata harian"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "rerata"
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Klik ikon **kepingan puzzle** di toolbar"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Cari **RelockIn** lalu klik ikon **sematkan**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Aturan waktu layarmu"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Klik aturan untuk mengeditnya. Setiap aturan punya batas hariannya sendiri."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Selamat datang di **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Hanya sekitar satu menit"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Tidak juga"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Bosan dengan AI slop di YouTube?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Video AI asal jadi kini ada di mana-mana, dari feed sampai hasil pencarian."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Ingin mengurangi waktu untuk scroll?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Tanpa harus mengandalkan tekad saja."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "Konten AI"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Kenali video AI **sebelum** kamu klik."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Kami bisa menutupi, menyembunyikan, atau memberi label pada konten AI di feed-mu."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Opsional"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Bantu **tandai** konten AI."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Komunitas kami menandai konten AI. Kalau kamu daftar, vote-mu membantu orang lain mengenali dan memblokir AI."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Sudah masuk"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Vote-mu kini membantu orang lain mengenali dan memblokir AI."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Lanjut dengan email"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Video pendek"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Buat Shorts dan Reels **lenyap**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Hilangkan Shorts dari YouTube dan Reels dari Instagram. Pertahankan bagian yang kamu mau."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Sembunyikan Shorts dan Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Opsional: batas harian"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Scroll **dengan sadar**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Situs mana yang perlu dibatasi?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Kamu bisa menambah situs lain nanti."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Pilih situs untuk melihat aturannya di sini"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Akses cepat"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Tersemat. Mantap."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn untuk iPhone & Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Bawa juga ke **ponselmu**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "Di aplikasi RelockIn, kamu bisa menyesuaikan YouTube, Instagram, dan situs lain untuk menyembunyikan konten AI, Shorts, Reels, dan gangguan lain.\n\nKamu juga bisa mengunci aplikasi yang mengganggu agar lebih mudah mengatur waktu layarmu."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Pindai dengan kamera ponselmu"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Semua sudah siap."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Lihat di YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Ayo selesaikan penyiapan"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Penyiapan terbuka di tab tersendiri dan butuh sekitar satu menit."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Lanjutkan penyiapan"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Singkirkan AI slop, Shorts, dan feed tanpa akhir dari situs yang paling sering kamu buka."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Kenapa perlu akun?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Tanpa akun, vote-mu tetap menandai channel AI untukmu sendiri, tetapi tidak bisa membantu orang lain. Kalau kamu punya akun, kami bisa memercayai vote-mu untuk membantu menandai konten AI bagi seluruh komunitas. Pengguna lain tidak bisa melihat pilihanmu.\n\nAkunmu juga bisa dipakai di RelockIn untuk iPhone dan Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Transparansi penting bagi kami. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Kode kami dipublikasikan"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Sesuaikan Situs"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**40+ cara** membuat situs tidak terlalu adiktif."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn bisa mengubah YouTube, Instagram, Reddit, X, dan LinkedIn. Coba beberapa di sini; sisanya ada di pengaturan."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Batas harian aturan “$1”"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Akses RelockIn hanya dengan **satu klik**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Sematkan agar kamu bisa mengubah pengaturan apa pun dengan mudah."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Tutup penyiapan"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Belum ada batas"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Pilih situs yang menyita waktumu, lalu beri masing-masing batas harian. Hanya sekitar 30 detik."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Atur batas"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Hanya tampilkan postingan dari akun yang kamu ikuti di feed"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Nonaktifkan r/popular dan r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "Video AI"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts & Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Penyesuaian situs"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Batas harian"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Vote AI"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Disembunyikan"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Ditampilkan"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Nonaktif"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Ditutupi"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Berlabel"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Untuk seluruh komunitas"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Hanya untukmu"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 aktif"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "id"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 situs"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "id"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Ingin media sosial tidak terlalu adiktif?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Lebih sedikit gangguan, tanpa kehilangan bagian yang kamu suka."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Kamu berada di tempat yang tepat."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Oke. Mari kami ajak berkeliling."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Kamu bisa mengatur batas waktu layar di situs mana pun.\n\nRelockIn membantumu berhenti scroll tanpa sadar."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Pilih berapa lama kamu butuh"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Gunakan situsnya"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Saat waktu habis, terkunci lagi"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Coba batas harian"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Semuanya ada **di sini**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Buka panel ini kapan saja dari ikon RelockIn di toolbar."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Mau berapa lama di $1?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Sesimu di $1 sudah berakhir."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "mnt/hari"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "Kurangi 5 menit"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "Tambah 5 menit"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Durasi Layar"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Ubah apa saja dari ikon RelockIn di toolbar."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Ubah apa saja dari RelockIn di menu ekstensi browser."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Apakah ini cara terbaik memakai waktumu sekarang?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "tarik napas dalam-dalam"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Atau, kalau kamu benar-benar perlu lanjut ke $1, kamu bisa memulai sesi untuk aturan “$2”"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Sisa $1m $2d hari ini"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Pasang RelockIn di ponselmu"
+  },
+  "overlay_closeTab": {
+    "message": "Tutup tab ini"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "sisa hari ini"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "terpakai hari ini"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "reset pukul"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Atau, kalau kamu benar-benar perlu lanjut, kamu bisa memulai sesi untuk aturan “$1”"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "“$1”"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Aturan saat ini: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Buka RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Opsi lainnya"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "pemakaian harian"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "Kode QR untuk mengunduh RelockIn"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Dapatkan aplikasi **RelockIn**"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Hapus Shorts, Reels, dan video AI"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Atur batas harian untuk aplikasi atau situs apa pun"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Jaga tidur dan fokusmu"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Ekstensi ini terbatas di ponsel"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Aplikasi RelockIn bisa membatasi aplikasi apa pun dan menghapus semua distraksi serta video AI."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Tidak berfungsi di aplikasi YouTube atau Instagram"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Hanya satu batas harian dan satu jadwal"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Bisa memberi label video AI, tapi tidak menyembunyikannya"
+  },
+  "phoneWebext_getApp": {
+    "message": "Dapatkan aplikasinya"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Lanjut di browser"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Atau, lanjut di sini (terbatas)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Dapatkan aplikasi RelockIn untuk aturan waktu layar tanpa batas"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Dapatkan aplikasi RelockIn untuk jadwal tanpa batas"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Coba **aplikasi RelockIn** untuk memakai semua pengaturan"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Tersedia di RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "Di versi gratis, semua situs ini memakai satu batas harian yang sama."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Pikirkan lagi sebelum bertindak"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Atur tugas yang perlu kamu selesaikan sebelum melewati batas harian atau menghapus aturan.\nButuh sekitar satu menit."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Atur pengaman"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Jeda antarsesi"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Istirahat sejenak setelah terlalu banyak sesi beruntun"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Siapkan aturanmu dulu"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Selesaikan penyiapan aturan di tab Aturan sebelum menambahkan pengaman."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Jeda sebelum bertindak impulsif"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Sebelum melewati batas harian atau menghapus aturan, kamu bisa diminta menyelesaikan tugas singkat. Ini memberimu waktu untuk mempertimbangkan keputusanmu."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Kamu selalu memegang kendali."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Coba langsung"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Ketuk kartu mana saja untuk mencoba tugasnya."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Ambil beberapa menit tambahan di luar batas harian"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Ketik kalimat pendek"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Keluarkan aplikasi dari daftar blokir"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Selesaikan beberapa soal matematika"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Longgarkan jadwal"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Ketik kalimat yang lebih panjang"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Seberapa ketat pengamanmu?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Kamu bisa mengubahnya kapan saja."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Ringan"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Pengingat kecil sebelum tindakan impulsif."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Seimbang"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Tugas tambahan saat kamu tergoda untuk melonggarkan batas."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Ketat"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Tugas yang lebih sulit untuk membantu menghentikan kebiasaan buruk."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Disarankan"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Gunakan tingkat $1"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Jeda antarsesi"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Kalau terlalu banyak sesi dimulai beruntun, RelockIn bisa mewajibkan jeda sebelum sesi berikutnya."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Jika aku memulai 2+ sesi beruntun (dengan jarak kurang dari"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "buat aku istirahat selama"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Contoh"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "08.00  Kamu memulai sesi Media Sosial 5 menit."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "08.05  Kamu memulai sesi 5 menit lagi"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "08.10  Kamu perlu istirahat sebelum memulai sesi ketiga"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 detik"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 menit"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 menit"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 menit"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 menit"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 menit"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Pengamanmu sudah aktif"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Ubah kapan saja:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Kapan kamu harus menyelesaikan tugas"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Apa yang diminta setiap tugas"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Tugas untuk aturan tertentu"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Kembali ke aplikasi utama"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Tidak ada aplikasi yang diblokir"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Nama aturan"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Perkenalan"
+  },
+  "rule_deleteRule": {
+    "message": "Hapus aturan"
+  },
+  "rule_editRule": {
+    "message": "Edit aturan"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Aplikasi yang diblokir"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Ubah aplikasi yang diblokir"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Situs yang diblokir di browser RelockIn"
+  },
+  "rule_noTargets": {
+    "message": "Belum ada situs yang diblokir."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Pengaturan aturan"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Batas harian (menit)"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Menit"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Kurangi batas harian $1 menit"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "id"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Tambah batas harian $1 menit"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "id"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Atur pengaman"
+  },
+  "rule_targetsSection": {
+    "message": "Situs target"
+  },
+  "rule_defaultRuleName": {
+    "message": "Aturan baru"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Sesi aktif"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Terkunci"
+  },
+  "rule_appCount": {
+    "message": "$1 aplikasi"
+  },
+  "rule_appCount__lang": {
+    "message": "id"
+  },
+  "rule_siteCount": {
+    "message": "$1 situs"
+  },
+  "rule_siteCount__lang": {
+    "message": "id"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Nama jadwal"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Belum disimpan"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "RENTANG WAKTU"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Mulai"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Selesai"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "HARI AKTIF"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Setiap hari"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Tidak ada hari"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Hari kerja"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Akhir pekan"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "M"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "S"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "S"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "R"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "K"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "J"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "S"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "Min"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "Sen"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "Sel"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "Rab"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "Kam"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "Jum"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "Sab"
+  },
+  "scheduleCard_modeSection": {
+    "message": "MODE"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Blokir selama"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Izinkan hanya selama"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Kamu tidak bisa memulai sesi pada jam ini."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Kamu *hanya* bisa memulai sesi buka kunci pada jam ini. Di luar jam ini, aplikasi dan situs ini tidak bisa dibuka kuncinya."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Bisa dibuka"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Tidak bisa dibuka"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "BERLAKU UNTUK ATURAN"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Belum ada aturan."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Terapkan otomatis ke aturan baru"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Simpan perubahan"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Hapus jadwal ini?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Hapus jadwal"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Jadwal"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1—$2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Edit jadwal"
+  },
+  "schedules_title": {
+    "message": "Jadwal"
+  },
+  "schedules_subtitle": {
+    "message": "Atur kapan kamu bisa memulai sesi."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Belum ada jadwal"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Tambahkan jadwal untuk mengatur batasan waktu aturanmu."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Tambah jadwal"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Tidur"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Siapkan aturan waktu layarmu dulu"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Selesaikan penyiapan di tab Aturan sebelum membuat jadwal."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Aturanmu memblokir aplikasi dan situs sampai kamu memulai sesi. Jadwal menambahkan lapisan kedua: jadwal membatasi *kapan* kamu bisa memulai sesi itu.\n\nLindungi waktu tidur, belajar, atau fokusmu, atau beri dirimu waktu istirahat yang terencana."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Mulai uji coba gratis untuk punya lebih dari 1 jadwal"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Kesalahan: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Gagal menambahkan jadwal: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Gagal memperbarui: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Gagal menghapus: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Gagal memperbarui aturan yang terhubung: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Aku mau rehat 5 menit buat scroll Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Aplikasimu tetap terkunci sampai kamu membuka kuncinya"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Situs pilihanmu tetap terkunci sampai kamu membuka kuncinya"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Tapi di jam-jam tertentu, kamu ingin aplikasimu tetap terkunci"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Tapi di jam-jam tertentu, kamu ingin situs itu tetap terkunci"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Jadwal menghilangkan tombol buka kunci"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Jadi aplikasimu tetap terkunci sampai jadwal berakhir."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Jadi situs pilihanmu tetap terkunci sampai jadwal berakhir."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Yah! Ya sudah, tidur saja."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2—$3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Yuk, lindungi waktu tidurmu"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Pilih jam saat kamu seharusnya tidur, bukan scroll."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Lindungi tidurku"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Waktu tidurmu terlindungi"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Tidak bisa buka kunci dari $1 sampai $2. Kamu bisa mengubah hari, jam, atau aturannya kapan saja."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Mau melindungi waktu kerja atau belajar juga?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Tambahkan jadwal kapan saja."
+  },
+  "session_sectionTitleActive": {
+    "message": "Sesi"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Mulai sesi"
+  },
+  "session_endingSession": {
+    "message": "Mengakhiri sesi…"
+  },
+  "session_startingSession": {
+    "message": "Memulai sesi…"
+  },
+  "session_remainingInSession": {
+    "message": "tersisa di sesi ini"
+  },
+  "session_endSession": {
+    "message": "Akhiri sesi"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Jadwal sedang memblokir sesi"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Kamu tidak bisa membuka aturan “$1” karena jadwalmu"
+  },
+  "session_blockedBadge": {
+    "message": "DIBLOKIR JADWAL"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Karena jadwalmu, kamu tidak bisa memulai sesi sekarang."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Lewati pembatasan jadwal"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Pemblokiran lain yang aktif:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Ada beberapa batasan yang aktif sekaligus. Cukup lewati yang paling ketat untuk memulai sesi."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Pembatasan jadwal"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Jeda wajib"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Diblokir jadwal “$1” sampai $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Di luar jam yang diizinkan. Jadwal “$1” mulai pukul $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Di luar semua jam yang diizinkan jadwal"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Diizinkan sampai jadwal “$1” memblokir pukul $2"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Diizinkan sampai jadwal “$1” berakhir pukul $2"
+  },
+  "session_other": {
+    "message": "Lainnya"
+  },
+  "session_duration": {
+    "message": "Durasi"
+  },
+  "session_startSession": {
+    "message": "Mulai sesi"
+  },
+  "session_takeABreak": {
+    "message": "Istirahat dulu."
+  },
+  "session_reopensInFormat": {
+    "message": "Mulai lagi dalam $1 dtk"
+  },
+  "session_reopensInLabel": {
+    "message": "Mulai lagi dalam"
+  },
+  "session_bypassBreak": {
+    "message": "Lewati jeda wajib"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Berhenti doomscrolling."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Sudah $1 sesi beruntun. Berhenti doomscrolling."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "id"
+  },
+  "session_overrideSizeLow": {
+    "message": "Hingga 2 mnt"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Hingga 10 mnt"
+  },
+  "session_overrideSizeHigh": {
+    "message": "Hingga 60 mnt"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Kamu butuh waktu tambahan berapa lama?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Tugas ringan untuk buka kunci"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Tugas sedang untuk buka kunci"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Tugas berat untuk buka kunci"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Pengamanmu tidak mengizinkan waktu tambahan."
+  },
+  "session_dailyLimitReached": {
+    "message": "Batas harian sudah habis"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Kamu sudah memakai $1 mnt hari ini."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Jalan-jalan sebentar, bereskan pekerjaan rumah itu, atau telepon teman."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Aku tidak punya kegiatan yang lebih baik"
+  },
+  "session_chooseLength": {
+    "message": "Pilih durasi sesi"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Buka kunci ada batas waktunya"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Ketuk durasi untuk memulai sesi. Kami akan mengunci lagi setelah waktumu habis."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Mulai sesi: $1 mnt"
+  },
+  "settings_title": {
+    "message": "Sesuaikan Situs"
+  },
+  "settings_igComments": {
+    "message": "Sembunyikan komentar Instagram"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Kecuali akun yang kamu ikuti"
+  },
+  "settings_igStories": {
+    "message": "Cerita Instagram"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Tutupi postingan akun tak dikenal di feed"
+  },
+  "settings_igFeedVideos": {
+    "message": "Sembunyikan video di feed"
+  },
+  "settings_igGuardAds": {
+    "message": "Sembunyikan iklan"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Jadikan Jelajahi khusus pencarian"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Jadikan foto hitam putih"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Jadikan video hitam putih"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Masuk sebagai"
+  },
+  "settings_accountSignOut": {
+    "message": "Keluar"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Login dengan Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Masuk untuk menyinkronkan datamu di semua perangkat. Jika kamu sudah membeli RelockIn Pro, langgananmu akan dipulihkan setelah kamu masuk."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Langganan"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Status"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Keluar?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Datamu tidak akan disinkronkan lagi antarperangkat sampai kamu masuk kembali."
+  },
+  "settings_accountSignOutError": {
+    "message": "Gagal keluar. Coba lagi."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Untuk masuk, kamu perlu memberi izin. Semua fitur lain tetap berfungsi tanpa akun."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Dengan melanjutkan, kamu menyetujui $1 kami. $2 kami menjelaskan cara kami menggunakan datamu."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Dengan membuat akun, kamu menyetujui $1 kami. $2 kami menjelaskan cara kami menggunakan datamu."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Persyaratan Layanan"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Kebijakan Privasi"
+  },
+  "settings_accountSourceCode": {
+    "message": "Kode Sumber"
+  },
+  "settings_accountSignInError": {
+    "message": "Gagal masuk. Coba lagi."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "Tidak ada akun Google yang ditemukan di ponsel ini. Buka Setelan ponsel, lalu Sandi & akun (di Samsung: Akun dan pencadangan), dan pastikan akun Google sudah ditambahkan di sana. Jika akunnya sudah ada tetapi masih gagal masuk, coba hapus akun itu lalu tambahkan lagi."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Login dengan Google belum diatur dengan benar di aplikasi ini. Silakan hubungi tim dukungan."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Proses masuk terganggu. Coba lagi."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Perangkat ini tidak bisa memakai Login dengan Google. Coba perbarui layanan Google Play, atau masuk dengan email."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Data login dari Google tidak dapat dibaca. Coba lagi."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Tidak dapat terhubung ke server login. Periksa koneksimu, lalu coba lagi."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Proses masuk menghasilkan data login yang tidak terduga. Coba lagi."
+  },
+  "settings_emailSignInCta": {
+    "message": "Masuk dengan email"
+  },
+  "settings_appleSignInCta": {
+    "message": "Masuk dengan Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Masuk"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Masuk dengan email dan sandimu."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Buat akun"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Buat akun untuk menyinkronkan data di semua perangkat."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Buat akun"
+  },
+  "settings_emailResetTitle": {
+    "message": "Atur ulang sandi"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Masukkan emailmu, dan kami akan mengirim link untuk mengatur ulang sandimu."
+  },
+  "settings_emailResetAction": {
+    "message": "Kirim link reset"
+  },
+  "settings_emailPlaceholder": {
+    "message": "Email"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Sandi"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Konfirmasi sandi"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Lupa sandi?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Belum punya akun? Daftar"
+  },
+  "settings_switchToSignIn": {
+    "message": "Sudah punya akun? Masuk"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Periksa emailmu"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Kami telah mengirim link konfirmasi ke emailmu. Verifikasi alamat emailmu sebelum masuk."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Link reset terkirim"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Kami telah mengirim email berisi link untuk mengatur ulang sandi (jika akunmu terdaftar)."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Emailmu belum diverifikasi. Cari link konfirmasi di kotak masukmu."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Terlalu banyak percobaan. Coba lagi nanti."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Sandi terlalu lemah. Gunakan minimal 6 karakter."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Email atau sandi salah. Jika kamu baru mendaftar, pastikan emailmu sudah diverifikasi."
+  },
+  "settings_changePasswordCta": {
+    "message": "Ubah sandi"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Buat sandi baru"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Pilih sandi baru untuk akunmu."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Sandi baru"
+  },
+  "settings_newPasswordAction": {
+    "message": "Perbarui sandi"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Sandi diperbarui"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Sandimu sudah diperbarui. Sekarang kamu bisa masuk dengan sandi baru."
+  },
+  "settings_newPasswordError": {
+    "message": "Gagal memperbarui sandi. Coba lagi."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Isi semua kolom."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Gagal mendaftar."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Masukkan emailmu."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Gagal mengirim email reset."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Sandi berhasil diperbarui."
+  },
+  "settings_accountSigningOut": {
+    "message": "Keluar…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Masuk…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "Tidak tersedia"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Versi gratis"
+  },
+  "settings_backToSignIn": {
+    "message": "Kembali ke halaman masuk"
+  },
+  "settings_sending": {
+    "message": "Mengirim…"
+  },
+  "settings_updating": {
+    "message": "Memperbarui…"
+  },
+  "settings_creatingAccount": {
+    "message": "Membuat akun…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Konfirmasi sandi baru"
+  },
+  "settings_showPasswordCta": {
+    "message": "Tampilkan"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Sembunyikan"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Sandi minimal 6 karakter."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Sandi tidak cocok."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Akun dikonfirmasi"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Emailmu sudah diverifikasi dan kamu sudah masuk."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Link masuk gagal"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Link masuk itu tidak dapat diproses. Mungkin link-nya sudah kedaluwarsa atau sudah pernah dipakai. Coba lagi, atau minta email baru.\n\nDetail: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Hapus akun"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Tindakan berbahaya"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "TINDAKAN BERBAHAYA—Penghapusan akun"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Yang akan dihapus permanen:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Kredensial dan profil akunmu\nSemua aturan, jadwal, dan pengaturan yang disinkronkan\nSemua riwayat penggunaan yang disinkronkan dan data aplikasi lainnya"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Yang tetap disimpan:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Catatan pembelian dan transaksi (diwajibkan hukum untuk keperluan pajak dan akuntansi)\nLaporan crash dan diagnostik"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Menghapus akun tidak membatalkan langganan"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Ketik $1 untuk mengonfirmasi penghapusan akun secara permanen"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "HAPUS"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Tindakan ini tidak dapat dibatalkan."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Autentikasi gagal"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Kami tidak dapat memverifikasi login kamu. Masuk lagi sebelum menghapus akunmu."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Akun dihapus"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Akunmu sudah dihapus secara permanen."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Gagal menghapus akun (error $1). Coba lagi nanti, atau hubungi dukungan di relockin.com/support jika masalahnya berlanjut."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Singkirkan distraksi dan jadi lebih produktif"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Tampilkan"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Tutupi"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Hapus"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Langsung"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Setelah 5 dtk"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Setelah 10 dtk"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Tidak bisa ditutup"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Setelah tugas selesai"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Cara melihat konten"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Default"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Seluler"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Desktop"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Normal"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Buram ringan"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Buram tebal"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Hitam putih"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Hitam"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Sembunyikan Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Sembunyikan tab Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Sembunyikan tab Beranda"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Alihkan Beranda ke Subscription"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Matikan Putar Otomatis"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Matikan pratinjau video"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Sembunyikan postingan non-video"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Keluarkan postingan komunitas, polling, dan update foto dari feed Beranda."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Buat semua iklan bisa dilewati"
+  },
+  "settings_ytBlockAds": {
+    "message": "Blokir iklan"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Sembunyikan video “Berikutnya”"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Video rekomendasi"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Mode tampilan"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Filter thumbnail"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Sembunyikan tab Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Sembunyikan tab Beranda"
+  },
+  "settings_igHomeFeed": {
+    "message": "Feed Beranda"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Default"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Feed Instagram biasa, termasuk postingan yang disarankan."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Hanya Mengikuti"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Postingan dari akun yang kamu ikuti, yang terbaru di atas."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Hanya Favorit"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Hanya postingan dari akun di daftar Favorit kamu."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Sembunyikan link kembali ke feed biasa"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Gunakan Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Optimalkan Old Reddit untuk ponsel"
+  },
+  "settings_redditVersion": {
+    "message": "Versi Reddit"
+  },
+  "settings_redditVersionZen": {
+    "message": "Mode Zen"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Reddit yang lebih cepat dan bersih, dibangun dari old.reddit.com yang diperbarui"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Standar"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Tampilan seluler bawaan Reddit"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "CATATAN: Kami menyarankan Mode Zen, karena Reddit mungkin akan memaksamu memakai aplikasi Reddit"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Gaya feed"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Judul saja"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Jelajahi lebih cepat dengan judul saja. Ketuk atau geser untuk membuka postingan."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Thumbnail"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Judul dengan thumbnail kecil untuk setiap postingan."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Lengkap"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Tampilkan gambar, video, dan postingan teks langsung di feed."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Batasi feed tanpa akhir?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Tampilkan semua feed"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit berfungsi seperti biasa."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Sembunyikan Populer dan Semua"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Menyembunyikan feed berisi postingan dari komunitas dan orang yang tidak kamu ikuti, seperti Populer, Semua, dan Jelajahi Komunitas. Feed Beranda tetap berfungsi."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Sembunyikan semua feed"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Feed Beranda juga disembunyikan. Kamu tetap bisa membuka subreddit dan mencari."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Isi feed Beranda hanya dengan postingan dari subreddit yang kamu ikuti"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Jadikan gambar hitam putih"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Pindahkan jumlah vote ke bawah postingan"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Warnai komentar sesuai tingkat balasan"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Aktifkan gestur geser pada komentar"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Geser kanan pendek"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Geser kanan panjang"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Geser kiri pendek"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Geser kiri panjang"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Upvote"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Downvote"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Ciutkan"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Balas"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Simpan"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Aktifkan gestur geser pada postingan"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Upvote"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Downvote"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Sembunyikan"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Bagikan"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Simpan"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Buka komentar"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Buka link sumber"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Pratinjau"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Izinkan CSS kustom di subreddit berikut"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Gaya kustom subreddit disembunyikan secara default agar tetap mudah dibaca di layar kecil."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "nama subreddit (contoh: politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Keluarkan subreddit “$1”"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Belum ada subreddit yang ditambahkan."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Sembunyikan tab “Untuk Anda”"
+  },
+  "settings_xHideAds": {
+    "message": "Sembunyikan iklan"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Filter postingan menurut tingkat koneksi"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Tampilkan semua"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Sembunyikan postingan tingkat 3"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Sembunyikan postingan tingkat 2 & 3"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Sembunyikan postingan “Dipromosikan”"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Tutupi foto dan video di feed"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Jadikan foto hitam putih"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Jadikan video hitam putih"
+  },
+  "settings_inBrowserNote": {
+    "message": "Hapus iklan, singkirkan distraksi, dan saring feed. Berlaku di browser RelockIn."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Pengaturan berlaku untuk situs di browser RelockIn, **bukan aplikasi $1.** Masuk ke situsnya untuk melihat perubahannya di feed."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Pengaturan berlaku untuk situs di browser RelockIn, **bukan aplikasi $1.** Buka situsnya untuk melihat perubahannya."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Lihat di $1"
+  },
+  "settings_generalSection": {
+    "message": "Umum"
+  },
+  "settings_showSessionTimer": {
+    "message": "Tampilkan timer sesi"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Minta aku menarik napas sejenak sebelum membuka kunci situs"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Durasi napas (detik)"
+  },
+  "settings_clearSection": {
+    "message": "Reset"
+  },
+  "settings_ytAiContent": {
+    "message": "Video buatan AI"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Tampilkan"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Perlakukan video AI seperti video lainnya"
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Label"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Tambahkan label AI di thumbnail videonya"
+  },
+  "settings_ytAiContentCover": {
+    "message": "Tutupi"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Tutupi videonya, dengan opsi tetap menampilkan satu video"
+  },
+  "settings_ytAiContentHide": {
+    "message": "Sembunyikan"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Singkirkan videonya dari feed, pencarian, dan rekomendasi"
+  },
+  "settings_ytAiVotes": {
+    "message": "Vote AI-mu"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Bukan AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Belum ada"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Keluarkan channel “$1”"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Channel yang diblokir"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Videonya disembunyikan di seluruh YouTube. Gunakan tombol “Blokir channel” di bawah video atau di halaman channel."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts & iklan"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Gestur geser"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Beranda & feed"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI & channel"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Berikutnya"
+  },
+  "settings_sectionTabs": {
+    "message": "Tab"
+  },
+  "settings_sectionFeed": {
+    "message": "Feed"
+  },
+  "settings_sectionFeeds": {
+    "message": "Daftar feed"
+  },
+  "settings_sectionAppearance": {
+    "message": "Tampilan"
+  },
+  "settings_sectionOther": {
+    "message": "Lainnya"
+  },
+  "support_titleHelp": {
+    "message": "Minta bantuan"
+  },
+  "support_titleFeedback": {
+    "message": "Kirim masukan"
+  },
+  "support_titleReportProblem": {
+    "message": "Laporkan masalah"
+  },
+  "support_sentimentTitle": {
+    "message": "Masukan seperti apa yang ingin kamu sampaikan?"
+  },
+  "support_sentimentPositive": {
+    "message": "Ada yang aku suka"
+  },
+  "support_sentimentNegative": {
+    "message": "Ada yang perlu diperbaiki"
+  },
+  "support_reviewTitle": {
+    "message": "Senang mendengarnya!"
+  },
+  "support_reviewBody": {
+    "message": "Maukah kamu memberi ulasan singkat? Ulasanmu membantu orang lain menemukan RelockIn.\n\nIni sangat berarti bagi tim kecil kami."
+  },
+  "support_reviewCta": {
+    "message": "Tulis ulasan"
+  },
+  "support_personalNoteTitle": {
+    "message": "Catatan dari developer"
+  },
+  "support_personalNoteBody": {
+    "message": "Terima kasih sudah memakai RelockIn. Aku membaca sendiri setiap pesan, dan akan membalas secepatnya."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Terima kasih! Ada masukan atau saran?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Sayang sekali. Ceritakan apa yang bermasalah, dan kami akan memeriksanya."
+  },
+  "support_messageLabel": {
+    "message": "Pesanmu"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Ada yang bisa kami bantu?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Apa yang ingin kamu sampaikan?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Apa masalahnya di situs ini?"
+  },
+  "support_siteLabel": {
+    "message": "Situs"
+  },
+  "support_emailLabel": {
+    "message": "Emailmu"
+  },
+  "support_emailPlaceholder": {
+    "message": "kamu@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Masukkan alamat email yang valid."
+  },
+  "support_sendCta": {
+    "message": "Kirim"
+  },
+  "support_sendError": {
+    "message": "Pesanmu tidak dapat dikirim. Periksa koneksimu, lalu coba lagi."
+  },
+  "support_sentTitle": {
+    "message": "Pesan terkirim"
+  },
+  "support_sentBodyFormat": {
+    "message": "Terima kasih! Kami akan membalas ke $1 secepatnya."
+  },
+  "support_sendAnotherCta": {
+    "message": "Kirim pesan lain"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Butuh bantuan?"
+  },
+  "support_accountFooterCta": {
+    "message": "Hubungi dukungan"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Pesanmu langsung ke developer"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Log diagnostik"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Log diagnostik"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Belum ada entri log."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Log debug"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Entri ini hanya disimpan di perangkat ini dan tidak pernah diunggah atau dibagikan secara otomatis. Gunakan tombol bagikan untuk mengirimkannya ke developer saat melaporkan masalah."
+  },
+  "target_domainType": {
+    "message": "Seluruh situs"
+  },
+  "target_urlPatternType": {
+    "message": "Pencocokan URL"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Mengunci semua halaman di sebuah situs. Cukup ketik nama situsnya (misalnya reddit.com)—subdomain dan jalur URL tidak berpengaruh."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Mengunci URL apa pun yang berisi teks ini. Gunakan * sebagai wildcard untuk apa saja di antaranya.\n\nContoh:\n- youtube.com/shorts mengunci YouTube Shorts, tetapi tidak mengunci video biasa\n- reddit.com/r/politics hanya mengunci subreddit itu\n- x.com/*/status/* mengunci halaman tweet tanpa mengunci bagian lain X, misalnya halaman profil"
+  },
+  "target_scopeNote": {
+    "message": "Kuncimu berlaku di browser RelockIn, tetapi tidak di browser lain seperti Safari. Kamu bisa memulai sesi untuk membuka kunci sementara."
+  },
+  "target_emptyPattern": {
+    "message": "(kosong)"
+  },
+  "target_addTargetTitle": {
+    "message": "Kunci situs"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Apa yang ingin kamu kunci?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Keluarkan situs"
+  },
+  "target_editTargetTitle": {
+    "message": "Edit item"
+  },
+  "target_editingLabel": {
+    "message": "Sedang diedit"
+  },
+  "target_typePickerLabel": {
+    "message": "Jenis"
+  },
+  "typingSentences_short1": {
+    "message": "Aku memilih ini dengan penuh kesadaran."
+  },
+  "typingSentences_short2": {
+    "message": "Aku bertanggung jawab atas keputusan ini."
+  },
+  "typingSentences_short3": {
+    "message": "Pilihan ini sepenuhnya milikku."
+  },
+  "typingSentences_short4": {
+    "message": "Ini keputusan yang kuambil dengan sengaja."
+  },
+  "typingSentences_short5": {
+    "message": "Pilihan ini kubuat dengan pikiran jernih."
+  },
+  "typingSentences_long1": {
+    "message": "Aku sepenuhnya sadar bahwa aku sedang melewati batas yang kubuat untuk melindungi waktu dan fokusku sendiri, dan aku menerima tanggung jawab atas pilihan ini."
+  },
+  "typingSentences_long2": {
+    "message": "Kita adalah apa yang kita kerjakan berulang-ulang. Karena itu, keunggulan bukanlah suatu perbuatan, melainkan kebiasaan. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Pilihanmu menjadi kebiasaanmu. Kebiasaanmu menjadi karaktermu. Dan karaktermu menjadi takdirmu."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrolling atau doomsurfing adalah kebiasaan menghabiskan waktu berlebihan untuk menonton video pendek atau konten buatan pengguna dan berita dalam jumlah besar, terutama berita negatif, di web dan media sosial. Survei dan penelitian menunjukkan doomscrolling paling banyak terjadi di kalangan anak muda. Pada 2019, sebuah studi dari National Academy of Sciences AS menemukan bahwa doomscrolling dapat dikaitkan dengan menurunnya kesehatan mental dan fisik."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Infinite scroll adalah pendekatan desain yang memuat konten terus-menerus saat pengguna menggulir ke bawah, sehingga tidak perlu berpindah halaman. Akibatnya, fitur ini dapat memperparah doomscrolling karena menghilangkan titik berhenti alami tempat pengguna mungkin berhenti sejenak. Penelitian juga menunjukkan bahwa kecenderungan platform media sosial memperkuat konten negatif dapat memperburuk kebiasaan scroll tanpa henti ini, sehingga pengguna bertahan lebih lama pada berita yang tidak menyenangkan."
+  },
+  "typingSentences_paragraph3": {
+    "message": "Model bisnis sebagian besar platform media sosial sangat bergantung pada keterlibatan pengguna. Artinya, makin lama orang bertahan di platform tersebut, makin banyak iklan yang mereka lihat dan makin banyak data tentang perilaku mereka yang dikumpulkan. Hal ini menciptakan siklus ketika konten yang memancing emosi - sering kali berisi informasi negatif atau yang memicu kecemasan - terus disodorkan kepada pengguna, mendorong mereka untuk terus scroll dan mengonsumsi lebih banyak konten."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Hiburan, informasi, dan konektivitas instan membuat media sosial menarik. Kecanduan media sosial ditandai dengan penggunaan berlebihan dan kompulsif yang mengganggu aktivitas sehari-hari dan kesejahteraan secara keseluruhan. Ini bukan sekadar menghabiskan terlalu banyak waktu online; kecanduan ini juga mencakup dorongan untuk terus mengecek pembaruan, rasa cemas saat offline, dan dampak buruk pada hubungan serta tanggung jawab di dunia nyata."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Algoritma video pendek sangat adiktif karena menyingkirkan pilihan dan niatmu sepenuhnya. Dengan menghapus beban kognitif untuk memutuskan apa yang berikutnya, aplikasi mengganti keputusan yang sadar dengan kondisi flow yang pasif dan mulus, seperti autopilot. Dalam kondisi ini, terus menonton terasa sangat mudah dan menyenangkan, sedangkan berhenti terasa sangat sulit."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Media sosial memang dirancang agar adiktif. Perusahaan teknologi membuat aplikasi ini untuk merebut perhatianmu dengan memicu pusat penghargaan di otak. Kombinasi pengakuan yang dipicu dopamin, hadiah yang tak terduga, dan jebakan psikologis membuatmu sangat sulit meletakkan ponsel. Mengenali taktik desain ini adalah langkah pertama untuk kembali mengendalikan kebiasaan digitalmu dan membangun hubungan yang lebih sehat dengan teknologi."
+  },
+  "usage_title": {
+    "message": "Penggunaan"
+  },
+  "usage_subtitle": {
+    "message": "Pantau waktu layarmu di semua aturan dan sesi."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Belum ada data penggunaan"
+  },
+  "usage_noUsageBody": {
+    "message": "Pemakaianmu akan muncul di sini setelah kamu mulai memakai sesi."
+  },
+  "usage_today": {
+    "message": "Hari ini"
+  },
+  "usage_thisWeek": {
+    "message": "Minggu ini"
+  },
+  "usage_thisMonth": {
+    "message": "Bulan ini"
+  },
+  "usage_yesterday": {
+    "message": "Kemarin"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Belum ada aturan."
+  },
+  "usage_daily": {
+    "message": "Harian"
+  },
+  "usage_weekly": {
+    "message": "Mingguan"
+  },
+  "usage_monthly": {
+    "message": "Bulanan"
+  },
+  "usage_previousPeriod": {
+    "message": "Periode sebelumnya"
+  },
+  "usage_nextPeriod": {
+    "message": "Periode berikutnya"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Periode"
+  },
+  "usage_unknownRule": {
+    "message": "Aturan tidak dikenal"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 dari $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

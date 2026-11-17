@@ -1,0 +1,2915 @@
+{
+  "about_tagline": {
+    "message": "Закройте путь отвлечениям. Откройте лучшее в себе."
+  },
+  "about_welcome": {
+    "message": "Добро пожаловать в RelockIn!"
+  },
+  "about_sentence": {
+    "message": "RelockIn — это браузер, который расправляется с отвлечениями. В Фокус-центре вы легко настроите правила и расписания, чтобы ограничить время в отвлекающих приложениях и на сайтах. Всё строится на простой идее: что, если каждая минута в телефоне будет осознанной?\n\nКроме того, в RelockIn есть полностью настраиваемый мобильный браузер, который бережёт вашу приватность. RelockIn никогда не отслеживает ваши поисковые запросы и никому не передаёт ваши данные. RelockIn — единственное приложение для концентрации со встроенным браузером, поэтому только оно позволяет персонализировать сайты и убирать отвлекающие функции вроде Reels и Shorts, а это даёт вам больше контроля."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn для Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn — блокировка ИИ-мусора, Shorts, Reels и сайтов | Экранное время"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn — блокировка ИИ-мусора, Shorts и сайтов"
+  },
+  "about_extensionDescription": {
+    "message": "Блокируйте ИИ-видео, Shorts, Reels и бесконечные ленты. А ещё — лимиты времени и расписания для любого сайта."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "удалить это правило"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "убрать «$1» из правила"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "увеличить дневной лимит"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "обойти перерыв"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "обойти ограничение по расписанию"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "обойти дневной лимит"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "удалить это расписание"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "сделать это расписание менее строгим"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "убрать внешние приложения или сайты из списка блокировки"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "ослабить эту настройку защиты"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "упростить задание «$1»"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "удалить задание «$1»"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "отключить задание перед ослаблением защиты"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Если дневной лимит исчерпан, а мне нужно больше времени…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "До 2 мин"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 мин"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Больше 10 мин"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Если мне нужно обойти ограничение по расписанию…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Если мне предлагают сделать перерыв, а я хочу продолжить…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Если вы начинаете слишком много сеансов подряд, мы просим сделать перерыв. Его длительность можно изменить в настройке «Ограничить сеансы подряд»."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 сеанс подряд"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 сеанса подряд"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4 и более сеансов подряд"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Если я ослабляю правила экранного времени…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Убрать приложение"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Убрать сайт"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Удалить правило"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Увеличить дневной лимит"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Если я делаю расписание менее строгим…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Когда не блокирует"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Когда блокирует"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Введите предложение, чтобы продолжить"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Введите абзац, чтобы продолжить"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Абзац:\n«$1»"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Дождитесь окончания таймера"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Пока отсчёт не закончится, продолжить нельзя."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Таймер сработал — можно продолжать."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Вы уверены, что хотите это сделать?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Вы уверены, что хотите $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Хотите больше контроля? Откройте вкладку «Защита» и добавьте полезные препятствия, чтобы не отступать от своих целей."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Да, продолжить"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Вы не можете $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Вы не можете этого сделать"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Ваши настройки защиты запрещают это, и никакое задание не снимет запрет."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Мне правда это нужно"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Настройки защиты можно изменить на вкладке «Защита»."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Перейти на вкладку «Защита»"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Предложение:\n«$1»"
+  },
+  "challengeUi_confirm": {
+    "message": "Подтвердить"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Пока не совпадает. Проверьте орфографию и знаки препинания."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Выполнено."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Введите предложение точно так, как оно написано."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Продолжайте…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Готово!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Есть несовпадение. Сравните внимательно: вы допустили опечатку."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Решите все примеры, чтобы продолжить"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Введите ответы и нажмите «Подтвердить»."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Всё верно!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Некоторые ответы неверны. Проверьте выделенные поля."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Ответ на пример $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Ваше доверенное лицо получит уведомление"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Вашему доверенному лицу придёт письмо о том, что вы решили обойти свои лимиты. Это уведомление поможет вам не отступать от своих целей."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Уведомить и продолжить"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Не могу это сделать"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Вместо этого подождите $1 минуты"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "ru"
+  },
+  "challengeUi_waitInsteadTitle__few": {
+    "message": "Вместо этого подождите $1 минуты"
+  },
+  "challengeUi_waitInsteadTitle__many": {
+    "message": "Вместо этого подождите $1 минут"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Вместо этого подождите $1 минуту"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Нет"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Лёгкое"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Среднее"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Сложное"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Очень сложное"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Экстремальное"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Невозможное"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Подтверждение"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "По умолчанию: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Не удалось сохранить"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Осталось: $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Поле ввода задания"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Настройка заданий"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Измените, из чего состоят лёгкие, средние и сложные задания, или создайте свои"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Когда давать мне задания"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Настройте, насколько сложно удалить правило экранного времени, получить дополнительное время и не только"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Встроенные"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Свои"
+  },
+  "challenges_newChallenge": {
+    "message": "Создать"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Своих заданий пока нет. Нажмите +, чтобы создать задание."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Название (например, «Беспощадное»)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Новое задание"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Дайте заданию уникальное название."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Выберите, что нужно делать в каждом задании, или создайте своё."
+  },
+  "challenges_savedBadge": {
+    "message": "Сохранено"
+  },
+  "challenges_noSteps": {
+    "message": "Нет шагов — добавьте хотя бы один, чтобы сохранить."
+  },
+  "challenges_addStep": {
+    "message": "Добавить шаг"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Сложность"
+  },
+  "challenges_problemsLabel": {
+    "message": "Примеры"
+  },
+  "challenges_operationsLabel": {
+    "message": "Действия"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Ввести короткое предложение"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Ввести длинное предложение"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Ввести абзац"
+  },
+  "challenges_stepNameMath": {
+    "message": "Решить примеры"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "Письмо доверенному лицу"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Дождаться таймера"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Длительность: $1 мин $2 сек"
+  },
+  "challenges_stepCount": {
+    "message": "$1 шага"
+  },
+  "challenges_stepCount__lang": {
+    "message": "ru"
+  },
+  "challenges_stepCount__few": {
+    "message": "$1 шага"
+  },
+  "challenges_stepCount__many": {
+    "message": "$1 шагов"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 шаг"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Задания для этого правила"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Действует только для правила «$1»."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Чтобы изменить задания для всех правил или их шаги:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Перейти на вкладку «Защита»"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Задание перед ослаблением защиты"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Прежде чем упростить задание, нужно выполнить то, что вы убираете."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Вы можете свободно менять защиту ещё $1 минуты. После этого, чтобы ослабить её, понадобится задание."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "ru"
+  },
+  "challenges_looseningGraceMinutes__few": {
+    "message": "Вы можете свободно менять защиту ещё $1 минуты. После этого, чтобы ослабить её, понадобится задание."
+  },
+  "challenges_looseningGraceMinutes__many": {
+    "message": "Вы можете свободно менять защиту ещё $1 минут. После этого, чтобы ослабить её, понадобится задание."
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Вы можете свободно менять защиту ещё $1 минуту. После этого, чтобы ослабить её, понадобится задание."
+  },
+  "common_save": {
+    "message": "Сохранить"
+  },
+  "common_cancel": {
+    "message": "Отмена"
+  },
+  "common_done": {
+    "message": "Готово"
+  },
+  "common_ok": {
+    "message": "ОК"
+  },
+  "common_edit": {
+    "message": "Изменить"
+  },
+  "common_delete": {
+    "message": "Удалить"
+  },
+  "common_defaultOption": {
+    "message": "По умолчанию"
+  },
+  "common_back": {
+    "message": "Назад"
+  },
+  "common_skip": {
+    "message": "Пропустить"
+  },
+  "common_next": {
+    "message": "Далее"
+  },
+  "common_gotIt": {
+    "message": "Понятно"
+  },
+  "common_none": {
+    "message": "Нет"
+  },
+  "common_yes": {
+    "message": "Да"
+  },
+  "common_no": {
+    "message": "Нет"
+  },
+  "common_start": {
+    "message": "Начать"
+  },
+  "common_loading": {
+    "message": "Загрузка…"
+  },
+  "common_error": {
+    "message": "Ошибка"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Закрыть"
+  },
+  "common_continue": {
+    "message": "Продолжить"
+  },
+  "common_dismiss": {
+    "message": "Закрыть"
+  },
+  "common_notNow": {
+    "message": "Не сейчас"
+  },
+  "common_noThanks": {
+    "message": "Нет, спасибо"
+  },
+  "common_maybeLater": {
+    "message": "Может, позже"
+  },
+  "common_add": {
+    "message": "Добавить"
+  },
+  "common_create": {
+    "message": "Создать"
+  },
+  "common_startSetup": {
+    "message": "Начать настройку"
+  },
+  "common_continueSetup": {
+    "message": "Продолжить настройку"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Продолжите с того же места"
+  },
+  "common_setItUp": {
+    "message": "Настроить"
+  },
+  "common_howItWorks": {
+    "message": "Как это работает"
+  },
+  "common_getStarted": {
+    "message": "Начать"
+  },
+  "common_signIn": {
+    "message": "Войти"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 мин"
+  },
+  "common_hoursCount": {
+    "message": "$1 часа"
+  },
+  "common_hoursCount__lang": {
+    "message": "ru"
+  },
+  "common_hoursCount__few": {
+    "message": "$1 часа"
+  },
+  "common_hoursCount__many": {
+    "message": "$1 часов"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 час"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Шаг $1 из $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Мы убрали из ленты $1 ролика Shorts"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "ru"
+  },
+  "domShared_ytShortsRemovedBadge__few": {
+    "message": "Мы убрали из ленты $1 ролика Shorts"
+  },
+  "domShared_ytShortsRemovedBadge__many": {
+    "message": "Мы убрали из ленты $1 роликов Shorts"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Мы убрали из ленты $1 ролик Shorts"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Закрыть"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Под шторкой RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Открыть"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Открыть нельзя"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Открыть ($1 с)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Для этого нужно войти в аккаунт."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Войти"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "закрыть"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit только что попытался затащить вас в своё приложение."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Если заметите сбои, обновите страницу или переключитесь в режим Zen."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "закрыть"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Эта лента скрыта"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Вы решили скрыть ленты \"Популярное\" и \"Все\" на Reddit."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Вы решили скрыть свои ленты на Reddit."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Ваши сабреддиты"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Это можно изменить в настройках RelockIn."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Вы всё просмотрели"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Это всё новое из сабреддитов, к которым вы присоединились."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Проверить ещё"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Воспроизвести"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Пауза"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Пропустить рекламу"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Скорость воспроизведения"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Громкость"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "голос за"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "голос против"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "отменить голос"
+  },
+  "domShared_redditActionSave": {
+    "message": "сохранить"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "убрать из сохранённого"
+  },
+  "domShared_redditActionHide": {
+    "message": "скрыть"
+  },
+  "domShared_redditActionShare": {
+    "message": "поделиться"
+  },
+  "domShared_redditActionComments": {
+    "message": "комментарии"
+  },
+  "domShared_redditActionExpand": {
+    "message": "развернуть"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "свернуть"
+  },
+  "domShared_redditActionReply": {
+    "message": "ответить"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "другие действия"
+  },
+  "domShared_redditActionScore": {
+    "message": "рейтинг"
+  },
+  "domShared_redditActionSource": {
+    "message": "Источник"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Превью"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Сохранить"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Убрать из сохранённого"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Скрыть"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Показать"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Поделиться"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Пожаловаться"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Родительский комментарий"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Постоянная ссылка"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Встроить"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Кросспост"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Скопировать ссылку на комментарий"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Скопировать ссылку на публикацию"
+  },
+  "domShared_redditAgeNow": {
+    "message": "только что"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1 мин"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1 ч"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1 д"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1 мес"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1 г"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Истории Instagram"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Мы скрыли публикацию незнакомого аккаунта."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Мы скрыли это видео."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Мы скрыли эту рекламу."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "От: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Эта публикация от контакта 3-го уровня"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Эта публикация не от контакта 1-го уровня"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Мы закрыли её шторкой, чтобы вы не отвлекались."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Мы скрыли эту рекламу, чтобы вы не отвлекались"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Нажмите, чтобы открыть"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Изображение закрыто шторкой, чтобы вы не отвлекались"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Нажмите, чтобы открыть."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Видео закрыто шторкой, чтобы вы не отвлекались."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Рекомендуемые видео"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Скорость воспроизведения: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Громкость: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "Назад на 10 секунд"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "Вперёд на 10 секунд"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "найдите дело получше."
+  },
+  "domShared_ytAiBadge": {
+    "message": "ИИ"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Видео создано ИИ"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Вы отметили этот канал как ИИ"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Всё равно показать"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Всё равно смотреть"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Не ИИ"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "ИИ?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Возможно, ИИ"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Скорее ИИ"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Почти наверняка ИИ"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Спорно"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Проверено RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Вероятно, создано ИИ"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Почти наверняка создано ИИ"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "По голосам пользователей RelockIn"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Это ИИ-канал?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "ИИ"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Что считается ИИ?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Пока ваш голос меняет только то, что видите вы. Войдите в RelockIn, чтобы поделиться им с сообществом."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Войти"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Закрыть"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Выберите «ИИ», если в большинстве видео канала есть:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Сценарий, написанный ИИ"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Голос, созданный ИИ"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Изображения или видео, созданные ИИ"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "ИИ-музыка"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Не считается ИИ:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Видео об ИИ, например обзоры ИИ-инструментов"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Небольшие правки с помощью ИИ, например очистка звука"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Ваш голос сразу меняет то, что вы видите, и помогает другим пользователям RelockIn."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Неверная пометка? Оспорить"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Другие действия"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Заблокировать канал"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Заблокирован"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Разблокировать канал"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Вы заблокировали этот канал"
+  },
+  "limits_title": {
+    "message": "Правила и сеансы"
+  },
+  "limits_subtitle": {
+    "message": "Начинайте сеансы и управляйте правилами экранного времени."
+  },
+  "limits_addRule": {
+    "message": "+ Добавить правило"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Правила экранного времени"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Берегите своё время с дневными лимитами и сеансами"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Правил пока нет. Добавьте правило, чтобы задать дневной лимит."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Соцсети"
+  },
+  "main_backToBrowser": {
+    "message": "Назад в браузер"
+  },
+  "main_openFullPage": {
+    "message": "Открыть на отдельной странице"
+  },
+  "main_tabLimits": {
+    "message": "Правила"
+  },
+  "main_tabSettings": {
+    "message": "Сайты"
+  },
+  "main_protectionTitle": {
+    "message": "Защита"
+  },
+  "main_protectionSubtitle": {
+    "message": "Добавьте полезную паузу перед импульсивными решениями"
+  },
+  "main_tabAccount": {
+    "message": "Аккаунт"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "В среднем за день"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "сред."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Нажмите на значок с **пазлом** на панели инструментов"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Найдите **RelockIn** и нажмите на значок **булавки**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Ваши правила экранного времени"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Нажмите на правило, чтобы изменить его. У каждого правила свой дневной лимит."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Добро пожаловать в **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Займёт около минуты"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Не особо"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Надоел ИИ-мусор на YouTube?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Халтурные ИИ-видео теперь повсюду — от ленты до поиска."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Хотели бы меньше залипать в ленте?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "И не полагаться только на силу воли."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "ИИ-контент"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Распознавайте ИИ-видео **до** клика."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Мы можем закрыть ИИ-контент шторкой, убрать его из ленты или пометить."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Необязательно"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Помогите **отмечать** ИИ-контент."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Наше сообщество отмечает ИИ-контент. Если вы зарегистрируетесь, ваши голоса помогут другим распознавать и блокировать ИИ."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Вы вошли"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Теперь ваши голоса помогают другим распознавать и блокировать ИИ."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Продолжить по электронной почте"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Короткие видео"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Пусть Shorts и Reels **исчезнут**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Уберите Shorts из YouTube и Reels из Instagram. Оставьте только то, что вам нужно."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Скрыть Shorts и Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Необязательно: дневные лимиты"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Листайте **осознанно**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Для каких сайтов задать лимит?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Другие можно добавить позже."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Выберите сайт, чтобы увидеть здесь его правило"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Быстрый доступ"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Закреплено. Отлично."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn для iPhone и Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Установите RelockIn и на **телефон**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "В приложении RelockIn можно персонализировать YouTube, Instagram и другие сайты: убрать ИИ-контент и отвлекающие Shorts и Reels.\n\nА ещё оно блокирует отвлекающие приложения, чтобы вы снова распоряжались своим временем."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Отсканируйте камерой телефона"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Всё готово."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Посмотреть на YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Давайте завершим настройку"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Настройка откроется в отдельной вкладке и займёт около минуты."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Продолжить настройку"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Уберите ИИ-мусор, Shorts и бесконечные ленты с сайтов, которыми вы пользуетесь чаще всего."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Зачем нужен аккаунт?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Без аккаунта ваши голоса отмечают ИИ-каналы только для вас и никому больше не помогают. С аккаунтом мы можем доверять вашим голосам, и они помогают отмечать ИИ-контент для всего сообщества. Другие пользователи не видят, как вы голосовали.\n\nВаш аккаунт также работает в RelockIn для iPhone и Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Нам важна прозрачность. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Наш код опубликован"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Персонализация сайтов"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**Более 40 способов** сделать так, чтобы сайты меньше затягивали."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn меняет YouTube, Instagram, Reddit, X и LinkedIn. Попробуйте несколько параметров здесь, остальные — в настройках."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Дневной лимит правила «$1»"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Открывайте RelockIn **в один клик**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Закрепите расширение, чтобы легко менять любые настройки."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Закрыть настройку"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Лимитов пока нет"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Выберите сайты, на которые уходит время, и задайте для каждого дневной лимит. Это займёт около 30 секунд."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Настроить лимиты"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Оставить в ленте только публикации из подписок"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Отключить r/popular и r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "ИИ-видео"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts и Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Персонализация сайтов"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Дневные лимиты"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Голоса: ИИ или нет"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Скрыты"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Показываются"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Выкл."
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Под шторкой"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Помечены"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Для всего сообщества"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Только для вас"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "Включено: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "ru"
+  },
+  "onboardingWebext_doneStatusTweaksOn__few": {
+    "message": "Включено: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__many": {
+    "message": "Включено: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "Включено: $1"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 сайта"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "ru"
+  },
+  "onboardingWebext_doneStatusLimits__few": {
+    "message": "$1 сайта"
+  },
+  "onboardingWebext_doneStatusLimits__many": {
+    "message": "$1 сайтов"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 сайт"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Хотите, чтобы соцсети меньше затягивали?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Меньше отвлекающего, а всё, что вам нравится, остаётся."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Вы по адресу."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Понятно. Сейчас всё покажем."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Для любого сайта можно задать лимит экранного времени.\n\nRelockIn поможет не листать ленту на автопилоте."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Выберите, сколько времени нужно"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Пользуйтесь сайтом"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Когда время выйдет, сайт снова заблокируется"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Попробовать лимиты"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Всё находится **здесь**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Открывайте эту панель в любой момент через значок RelockIn на панели инструментов."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Сколько времени вы хотите провести на сайте $1?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Сеанс на сайте $1 завершён."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "мин/день"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "На 5 минут меньше"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "На 5 минут больше"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Экранное время"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Меняйте что угодно через значок RelockIn на панели инструментов."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Меняйте что угодно через RelockIn в меню расширений браузера."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Это сейчас лучший способ провести время?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "сделайте глубокий вдох"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Или, если вам правда нужно перейти на сайт $1, можно начать сеанс для правила \"$2\""
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Сегодня осталось $1 мин $2 с"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Установите RelockIn на телефон"
+  },
+  "overlay_closeTab": {
+    "message": "Закрыть вкладку"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "осталось сегодня"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "использовано сегодня"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "сброс в"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Или, если вам правда нужно продолжить, можно начать сеанс для правила \"$1\""
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "\"$1\""
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Текущее правило: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Открыть RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Другие действия"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "за день"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR-код для скачивания RelockIn"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Установите приложение **RelockIn**"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Убирайте Shorts, Reels и ИИ-видео"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Задавайте дневные лимиты для любых приложений и сайтов"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Берегите сон и концентрацию"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "На телефоне возможности расширения ограничены"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "В приложении RelockIn можно ограничивать любые приложения и убирать все отвлекающие элементы и ИИ-видео."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Не работает в приложениях YouTube и Instagram"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Только один дневной лимит и одно расписание"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Может помечать ИИ-видео, но не скрывать их"
+  },
+  "phoneWebext_getApp": {
+    "message": "Установить приложение"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Продолжить в браузере"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Или продолжить здесь (с ограничениями)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Неограниченное число правил экранного времени — в приложении RelockIn"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Неограниченное число расписаний — в приложении RelockIn"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Попробуйте **приложение RelockIn**, чтобы открыть доступ ко всем настройкам"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Входит в RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "В бесплатной версии у этих сайтов один общий дневной лимит."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Не действуйте сгоряча"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Добавьте небольшое препятствие перед такими действиями, как обход дневного лимита или удаление правил.\nЭто займёт около минуты."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Настроить защиту"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Ограничить сеансы подряд"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Перерыв после нескольких сеансов подряд"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Сначала настройте правила"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Завершите настройку правил на вкладке «Правила», прежде чем добавлять защиту."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Пауза перед импульсивными решениями"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Перед такими действиями, как обход лимитов или удаление правил, RelockIn может попросить выполнить короткое задание, чтобы убедиться, что это осознанное решение."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Всё под вашим контролем."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Попробуйте сами"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Нажмите на любую карточку, чтобы попробовать задание."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Ненадолго обойти дневной лимит"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Напечатайте короткое предложение"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Убрать приложение из списка блокировки"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Решите несколько примеров"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Сделать расписание менее строгим"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Напечатайте длинное предложение"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Насколько строгой должна быть защита?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Это можно изменить в любой момент."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Лёгкая"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Небольшие напоминания перед импульсивными действиями."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Умеренная"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Дополнительные преграды против типичных срывов."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Строгая"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Жёсткие преграды, чтобы побороть вредные привычки."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Рекомендуем"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Выбрать: $1"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Ограничить сеансы подряд"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Мы можем заставить вас сделать перерыв, если вы начинаете слишком много сеансов подряд."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Если я начинаю 2 и более сеансов подряд (промежуток меньше, чем"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "то мне нужен перерыв:"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Пример"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  Вы начинаете 5-минутный сеанс «Соцсети»."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  Вы начинаете ещё один 5-минутный сеанс"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  Мы заставляем вас сделать перерыв, прежде чем вы сможете начать третий сеанс"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 секунд"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 минута"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 минуты"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 минуты"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 минут"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 минут"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Защита включена"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Настроить можно в любой момент:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Когда понадобится выполнить задание"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Что нужно сделать в каждом задании"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Задания для отдельных правил"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Вернуться в приложение"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Нет заблокированных приложений"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Название правила"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Ознакомление"
+  },
+  "rule_deleteRule": {
+    "message": "Удалить правило"
+  },
+  "rule_editRule": {
+    "message": "Изменить правило"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Заблокированные приложения"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Изменить заблокированные приложения"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Заблокировано в браузере RelockIn"
+  },
+  "rule_noTargets": {
+    "message": "Заблокированных сайтов пока нет."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Настройки правила"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Разрешённые минуты в день"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Минуты"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Уменьшить дневной лимит на $1 минуты"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "ru"
+  },
+  "rule_decreaseMinutesBy__few": {
+    "message": "Уменьшить дневной лимит на $1 минуты"
+  },
+  "rule_decreaseMinutesBy__many": {
+    "message": "Уменьшить дневной лимит на $1 минут"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Уменьшить дневной лимит на $1 минуту"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Увеличить дневной лимит на $1 минуты"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "ru"
+  },
+  "rule_increaseMinutesBy__few": {
+    "message": "Увеличить дневной лимит на $1 минуты"
+  },
+  "rule_increaseMinutesBy__many": {
+    "message": "Увеличить дневной лимит на $1 минут"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Увеличить дневной лимит на $1 минуту"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Настроить защиту"
+  },
+  "rule_targetsSection": {
+    "message": "Сайты в правиле"
+  },
+  "rule_defaultRuleName": {
+    "message": "Новое правило"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Сеанс идёт"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Заблокировано"
+  },
+  "rule_appCount": {
+    "message": "$1 приложения"
+  },
+  "rule_appCount__lang": {
+    "message": "ru"
+  },
+  "rule_appCount__few": {
+    "message": "$1 приложения"
+  },
+  "rule_appCount__many": {
+    "message": "$1 приложений"
+  },
+  "rule_appCount__one": {
+    "message": "$1 приложение"
+  },
+  "rule_siteCount": {
+    "message": "$1 сайта"
+  },
+  "rule_siteCount__lang": {
+    "message": "ru"
+  },
+  "rule_siteCount__few": {
+    "message": "$1 сайта"
+  },
+  "rule_siteCount__many": {
+    "message": "$1 сайтов"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 сайт"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Название расписания"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Не сохранено"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "ИНТЕРВАЛ"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Начало"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Конец"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "ДНИ НЕДЕЛИ"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Каждый день"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Дни не выбраны"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "По будням"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "По выходным"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "В"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "П"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "В"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "С"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "Ч"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "П"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "С"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "вс"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "пн"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "вт"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "ср"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "чт"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "пт"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "сб"
+  },
+  "scheduleCard_modeSection": {
+    "message": "РЕЖИМ"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Блокировать в это время"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Разрешать только в это время"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "В это время нельзя начинать сеансы."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Начинать сеансы можно *только* в это время. В остальное время дня разблокировать эти приложения нельзя."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Можно разблокировать"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Нельзя разблокировать"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "ПРИМЕНЯЕТСЯ К ПРАВИЛАМ"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Правил пока нет."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Применять к новым правилам"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Сохранить изменения"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Удалить это расписание?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Удалить расписание"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Расписание"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Изменить расписание"
+  },
+  "schedules_title": {
+    "message": "Расписания"
+  },
+  "schedules_subtitle": {
+    "message": "Задайте, когда можно начинать сеансы."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Расписаний пока нет"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Добавьте расписание, чтобы задать ограничения по времени для правил."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Добавить расписание"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Сон"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Сначала настройте правила экранного времени"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Завершите настройку на вкладке «Правила», а потом создавайте расписания."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Правила блокируют приложения и сайты, пока вы не начнёте сеанс. Расписания добавляют второй уровень: они ограничивают, *когда* можно начинать эти сеансы.\n\nЗащитите время для сна, учёбы или сосредоточенной работы или запланируйте перерывы на определённые часы."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Чтобы добавить больше одного расписания, начните бесплатный пробный период"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Ошибка: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Не удалось добавить расписание: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Не удалось сохранить изменения: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Не удалось удалить: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Не удалось обновить связанные правила: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Хочу перерыв на 5 минут — полистать Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Приложения заблокированы, пока вы их не разблокируете"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Выбранные сайты заблокированы, пока вы их не разблокируете"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Но в некоторые часы вы хотите, чтобы они оставались заблокированными"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Но в некоторые часы вы хотите, чтобы они оставались заблокированными"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Расписания убирают кнопку разблокировки"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Поэтому приложения остаются заблокированными, пока расписание не закончится."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Поэтому сайты остаются заблокированными, пока расписание не закончится."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Эх! Ладно, пойду спать."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Давайте защитим ваш сон"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Выберите часы, когда вы хотите спать, а не листать ленту."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Защитить мой сон"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Ваш сон под защитой"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "С $1 до $2 разблокировать приложения нельзя. Дни, время и правила можно изменить в любой момент."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Хотите защитить и время для работы или учёбы?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Добавить расписание можно в любой момент."
+  },
+  "session_sectionTitleActive": {
+    "message": "Сеанс"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Начать сеанс"
+  },
+  "session_endingSession": {
+    "message": "Завершаем сеанс…"
+  },
+  "session_startingSession": {
+    "message": "Начинаем сеанс…"
+  },
+  "session_remainingInSession": {
+    "message": "до конца сеанса"
+  },
+  "session_endSession": {
+    "message": "Завершить сеанс"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Действует ограничение по расписанию"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Расписание сейчас блокирует правило \"$1\""
+  },
+  "session_blockedBadge": {
+    "message": "ЗАБЛОКИРОВАНО"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Из-за расписания сейчас нельзя начать сеанс."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Обойти ограничение по расписанию"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Сейчас также действуют:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Одновременно действует несколько ограничений. Чтобы начать сеанс, достаточно обойти самое строгое из них."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Ограничение по расписанию"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Перерыв после сеансов подряд"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Заблокировано расписанием «$1» до $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Вне разрешённого времени. Расписание «$1» начнётся в $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Вне всех разрешённых интервалов расписаний"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Разрешено, пока расписание «$1» не начнёт блокировку в $2"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Разрешено, пока расписание «$1» не закончится в $2"
+  },
+  "session_other": {
+    "message": "Другое"
+  },
+  "session_duration": {
+    "message": "Длительность"
+  },
+  "session_startSession": {
+    "message": "Начать сеанс"
+  },
+  "session_takeABreak": {
+    "message": "Сделайте перерыв."
+  },
+  "session_reopensInFormat": {
+    "message": "Откроется через $1 с"
+  },
+  "session_reopensInLabel": {
+    "message": "Снова доступно через"
+  },
+  "session_bypassBreak": {
+    "message": "Обойти перерыв"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Хватит думскроллинга."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Это $1 сеанса подряд. Хватит думскроллинга."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "ru"
+  },
+  "session_quickReturnExplanationCount__few": {
+    "message": "Это $1 сеанса подряд. Хватит думскроллинга."
+  },
+  "session_quickReturnExplanationCount__many": {
+    "message": "Это $1 сеансов подряд. Хватит думскроллинга."
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "Это $1 сеанс подряд. Хватит думскроллинга."
+  },
+  "session_overrideSizeLow": {
+    "message": "До 2 мин"
+  },
+  "session_overrideSizeMedium": {
+    "message": "До 10 мин"
+  },
+  "session_overrideSizeHigh": {
+    "message": "До 60 мин"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Сколько дополнительного времени вам нужно?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Лёгкое задание для разблокировки"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Среднее задание для разблокировки"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Сложное задание для разблокировки"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Настройки защиты не позволяют получить дополнительное время."
+  },
+  "session_dailyLimitReached": {
+    "message": "Дневной лимит исчерпан"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Сегодня вы использовали $1 мин."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Прогуляйтесь, разберитесь с отложенным делом или позвоните друзьям."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Мне больше нечем заняться"
+  },
+  "session_chooseLength": {
+    "message": "Выберите длительность сеанса"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Разблокировка — на время"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Выберите длительность, чтобы начать сеанс. Когда время закончится, мы снова всё заблокируем."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Начать сеанс: $1 мин"
+  },
+  "settings_title": {
+    "message": "Персонализация сайтов"
+  },
+  "settings_igComments": {
+    "message": "Скрыть комментарии в Instagram"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Кроме аккаунтов, на которые вы подписаны"
+  },
+  "settings_igStories": {
+    "message": "Истории Instagram"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Закрыть шторкой публикации незнакомых аккаунтов в ленте"
+  },
+  "settings_igFeedVideos": {
+    "message": "Скрыть видео в ленте"
+  },
+  "settings_igGuardAds": {
+    "message": "Скрыть рекламу"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Оставить на вкладке «Интересное» только поиск"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Сделать фото чёрно-белыми"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Сделать видео чёрно-белыми"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Вы вошли как"
+  },
+  "settings_accountSignOut": {
+    "message": "Выйти"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Войти через Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Войдите, чтобы синхронизировать данные между устройствами. Если вы уже купили RelockIn Pro, вход восстановит вашу подписку."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Подписка"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Статус"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Выйти из аккаунта?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Данные не будут синхронизироваться между устройствами, пока вы снова не войдёте в аккаунт."
+  },
+  "settings_accountSignOutError": {
+    "message": "Не удалось выйти. Повторите попытку."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Для входа нужно ваше разрешение. Всё остальное работает без аккаунта."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Продолжая, вы принимаете наши $1. Наша $2 объясняет, как мы используем ваши данные."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Создавая аккаунт, вы принимаете наши $1. Наша $2 объясняет, как мы используем ваши данные."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Условия использования"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Политика конфиденциальности"
+  },
+  "settings_accountSourceCode": {
+    "message": "Исходный код"
+  },
+  "settings_accountSignInError": {
+    "message": "Не удалось войти. Повторите попытку."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "Не удалось найти аккаунт Google на этом телефоне. Откройте «Настройки», затем «Пароли и аккаунты» (или «Аккаунты») и проверьте, что там добавлен аккаунт Google. Если он уже есть, но войти не получается, удалите его и добавьте снова."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Вход через Google настроен в приложении неправильно. Обратитесь в службу поддержки."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Вход был прерван. Повторите попытку."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "На этом устройстве нельзя войти через Google. Обновите приложение «Сервисы Google Play» или войдите по электронной почте."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Не удалось прочитать данные для входа через Google. Повторите попытку."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Не удалось связаться с сервером входа. Проверьте подключение и повторите попытку."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "При входе получены непредвиденные данные. Повторите попытку."
+  },
+  "settings_emailSignInCta": {
+    "message": "Войти по электронной почте"
+  },
+  "settings_appleSignInCta": {
+    "message": "Вход с Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Вход"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Войдите с помощью электронной почты и пароля."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Регистрация"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Создайте аккаунт, чтобы синхронизировать данные между устройствами."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Создать аккаунт"
+  },
+  "settings_emailResetTitle": {
+    "message": "Сброс пароля"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Введите адрес электронной почты, и мы отправим ссылку для сброса пароля."
+  },
+  "settings_emailResetAction": {
+    "message": "Отправить ссылку"
+  },
+  "settings_emailPlaceholder": {
+    "message": "Электронная почта"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Пароль"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Повторите пароль"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Забыли пароль?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Нет аккаунта? Зарегистрируйтесь"
+  },
+  "settings_switchToSignIn": {
+    "message": "Уже есть аккаунт? Войдите"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Проверьте почту"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Мы отправили ссылку для подтверждения на вашу электронную почту. Подтвердите адрес, прежде чем входить."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Ссылка отправлена"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Если аккаунт существует, мы отправили вам письмо со ссылкой для сброса пароля."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Адрес электронной почты не подтверждён. Найдите в почте письмо со ссылкой для подтверждения."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Слишком много попыток. Повторите попытку позже."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Слишком простой пароль. Используйте не менее 6 символов."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Неверный адрес электронной почты или пароль. Если вы недавно зарегистрировались, убедитесь, что подтвердили адрес."
+  },
+  "settings_changePasswordCta": {
+    "message": "Сменить пароль"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Новый пароль"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Придумайте новый пароль для аккаунта."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Новый пароль"
+  },
+  "settings_newPasswordAction": {
+    "message": "Обновить пароль"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Пароль обновлён"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Пароль обновлён. Теперь вы можете войти с новым паролем."
+  },
+  "settings_newPasswordError": {
+    "message": "Не удалось обновить пароль. Повторите попытку."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Заполните все поля."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Не удалось зарегистрироваться."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Введите адрес электронной почты."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Не удалось отправить письмо для сброса пароля."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Пароль успешно обновлён."
+  },
+  "settings_accountSigningOut": {
+    "message": "Выходим…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Входим…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "Н/д"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Бесплатный тариф"
+  },
+  "settings_backToSignIn": {
+    "message": "Вернуться ко входу"
+  },
+  "settings_sending": {
+    "message": "Отправляем…"
+  },
+  "settings_updating": {
+    "message": "Обновляем…"
+  },
+  "settings_creatingAccount": {
+    "message": "Создаём аккаунт…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Повторите новый пароль"
+  },
+  "settings_showPasswordCta": {
+    "message": "Показать"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Скрыть"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Пароль должен содержать не менее 6 символов."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Пароли не совпадают."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Аккаунт подтверждён"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Ваш адрес электронной почты подтверждён, и вы вошли в аккаунт."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Не удалось войти по ссылке"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Мы не смогли обработать ссылку для входа. Возможно, она устарела или уже использовалась. Повторите попытку или запросите новое письмо.\n\nПодробности: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Удалить аккаунт"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Опасная зона"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "ОПАСНАЯ ЗОНА — удаление аккаунта"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Что будет удалено навсегда:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Данные для входа и профиль\nСинхронизированные правила, расписания и настройки\nСинхронизированная история использования и прочие данные приложения"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Что сохранится:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Записи о покупках и транзакциях (по закону нужны для налоговой и бухгалтерской отчётности)\nОтчёты о сбоях и диагностические данные"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Удаление аккаунта не отменяет подписки"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Введите «$1», чтобы подтвердить окончательное удаление аккаунта"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "УДАЛИТЬ"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Это действие нельзя отменить."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Ошибка аутентификации"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Не удалось подтвердить вход в аккаунт. Войдите снова, прежде чем удалять аккаунт."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Аккаунт удалён"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Ваш аккаунт удалён навсегда."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Не удалось удалить аккаунт: ошибка $1. Повторите попытку позже. Если ошибка повторится, обратитесь в поддержку: relockin.com/support"
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Уберите отвлечения и работайте продуктивнее"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Показывать"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Шторка"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Удалять"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Снять сразу"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Снять через 5 с"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Снять через 10 с"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Нельзя снять"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Снять после задания"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Способ снятия шторки"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "По умолчанию"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Мобильная версия"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Версия для компьютера"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Обычные"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Слегка размытые"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Сильно размытые"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Чёрно-белые"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Чёрные"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Скрыть Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Скрыть вкладку Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Скрыть вкладку «Главная»"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Перенаправлять с «Главной» в «Подписки»"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Отключить автовоспроизведение"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Отключить предпросмотр видео"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Скрыть записи без видео"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Убирает записи каналов, опросы и фото из ленты «Главная»."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Разрешить пропускать всю рекламу"
+  },
+  "settings_ytBlockAds": {
+    "message": "Блокировать рекламу"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Скрыть видео «Далее»"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Рекомендуемые видео"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Режим отображения"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Фильтр превью"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Скрыть вкладку Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Скрыть вкладку «Главная»"
+  },
+  "settings_igHomeFeed": {
+    "message": "Лента на главной"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "По умолчанию"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Обычная лента Instagram, включая рекомендованные публикации."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Только «Подписки»"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Свежие публикации аккаунтов, на которые вы подписаны, — сначала новые."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Только «Избранное»"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Только публикации аккаунтов из вашего списка «Избранное»."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Скрыть ссылку на обычную ленту"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Использовать Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Адаптировать Old Reddit для телефонов"
+  },
+  "settings_redditVersion": {
+    "message": "Версия Reddit"
+  },
+  "settings_redditVersionZen": {
+    "message": "Режим Zen"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Более быстрый и чистый Reddit на основе обновлённого old.reddit.com"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Стандартная версия"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Стандартный мобильный интерфейс Reddit"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "ВАЖНО: рекомендуем режим Zen, иначе Reddit может начать навязывать вам своё приложение"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Стиль ленты"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Только заголовки"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Листайте быстрее, когда видны только заголовки. Нажмите или проведите пальцем, чтобы открыть публикацию."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Миниатюры"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Заголовки с миниатюрой для каждой публикации."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Развёрнутый"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Показывать изображения, видео и текстовые публикации прямо в ленте."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Ограничить бесконечные ленты?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Показать все ленты"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit работает как обычно."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Скрыть \"Популярное\" и \"Все\""
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Скрывает ленты с публикациями незнакомцев, например \"Популярное\", \"Все\" и \"Обзор\". Ваша лента \"Домашняя страница\" по-прежнему работает."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Скрыть все ленты"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Скрывает и ленту \"Домашняя страница\". Сабреддиты и поиск по-прежнему доступны."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "В ленте \"Домашняя страница\" показывать только публикации из сабреддитов, к которым вы присоединились"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Сделать изображения чёрно-белыми"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Перенести счётчик голосов под публикации"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Выделять уровни комментариев цветом"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Включить свайпы для комментариев"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Короткий свайп вправо"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Длинный свайп вправо"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Короткий свайп влево"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Длинный свайп влево"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Голос за"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Голос против"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Свернуть"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Ответить"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Сохранить"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Включить свайпы для публикаций"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Голос за"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Голос против"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Скрыть"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Поделиться"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Сохранить"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Открыть комментарии"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Открыть источник"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Предпросмотр"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Разрешить собственный CSS в этих сабреддитах"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Собственные стили сабреддитов по умолчанию отключены, чтобы на маленьких экранах всё хорошо читалось."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "название сабреддита (например, politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Убрать $1"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Сабреддитов пока нет."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Скрыть вкладку «Для вас»"
+  },
+  "settings_xHideAds": {
+    "message": "Скрыть рекламу"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Фильтровать публикации по уровню контакта"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Показать все"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Скрыть публикации контактов 3-го уровня"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Скрыть публикации контактов 2-го и 3-го уровней"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Скрыть продвигаемые публикации"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Закрыть шторкой фото и видео в ленте"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Сделать фото чёрно-белыми"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Сделать видео чёрно-белыми"
+  },
+  "settings_inBrowserNote": {
+    "message": "Убирайте рекламу и всё, что отвлекает, фильтруйте ленты. Действует в браузере RelockIn."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Настройки применяются к сайтам в браузере RelockIn, **но не к приложению $1.** Войдите в аккаунт, чтобы увидеть изменения в ленте."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Настройки применяются к сайтам в браузере RelockIn, **но не к приложению $1.** Откройте сайт, чтобы увидеть изменения."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Посмотреть на $1"
+  },
+  "settings_generalSection": {
+    "message": "Общие"
+  },
+  "settings_showSessionTimer": {
+    "message": "Показывать таймер сеанса"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Просить меня сделать короткий вдох перед разблокировкой сайта"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Длительность вдоха (в секундах)"
+  },
+  "settings_clearSection": {
+    "message": "Сбросить"
+  },
+  "settings_ytAiContent": {
+    "message": "Скрывать видео, созданные ИИ?"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Показывать"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Показывает видео, созданные ИИ, как и все остальные."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Помечать"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Ставит пометку «ИИ» на превью таких видео."
+  },
+  "settings_ytAiContentCover": {
+    "message": "Шторка"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Закрывает такие видео шторкой, но любое из них можно открыть."
+  },
+  "settings_ytAiContentHide": {
+    "message": "Скрывать"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Не показывает такие видео в лентах, поиске и рекомендациях."
+  },
+  "settings_ytAiVotes": {
+    "message": "Ваши голоса: ИИ или нет"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "ИИ"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Не ИИ"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Пока пусто"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Убрать $1"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Заблокированные каналы"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Видео этих каналов скрыты везде на YouTube. Нажмите «Заблокировать канал» под видео или на странице канала."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts и реклама"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Свайпы"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Главная и лента"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "ИИ и каналы"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Далее"
+  },
+  "settings_sectionTabs": {
+    "message": "Вкладки"
+  },
+  "settings_sectionFeed": {
+    "message": "Лента"
+  },
+  "settings_sectionFeeds": {
+    "message": "Ленты"
+  },
+  "settings_sectionAppearance": {
+    "message": "Внешний вид"
+  },
+  "settings_sectionOther": {
+    "message": "Другое"
+  },
+  "support_titleHelp": {
+    "message": "Помощь"
+  },
+  "support_titleFeedback": {
+    "message": "Поделиться отзывом"
+  },
+  "support_titleReportProblem": {
+    "message": "Сообщить о проблеме"
+  },
+  "support_sentimentTitle": {
+    "message": "Что вы хотите нам рассказать?"
+  },
+  "support_sentimentPositive": {
+    "message": "Мне кое-что нравится"
+  },
+  "support_sentimentNegative": {
+    "message": "Кое-что нужно улучшить"
+  },
+  "support_reviewTitle": {
+    "message": "Как приятно это слышать!"
+  },
+  "support_reviewBody": {
+    "message": "Не могли бы вы оставить короткий отзыв? Так другим будет проще найти RelockIn.\n\nДля нашей небольшой команды это очень важно."
+  },
+  "support_reviewCta": {
+    "message": "Написать отзыв"
+  },
+  "support_personalNoteTitle": {
+    "message": "Слово от разработчика"
+  },
+  "support_personalNoteBody": {
+    "message": "Спасибо, что пользуетесь RelockIn. Я лично читаю каждое сообщение и отвечу, как только смогу."
+  },
+  "support_personalNoteSignOff": {
+    "message": "— Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Спасибо! Есть идеи или предложения?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Жаль это слышать. Расскажите, что не работает, и мы посмотрим, в чём дело."
+  },
+  "support_messageLabel": {
+    "message": "Ваше сообщение"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Чем мы можем вам помочь?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Поделитесь мыслями"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Что не так с этим сайтом?"
+  },
+  "support_siteLabel": {
+    "message": "Сайт"
+  },
+  "support_emailLabel": {
+    "message": "Ваша электронная почта"
+  },
+  "support_emailPlaceholder": {
+    "message": "you@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Введите корректный адрес электронной почты."
+  },
+  "support_sendCta": {
+    "message": "Отправить"
+  },
+  "support_sendError": {
+    "message": "Не удалось отправить сообщение. Проверьте подключение и повторите попытку."
+  },
+  "support_sentTitle": {
+    "message": "Сообщение отправлено"
+  },
+  "support_sentBodyFormat": {
+    "message": "Спасибо! Мы ответим на адрес $1 как можно скорее."
+  },
+  "support_sendAnotherCta": {
+    "message": "Отправить ещё одно сообщение"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Нужна помощь?"
+  },
+  "support_accountFooterCta": {
+    "message": "Написать в поддержку"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Сообщение получит сам разработчик"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Диагностические журналы"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Диагностические журналы"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Записей пока нет."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Журнал отладки"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Эти записи хранятся только на этом устройстве. Они никогда не отправляются и не передаются автоматически. Если вы сообщаете о проблеме, отправьте их разработчику кнопкой «Поделиться»."
+  },
+  "target_domainType": {
+    "message": "Сайт целиком"
+  },
+  "target_urlPatternType": {
+    "message": "Шаблон адреса"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Блокирует все страницы сайта. Просто введите адрес сайта (например, reddit.com) — поддомены и пути в адресе не важны."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Блокирует любой адрес, который содержит этот текст. Символ * заменяет любые символы между частями адреса.\n\nНапример:\n- youtube.com/shorts блокирует Shorts на YouTube, но не обычные видео\n- reddit.com/r/politics блокирует только этот сабреддит\n- x.com/*/status/* блокирует отдельные публикации в X, но не остальную часть сайта, например страницы профилей"
+  },
+  "target_scopeNote": {
+    "message": "Блокировка работает в браузере RelockIn, но не в других браузерах, например в Safari. Чтобы ненадолго разблокировать сайт, начните сеанс."
+  },
+  "target_emptyPattern": {
+    "message": "(пусто)"
+  },
+  "target_addTargetTitle": {
+    "message": "Заблокировать сайт"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Что заблокировать?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Убрать сайт"
+  },
+  "target_editTargetTitle": {
+    "message": "Изменить объект"
+  },
+  "target_editingLabel": {
+    "message": "Редактируется"
+  },
+  "target_typePickerLabel": {
+    "message": "Тип"
+  },
+  "typingSentences_short1": {
+    "message": "Я полностью осознаю свой выбор."
+  },
+  "typingSentences_short2": {
+    "message": "Я беру на себя ответственность за это решение."
+  },
+  "typingSentences_short3": {
+    "message": "Это мой выбор, и я за него отвечаю."
+  },
+  "typingSentences_short4": {
+    "message": "Это решение я принимаю обдуманно."
+  },
+  "typingSentences_short5": {
+    "message": "Я делаю этот выбор спокойно и внимательно."
+  },
+  "typingSentences_long1": {
+    "message": "Я полностью осознаю, что обхожу лимиты, установленные мной для защиты своего времени и внимания, и беру на себя ответственность за этот выбор."
+  },
+  "typingSentences_long2": {
+    "message": "Мы есть то, что мы постоянно делаем. Совершенство - это не действие, а привычка. - Уилл Дюрант"
+  },
+  "typingSentences_long3": {
+    "message": "Ваши решения становятся привычками. Ваши привычки становятся характером. А ваш характер становится судьбой."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Думскроллинг, или думсерфинг, - это чрезмерно долгий просмотр коротких видео либо большого количества пользовательского контента или новостей, особенно негативных, в интернете и соцсетях. Опросы и исследования показывают, что думскроллинг особенно часто встречается среди молодых людей. В 2019 году исследование Национальной академии наук показало, что думскроллинг может быть связан с ухудшением психического и физического здоровья."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Бесконечная прокрутка - это подход к дизайну, при котором контент подгружается непрерывно по мере прокрутки вниз, поэтому постраничная навигация не нужна. Из-за этого такая функция может усиливать думскроллинг: она убирает естественные точки остановки, где пользователь мог бы прерваться. Исследования также показали, что склонность соцсетей усиливать негативный контент может усугублять привычку бесконечно листать ленту, из-за чего пользователи надолго задерживаются на неприятных новостях."
+  },
+  "typingSentences_paragraph3": {
+    "message": "Бизнес-модели большинства соцсетей сильно зависят от активности пользователей: чем дольше люди остаются на платформе, тем больше рекламы они видят и тем больше данных об их поведении собирается. Так возникает замкнутый круг: эмоционально заряженный контент - часто негативный или тревожный - снова и снова подсовывается пользователям, побуждая их листать дальше и потреблять больше контента."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Мгновенные развлечения, информация и связь делают соцсети привлекательными. Зависимость от соцсетей - это чрезмерное и навязчивое использование, которое влияет на повседневную жизнь и общее самочувствие. Она не сводится к тому, что человек слишком много времени проводит в сети: он навязчиво проверяет обновления, тревожится, когда не в сети, и страдает от негативного влияния на отношения и обязанности в реальной жизни."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Алгоритмы коротких видео крайне затягивают, потому что исключают из уравнения ваш выбор и намерения. Убирая умственную нагрузку при выборе следующего шага, приложения заменяют осознанные решения плавным пассивным потоком на автопилоте. В таком состоянии потока продолжать невероятно легко и приятно, а остановиться невероятно трудно."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Соцсети специально созданы, чтобы затягивать. Технологические компании разрабатывают такие приложения, чтобы завладеть вашим вниманием, задействуя центр вознаграждения в мозге. Из-за одобрения, подпитываемого дофамином, непредсказуемых наград и психологических крючков отложить телефон невероятно трудно. Понимание этих методов - первый шаг к тому, чтобы вернуть контроль над цифровыми привычками и наладить более здоровые отношения с технологиями."
+  },
+  "usage_title": {
+    "message": "Статистика"
+  },
+  "usage_subtitle": {
+    "message": "Следите за экранным временем по правилам и сеансам."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Данных об использовании нет"
+  },
+  "usage_noUsageBody": {
+    "message": "Здесь появятся данные, когда вы начнёте сеансы."
+  },
+  "usage_today": {
+    "message": "Сегодня"
+  },
+  "usage_thisWeek": {
+    "message": "Эта неделя"
+  },
+  "usage_thisMonth": {
+    "message": "Этот месяц"
+  },
+  "usage_yesterday": {
+    "message": "Вчера"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Правил пока нет."
+  },
+  "usage_daily": {
+    "message": "День"
+  },
+  "usage_weekly": {
+    "message": "Неделя"
+  },
+  "usage_monthly": {
+    "message": "Месяц"
+  },
+  "usage_previousPeriod": {
+    "message": "Предыдущий период"
+  },
+  "usage_nextPeriod": {
+    "message": "Следующий период"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Период"
+  },
+  "usage_unknownRule": {
+    "message": "Неизвестное правило"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 из $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

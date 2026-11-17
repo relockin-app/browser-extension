@@ -1,0 +1,2915 @@
+{
+  "about_tagline": {
+    "message": "Zamkni rozptýlení, odemkni to nejlepší v sobě."
+  },
+  "about_welcome": {
+    "message": "Vítá tě RelockIn!"
+  },
+  "about_sentence": {
+    "message": "RelockIn je prohlížeč, který zatočí s rozptýlením. V Centru soustředění si snadno nastavíš pravidla a rozvrhy, které omezí čas v rušivých aplikacích a na rušivých webech. Funguje na jednoduchém principu: co kdyby každá minuta strávená v telefonu byla záměrná?\n\nRelockIn navíc obsahuje plně přizpůsobitelný mobilní prohlížeč, který dbá na soukromí. RelockIn nikdy nesleduje tvoje vyhledávání a tvoje data s nikým nesdílí. Protože je RelockIn jediná aplikace pro soustředění s plně integrovaným prohlížečem, jako jediná ti umožní upravit weby a odstranit z nich rušivé prvky, jako jsou Reels a Shorts. Získáš tak nad nimi mnohem větší kontrolu."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn pro Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn – Blokuj AI slop, Shorts, Reels a weby | Čas u obrazovky"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn – Blokuj AI slop, Shorts, Reels a weby"
+  },
+  "about_extensionDescription": {
+    "message": "Blokuj AI videa, Shorts, Reels i nekonečné scrollování. Navíc časové limity a rozvrhy pro libovolný web."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "smazat toto pravidlo"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "odebrat „$1“ z pravidla"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "zvýšit denní limit"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "přeskočit povinnou pauzu"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "obejít omezení rozvrhem"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "obejít denní limit"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "smazat tento rozvrh"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "zmírnit tento rozvrh"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "odebrat ze seznamu blokovaných položek aplikace nebo weby mimo RelockIn"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "zmírnit tuto pojistku"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "usnadnit úkol „$1“"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "smazat úkol „$1“"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "vypnout úkol před zmírněním pojistek"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Když mám vyčerpaný denní limit a potřebuji víc času…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Do 2 min"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 min"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Nad 10 min"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Když potřebuji obejít blokování rozvrhem…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Když chci odemykat dál, i když je čas na pauzu…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Když spustíš příliš mnoho odemčení těsně po sobě, požádáme tě o pauzu. Její délku můžeš změnit v nastavení „Pauza mezi odemčeními“."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 odemčení těsně po sobě"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 odemčení těsně po sobě"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ odemčení těsně po sobě"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Když zmírním svá pravidla pro čas u obrazovky…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Odebrání aplikace"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Odebrání webu"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Smazání pravidla"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Zvýšení denního limitu"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Když zmírním rozvrh…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Když neblokuje"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Když blokuje"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Opiš větu a pokračuj"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Opiš odstavec a pokračuj"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Odstavec:\n„$1“"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Počkej na odpočet"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Pokračovat můžeš až po skončení odpočtu."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Odpočet skončil – můžeš pokračovat."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Opravdu to chceš udělat?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Opravdu chceš $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Chceš tu větší ochranu? Na záložce Pojistky si nastav zdravé překážky, které ochrání tvoje cíle."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Ano, pokračovat"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Nemůžeš $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "To nemůžeš udělat"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Tvoje pojistky tohle nedovolují, takže to žádný úkol neodemkne."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Opravdu to potřebuji udělat"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Nastavení pojistek můžeš změnit na záložce Pojistky."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Přejít na Pojistky"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Věta:\n„$1“"
+  },
+  "challengeUi_confirm": {
+    "message": "Potvrdit"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Zatím to nesedí. Zkontroluj pravopis a interpunkci."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Splněno."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Opiš větu přesně tak, jak je napsaná."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Jen tak dál…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Hotovo!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Text nesedí. Pozorně porovnej – někde je překlep."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Vyřeš všechny příklady a pokračuj"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Zadej odpovědi a potvrď je tlačítkem „Potvrdit“."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Všechno správně!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Některé odpovědi jsou špatně. Zkontroluj zvýrazněná pole."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Odpověď na příklad $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Tvoje důvěryhodná osoba dostane upozornění"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Tvé důvěryhodné osobě přijde e-mail s informací, že obcházíš svoje limity. Upozornění ti má pomoct dodržet vlastní cíle."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Odeslat upozornění a pokračovat"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Tohle nezvládnu"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Místo toho počkej $1 minut"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "cs"
+  },
+  "challengeUi_waitInsteadTitle__few": {
+    "message": "Místo toho počkej $1 minuty"
+  },
+  "challengeUi_waitInsteadTitle__many": {
+    "message": "Místo toho počkej $1 minuty"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Místo toho počkej $1 minutu"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Žádná"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Snadná"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Střední"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Těžká"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Extra těžká"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Extrémní"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Nemožná"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Jen potvrzení"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Výchozí: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Uložení se nezdařilo"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Zbývající čas: $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Pole úkolu"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Upravit úkoly"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Změň, z čeho se skládají úkoly obtížnosti Snadná, Střední a Těžká, nebo si vytvoř vlastní"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Kdy mi dát úkol"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Nastav, jak těžké bude smazat pravidlo pro čas u obrazovky, získat čas navíc a další"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Vestavěné"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Vlastní"
+  },
+  "challenges_newChallenge": {
+    "message": "Nový"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Zatím žádné vlastní úkoly. Klepnutím na + vytvoříš nový."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Název (např. „Brutál“)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Nový úkol"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Dej úkolu jedinečný název."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Vyber, co po tobě který úkol chce, nebo si vytvoř vlastní."
+  },
+  "challenges_savedBadge": {
+    "message": "Uloženo"
+  },
+  "challenges_noSteps": {
+    "message": "Žádné kroky – pro uložení přidej aspoň jeden."
+  },
+  "challenges_addStep": {
+    "message": "Přidat krok"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Obtížnost"
+  },
+  "challenges_problemsLabel": {
+    "message": "Příklady"
+  },
+  "challenges_operationsLabel": {
+    "message": "Operace"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Opsat krátkou větu"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Opsat dlouhou větu"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Opsat odstavec"
+  },
+  "challenges_stepNameMath": {
+    "message": "Počítat příklady"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "E-mail důvěryhodné osobě"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Počkat na odpočet"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Délka: $1 min $2 s"
+  },
+  "challenges_stepCount": {
+    "message": "$1 kroků"
+  },
+  "challenges_stepCount__lang": {
+    "message": "cs"
+  },
+  "challenges_stepCount__few": {
+    "message": "$1 kroky"
+  },
+  "challenges_stepCount__many": {
+    "message": "$1 kroku"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 krok"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Úkoly pro toto pravidlo"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Platí jen pro pravidlo „$1“."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Pokud chceš změnit úkoly pro všechna pravidla nebo upravit jejich kroky:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Přejít na záložku Pojistky"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Dát mi úkol před zmírněním pojistek"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Než úkol zjednodušíš, musíš nejdřív splnit to, co z něj odebíráš."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Pojistky můžeš volně upravovat ještě $1 minut. Potom bude jejich zmírnění vyžadovat úkol."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "cs"
+  },
+  "challenges_looseningGraceMinutes__few": {
+    "message": "Pojistky můžeš volně upravovat ještě $1 minuty. Potom bude jejich zmírnění vyžadovat úkol."
+  },
+  "challenges_looseningGraceMinutes__many": {
+    "message": "Pojistky můžeš volně upravovat ještě $1 minuty. Potom bude jejich zmírnění vyžadovat úkol."
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Pojistky můžeš volně upravovat ještě $1 minutu. Potom bude jejich zmírnění vyžadovat úkol."
+  },
+  "common_save": {
+    "message": "Uložit"
+  },
+  "common_cancel": {
+    "message": "Zrušit"
+  },
+  "common_done": {
+    "message": "Hotovo"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Upravit"
+  },
+  "common_delete": {
+    "message": "Smazat"
+  },
+  "common_defaultOption": {
+    "message": "Výchozí"
+  },
+  "common_back": {
+    "message": "Zpět"
+  },
+  "common_skip": {
+    "message": "Přeskočit"
+  },
+  "common_next": {
+    "message": "Další"
+  },
+  "common_gotIt": {
+    "message": "Rozumím"
+  },
+  "common_none": {
+    "message": "Nic"
+  },
+  "common_yes": {
+    "message": "Ano"
+  },
+  "common_no": {
+    "message": "Ne"
+  },
+  "common_start": {
+    "message": "Spustit"
+  },
+  "common_loading": {
+    "message": "Načítání…"
+  },
+  "common_error": {
+    "message": "Chyba"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Zavřít"
+  },
+  "common_continue": {
+    "message": "Pokračovat"
+  },
+  "common_dismiss": {
+    "message": "Zavřít"
+  },
+  "common_notNow": {
+    "message": "Teď ne"
+  },
+  "common_noThanks": {
+    "message": "Ne, díky"
+  },
+  "common_maybeLater": {
+    "message": "Možná později"
+  },
+  "common_add": {
+    "message": "Přidat"
+  },
+  "common_create": {
+    "message": "Vytvořit"
+  },
+  "common_startSetup": {
+    "message": "Spustit nastavení"
+  },
+  "common_continueSetup": {
+    "message": "Pokračovat v nastavení"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Dokonči rozdělané nastavení"
+  },
+  "common_setItUp": {
+    "message": "Nastavit"
+  },
+  "common_howItWorks": {
+    "message": "Jak to funguje"
+  },
+  "common_getStarted": {
+    "message": "Začít"
+  },
+  "common_signIn": {
+    "message": "Přihlásit se"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 min"
+  },
+  "common_hoursCount": {
+    "message": "$1 hodin"
+  },
+  "common_hoursCount__lang": {
+    "message": "cs"
+  },
+  "common_hoursCount__few": {
+    "message": "$1 hodiny"
+  },
+  "common_hoursCount__many": {
+    "message": "$1 hodiny"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 hodina"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Krok $1 z $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Z tvého feedu jsme odebrali $1 videí Shorts"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "cs"
+  },
+  "domShared_ytShortsRemovedBadge__few": {
+    "message": "Z tvého feedu jsme odebrali $1 videa Shorts"
+  },
+  "domShared_ytShortsRemovedBadge__many": {
+    "message": "Z tvého feedu jsme odebrali $1 videa Shorts"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Z tvého feedu jsme odebrali $1 video Shorts"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Zavřít"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Zakryto aplikací RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Odkrýt"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Nelze odkrýt"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Odkrýt ($1 s)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Pro tuto akci se přihlas."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Přihlásit se"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Zavřít"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit tě právě zkoušel dotlačit do své aplikace."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Pokud narazíš na chyby, zkus stránku načíst znovu nebo přepnout do Režimu Zen."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Zavřít"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Tento kanál je skrytý"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Kanály Populární a Vše na Redditu máš skryté."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Své kanály na Redditu máš skryté."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Tvoje subreddity"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Změnit to můžeš v nastavení RelockInu."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Máš vše přečteno"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "To je vše nové ze subredditů, ve kterých jsi."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Načíst další"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Přehrát"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Pozastavit"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Přeskočit reklamu"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Rychlost přehrávání"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Hlasitost"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "dát pozitivní hlas"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "dát negativní hlas"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "zrušit hlas"
+  },
+  "domShared_redditActionSave": {
+    "message": "uložit"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "zrušit uložení"
+  },
+  "domShared_redditActionHide": {
+    "message": "skrýt"
+  },
+  "domShared_redditActionShare": {
+    "message": "sdílet"
+  },
+  "domShared_redditActionComments": {
+    "message": "komentáře"
+  },
+  "domShared_redditActionExpand": {
+    "message": "rozbalit"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "sbalit"
+  },
+  "domShared_redditActionReply": {
+    "message": "odpovědět"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "další možnosti"
+  },
+  "domShared_redditActionScore": {
+    "message": "skóre"
+  },
+  "domShared_redditActionSource": {
+    "message": "Zdroj"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Náhled"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Uložit"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Zrušit uložení"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Skrýt"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Zrušit skrytí"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Sdílet"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Nahlásit"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Nadřazený komentář"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Trvalý odkaz"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Vložit"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Sdílet do subredditu"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Kopírovat odkaz na komentář"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Kopírovat odkaz na příspěvek"
+  },
+  "domShared_redditAgeNow": {
+    "message": "teď"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1 min"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1 h"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1 d"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1 měs."
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1 r."
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Příběhy na Instagramu"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Skryli jsme příspěvek od cizího účtu."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Skryli jsme toto video."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Skryli jsme tuto reklamu."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Od: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Tento příspěvek je od kontaktu 3. stupně"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Tento příspěvek není od kontaktu 1. stupně"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Zakryli jsme ho, aby tě nerozptyloval."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Skryli jsme tuto reklamu, aby tě nerozptylovala"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Klepnutím nebo kliknutím odkryješ"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Obrázek je zakrytý, aby tě nerozptyloval"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Klepnutím nebo kliknutím odkryješ."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Video je zakryté, aby tě nerozptylovalo."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Doporučená videa"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Rychlost přehrávání: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Hlasitost: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "O 10 sekund zpět"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "O 10 sekund vpřed"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "dělej něco lepšího."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Video vytvořené pomocí AI"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Podle tvého hlasu je tento kanál AI"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Přesto zobrazit"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Přesto přehrát"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Není AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Možná AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Pravděpodobně AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Velmi pravděpodobně AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Sporné"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Posouzeno týmem RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Pravděpodobně vytvořeno pomocí AI"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Velmi pravděpodobně vytvořeno pomocí AI"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Podle hlasů uživatelů RelockInu"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Je tento kanál AI?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Co se počítá jako AI?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Tvůj hlas zatím mění jen to, co vidíš ty. Přihlas se do RelockInu a pomoz s ním i ostatním."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Přihlásit se"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Zavřít"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Hlasuj „AI“, pokud většina videí kanálu obsahuje:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Scénář napsaný pomocí AI"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Hlas vytvořený pomocí AI"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Obrázky nebo video vytvořené pomocí AI"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "Hudbu vytvořenou pomocí AI"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Co se nepočítá jako AI:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Videa o AI, třeba recenze AI nástrojů"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Drobné úpravy pomocí AI, třeba vyčištění zvuku"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Tvůj hlas začne pro tebe platit hned a pomůže ostatním uživatelům RelockInu."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Špatný štítek? Požádej o přezkoumání"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Další možnosti"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Blokovat kanál"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Blokováno"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Odblokovat kanál"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Tento kanál máš zablokovaný"
+  },
+  "limits_title": {
+    "message": "Pravidla a odemčení"
+  },
+  "limits_subtitle": {
+    "message": "Odemykej aplikace a weby a spravuj pravidla."
+  },
+  "limits_addRule": {
+    "message": "+ Přidat pravidlo"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Pravidla pro čas u obrazovky"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Chraň svůj čas pomocí denních limitů a odemčení"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Zatím tu nejsou žádná pravidla. Přidej první a nastav si denní limity."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Sociální sítě"
+  },
+  "main_backToBrowser": {
+    "message": "Zpět do prohlížeče"
+  },
+  "main_openFullPage": {
+    "message": "Otevřít na celé stránce"
+  },
+  "main_tabLimits": {
+    "message": "Pravidla"
+  },
+  "main_tabSettings": {
+    "message": "Upravit weby"
+  },
+  "main_protectionTitle": {
+    "message": "Pojistky"
+  },
+  "main_protectionSubtitle": {
+    "message": "Přidej si zdravou překážku před impulzivními rozhodnutími"
+  },
+  "main_tabAccount": {
+    "message": "Účet"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Denní průměr"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "prům."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Klikni na ikonu **dílku skládačky** na liště nástrojů"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Najdi **RelockIn** a klikni na ikonu **připnutí**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Tvoje pravidla pro čas u obrazovky"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Kliknutím na pravidlo ho upravíš. Každé má vlastní denní limit."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Vítá tě **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Zabere asi minutu"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Ani ne"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Už tě nebaví AI slop na YouTubu?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Od hlavní stránky až po výsledky vyhledávání všude narážíš na odbytá AI videa."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Chceš trávit méně času scrollováním?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "A nespoléhat přitom jen na vůli."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AI obsah"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Poznej AI videa **dřív**, než na ně klikneš."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "AI obsah ve tvém feedu můžeme zakrýt, skrýt nebo opatřit štítkem."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Volitelné"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Pomoz **označovat** AI obsah."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Naše komunita označuje AI obsah. Když si vytvoříš účet, tvoje hlasy pomůžou ostatním AI rozpoznat a zablokovat."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Přihlášeno"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Tvoje hlasy teď pomáhají ostatním AI rozpoznat a zablokovat."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Pokračovat e-mailem"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Krátká videa"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Ať videa Shorts a Reels **zmizí**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Odstraň videa Shorts z YouTubu a Reels z Instagramu. To, co chceš, ti zůstane."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Skrýt videa Shorts a Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Volitelné: časové limity"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Scrolluj **s rozmyslem**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Na kterých webech chceš omezit čas?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Další můžeš přidat později."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Vyber web a uvidíš tu jeho pravidlo"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Rychlý přístup"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Připnuto. Super."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn pro iPhone a Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Vezmi si ho i do **telefonu**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "V aplikaci RelockIn si upravíš YouTube, Instagram a další weby a zbavíš se AI obsahu a rušivých prvků, jako jsou videa Shorts a Reels.\n\nMůžeš také zamknout aplikace, které tě rozptylují, a lépe si hlídat, kolik času v nich trávíš."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Naskenuj fotoaparátem telefonu"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Vše připraveno."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Vyzkoušet na YouTubu"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Dokončeme nastavení"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Nastavení se otevře na samostatné kartě a zabere asi minutu."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Pokračovat v nastavení"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Zbav se AI slopu, videí Shorts a nekonečných feedů na webech, které používáš nejčastěji."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Proč si vytvořit účet?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Bez účtu tvoje hlasy označují AI kanály jen pro tebe, ostatním ale pomoct nemůžou. S účtem můžeme tvým hlasům důvěřovat a využít je k označování AI obsahu pro celou komunitu. Ostatní uživatelé tvoje hlasy neuvidí.\n\nÚčet funguje i v RelockInu pro iPhone a Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Transparentnost je pro nás důležitá. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Náš kód je veřejně k nahlédnutí"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Úpravy webů"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**Přes 40 způsobů**, jak udělat weby méně návykovými."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn umí upravit YouTube, Instagram, Reddit, X a LinkedIn. Pár úprav vyzkoušej tady, ostatní najdeš v nastavení."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Denní limit pro $1"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Měj RelockIn **na jedno kliknutí**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Připni si ho a jakékoli nastavení snadno změníš."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Ukončit průvodce"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Zatím žádné limity"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Vyber weby, na kterých ztrácíš čas, a každému nastav denní limit. Zabere to asi 30 sekund."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Nastavit limity"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "V kanálu zobrazovat jen příspěvky sledovaných účtů"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Vypnout r/popular a r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI videa"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts a Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Úpravy webů"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Denní limity"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Hlasy o AI"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Skrytá"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Viditelná"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Vypnuto"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Zakrytá"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Se štítkem"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Pro celou komunitu"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Jen pro tebe"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "Zapnuto: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "cs"
+  },
+  "onboardingWebext_doneStatusTweaksOn__few": {
+    "message": "Zapnuto: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__many": {
+    "message": "Zapnuto: $1"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "Zapnuto: $1"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 webů"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "cs"
+  },
+  "onboardingWebext_doneStatusLimits__few": {
+    "message": "$1 weby"
+  },
+  "onboardingWebext_doneStatusLimits__many": {
+    "message": "$1 webu"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 web"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Chceš, aby sociální sítě byly méně návykové?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Méně rozptylování, a přitom ti zůstane to, co tě baví."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Tady jsi správně."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Jasně. Ukážeme ti, jak to tu chodí."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Na libovolném webu si můžeš nastavit limity času u obrazovky.\n\nRelockIn ti pomůže přestat bezmyšlenkovitě scrollovat."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Vyber, jak dlouho potřebuješ"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Používej web"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Když čas vyprší, web se znovu zamkne"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Vyzkoušet časové limity"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Všechno najdeš **tady**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Tento panel kdykoli otevřeš ikonou RelockIn na liště nástrojů."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Kolik času chceš strávit na webu $1?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Odemčení webu $1 skončilo."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "min/den"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "O 5 minut méně"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "O 5 minut více"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Čas u obrazovky"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Cokoli změníš přes ikonu RelockIn na liště nástrojů."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Cokoli změníš přes RelockIn v nabídce rozšíření prohlížeče."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Využíváš teď svůj čas co nejlépe?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "zhluboka se nadechni"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Nebo pokud opravdu potřebuješ pokračovat na web $1, můžeš spustit odemčení pravidla „$2“"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Dnes zbývá $1 min $2 s"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Stáhni si RelockIn do telefonu"
+  },
+  "overlay_closeTab": {
+    "message": "Zavřít tuto kartu"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "dnes zbývá"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "dnes využito"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "obnoví se v"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Nebo pokud opravdu potřebuješ pokračovat, můžeš spustit odemčení pravidla „$1“"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "„$1“"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Aktuální pravidlo: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Otevřít RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Další možnosti"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "denní využití"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR kód ke stažení RelockInu"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Stáhni si aplikaci **RelockIn**"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Odstraň videa Shorts, Reels i AI videa"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Nastav denní limit pro jakoukoli aplikaci či web"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Chraň svůj spánek a soustředění"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Toto rozšíření je na telefonech omezené"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Aplikace RelockIn omezí jakoukoli aplikaci a odstraní všechna rozptýlení i AI videa."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Nefunguje v aplikacích YouTube a Instagram"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Jen jeden denní limit a jeden rozvrh"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "AI videa umí opatřit štítkem, ale ne skrýt"
+  },
+  "phoneWebext_getApp": {
+    "message": "Stáhnout aplikaci"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Pokračovat v prohlížeči"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Nebo pokračovat tady (omezeně)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Neomezený počet pravidel pro čas u obrazovky získáš v aplikaci RelockIn:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Neomezený počet rozvrhů získáš v aplikaci RelockIn:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Všechna nastavení odemkneš v **aplikaci RelockIn**"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Součást RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "V bezplatné verzi mají tyto weby jeden společný denní limit."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Dej si čas na rozmyšlenou"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Nastav si úkoly, které tě přimějí se zastavit, než obejdeš limit nebo smažeš pravidlo.\nZabere to asi minutu."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Nastavit pojistky"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Pauza mezi odemčeními"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Povinná pauza po několika odemčeních za sebou"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Nejdřív si nastav pravidla"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Než přidáš pojistky, dokonči nastavení pravidel v záložce Pravidla."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Zastav se před impulzivním rozhodnutím"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "RelockIn ti může dát krátký úkol, než tě nechá obejít limit nebo smazat pravidlo. Získáš tak chvíli na rozmyšlenou."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Vždycky máš všechno pod kontrolou."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Vyzkoušej si úkoly"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Klepnutím na kartu si úkol vyzkoušíš."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Získat pár minut nad denní limit"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Opsat krátkou větu"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Odebrat aplikaci ze seznamu blokovaných"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Vyřešit pár příkladů"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Zmírnit rozvrh"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Opsat delší větu"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Jak přísné mají být tvoje pojistky?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Můžeš to kdykoli změnit."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Mírná"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Drobné připomínky před impulzivními kroky."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Vyvážená"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Víc překážek pro běžná zaváhání."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Přísná"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Náročnější úkoly ti pomůžou zbavit se zlozvyků."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Doporučeno"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Použít úroveň $1"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Pauza mezi odemčeními"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Když odemykáš aplikace příliš často za sebou, můžeme mezi odemčeními vynutit pauzu."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Když spustím 2+ odemčení těsně po sobě (s odstupem kratším než"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "dej mi pauzu:"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Příklad"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  Spustíš 5minutové odemčení pravidla „Sociální sítě“."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  Spustíš další 5minutové odemčení"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  Před třetím odemčením si musíš dát pauzu"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 sekund"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 minuta"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 minuty"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 minuty"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 minut"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 minut"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Tvoje pojistky jsou zapnuté"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Kdykoli můžeš upravit:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Kdy dostaneš úkol"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Co který úkol obnáší"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Úkoly pro konkrétní pravidla"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Zpět do aplikace"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Žádné zablokované aplikace"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Název pravidla"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Ochutnávka"
+  },
+  "rule_deleteRule": {
+    "message": "Smazat pravidlo"
+  },
+  "rule_editRule": {
+    "message": "Upravit pravidlo"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Zablokované aplikace"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Změnit zablokované aplikace"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Weby zablokované v prohlížeči RelockIn"
+  },
+  "rule_noTargets": {
+    "message": "Zatím nejsou zablokované žádné weby."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Nastavení pravidla"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Denní limit v minutách"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Minuty"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Snížit denní limit o $1 minut"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "cs"
+  },
+  "rule_decreaseMinutesBy__few": {
+    "message": "Snížit denní limit o $1 minuty"
+  },
+  "rule_decreaseMinutesBy__many": {
+    "message": "Snížit denní limit o $1 minuty"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Snížit denní limit o $1 minutu"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Zvýšit denní limit o $1 minut"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "cs"
+  },
+  "rule_increaseMinutesBy__few": {
+    "message": "Zvýšit denní limit o $1 minuty"
+  },
+  "rule_increaseMinutesBy__many": {
+    "message": "Zvýšit denní limit o $1 minuty"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Zvýšit denní limit o $1 minutu"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Upravit pojistky"
+  },
+  "rule_targetsSection": {
+    "message": "Cílové weby"
+  },
+  "rule_defaultRuleName": {
+    "message": "Nové pravidlo"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Probíhá odemčení"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Zamčeno"
+  },
+  "rule_appCount": {
+    "message": "$1 aplikací"
+  },
+  "rule_appCount__lang": {
+    "message": "cs"
+  },
+  "rule_appCount__few": {
+    "message": "$1 aplikace"
+  },
+  "rule_appCount__many": {
+    "message": "$1 aplikace"
+  },
+  "rule_appCount__one": {
+    "message": "$1 aplikace"
+  },
+  "rule_siteCount": {
+    "message": "$1 webů"
+  },
+  "rule_siteCount__lang": {
+    "message": "cs"
+  },
+  "rule_siteCount__few": {
+    "message": "$1 weby"
+  },
+  "rule_siteCount__many": {
+    "message": "$1 webu"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 web"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Název rozvrhu"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Neuloženo"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "ČASOVÉ ROZMEZÍ"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Začátek"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Konec"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "AKTIVNÍ DNY"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Každý den"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Žádné dny"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Pracovní dny"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Víkendy"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "Ne"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "Po"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "Út"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "St"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "Čt"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "Pá"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "So"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "Ne"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "Po"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "Út"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "St"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "Čt"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "Pá"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "So"
+  },
+  "scheduleCard_modeSection": {
+    "message": "REŽIM"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Blokovat v tomto čase"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Povolit jen v tomto čase"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "V tomto čase nemůžeš spustit odemčení."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Odemčení můžeš spustit *jen* v tomto čase. Po zbytek dne tyto aplikace a weby odemknout nemůžeš."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Lze odemknout"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Nelze odemknout"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "PLATÍ PRO PRAVIDLA"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Zatím nemáš žádná pravidla."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Automaticky použít pro nová pravidla"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Uložit změny"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Smazat tento rozvrh?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Smazat rozvrh"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Rozvrh"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Upravit rozvrh"
+  },
+  "schedules_title": {
+    "message": "Rozvrhy"
+  },
+  "schedules_subtitle": {
+    "message": "Urči, kdy můžeš spouštět odemčení."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Zatím žádné rozvrhy"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Přidej rozvrh a nastav časová omezení pro svá pravidla."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Přidat rozvrh"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Spánek"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Nejdřív si nastav pravidla pro čas u obrazovky"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Než začneš vytvářet rozvrhy, dokonči nastavení na kartě Pravidla."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Tvoje pravidla blokují aplikace a weby, dokud nespustíš odemčení. Rozvrhy přidávají druhou vrstvu: omezují, *kdy* můžeš odemčení spustit.\n\nChraň si čas na spánek, učení či soustředění, nebo si naplánuj chvíle na odpočinek."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Pro více než 1 rozvrh zahaj bezplatné zkušební období"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Chyba: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Rozvrh se nepodařilo přidat: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Změny se nepodařilo uložit: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Nepodařilo se smazat: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Propojená pravidla se nepodařilo aktualizovat: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Chci si dát 5 minut pauzu a projet Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Tvoje aplikace zůstávají zamčené, dokud je neodemkneš"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Tvoje vybrané weby zůstávají zamčené, dokud je neodemkneš"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Jenže v určitých hodinách chceš, aby zůstaly zamčené"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Jenže v určitých hodinách chceš, aby zůstaly zamčené"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Rozvrhy ti vezmou tlačítko pro odemčení"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Takže zůstanou zamčené, dokud rozvrh neskončí."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Takže zůstanou zamčené, dokud rozvrh neskončí."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Sakra! Tak to asi půjdu spát."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Pojďme ochránit tvůj spánek"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Vyber hodiny, kdy chceš spát, a ne scrollovat."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Chránit můj spánek"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Tvůj spánek je chráněný"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Od $1 do $2 žádné odemykání. Dny, časy i pravidla můžeš kdykoli změnit."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Chceš ochránit i čas na práci nebo učení?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Rozvrh můžeš přidat kdykoli."
+  },
+  "session_sectionTitleActive": {
+    "message": "Odemčení"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Spustit odemčení"
+  },
+  "session_endingSession": {
+    "message": "Ukončování odemčení…"
+  },
+  "session_startingSession": {
+    "message": "Spouštění odemčení…"
+  },
+  "session_remainingInSession": {
+    "message": "zbývá do konce odemčení"
+  },
+  "session_endSession": {
+    "message": "Ukončit odemčení"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Rozvrh teď brání odemčení"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Kvůli rozvrhu je pravidlo „$1“ teď zamčené"
+  },
+  "session_blockedBadge": {
+    "message": "PODLE ROZVRHU"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Kvůli rozvrhu teď nemůžeš spustit odemčení."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Obejít rozvrh"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Odemčení teď brání také:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Platí několik omezení najednou. Ke spuštění odemčení stačí obejít to nejpřísnější."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Omezení rozvrhem"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Povinná pauza"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Zablokováno rozvrhem „$1“ do $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Mimo povolené hodiny. Rozvrh „$1“ povolí odemčení od $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Mimo všechny povolené časy rozvrhů"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Povoleno do $2, kdy začne blokovat rozvrh „$1“"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Povoleno do $2, kdy končí rozvrh „$1“"
+  },
+  "session_other": {
+    "message": "Jiná"
+  },
+  "session_duration": {
+    "message": "Délka"
+  },
+  "session_startSession": {
+    "message": "Spustit odemčení"
+  },
+  "session_takeABreak": {
+    "message": "Dej si pauzu."
+  },
+  "session_reopensInFormat": {
+    "message": "Odemknout půjde za $1 s"
+  },
+  "session_reopensInLabel": {
+    "message": "Odemknout půjde za"
+  },
+  "session_bypassBreak": {
+    "message": "Obejít povinnou pauzu"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Přestaň s doomscrollingem."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "To je už $1 odemčení těsně po sobě. Přestaň s doomscrollingem."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "cs"
+  },
+  "session_quickReturnExplanationCount__few": {
+    "message": "To jsou už $1 odemčení těsně po sobě. Přestaň s doomscrollingem."
+  },
+  "session_quickReturnExplanationCount__many": {
+    "message": "To je už $1 odemčení těsně po sobě. Přestaň s doomscrollingem."
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "To je už $1 odemčení těsně po sobě. Přestaň s doomscrollingem."
+  },
+  "session_overrideSizeLow": {
+    "message": "Až 2 min"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Až 10 min"
+  },
+  "session_overrideSizeHigh": {
+    "message": "Až 60 min"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Kolik času navíc potřebuješ?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Splň krátký úkol a odemkni"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Splň středně těžký úkol a odemkni"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Splň těžký úkol a odemkni"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Tvoje pojistky čas navíc nedovolují."
+  },
+  "session_dailyLimitReached": {
+    "message": "Denní limit vyčerpán"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Dnes využito: $1 min."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Jdi se projít, dodělej, co odkládáš, nebo zavolej kamarádovi."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Nemám nic lepšího na práci"
+  },
+  "session_chooseLength": {
+    "message": "Vyber délku odemčení"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Odemčení na omezenou dobu"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Klepnutím na délku spustíš odemčení. Po vypršení času se vše znovu zamkne."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Spustit odemčení: $1 min"
+  },
+  "settings_title": {
+    "message": "Upravit weby"
+  },
+  "settings_igComments": {
+    "message": "Skrýt komentáře na Instagramu"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Kromě účtů, které sleduješ"
+  },
+  "settings_igStories": {
+    "message": "Příběhy na Instagramu"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Zakrýt v kanálu příspěvky od nesledovaných účtů"
+  },
+  "settings_igFeedVideos": {
+    "message": "Skrýt videa v kanálu"
+  },
+  "settings_igGuardAds": {
+    "message": "Skrýt reklamy"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Na kartě Prozkoumat nechat jen hledání"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Zobrazovat obrázky černobíle"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Zobrazovat videa černobíle"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Přihlášený účet"
+  },
+  "settings_accountSignOut": {
+    "message": "Odhlásit se"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Přihlásit se přes Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Přihlas se a synchronizuj data mezi zařízeními. Pokud už máš zakoupené RelockIn Pro, přihlášením obnovíš své předplatné."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Předplatné"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Stav"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Odhlásit se?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Data se nebudou synchronizovat mezi zařízeními, dokud se znovu nepřihlásíš."
+  },
+  "settings_accountSignOutError": {
+    "message": "Odhlášení se nezdařilo. Zkus to znovu."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "K přihlášení je potřeba udělit oprávnění. Vše ostatní funguje i bez účtu."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Pokračováním přijímáš naše $1. Jak používáme tvoje data, vysvětlují naše $2."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Vytvořením účtu přijímáš naše $1. Jak používáme tvoje data, vysvětlují naše $2."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Podmínky použití"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Zásady ochrany osobních údajů"
+  },
+  "settings_accountSourceCode": {
+    "message": "Zdrojový kód"
+  },
+  "settings_accountSignInError": {
+    "message": "Přihlášení se nezdařilo. Zkus to znovu."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "V telefonu se nepodařilo najít účet Google pro přihlášení. Otevři Nastavení telefonu, pak Hesla a účty (na telefonech Samsung Účty a zálohování) a zkontroluj, že je tam účet Google přidaný. Pokud tam už je a přihlášení přesto selhává, zkus ho odebrat a znovu přidat."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Přihlášení přes Google není v této aplikaci správně nastavené. Kontaktuj podporu."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Přihlášení bylo přerušeno. Zkus to znovu."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Toto zařízení nepodporuje přihlášení přes Google. Zkus aktualizovat Služby Google Play, nebo se přihlas e-mailem."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Nepodařilo se načíst přihlašovací údaje z Googlu. Zkus to znovu."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Nepodařilo se spojit s přihlašovacím serverem. Zkontroluj připojení a zkus to znovu."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Přihlášení vrátilo neočekávané údaje. Zkus to znovu."
+  },
+  "settings_emailSignInCta": {
+    "message": "Přihlásit se e-mailem"
+  },
+  "settings_appleSignInCta": {
+    "message": "Přihlásit se přes Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Přihlásit se"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Přihlas se e-mailem a heslem."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Vytvořit účet"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Vytvoř si účet a synchronizuj data mezi zařízeními."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Vytvořit účet"
+  },
+  "settings_emailResetTitle": {
+    "message": "Obnovit heslo"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Zadej svůj e-mail a pošleme ti odkaz pro obnovení hesla."
+  },
+  "settings_emailResetAction": {
+    "message": "Poslat odkaz"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-mail"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Heslo"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Heslo znovu"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Zapomenuté heslo?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Nemáš účet? Zaregistruj se"
+  },
+  "settings_switchToSignIn": {
+    "message": "Už máš účet? Přihlas se"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Zkontroluj e-mail"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Poslali jsme ti e-mailem potvrzovací odkaz. Před přihlášením prosím ověř svou adresu."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Odkaz odeslán"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Pokud tvůj účet existuje, poslali jsme ti e-mail s odkazem pro obnovení hesla."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Tvůj e-mail zatím není ověřený. Potvrzovací odkaz najdeš ve schránce."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Příliš mnoho pokusů. Zkus to znovu později."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Heslo je příliš slabé. Použij aspoň 6 znaků."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Neplatný e-mail nebo heslo. U nového účtu nezapomeň ověřit e-mail."
+  },
+  "settings_changePasswordCta": {
+    "message": "Změnit heslo"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Nastavit nové heslo"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Zvol si nové heslo ke svému účtu."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Nové heslo"
+  },
+  "settings_newPasswordAction": {
+    "message": "Uložit heslo"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Heslo změněno"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Heslo bylo změněno. Teď se můžeš přihlásit novým heslem."
+  },
+  "settings_newPasswordError": {
+    "message": "Heslo se nepodařilo změnit. Zkus to znovu."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Vyplň všechna pole."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Registrace se nezdařila."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Zadej svůj e-mail."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "E-mail pro obnovení hesla se nepodařilo odeslat."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Heslo bylo úspěšně změněno."
+  },
+  "settings_accountSigningOut": {
+    "message": "Odhlašování…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Přihlašování…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "Nedostupné"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Bezplatná verze"
+  },
+  "settings_backToSignIn": {
+    "message": "Zpět na přihlášení"
+  },
+  "settings_sending": {
+    "message": "Odesílání…"
+  },
+  "settings_updating": {
+    "message": "Ukládání…"
+  },
+  "settings_creatingAccount": {
+    "message": "Vytváření účtu…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Nové heslo znovu"
+  },
+  "settings_showPasswordCta": {
+    "message": "Zobrazit"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Skrýt"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Heslo musí mít aspoň 6 znaků."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Hesla se neshodují."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Účet potvrzen"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "E-mail byl ověřen a přihlášení proběhlo úspěšně."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Přihlašovací odkaz nefunguje"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Přihlašovací odkaz se nepodařilo použít. Možná vypršela jeho platnost nebo už byl použit. Zkus to znovu, nebo si nech poslat nový e-mail.\n\nPodrobnosti: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Smazat účet"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Nevratné akce"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "NEVRATNÉ AKCE – Smazání účtu"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Co se trvale smaže:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Přihlašovací údaje a profil účtu\nVšechna synchronizovaná pravidla, rozvrhy a nastavení\nSynchronizovaná historie využití a další data aplikace"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Co se zachová:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Záznamy o nákupech a transakcích (vyžaduje je zákon pro daňové a účetní účely)\nZprávy o pádech a diagnostické údaje"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Smazáním účtu se nezruší předplatné"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Napiš $1 a potvrď trvalé smazání účtu"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "SMAZAT"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Tuto akci nelze vrátit zpět."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Ověření se nezdařilo"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Přihlášení se nepodařilo ověřit. Před smazáním účtu se prosím znovu přihlas."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Účet smazán"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Tvůj účet byl trvale smazán."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Smazání účtu se nezdařilo (chyba $1). Zkus to znovu později, a pokud chyba přetrvává, kontaktuj podporu na relockin.com/support."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Zbav se rušivých prvků a buď produktivnější"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Zobrazit"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Zakrýt"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Odstranit"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Odkrýt ihned"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Odkrýt po 5 s"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Odkrýt po 10 s"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Nelze odkrýt"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Odkrýt po splnění úkolu"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Způsob odkrytí"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Výchozí"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Mobilní"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Desktopový"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Viditelné"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Mírně rozmazané"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Silně rozmazané"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Černobílé"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Černé"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Skrýt videa Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Skrýt kartu Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Skrýt kartu Domů"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Přesměrovat kartu Domů na Odběry"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Vypnout automatické přehrávání"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Vypnout náhledy videí"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Skrýt příspěvky bez videa"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Odebere ze stránky Domů příspěvky komunity, ankety a fotky."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Umožnit přeskočit všechny reklamy"
+  },
+  "settings_ytBlockAds": {
+    "message": "Blokovat reklamy"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Skrýt video „Další“"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Doporučená videa"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Režim zobrazení"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Filtr náhledů"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Skrýt kartu Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Skrýt kartu Domů"
+  },
+  "settings_igHomeFeed": {
+    "message": "Kanál Domů"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Výchozí"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Běžný kanál na Instagramu, včetně navrhovaných příspěvků."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Jen Sledovaní"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Příspěvky od účtů, které sleduješ, seřazené od nejnovějších."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Jen Oblíbené"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Jen příspěvky od účtů ze seznamu Oblíbené."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Skrýt odkaz zpět na běžný kanál"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Používat Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Přizpůsobit Old Reddit pro mobily"
+  },
+  "settings_redditVersion": {
+    "message": "Verze Redditu"
+  },
+  "settings_redditVersionZen": {
+    "message": "Režim Zen"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Rychlejší a přehlednější Reddit postavený na vylepšeném old.reddit.com"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Standardní"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Výchozí mobilní rozhraní Redditu"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "POZOR: Doporučujeme Režim Zen, jinak tě Reddit může nutit k používání své aplikace"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Styl kanálu"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Jen nadpisy"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Procházej rychleji jen podle nadpisů. Příspěvek otevřeš klepnutím nebo přejetím."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Náhledy"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Nadpisy s malým náhledem u každého příspěvku."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Rozbalené"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Zobrazí obrázky, videa i textové příspěvky přímo v kanálu."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Omezit nekonečné kanály?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Zobrazit všechny kanály"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit funguje jako obvykle."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Skrýt Populární a Vše"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Skryje kanály s příspěvky od cizích lidí, jako jsou Populární, Vše a Poznej komunity. Tvůj domovský kanál dál funguje."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Skrýt všechny kanály"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Skryje i tvůj domovský kanál. Subreddity a vyhledávání dál fungují."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "V domovském kanálu zobrazovat jen příspěvky ze subredditů, ve kterých jsi"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Zobrazovat obrázky černobíle"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Přesunout počet hlasů pod příspěvky"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Barevně odlišit úrovně komentářů"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Zapnout gesta přejetí u komentářů"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Krátké přejetí doprava"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Dlouhé přejetí doprava"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Krátké přejetí doleva"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Dlouhé přejetí doleva"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Dát pozitivní hlas"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Dát negativní hlas"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Sbalit"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Odpovědět"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Uložit"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Zapnout gesta přejetí u příspěvků"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Dát pozitivní hlas"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Dát negativní hlas"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Skrýt"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Sdílet"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Uložit"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Otevřít komentáře"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Otevřít zdroj"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Náhled"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Subreddity s povoleným vlastním CSS"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Vlastní styly subredditů jsou ve výchozím stavu skryté, aby obsah zůstal čitelný i na malých obrazovkách."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "název subredditu (např. politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Odebrat subreddit „$1“"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Zatím žádné subreddity."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Skrýt kartu Pro vás"
+  },
+  "settings_xHideAds": {
+    "message": "Skrýt reklamy"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Filtrovat příspěvky podle stupně kontaktu"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Zobrazit vše"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Skrýt příspěvky 3. stupně"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Skrýt příspěvky 2. a 3. stupně"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Skrýt propagované příspěvky"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Zakrýt obrázky a videa v kanálu"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Zobrazovat obrázky černobíle"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Zobrazovat videa černobíle"
+  },
+  "settings_inBrowserNote": {
+    "message": "Odstraň reklamy, zbav se rušivých prvků a vyfiltruj své kanály. Platí v prohlížeči RelockIn."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Nastavení platí pro weby v prohlížeči RelockIn, **ne pro aplikaci $1.** Přihlas se a změnu uvidíš ve svém kanálu."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Nastavení platí pro weby v prohlížeči RelockIn, **ne pro aplikaci $1.** Otevři web a změnu uvidíš."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Zobrazit na webu $1"
+  },
+  "settings_generalSection": {
+    "message": "Obecné"
+  },
+  "settings_showSessionTimer": {
+    "message": "Zobrazovat časovač odemčení"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Před odemčením webu se chci krátce nadechnout"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Délka nádechu (sekundy)"
+  },
+  "settings_clearSection": {
+    "message": "Resetovat"
+  },
+  "settings_ytAiContent": {
+    "message": "Videa vytvořená pomocí AI"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Zobrazit"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "AI videa se zobrazují jako všechna ostatní"
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Štítek"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "AI videa dostanou na náhledu štítek AI"
+  },
+  "settings_ytAiContentCover": {
+    "message": "Zakrýt"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "AI videa se zakryjí, jednotlivá si ale můžeš zobrazit"
+  },
+  "settings_ytAiContentHide": {
+    "message": "Skrýt"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "AI videa zmizí z feedu, vyhledávání i doporučení"
+  },
+  "settings_ytAiVotes": {
+    "message": "Tvoje hlasy o AI"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Není AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Zatím žádné kanály"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Odebrat kanál „$1“"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Blokované kanály"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Jejich videa jsou na YouTubu všude skrytá. Použij tlačítko „Blokovat kanál“ pod videem nebo na stránce kanálu."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts a reklamy"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Gesta přejetí"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Domů a videa"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI a kanály"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Další na řadě"
+  },
+  "settings_sectionTabs": {
+    "message": "Karty"
+  },
+  "settings_sectionFeed": {
+    "message": "Kanál"
+  },
+  "settings_sectionFeeds": {
+    "message": "Kanály"
+  },
+  "settings_sectionAppearance": {
+    "message": "Vzhled"
+  },
+  "settings_sectionOther": {
+    "message": "Ostatní"
+  },
+  "support_titleHelp": {
+    "message": "Pomoc"
+  },
+  "support_titleFeedback": {
+    "message": "Zpětná vazba"
+  },
+  "support_titleReportProblem": {
+    "message": "Nahlásit problém"
+  },
+  "support_sentimentTitle": {
+    "message": "O jakou zpětnou vazbu jde?"
+  },
+  "support_sentimentPositive": {
+    "message": "Něco se mi líbí"
+  },
+  "support_sentimentNegative": {
+    "message": "Něco by šlo zlepšit"
+  },
+  "support_reviewTitle": {
+    "message": "To rádi slyšíme!"
+  },
+  "support_reviewBody": {
+    "message": "Můžeš nám napsat krátkou recenzi? Ostatní tak RelockIn snáz najdou.\n\nPro náš malý tým to hodně znamená."
+  },
+  "support_reviewCta": {
+    "message": "Napsat recenzi"
+  },
+  "support_personalNoteTitle": {
+    "message": "Pár slov od vývojáře"
+  },
+  "support_personalNoteBody": {
+    "message": "Díky, že používáš RelockIn. Každou zprávu čtu osobně a odpovím, jak nejdřív to půjde."
+  },
+  "support_personalNoteSignOff": {
+    "message": "– Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Děkujeme! Máš nějaké připomínky nebo nápady?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "To nás mrzí. Napiš nám, co nefunguje, a podíváme se na to."
+  },
+  "support_messageLabel": {
+    "message": "Tvoje zpráva"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "S čím ti můžeme pomoct?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Co máš na srdci?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Co na tomhle webu nefunguje?"
+  },
+  "support_siteLabel": {
+    "message": "Web"
+  },
+  "support_emailLabel": {
+    "message": "Tvůj e-mail"
+  },
+  "support_emailPlaceholder": {
+    "message": "jmeno@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Zadej platnou e-mailovou adresu."
+  },
+  "support_sendCta": {
+    "message": "Odeslat"
+  },
+  "support_sendError": {
+    "message": "Zprávu se nepodařilo odeslat. Zkontroluj připojení a zkus to znovu."
+  },
+  "support_sentTitle": {
+    "message": "Zpráva odeslána"
+  },
+  "support_sentBodyFormat": {
+    "message": "Díky! Odpověď pošleme co nejdřív na adresu $1."
+  },
+  "support_sendAnotherCta": {
+    "message": "Poslat další zprávu"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Potřebuješ pomoct?"
+  },
+  "support_accountFooterCta": {
+    "message": "Kontaktovat podporu"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Tvoje zpráva půjde přímo vývojáři"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Diagnostické protokoly"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Diagnostické protokoly"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Zatím žádné záznamy."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Protokol ladění"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Tyto záznamy jsou uložené jen v tomto zařízení. Nikdy se automaticky nenahrávají ani nesdílejí. Když hlásíš problém, můžeš je vývojáři poslat tlačítkem sdílení."
+  },
+  "target_domainType": {
+    "message": "Celý web"
+  },
+  "target_urlPatternType": {
+    "message": "Shoda URL"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Zamkne všechny stránky webu. Stačí napsat název webu (třeba reddit.com) – na subdoménách a cestách v URL nezáleží."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Zamkne každou URL, která obsahuje tento text. Znak * zastoupí cokoli mezi.\n\nNapříklad:\n- youtube.com/shorts zamkne videa Shorts na YouTubu, ale ne běžná videa\n- reddit.com/r/politics zamkne jen tento subreddit\n- x.com/*/status/* zamkne jednotlivé příspěvky, ale zbytek X (třeba profily) nechá odemčený"
+  },
+  "target_scopeNote": {
+    "message": "Zamčení platí v prohlížeči RelockIn, ne v jiných prohlížečích, jako je Safari. Když potřebuješ, spusť odemčení na určitou dobu."
+  },
+  "target_emptyPattern": {
+    "message": "(prázdné)"
+  },
+  "target_addTargetTitle": {
+    "message": "Zamknout web"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Co chceš zamknout?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Odebrat web"
+  },
+  "target_editTargetTitle": {
+    "message": "Upravit položku"
+  },
+  "target_editingLabel": {
+    "message": "Upravuje se"
+  },
+  "target_typePickerLabel": {
+    "message": "Typ"
+  },
+  "typingSentences_short1": {
+    "message": "Volím to s plným vědomím."
+  },
+  "typingSentences_short2": {
+    "message": "Za toto rozhodnutí přebírám odpovědnost."
+  },
+  "typingSentences_short3": {
+    "message": "Za tuto volbu teď odpovídám já."
+  },
+  "typingSentences_short4": {
+    "message": "Je to moje promyšlené rozhodnutí."
+  },
+  "typingSentences_short5": {
+    "message": "Rozhoduji se klidně a uvážlivě."
+  },
+  "typingSentences_long1": {
+    "message": "Plně si uvědomuji, že obcházím vlastní limity, které mají chránit můj čas a soustředění, a přijímám odpovědnost, kterou tato volba přináší."
+  },
+  "typingSentences_long2": {
+    "message": "Jsme tím, co opakovaně děláme. Dokonalost tedy není čin, ale zvyk. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Z tvých rozhodnutí se stávají zvyky. Ze zvyků se stává charakter. A z charakteru se stává osud."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrolling neboli doomsurfing je trávení nadměrného množství času sledováním krátkých videí nebo velkého množství obsahu od uživatelů či zpráv, zejména negativních, na webu a sociálních sítích. Průzkumy a studie naznačují, že doomscrolling převládá u mladých lidí. Studie americké Národní akademie věd z roku 2019 zjistila, že doomscrolling může souviset se zhoršením duševního i fyzického zdraví."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Nekonečné scrollování je designový přístup, při kterém se obsah načítá průběžně, jak uživatel posouvá stránku dolů, takže odpadá stránkování. Tato funkce tak může doomscrolling zhoršovat, protože odstraňuje přirozená místa, kde by se uživatel mohl zastavit. Výzkumy také ukázaly, že sklon sociálních sítí zesilovat negativní obsah může toto neustálé scrollování dál prohlubovat, takže uživatelé zůstávají u nepříznivých zpráv delší dobu."
+  },
+  "typingSentences_paragraph3": {
+    "message": "Obchodní modely většiny sociálních sítí stojí na zapojení uživatelů: čím déle lidé na platformě zůstanou, tím víc reklam uvidí a tím víc dat se o jejich chování nasbírá. Vzniká tak koloběh, kdy se uživatelům opakovaně předkládá emočně vypjatý obsah - často negativní nebo vyvolávající úzkost - který je nutí dál scrollovat a konzumovat další obsah."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Okamžitá zábava, informace a spojení s ostatními dělají sociální sítě lákavými. Závislost na sociálních sítích se vyznačuje nadměrným a nutkavým používáním, které ovlivňuje každodenní fungování i celkovou pohodu. Nejde jen o to trávit online příliš mnoho času; patří k ní nutkavé kontrolování novinek, úzkost bez připojení a negativní dopady na skutečné vztahy a povinnosti."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Algoritmy krátkých videí jsou extrémně návykové, protože z rovnice vyřazují tvou volbu i záměr. Tím, že tě zbaví námahy rozhodovat, co dál, nahrazují aplikace vědomé rozhodování plynulým a pasivním stavem flow na autopilota. V tomto stavu je neuvěřitelně snadné a příjemné pokračovat a neuvěřitelně těžké přestat."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Sociální sítě jsou navržené tak, aby byly návykové. Technologické firmy tyto aplikace vyvíjejí tak, aby upoutaly tvou pozornost a aktivovaly centrum odměny v mozku. Kombinace uznání poháněného dopaminem, nepředvídatelných odměn a psychologických háčků dělá z odložení telefonu neuvěřitelně těžký úkol. Rozpoznat tyto designové triky je prvním krokem k tomu, jak znovu získat kontrolu nad svými digitálními návyky a vytvořit si zdravější vztah k technologiím."
+  },
+  "usage_title": {
+    "message": "Využití"
+  },
+  "usage_subtitle": {
+    "message": "Sleduj svůj čas u obrazovky podle pravidel a odemčení."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Žádné údaje o využití"
+  },
+  "usage_noUsageBody": {
+    "message": "Údaje se tu objeví po prvním odemčení."
+  },
+  "usage_today": {
+    "message": "Dnes"
+  },
+  "usage_thisWeek": {
+    "message": "Tento týden"
+  },
+  "usage_thisMonth": {
+    "message": "Tento měsíc"
+  },
+  "usage_yesterday": {
+    "message": "Včera"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Zatím nemáš žádná pravidla."
+  },
+  "usage_daily": {
+    "message": "Denně"
+  },
+  "usage_weekly": {
+    "message": "Týdně"
+  },
+  "usage_monthly": {
+    "message": "Měsíčně"
+  },
+  "usage_previousPeriod": {
+    "message": "Předchozí období"
+  },
+  "usage_nextPeriod": {
+    "message": "Další období"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Období"
+  },
+  "usage_unknownRule": {
+    "message": "Neznámé pravidlo"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 / $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

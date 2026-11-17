@@ -1,0 +1,2843 @@
+{
+  "about_tagline": {
+    "message": "Διώξε τους περισπασμούς. Βρες τον καλύτερο εαυτό σου."
+  },
+  "about_welcome": {
+    "message": "Καλώς ήρθες στο RelockIn!"
+  },
+  "about_sentence": {
+    "message": "Το RelockIn είναι το πρόγραμμα περιήγησης που εξαφανίζει τους περισπασμούς. Από τον Χώρο συγκέντρωσης ορίζεις εύκολα κανόνες και ωράρια για να περιορίσεις τη χρήση εφαρμογών και ιστοτόπων που σου αποσπούν την προσοχή. Η ιδέα είναι απλή: τι θα γινόταν αν κάθε λεπτό στο κινητό σου ήταν συνειδητή επιλογή;\n\nΕπιπλέον, το RelockIn περιλαμβάνει ένα πλήρως προσαρμόσιμο πρόγραμμα περιήγησης για κινητά που σέβεται το απόρρητό σου. Το RelockIn δεν παρακολουθεί ποτέ τις αναζητήσεις σου και δεν μοιράζεται ποτέ τα δεδομένα σου με κανέναν. Επειδή είναι η μόνη εφαρμογή συγκέντρωσης με πλήρως ενσωματωμένο πρόγραμμα περιήγησης, το RelockIn είναι η μόνη εφαρμογή που σου επιτρέπει να προσαρμόζεις ιστοτόπους και να αφαιρείς ό,τι σου αποσπά την προσοχή, όπως τα Reels και τα Shorts, δίνοντάς σου ακόμη περισσότερο έλεγχο."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn για Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn - Αποκλεισμός σκουπιδιών AI, Shorts & ιστοτόπων | Χρόνος οθόνης"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn - Αποκλεισμός AI, Shorts & ιστοτόπων"
+  },
+  "about_extensionDescription": {
+    "message": "Απόκλεισε βίντεο AI, Shorts, Reels και ατελείωτες ροές. Επιπλέον, χρονικά όρια και ωράρια για οποιονδήποτε ιστότοπο."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "διαγράψεις αυτόν τον κανόνα"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "καταργήσεις το όριο για «$1»"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "αυξήσεις το ημερήσιο όριό σου"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "παραλείψεις το διάλειμμα"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "παρακάμψεις τον περιορισμό ωραρίου"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "παρακάμψεις το ημερήσιο όριό σου"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "διαγράψεις αυτό το ωράριο"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "χαλαρώσεις αυτό το ωράριο"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "αφαιρέσεις άλλες εφαρμογές ή ιστοτόπους από τη λίστα αποκλεισμού σου"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "χαλαρώσεις αυτή την προστασία"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "κάνεις πιο εύκολη την πρόκληση «$1»"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "διαγράψεις την πρόκληση «$1»"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "απενεργοποιήσεις τη ρύθμιση «Πρόκληση πριν από τη χαλάρωση της προστασίας»"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Αν εξαντλήσω το ημερήσιο όριο και χρειάζομαι επιπλέον χρόνο…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Έως 2 λεπτά"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 λεπτά"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Πάνω από 10 λεπτά"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Αν χρειαστεί να παρακάμψω τον αποκλεισμό από ωράριο…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Αν θέλω να συνεχίσω τις συνεδρίες ενώ το RelockIn μου ζητά διάλειμμα…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Αν ξεκινήσεις πολλές διαδοχικές συνεδρίες, σου ζητάμε να κάνεις ένα διάλειμμα. Μπορείς να αλλάξεις τη διάρκειά του στη ρύθμιση «Αποτροπή διαδοχικών συνεδριών»."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 διαδοχική συνεδρία"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 διαδοχικές συνεδρίες"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ διαδοχικές συνεδρίες"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Αν χαλαρώσω τους κανόνες χρόνου οθόνης μου…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Αφαίρεση εφαρμογής"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Αφαίρεση ιστοτόπου"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Διαγραφή κανόνα"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Αύξηση ημερήσιου ορίου"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Αν χαλαρώσω ένα ωράριο…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Όσο δεν αποκλείει"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Όσο αποκλείει"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Πληκτρολόγησε την πρόταση για να συνεχίσεις"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Πληκτρολόγησε την παράγραφο για να συνεχίσεις"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Παράγραφος:\n«$1»"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Περίμενε να λήξει ο χρόνος"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Δεν μπορείς να συνεχίσεις μέχρι να τελειώσει η αντίστροφη μέτρηση."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Ο χρόνος έληξε. Μπορείς να συνεχίσεις."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Θέλεις σίγουρα να το κάνεις αυτό;"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Θέλεις σίγουρα να $1;"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Θέλεις κάτι πιο αυστηρό εδώ; Στην καρτέλα «Προστασία» μπορείς να προσθέσεις υγιή εμπόδια που προστατεύουν τους στόχους σου."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Ναι, συνέχεια"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Δεν μπορείς να $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Δεν μπορείς να το κάνεις αυτό"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Οι ρυθμίσεις προστασίας σου το κάνουν αδύνατο, οπότε καμία πρόκληση δεν μπορεί να το επιτρέψει."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Πρέπει οπωσδήποτε να το κάνω"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Μπορείς να αλλάξεις τις ρυθμίσεις προστασίας στην καρτέλα «Προστασία»."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Μετάβαση στην Προστασία"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Πρόταση:\n«$1»"
+  },
+  "challengeUi_confirm": {
+    "message": "Επιβεβαίωση"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Δεν ταιριάζει ακόμη. Έλεγξε την ορθογραφία και τη στίξη."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Ολοκληρώθηκε."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Πληκτρολόγησε την πρόταση ακριβώς όπως εμφανίζεται."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Συνέχισε…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Έτοιμο!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Κάτι δεν ταιριάζει. Σύγκρινε προσεκτικά: έκανες τυπογραφικό λάθος."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Λύσε όλες τις πράξεις για να συνεχίσεις"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Συμπλήρωσε τις απαντήσεις σου και πάτησε «Επιβεβαίωση»."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Όλα σωστά!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Κάποιες απαντήσεις είναι λάθος. Έλεγξε τα επισημασμένα πεδία."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Απάντηση για την πράξη $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Το πρόσωπο εμπιστοσύνης σου θα ειδοποιηθεί"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Θα σταλεί email στο πρόσωπο εμπιστοσύνης σου για να μάθει ότι επέλεξες να παρακάμψεις τα όριά σου. Η ειδοποίηση αυτή υπάρχει για να σε βοηθά να τηρείς τους στόχους σου."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Αποστολή ειδοποίησης και συνέχεια"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Δεν μπορώ να το κάνω"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Εναλλακτικά, περίμενε $1 λεπτά"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "el"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Εναλλακτικά, περίμενε $1 λεπτό"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Καμία"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Εύκολη"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Μέτρια"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Δύσκολη"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Πολύ δύσκολη"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Ακραία"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Αδύνατη"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Μόνο επιβεβαίωση"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Προεπιλογή: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Η αποθήκευση απέτυχε"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Χρόνος που απομένει: $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Πεδίο πρόκλησης"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Προσαρμογή προκλήσεων"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Άλλαξε τα βήματα των προκλήσεων «Εύκολη», «Μέτρια» και «Δύσκολη» ή δημιούργησε δικές σου"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Πότε θέλω πρόκληση"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Άλλαξε πόσο δύσκολο είναι να διαγράψεις έναν κανόνα χρόνου οθόνης, να πάρεις επιπλέον χρόνο και άλλα"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Ενσωματωμένες"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Προσαρμοσμένες"
+  },
+  "challenges_newChallenge": {
+    "message": "Νέα"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Δεν υπάρχουν ακόμη προσαρμοσμένες προκλήσεις. Πάτησε + για να δημιουργήσεις μία."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Όνομα (π.χ. «Ανελέητη»)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Νέα πρόκληση"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Δώσε σε αυτή την πρόκληση ένα μοναδικό όνομα."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Επίλεξε τι σου ζητά κάθε πρόκληση ή δημιούργησε δικές σου."
+  },
+  "challenges_savedBadge": {
+    "message": "Αποθηκεύτηκε"
+  },
+  "challenges_noSteps": {
+    "message": "Δεν υπάρχουν βήματα — πρόσθεσε τουλάχιστον ένα για να αποθηκεύσεις."
+  },
+  "challenges_addStep": {
+    "message": "Προσθήκη βήματος"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Δυσκολία"
+  },
+  "challenges_problemsLabel": {
+    "message": "Αριθμός πράξεων"
+  },
+  "challenges_operationsLabel": {
+    "message": "Είδη πράξεων"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Πληκτρολόγηση σύντομης πρότασης"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Πληκτρολόγηση μεγάλης πρότασης"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Πληκτρολόγηση παραγράφου"
+  },
+  "challenges_stepNameMath": {
+    "message": "Επίλυση πράξεων"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "Email σε πρόσωπο εμπιστοσύνης"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Αναμονή χρονομέτρου"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Διάρκεια: $1 λεπ. $2 δευτ."
+  },
+  "challenges_stepCount": {
+    "message": "$1 βήματα"
+  },
+  "challenges_stepCount__lang": {
+    "message": "el"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 βήμα"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Προκλήσεις για αυτόν τον κανόνα"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Ισχύει μόνο για τον κανόνα «$1»."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Για να αλλάξεις τις προκλήσεις όλων των κανόνων ή τα βήματά τους:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Μετάβαση στην καρτέλα «Προστασία»"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Πρόκληση πριν από τη χαλάρωση της προστασίας"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Για να κάνεις μια πρόκληση πιο εύκολη, πρέπει πρώτα να ολοκληρώσεις όσα αφαιρείς."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Μπορείς να αλλάζεις ελεύθερα την προστασία για ακόμη $1 λεπτά. Μετά, η χαλάρωσή της θα απαιτεί πρόκληση."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "el"
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Μπορείς να αλλάζεις ελεύθερα την προστασία για ακόμη $1 λεπτό. Μετά, η χαλάρωσή της θα απαιτεί πρόκληση."
+  },
+  "common_save": {
+    "message": "Αποθήκευση"
+  },
+  "common_cancel": {
+    "message": "Ακύρωση"
+  },
+  "common_done": {
+    "message": "Τέλος"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Επεξεργασία"
+  },
+  "common_delete": {
+    "message": "Διαγραφή"
+  },
+  "common_defaultOption": {
+    "message": "Προεπιλογή"
+  },
+  "common_back": {
+    "message": "Πίσω"
+  },
+  "common_skip": {
+    "message": "Παράλειψη"
+  },
+  "common_next": {
+    "message": "Επόμενο"
+  },
+  "common_gotIt": {
+    "message": "Εντάξει"
+  },
+  "common_none": {
+    "message": "Κανένα"
+  },
+  "common_yes": {
+    "message": "Ναι"
+  },
+  "common_no": {
+    "message": "Όχι"
+  },
+  "common_start": {
+    "message": "Έναρξη"
+  },
+  "common_loading": {
+    "message": "Φόρτωση…"
+  },
+  "common_error": {
+    "message": "Σφάλμα"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Κλείσιμο"
+  },
+  "common_continue": {
+    "message": "Συνέχεια"
+  },
+  "common_dismiss": {
+    "message": "Κλείσιμο"
+  },
+  "common_notNow": {
+    "message": "Όχι τώρα"
+  },
+  "common_noThanks": {
+    "message": "Όχι, ευχαριστώ"
+  },
+  "common_maybeLater": {
+    "message": "Ίσως αργότερα"
+  },
+  "common_add": {
+    "message": "Προσθήκη"
+  },
+  "common_create": {
+    "message": "Δημιουργία"
+  },
+  "common_startSetup": {
+    "message": "Έναρξη ρύθμισης"
+  },
+  "common_continueSetup": {
+    "message": "Συνέχεια ρύθμισης"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Συνέχισε από εκεί που σταμάτησες"
+  },
+  "common_setItUp": {
+    "message": "Ρύθμιση"
+  },
+  "common_howItWorks": {
+    "message": "Πώς λειτουργεί"
+  },
+  "common_getStarted": {
+    "message": "Ας ξεκινήσουμε"
+  },
+  "common_signIn": {
+    "message": "Σύνδεση"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 λεπ."
+  },
+  "common_hoursCount": {
+    "message": "$1 ώρες"
+  },
+  "common_hoursCount__lang": {
+    "message": "el"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 ώρα"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Βήμα $1 από $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Αφαιρέσαμε $1 Shorts από τη ροή σου"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "el"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Αφαιρέσαμε $1 Short από τη ροή σου"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Κλείσιμο"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Καλύφθηκε από το RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Κλείσιμο"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Δεν κλείνει"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Κλείσιμο ($1 δευτ.)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Συνδέσου για να το κάνεις αυτό."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Σύνδεση"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "Κλείσιμο"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Το Reddit μόλις προσπάθησε να σε στείλει με το ζόρι στην εφαρμογή του."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Αν δεις κάποιο πρόβλημα, δοκίμασε να φορτώσεις ξανά τη σελίδα ή να περάσεις στη Λειτουργία Zen."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "Κλείσιμο"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Αυτή η ροή είναι κρυμμένη"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Επέλεξες να κρύψεις τις ροές «Δημοφιλή» και «All» του Reddit."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Επέλεξες να κρύψεις τις ροές σου στο Reddit."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Τα subreddit σου"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Μπορείς να το αλλάξεις στις ρυθμίσεις του RelockIn."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Τα έχεις δει όλα"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Αυτά είναι όλα τα νέα από τα subreddit στα οποία συμμετέχεις."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Έλεγχος για περισσότερα"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Αναπαραγωγή"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Παύση"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Παράλειψη διαφήμισης"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Ταχύτητα αναπαραγωγής"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Ένταση"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "θετική ψήφος"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "αρνητική ψήφος"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "αναίρεση ψήφου"
+  },
+  "domShared_redditActionSave": {
+    "message": "αποθήκευση"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "κατάργηση αποθήκευσης"
+  },
+  "domShared_redditActionHide": {
+    "message": "απόκρυψη"
+  },
+  "domShared_redditActionShare": {
+    "message": "κοινοποίηση"
+  },
+  "domShared_redditActionComments": {
+    "message": "σχόλια"
+  },
+  "domShared_redditActionExpand": {
+    "message": "ανάπτυξη"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "σύμπτυξη"
+  },
+  "domShared_redditActionReply": {
+    "message": "απάντηση"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "περισσότερες επιλογές"
+  },
+  "domShared_redditActionScore": {
+    "message": "βαθμολογία"
+  },
+  "domShared_redditActionSource": {
+    "message": "Πηγή"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Προεπισκόπηση"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Αποθήκευση"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Κατάργηση αποθήκευσης"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Απόκρυψη"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Επανεμφάνιση"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Κοινοποίηση"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Αναφορά"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Γονικό σχόλιο"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Μόνιμος σύνδεσμος"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Ενσωμάτωση"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Αναδημοσίευση"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Αντιγραφή συνδέσμου σχολίου"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Αντιγραφή συνδέσμου ανάρτησης"
+  },
+  "domShared_redditAgeNow": {
+    "message": "τώρα"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1λ"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1ώ"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1η"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1μ"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1έ"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Ιστορίες του Instagram"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Κρύψαμε αυτή την ανάρτηση από λογαριασμό που δεν ακολουθείς."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Κρύψαμε αυτό το βίντεο."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Κρύψαμε αυτή τη διαφήμιση."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Από: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Αυτή η ανάρτηση είναι από σύνδεση 3ου βαθμού"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Αυτή η ανάρτηση δεν είναι από σύνδεση 1ου βαθμού"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Την καλύψαμε για να προστατέψουμε τη συγκέντρωσή σου."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Κρύψαμε αυτή τη διαφήμιση για να προστατέψουμε τη συγκέντρωσή σου"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Πάτησε για κλείσιμο"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Η εικόνα καλύφθηκε για να προστατέψουμε τη συγκέντρωσή σου"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Πάτησε για αποκάλυψη."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Το βίντεο καλύφθηκε για να προστατέψουμε τη συγκέντρωσή σου."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Προτεινόμενα βίντεο"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Ταχύτητα αναπαραγωγής: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Ένταση: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "Πίσω 10 δευτερόλεπτα"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "Μπροστά 10 δευτερόλεπτα"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "κάνε κάτι καλύτερο."
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Βίντεο από AI"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Ψήφισες «AI» για αυτό το κανάλι"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Εμφάνιση ούτως ή άλλως"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Προβολή ούτως ή άλλως"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Όχι AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Ίσως AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Πιθανώς AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Πολύ πιθανώς AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Διχασμένες ψήφοι"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Ελέγχθηκε από το RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Πιθανώς δημιουργημένο από AI"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Πολύ πιθανώς δημιουργημένο από AI"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Με βάση τις ψήφους χρηστών του RelockIn"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Φτιάχνει αυτό το κανάλι βίντεο με AI;"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "Τι θεωρείται AI;"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Η ψήφος σου ισχύει μόνο για σένα. Συνδέσου στο RelockIn για να τη μοιραστείς με την κοινότητα."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Σύνδεση"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Κλείσιμο"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Ψήφισε «AI» αν τα περισσότερα βίντεο του καναλιού έχουν:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Σενάριο γραμμένο από AI"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Φωνή από AI"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Εικόνες ή βίντεο δημιουργημένα από AI"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "Μουσική από AI"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Δεν θεωρείται AI:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Βίντεο για την AI, όπως κριτικές εργαλείων AI"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Μικρές πινελιές AI, όπως καθαρισμός ήχου"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Η ψήφος σου ισχύει αμέσως για σένα και βοηθά τους άλλους χρήστες του RelockIn."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Λάθος σήμανση; Υπόβαλε αίτημα επανεξέτασης"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Περισσότερες επιλογές"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Αποκλεισμός καναλιού"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Αποκλεισμένο"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Άρση αποκλεισμού καναλιού"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Απέκλεισες αυτό το κανάλι"
+  },
+  "limits_title": {
+    "message": "Κανόνες και συνεδρίες"
+  },
+  "limits_subtitle": {
+    "message": "Ξεκίνα συνεδρίες και διαχειρίσου τους κανόνες χρόνου οθόνης σου."
+  },
+  "limits_addRule": {
+    "message": "+ Προσθήκη κανόνα"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Κανόνες χρόνου οθόνης"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Προστάτεψε τον χρόνο σου με ημερήσια όρια και συνεδρίες"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Δεν υπάρχουν ακόμη κανόνες. Πρόσθεσε έναν για να ορίσεις ημερήσια όρια."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Μέσα κοινωνικής δικτύωσης"
+  },
+  "main_backToBrowser": {
+    "message": "Πίσω στην περιήγηση"
+  },
+  "main_openFullPage": {
+    "message": "Άνοιγμα σε πλήρη σελίδα"
+  },
+  "main_tabLimits": {
+    "message": "Κανόνες"
+  },
+  "main_tabSettings": {
+    "message": "Ιστότοποι"
+  },
+  "main_protectionTitle": {
+    "message": "Προστασία"
+  },
+  "main_protectionSubtitle": {
+    "message": "Βάλε ένα υγιές εμπόδιο πριν από τις παρορμητικές αποφάσεις"
+  },
+  "main_tabAccount": {
+    "message": "Λογαριασμός"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Ημερήσιος μέσος όρος"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "μ.ό."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Κάνε κλικ στο εικονίδιο με το **κομμάτι παζλ** στη γραμμή εργαλείων"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Βρες το **RelockIn** και κάνε κλικ στο εικονίδιο **καρφιτσώματος**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Οι κανόνες χρόνου οθόνης σου"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Κάνε κλικ σε έναν κανόνα για να τον επεξεργαστείς. Ο καθένας έχει το δικό του ημερήσιο όριο."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Καλώς ήρθες στο **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Διαρκεί περίπου ένα λεπτό"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Όχι ιδιαίτερα"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Βαρέθηκες τα σκουπίδια AI στο YouTube;"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Τα πρόχειρα βίντεο AI είναι πια παντού, από τη ροή σου μέχρι την αναζήτηση."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Θα ήθελες να σκρολάρεις λιγότερο;"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Χωρίς να βασίζεσαι μόνο στη δύναμη της θέλησης."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "Περιεχόμενο AI"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Εντόπισε τα βίντεο AI **πριν** κάνεις κλικ."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Μπορούμε να καλύψουμε, να αποκρύψουμε ή να επισημάνουμε το περιεχόμενο AI στη ροή σου."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Προαιρετικό"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Βοήθησε στον **εντοπισμό** περιεχομένου AI."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Η κοινότητά μας εντοπίζει περιεχόμενο AI. Αν κάνεις εγγραφή, οι ψήφοι σου βοηθούν τους άλλους να το αναγνωρίζουν και να το αποκλείουν."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Συνδέθηκες"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Οι ψήφοι σου βοηθούν πλέον τους άλλους να αναγνωρίζουν και να αποκλείουν περιεχόμενο AI."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Συνέχεια μέσω email"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Σύντομα βίντεο"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "**Εξαφάνισε** τα Shorts και τα Reels."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Τέλος τα Shorts στο YouTube και τα Reels στο Instagram. Ό,τι άλλο θέλεις μένει."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Απόκρυψη Shorts και Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Προαιρετικό: ημερήσια όρια"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Σκρόλαρε **συνειδητά**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Σε ποιους ιστότοπους θέλεις όριο;"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Μπορείς να προσθέσεις κι άλλους αργότερα."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Επίλεξε έναν ιστότοπο για να δεις εδώ τον κανόνα του"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Γρήγορη πρόσβαση"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Καρφιτσώθηκε. Τέλεια."
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn για iPhone και Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Βάλε το RelockIn και στο **κινητό** σου."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "Με την εφαρμογή RelockIn προσαρμόζεις το YouTube, το Instagram και άλλους ιστότοπους και αφαιρείς το AI και ό,τι σου αποσπά την προσοχή, όπως τα Shorts και τα Reels.\n\nΜπορεί επίσης να κλειδώνει εφαρμογές που σε αποσπούν, ώστε να ξαναπάρεις τον έλεγχο του χρόνου σου."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Σάρωσε με την κάμερα του κινητού σου"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Όλα έτοιμα."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Δες το στο YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Ολοκλήρωσε τη ρύθμιση"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "Η ρύθμιση ανοίγει σε δική της καρτέλα και διαρκεί περίπου ένα λεπτό."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Συνέχεια ρύθμισης"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Ξεφορτώσου τα σκουπίδια AI, τα Shorts και τις ατελείωτες ροές από τους ιστότοπους που χρησιμοποιείς πιο συχνά."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Γιατί να φτιάξω λογαριασμό;"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Χωρίς λογαριασμό, οι ψήφοι σου επισημαίνουν κανάλια AI μόνο για εσένα και δεν μπορούν να βοηθήσουν κανέναν άλλον. Με λογαριασμό, μπορούμε να εμπιστευτούμε τις ψήφους σου για να επισημαίνουμε περιεχόμενο AI για όλη την κοινότητα. Οι άλλοι δεν βλέπουν πώς ψήφισες.\n\nΟ λογαριασμός σου λειτουργεί και στο RelockIn για iPhone και Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "Η διαφάνεια είναι σημαντική για εμάς. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Ο κώδικάς μας είναι δημόσιος"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Προσαρμογή ιστοτόπων"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**Πάνω από 40 τρόποι** για λιγότερο εθιστικούς ιστότοπους."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "Το RelockIn αλλάζει το YouTube, το Instagram, το Reddit, το X και το LinkedIn. Δοκίμασε μερικές προσαρμογές εδώ· τις υπόλοιπες θα τις βρεις στις ρυθμίσεις."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Ημερήσιο όριο για τον κανόνα «$1»"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Έχε το RelockIn **πάντα πρόχειρο**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Καρφίτσωσε την επέκταση για να αλλάζεις εύκολα όποια ρύθμιση θέλεις."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Κλείσιμο ρύθμισης"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Δεν υπάρχουν όρια ακόμη"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Επίλεξε τους ιστότοπους όπου χάνεις χρόνο και όρισε για τον καθένα ημερήσιο όριο. Διαρκεί περίπου 30 δευτερόλεπτα."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Ορισμός ορίων"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Εμφάνιση στη ροή μόνο αναρτήσεων από λογαριασμούς που ακολουθείς"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Απενεργοποίηση r/popular και r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "Βίντεο AI"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts και Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Προσαρμογές ιστοτόπων"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Ημερήσια όρια"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Ψήφοι: AI ή όχι"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Κρυμμένα"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Ορατά"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Ανενεργό"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Με κάλυψη"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Με σήμανση"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Για όλη την κοινότητα"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Μόνο για σένα"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 ενεργές"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "el"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "$1 ενεργή"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 ιστότοποι"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "el"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 ιστότοπος"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Θα ήθελες τα μέσα κοινωνικής δικτύωσης να είναι λιγότερο εθιστικά;"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Λιγότεροι περισπασμοί, χωρίς να χάνεις όσα σου αρέσουν."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Βρίσκεσαι στο σωστό μέρος."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Εντάξει. Θα σου δείξουμε πώς λειτουργεί."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Μπορείς να ορίσεις ημερήσιο όριο χρόνου οθόνης σε οποιονδήποτε ιστότοπο.\n\nΤο RelockIn σε βοηθά να σταματήσεις να σκρολάρεις μηχανικά."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Διάλεξε πόσο χρόνο χρειάζεσαι"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Χρησιμοποίησε τον ιστότοπο"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Όταν λήξει ο χρόνος, κλειδώνει ξανά"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Δοκίμασε τα ημερήσια όρια"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Όλα βρίσκονται **εδώ**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Άνοιξε αυτόν τον πίνακα όποτε θέλεις από το εικονίδιο του RelockIn στη γραμμή εργαλείων."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Πόσο χρόνο θέλεις να περάσεις στον ιστότοπο $1;"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Η συνεδρία σου στον ιστότοπο $1 έληξε."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "λεπ./ημέρα"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 λεπτά λιγότερα"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 λεπτά περισσότερα"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Χρόνος επί οθόνης"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Άλλαξε ό,τι θέλεις από το εικονίδιο του RelockIn στη γραμμή εργαλείων."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Άλλαξε ό,τι θέλεις από το RelockIn στο μενού επεκτάσεων του προγράμματος περιήγησης."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Είναι αυτός ο καλύτερος τρόπος να περάσεις τον χρόνο σου τώρα;"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "πάρε μια βαθιά ανάσα"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Ή, αν πραγματικά χρειάζεται να μπεις στον ιστότοπο $1, μπορείς να ξεκινήσεις μια συνεδρία για τον κανόνα «$2»"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Απομένουν σήμερα: $1λ $2δ"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Απόκτησε το RelockIn στο κινητό σου"
+  },
+  "overlay_closeTab": {
+    "message": "Κλείσιμο καρτέλας"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "απομένουν σήμερα"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "χρήση σήμερα"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "νέο όριο στις"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Ή, αν πραγματικά χρειάζεται να συνεχίσεις, μπορείς να ξεκινήσεις μια συνεδρία για τον κανόνα «$1»"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "«$1»"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Τρέχων κανόνας: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Άνοιγμα RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Περισσότερες επιλογές"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "ημερήσια χρήση"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "Κωδικός QR για λήψη του RelockIn"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Κατέβασε την εφαρμογή **RelockIn**"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Αφαίρεσε Shorts, Reels και βίντεο AI"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Όρισε ημερήσια όρια σε κάθε εφαρμογή ή ιστότοπο"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Προστάτεψε τον ύπνο και τη συγκέντρωσή σου"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Στα κινητά αυτή η επέκταση έχει περιορισμούς"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Με την εφαρμογή RelockIn βάζεις όριο σε κάθε εφαρμογή και αφαιρείς όλους τους περισπασμούς και τα βίντεο AI."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Δεν λειτουργεί στις εφαρμογές YouTube και Instagram"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Μόνο ένα ημερήσιο όριο και ένα ωράριο"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Μπορεί να επισημαίνει βίντεο AI, αλλά όχι να τα κρύβει"
+  },
+  "phoneWebext_getApp": {
+    "message": "Λήψη εφαρμογής"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Συνέχεια στο πρόγραμμα περιήγησης"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Ή συνέχισε εδώ (με περιορισμούς)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Κατέβασε την εφαρμογή RelockIn για όσους κανόνες χρόνου οθόνης θέλεις:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Κατέβασε την εφαρμογή RelockIn για όσα ωράρια θέλεις:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Δοκίμασε την **εφαρμογή RelockIn** για να ξεκλειδώσεις όλες τις ρυθμίσεις"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Περιλαμβάνεται στο RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "Στη δωρεάν έκδοση, αυτοί οι ιστότοποι έχουν ένα κοινό ημερήσιο όριο."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Βάλε φρένο στις παρορμητικές κινήσεις"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Πρόσθεσε σκόπιμα εμπόδια πριν από ενέργειες όπως η παράκαμψη ενός ορίου ή η διαγραφή κανόνων.\nΧρειάζεται περίπου ένα λεπτό."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Ρύθμιση προστασίας"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Αποτροπή διαδοχικών συνεδριών"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Διάλειμμα μετά από πάρα πολλές διαδοχικές συνεδρίες"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Όρισε πρώτα τους κανόνες σου"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Ολοκλήρωσε τη ρύθμιση των κανόνων στην καρτέλα «Κανόνες» πριν προσθέσεις προστασία."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Μια παύση πριν από τις παρορμητικές αποφάσεις"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Πριν από ενέργειες όπως η παράκαμψη ορίων ή η διαγραφή κανόνων, το RelockIn μπορεί να ζητά μια σύντομη πρόκληση, για να βεβαιωθεί ότι το κάνεις συνειδητά."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Εσύ έχεις πάντα τον τελευταίο λόγο."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Δες πώς λειτουργεί"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Πάτησε οποιαδήποτε κάρτα για να δοκιμάσεις την πρόκληση."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Μικρή παράκαμψη ημερήσιου ορίου"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Πληκτρολόγησε μια σύντομη πρόταση"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Αφαίρεση εφαρμογής από τη λίστα αποκλεισμού"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Λύσε μερικές μαθηματικές πράξεις"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Χαλάρωση ενός ωραρίου"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Πληκτρολόγησε μια μεγαλύτερη πρόταση"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Πόσο αυστηρή να είναι η προστασία σου;"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Μπορείς να το αλλάξεις όποτε θέλεις."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Ήπιο"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Μικρές υπενθυμίσεις πριν από παρορμητικές κινήσεις."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Ισορροπημένο"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Επιπλέον εμπόδια στις συνηθισμένες στιγμές αδυναμίας."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Αυστηρό"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Ισχυρά εμπόδια για να κόψεις τις κακές συνήθειες."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Προτείνεται"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Χρήση επιπέδου «$1»"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Αποτροπή διαδοχικών συνεδριών"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Μπορούμε να σε βάζουμε να κάνεις διάλειμμα αν ξεκινήσεις πάρα πολλές διαδοχικές συνεδρίες."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Αν ξεκινήσω 2+ συνεδρίες στη σειρά (με λιγότερο από"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "μεταξύ τους),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "βάλε με σε διάλειμμα για"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Παράδειγμα"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  Ξεκινάς μια συνεδρία 5 λεπτών στα «Κοινωνικά δίκτυα»."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  Ξεκινάς άλλη μια συνεδρία 5 λεπτών"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  Σε βάζουμε να κάνεις διάλειμμα πριν ξεκινήσεις τρίτη συνεδρία"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 δευτερόλεπτα"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 λεπτό"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 λεπτά"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 λεπτά"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 λεπτά"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 λεπτά"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Η προστασία σου είναι ενεργή"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Μπορείς να ρυθμίσεις όποτε θέλεις:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Πότε θα σου ζητείται πρόκληση"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "Τι ζητά η κάθε πρόκληση"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Προκλήσεις για συγκεκριμένους κανόνες"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Επιστροφή στην εφαρμογή"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Καμία αποκλεισμένη εφαρμογή"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Όνομα κανόνα"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Προσωρινή"
+  },
+  "rule_deleteRule": {
+    "message": "Διαγραφή κανόνα"
+  },
+  "rule_editRule": {
+    "message": "Επεξεργασία κανόνα"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Αποκλεισμένες εφαρμογές"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Αλλαγή αποκλεισμένων εφαρμογών"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Αποκλεισμένοι ιστότοποι στο πρόγραμμα περιήγησης RelockIn"
+  },
+  "rule_noTargets": {
+    "message": "Δεν έχεις αποκλείσει ακόμα κανέναν ιστότοπο."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Ρυθμίσεις κανόνα"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Ημερήσιο όριο σε λεπτά"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Λεπτά"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Μείωση ημερήσιου ορίου κατά $1 λεπτά"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "el"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Μείωση ημερήσιου ορίου κατά $1 λεπτό"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Αύξηση ημερήσιου ορίου κατά $1 λεπτά"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "el"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Αύξηση ημερήσιου ορίου κατά $1 λεπτό"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Προσαρμογή προστασίας"
+  },
+  "rule_targetsSection": {
+    "message": "Αποκλεισμένοι ιστότοποι"
+  },
+  "rule_defaultRuleName": {
+    "message": "Νέος κανόνας"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Ενεργή συνεδρία"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Κλειδωμένος"
+  },
+  "rule_appCount": {
+    "message": "$1 εφαρμογές"
+  },
+  "rule_appCount__lang": {
+    "message": "el"
+  },
+  "rule_appCount__one": {
+    "message": "$1 εφαρμογή"
+  },
+  "rule_siteCount": {
+    "message": "$1 ιστότοποι"
+  },
+  "rule_siteCount__lang": {
+    "message": "el"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 ιστότοπος"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Όνομα ωραρίου"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Μη αποθηκευμένο"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "ΧΡΟΝΙΚΟ ΔΙΑΣΤΗΜΑ"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Έναρξη"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Λήξη"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "ΕΝΕΡΓΕΣ ΗΜΕΡΕΣ"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Κάθε μέρα"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Καμία μέρα"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Καθημερινές"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Σαββατοκύριακα"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "Κ"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "Δ"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "Τ"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "Τ"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "Π"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "Π"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "Σ"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "Κυρ"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "Δευ"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "Τρί"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "Τετ"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "Πέμ"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "Παρ"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "Σάβ"
+  },
+  "scheduleCard_modeSection": {
+    "message": "ΛΕΙΤΟΥΡΓΙΑ"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Αποκλεισμός κατά τη διάρκεια"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Να επιτρέπεται μόνο κατά τη διάρκεια"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Δεν μπορείς να ξεκινήσεις συνεδρίες σε αυτό το διάστημα."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Μπορείς να ξεκινήσεις συνεδρίες *μόνο* σε αυτό το διάστημα. Την υπόλοιπη μέρα δεν μπορείς να ξεκλειδώσεις αυτές τις εφαρμογές."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Ξεκλειδώνεται"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Δεν ξεκλειδώνεται"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "ΙΣΧΥΕΙ ΓΙΑ ΤΟΥΣ ΚΑΝΟΝΕΣ"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Δεν έχεις δημιουργήσει κανόνες ακόμη."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Αυτόματη εφαρμογή σε νέους κανόνες"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Αποθήκευση αλλαγών"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Να διαγραφεί αυτό το ωράριο;"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Διαγραφή ωραρίου"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Ωράριο"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Επεξεργασία ωραρίου"
+  },
+  "schedules_title": {
+    "message": "Ωράρια"
+  },
+  "schedules_subtitle": {
+    "message": "Όρισε πότε μπορείς να ξεκινάς συνεδρίες."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Δεν υπάρχουν ωράρια ακόμη"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Πρόσθεσε ένα ωράριο για να ορίσεις χρονικούς περιορισμούς στους κανόνες σου."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Προσθήκη ωραρίου"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Ύπνος"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Όρισε πρώτα τους κανόνες χρόνου οθόνης σου"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Ολοκλήρωσε τη ρύθμιση στην καρτέλα «Κανόνες» πριν δημιουργήσεις ωράρια."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Οι κανόνες σου κλειδώνουν εφαρμογές και ιστοτόπους μέχρι να ξεκινήσεις μια συνεδρία. Τα ωράρια προσθέτουν ένα δεύτερο επίπεδο: περιορίζουν *πότε* μπορείς να ξεκινήσεις αυτές τις συνεδρίες.\n\nΠροστάτεψε τις ώρες ύπνου, μελέτης ή συγκέντρωσης ή όρισε συγκεκριμένες ώρες για διάλειμμα."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Ξεκίνα τη δωρεάν δοκιμή σου για να έχεις πάνω από 1 ωράριο"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Σφάλμα: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Αποτυχία προσθήκης ωραρίου: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Αποτυχία ενημέρωσης: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Αποτυχία διαγραφής: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Αποτυχία ενημέρωσης συνδεδεμένων κανόνων: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Θέλω 5 λεπτά διάλειμμα για να χαζέψω στο Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Οι εφαρμογές σου μένουν κλειδωμένες μέχρι να τις ξεκλειδώσεις"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Οι ιστότοποι που διάλεξες μένουν κλειδωμένοι μέχρι να τους ξεκλειδώσεις"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Όμως κάποιες ώρες θέλεις να μένουν κλειδωμένες"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Όμως κάποιες ώρες θέλεις να μένουν κλειδωμένοι"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Τα ωράρια αφαιρούν το κουμπί ξεκλειδώματος"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Έτσι οι εφαρμογές μένουν κλειδωμένες μέχρι να λήξει το ωράριο."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Έτσι οι ιστότοποι μένουν κλειδωμένοι μέχρι να λήξει το ωράριο."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Αχ! Εντάξει, πάω για ύπνο."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Ας προστατέψουμε τον ύπνο σου"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Διάλεξε τις ώρες που θέλεις να κοιμάσαι, όχι να σκρολάρεις."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Προστασία ύπνου"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Ο ύπνος σου είναι προστατευμένος"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Χωρίς ξεκλείδωμα από $1 έως $2. Μπορείς να αλλάξεις τις μέρες, τις ώρες ή τους κανόνες όποτε θέλεις."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Θέλεις να προστατέψεις και τον χρόνο δουλειάς ή μελέτης;"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Πρόσθεσε ένα ωράριο όποτε θέλεις."
+  },
+  "session_sectionTitleActive": {
+    "message": "Συνεδρία"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Έναρξη συνεδρίας"
+  },
+  "session_endingSession": {
+    "message": "Τερματισμός συνεδρίας…"
+  },
+  "session_startingSession": {
+    "message": "Έναρξη συνεδρίας…"
+  },
+  "session_remainingInSession": {
+    "message": "απομένουν στη συνεδρία"
+  },
+  "session_endSession": {
+    "message": "Τέλος συνεδρίας"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Ενεργός περιορισμός ωραρίου"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Δεν μπορείς να χρησιμοποιήσεις τον κανόνα «$1» λόγω του ωραρίου σου"
+  },
+  "session_blockedBadge": {
+    "message": "ΑΠΟΚΛΕΙΣΜΕΝΟΣ"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Λόγω του ωραρίου σου, δεν μπορείς να ξεκινήσεις συνεδρία τώρα."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Παράκαμψη ωραρίου"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Ισχύουν επίσης τώρα:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Ισχύουν πολλοί περιορισμοί ταυτόχρονα. Αρκεί να παρακάμψεις τον αυστηρότερο για να ξεκινήσεις συνεδρία."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Περιορισμός ωραρίου"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Διάλειμμα από διαδοχικές συνεδρίες"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Αποκλεισμός από το ωράριο «$1» έως $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Εκτός επιτρεπόμενων ωρών. Έναρξη ωραρίου «$1»: $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Δεν υπάρχει επιτρεπόμενο διάστημα στα ωράριά σου"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Επιτρέπεται έως $2, όταν ξεκινά ο αποκλεισμός του ωραρίου «$1»"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Επιτρέπεται έως $2, όταν λήγει το ωράριο «$1»"
+  },
+  "session_other": {
+    "message": "Άλλο"
+  },
+  "session_duration": {
+    "message": "Διάρκεια"
+  },
+  "session_startSession": {
+    "message": "Έναρξη συνεδρίας"
+  },
+  "session_takeABreak": {
+    "message": "Κάνε ένα διάλειμμα."
+  },
+  "session_reopensInFormat": {
+    "message": "Νέα συνεδρία σε $1 δευτ."
+  },
+  "session_reopensInLabel": {
+    "message": "Νέα συνεδρία σε"
+  },
+  "session_bypassBreak": {
+    "message": "Παράλειψη διαλείμματος"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Σταμάτα το doomscrolling."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "Ξεκίνησες $1 συνεδρίες στη σειρά. Σταμάτα το doomscrolling."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "el"
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "Ξεκίνησες $1 συνεδρία στη σειρά. Σταμάτα το doomscrolling."
+  },
+  "session_overrideSizeLow": {
+    "message": "Έως 2 λεπτά"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Έως 10 λεπ."
+  },
+  "session_overrideSizeHigh": {
+    "message": "Έως 60 λεπ."
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "Πόσο επιπλέον χρόνο χρειάζεσαι;"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Γρήγορη πρόκληση για ξεκλείδωμα"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Μέτρια πρόκληση για ξεκλείδωμα"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Δύσκολη πρόκληση για ξεκλείδωμα"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Οι ρυθμίσεις προστασίας σου δεν επιτρέπουν επιπλέον χρόνο."
+  },
+  "session_dailyLimitReached": {
+    "message": "Έφτασες το ημερήσιο όριο"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Σήμερα χρησιμοποίησες $1 λεπ."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Κάνε μια βόλτα, ξεμπέρδεψε με εκείνη την εκκρεμότητα ή τηλεφώνησε σε φίλους."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Δεν έχω κάτι καλύτερο να κάνω"
+  },
+  "session_chooseLength": {
+    "message": "Επίλεξε διάρκεια συνεδρίας"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "Το ξεκλείδωμα έχει χρονικό όριο"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Πάτησε μια διάρκεια για να ξεκινήσεις τη συνεδρία σου. Μόλις τελειώσει ο χρόνος, κλειδώνουμε ξανά."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Έναρξη συνεδρίας: $1 λεπ."
+  },
+  "settings_title": {
+    "message": "Προσαρμογή ιστοτόπων"
+  },
+  "settings_igComments": {
+    "message": "Απόκρυψη σχολίων στο Instagram"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Εκτός από λογαριασμούς που ακολουθείς"
+  },
+  "settings_igStories": {
+    "message": "Ιστορίες του Instagram"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Κάλυψη αναρτήσεων από αγνώστους στη ροή"
+  },
+  "settings_igFeedVideos": {
+    "message": "Απόκρυψη βίντεο στη ροή"
+  },
+  "settings_igGuardAds": {
+    "message": "Απόκρυψη διαφημίσεων"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Μόνο αναζήτηση στην «Εξερεύνηση»"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Ασπρόμαυρη εμφάνιση εικόνων"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Ασπρόμαυρη εμφάνιση βίντεο"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Συνδεδεμένος λογαριασμός"
+  },
+  "settings_accountSignOut": {
+    "message": "Αποσύνδεση"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Σύνδεση μέσω Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Συνδέσου για να συγχρονίζεις τα δεδομένα σου σε όλες τις συσκευές. Αν έχεις ήδη αγοράσει το RelockIn Pro, με τη σύνδεση θα γίνει επαναφορά της συνδρομής σου."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Συνδρομή"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Κατάσταση"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Να γίνει αποσύνδεση;"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Τα δεδομένα σου δεν θα συγχρονίζονται πια μεταξύ συσκευών μέχρι να συνδεθείς ξανά."
+  },
+  "settings_accountSignOutError": {
+    "message": "Η αποσύνδεση απέτυχε. Δοκίμασε ξανά."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Για να συνδεθείς, χρειάζεται η άδειά σου. Όλα τα υπόλοιπα λειτουργούν χωρίς λογαριασμό."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Συνεχίζοντας, αποδέχεσαι τα εξής: $1. Η $2 εξηγεί πώς χρησιμοποιούμε τα δεδομένα σου."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Δημιουργώντας λογαριασμό, αποδέχεσαι τα εξής: $1. Η $2 εξηγεί πώς χρησιμοποιούμε τα δεδομένα σου."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Όροι χρήσης"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Πολιτική απορρήτου"
+  },
+  "settings_accountSourceCode": {
+    "message": "Πηγαίος κώδικας"
+  },
+  "settings_accountSignInError": {
+    "message": "Η σύνδεση απέτυχε. Δοκίμασε ξανά."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "Δεν βρέθηκε λογαριασμός Google σε αυτό το τηλέφωνο. Άνοιξε τις «Ρυθμίσεις» του τηλεφώνου, μετά «Λογαριασμοί και κωδικοί πρόσβασης» (σε Samsung: «Λογαριασμοί και αντίγραφα ασφαλείας») και βεβαιώσου ότι υπάρχει εκεί λογαριασμός Google. Αν υπάρχει ήδη αλλά η σύνδεση εξακολουθεί να αποτυγχάνει, δοκίμασε να τον αφαιρέσεις και να τον προσθέσεις ξανά."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "Η σύνδεση μέσω Google δεν έχει ρυθμιστεί σωστά σε αυτή την εφαρμογή. Επικοινώνησε με την υποστήριξη."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "Η σύνδεση διακόπηκε. Δοκίμασε ξανά."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Αυτή η συσκευή δεν υποστηρίζει τη σύνδεση μέσω Google. Δοκίμασε να ενημερώσεις τις Υπηρεσίες Google Play ή συνδέσου με email."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Δεν ήταν δυνατή η ανάγνωση των στοιχείων σύνδεσης από το Google. Δοκίμασε ξανά."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Ο διακομιστής σύνδεσης δεν είναι προσβάσιμος. Έλεγξε τη σύνδεσή σου στο διαδίκτυο και δοκίμασε ξανά."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "Η σύνδεση επέστρεψε μη αναμενόμενα στοιχεία. Δοκίμασε ξανά."
+  },
+  "settings_emailSignInCta": {
+    "message": "Σύνδεση μέσω email"
+  },
+  "settings_appleSignInCta": {
+    "message": "Σύνδεση μέσω Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Σύνδεση"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Συνδέσου με το email και τον κωδικό πρόσβασής σου."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Δημιουργία λογαριασμού"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Δημιούργησε λογαριασμό για συγχρονισμό σε όλες τις συσκευές σου."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Δημιουργία λογαριασμού"
+  },
+  "settings_emailResetTitle": {
+    "message": "Επαναφορά κωδικού πρόσβασης"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Γράψε το email σου και θα σου στείλουμε έναν σύνδεσμο για να επαναφέρεις τον κωδικό πρόσβασής σου."
+  },
+  "settings_emailResetAction": {
+    "message": "Αποστολή συνδέσμου επαναφοράς"
+  },
+  "settings_emailPlaceholder": {
+    "message": "Email"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Κωδικός πρόσβασης"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Επιβεβαίωση κωδικού πρόσβασης"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Ξέχασες τον κωδικό σου;"
+  },
+  "settings_switchToSignUp": {
+    "message": "Δεν έχεις λογαριασμό; Εγγραφή"
+  },
+  "settings_switchToSignIn": {
+    "message": "Έχεις ήδη λογαριασμό; Σύνδεση"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Έλεγξε το email σου"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Σου στείλαμε έναν σύνδεσμο επιβεβαίωσης στο email σου. Επιβεβαίωσε τη διεύθυνσή σου πριν συνδεθείς."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Ο σύνδεσμος στάλθηκε"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Σου στείλαμε ένα email με σύνδεσμο επαναφοράς του κωδικού πρόσβασης (αν υπάρχει λογαριασμός με αυτό το email)."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Το email σου δεν έχει επιβεβαιωθεί. Βρες τον σύνδεσμο επιβεβαίωσης στα εισερχόμενά σου."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Πάρα πολλές προσπάθειες. Δοκίμασε ξανά αργότερα."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Ο κωδικός πρόσβασης είναι πολύ αδύναμος. Χρησιμοποίησε τουλάχιστον 6 χαρακτήρες."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "Λάθος email ή κωδικός πρόσβασης. Αν μόλις έκανες εγγραφή, έλεγξε ότι έχεις επιβεβαιώσει το email σου."
+  },
+  "settings_changePasswordCta": {
+    "message": "Αλλαγή κωδικού πρόσβασης"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Ορισμός νέου κωδικού πρόσβασης"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Επίλεξε νέο κωδικό πρόσβασης για τον λογαριασμό σου."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Νέος κωδικός πρόσβασης"
+  },
+  "settings_newPasswordAction": {
+    "message": "Ενημέρωση κωδικού πρόσβασης"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Ο κωδικός πρόσβασης ενημερώθηκε"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Ο κωδικός πρόσβασής σου ενημερώθηκε. Μπορείς πλέον να συνδεθείς με τον νέο κωδικό."
+  },
+  "settings_newPasswordError": {
+    "message": "Δεν ήταν δυνατή η ενημέρωση του κωδικού πρόσβασης. Δοκίμασε ξανά."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Συμπλήρωσε όλα τα πεδία."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Η εγγραφή απέτυχε."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Γράψε το email σου."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Δεν ήταν δυνατή η αποστολή του email επαναφοράς."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Ο κωδικός πρόσβασης ενημερώθηκε επιτυχώς."
+  },
+  "settings_accountSigningOut": {
+    "message": "Αποσύνδεση…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Σύνδεση…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "Μ/Δ"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Δωρεάν έκδοση"
+  },
+  "settings_backToSignIn": {
+    "message": "Πίσω στη σύνδεση"
+  },
+  "settings_sending": {
+    "message": "Αποστολή…"
+  },
+  "settings_updating": {
+    "message": "Ενημέρωση…"
+  },
+  "settings_creatingAccount": {
+    "message": "Δημιουργία λογαριασμού…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Επιβεβαίωση νέου κωδικού πρόσβασης"
+  },
+  "settings_showPasswordCta": {
+    "message": "Εμφάνιση"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Απόκρυψη"
+  },
+  "settings_passwordTooShortError": {
+    "message": "Ο κωδικός πρόσβασης πρέπει να έχει τουλάχιστον 6 χαρακτήρες."
+  },
+  "settings_passwordMismatchError": {
+    "message": "Οι κωδικοί πρόσβασης δεν ταιριάζουν."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Ο λογαριασμός επιβεβαιώθηκε"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Το email σου επιβεβαιώθηκε και έχεις πλέον συνδεθεί."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Ο σύνδεσμος σύνδεσης δεν λειτούργησε"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Δεν μπορέσαμε να σε συνδέσουμε με αυτόν τον σύνδεσμο. Μπορεί να έχει λήξει ή να έχει ήδη χρησιμοποιηθεί. Δοκίμασε ξανά ή ζήτησε νέο email.\n\nΛεπτομέρειες: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Διαγραφή λογαριασμού"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Επικίνδυνες ενέργειες"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "ΕΠΙΚΙΝΔΥΝΕΣ ΕΝΕΡΓΕΙΕΣ — Διαγραφή λογαριασμού"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "Τι θα διαγραφεί οριστικά:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Τα στοιχεία σύνδεσης και το προφίλ του λογαριασμού σου\nΤυχόν συγχρονισμένοι κανόνες, ωράρια και ρυθμίσεις\nΤυχόν συγχρονισμένο ιστορικό χρήσης και λοιπά δεδομένα της εφαρμογής"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "Τι διατηρείται:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Αρχεία αγορών και συναλλαγών (απαιτούνται από τον νόμο για φορολογικούς και λογιστικούς σκοπούς)\nΑναφορές σφαλμάτων και διαγνωστικά δεδομένα"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "Η διαγραφή δεν ακυρώνει τις συνδρομές"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Πληκτρολόγησε «$1» για να επιβεβαιώσεις τη μόνιμη διαγραφή του λογαριασμού"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "ΔΙΑΓΡΑΦΗ"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Αυτή η ενέργεια δεν αναιρείται."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Η ταυτοποίηση απέτυχε"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Δεν ήταν δυνατή η επαλήθευση της σύνδεσής σου. Συνδέσου ξανά πριν διαγράψεις τον λογαριασμό σου."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Ο λογαριασμός διαγράφηκε"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Ο λογαριασμός σου διαγράφηκε οριστικά."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Η διαγραφή του λογαριασμού απέτυχε με σφάλμα $1. Δοκίμασε ξανά αργότερα ή, αν το σφάλμα επιμένει, επικοινώνησε με την υποστήριξη στο relockin.com/support."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Λιγότεροι περισπασμοί, περισσότερη παραγωγικότητα"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Εμφάνιση"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Κάλυψη"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Αφαίρεση"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Αποκάλυψη αμέσως"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Αποκάλυψη μετά από 5 δευτ."
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Αποκάλυψη μετά από 10 δευτ."
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Δεν κλείνει"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Αποκάλυψη με πρόκληση"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Τρόπος αποκάλυψης"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Προεπιλογή"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Κινητό"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Υπολογιστής"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Κανονικές"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Ελαφρώς θολές"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Πολύ θολές"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Ασπρόμαυρες"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Μαύρες"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Απόκρυψη Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Απόκρυψη καρτέλας Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Απόκρυψη καρτέλας «Αρχική»"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Ανακατεύθυνση από την «Αρχική» στις «Εγγραφές»"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Απενεργοποίηση αυτόματης αναπαραγωγής"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Απενεργοποίηση προεπισκοπήσεων βίντεο"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Απόκρυψη αναρτήσεων που δεν είναι βίντεο"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Αφαιρεί τις αναρτήσεις καναλιών, τις δημοσκοπήσεις και τις φωτογραφίες από την «Αρχική»."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Κουμπί παράλειψης σε όλες τις διαφημίσεις"
+  },
+  "settings_ytBlockAds": {
+    "message": "Αποκλεισμός διαφημίσεων"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Απόκρυψη βίντεο «Επόμενο»"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Προτεινόμενα βίντεο"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Λειτουργία προβολής"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Φίλτρο μικρογραφιών"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Απόκρυψη καρτέλας Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Απόκρυψη καρτέλας «Αρχική»"
+  },
+  "settings_igHomeFeed": {
+    "message": "Ροή «Αρχική»"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Προεπιλογή"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Η κανονική ροή του Instagram, μαζί με προτεινόμενες αναρτήσεις."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Μόνο «Ακολουθείτε»"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Πρόσφατες αναρτήσεις από λογαριασμούς που ακολουθείς, με τις νεότερες πρώτα."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Μόνο «Αγαπημένα»"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Μόνο αναρτήσεις από λογαριασμούς της λίστας «Αγαπημένα»."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Απόκρυψη συνδέσμου προς την κανονική ροή"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Χρήση του Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Προσαρμογή του Old Reddit για κινητά"
+  },
+  "settings_redditVersion": {
+    "message": "Έκδοση του Reddit"
+  },
+  "settings_redditVersionZen": {
+    "message": "Λειτουργία Zen"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Πιο γρήγορο και καθαρό Reddit, χτισμένο πάνω σε ένα ανανεωμένο old.reddit.com"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Τυπική"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Η προεπιλεγμένη έκδοση του Reddit για κινητά"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "ΣΗΜΕΙΩΣΗ: Προτείνουμε τη Λειτουργία Zen, αλλιώς το Reddit μπορεί να προσπαθήσει να σε αναγκάσει να χρησιμοποιήσεις την εφαρμογή του"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Εμφάνιση ροής"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Μόνο τίτλοι"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Περιηγήσου πιο γρήγορα μόνο με τίτλους. Πάτησε ή σύρε για να ανοίξεις αναρτήσεις."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Μικρογραφίες"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Τίτλοι με μια μικρογραφία για κάθε ανάρτηση."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Ανεπτυγμένη"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Δες εικόνες, βίντεο και αναρτήσεις κειμένου απευθείας στη ροή σου."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Περιορισμός ατελείωτων ροών"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Εμφάνιση όλων των ροών"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Το Reddit λειτουργεί κανονικά."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Απόκρυψη «Δημοφιλή» και «All»"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Κρύβει τις ροές με αναρτήσεις από αγνώστους, όπως «Δημοφιλή», «All» και «Εξερεύνηση». Η ροή «Αρχική σελίδα» λειτουργεί κανονικά."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Απόκρυψη όλων των ροών"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Κρύβει και τη ροή «Αρχική σελίδα». Μπορείς ακόμη να επισκέπτεσαι subreddit και να κάνεις αναζήτηση."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Στην «Αρχική σελίδα» μόνο αναρτήσεις από subreddit στα οποία συμμετέχεις"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Ασπρόμαυρη εμφάνιση εικόνων"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Μετακίνηση των ψήφων κάτω από τις αναρτήσεις"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Χρωματική σήμανση επιπέδων σχολίων"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Ενεργοποίηση σάρωσης στα σχόλια"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Σύντομη σάρωση δεξιά"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Μεγάλη σάρωση δεξιά"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Σύντομη σάρωση αριστερά"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Μεγάλη σάρωση αριστερά"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Θετική ψήφος"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Αρνητική ψήφος"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Σύμπτυξη"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Απάντηση"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Αποθήκευση"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Ενεργοποίηση σάρωσης στις αναρτήσεις"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Θετική ψήφος"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Αρνητική ψήφος"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Απόκρυψη"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Κοινοποίηση"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Αποθήκευση"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Άνοιγμα σχολίων"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Άνοιγμα πηγής"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Προεπισκόπηση"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Subreddit όπου επιτρέπεται προσαρμοσμένο CSS"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Τα προσαρμοσμένα στιλ των subreddit κρύβονται από προεπιλογή, ώστε οι σελίδες να διαβάζονται εύκολα σε μικρές οθόνες."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "όνομα subreddit (π.χ. politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Αφαίρεση subreddit $1"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Δεν έχεις προσθέσει ακόμη κανένα subreddit."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Απόκρυψη «Για εσάς»"
+  },
+  "settings_xHideAds": {
+    "message": "Απόκρυψη διαφημίσεων"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Φιλτράρισμα αναρτήσεων ανά βαθμό σύνδεσης"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Εμφάνιση όλων"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Απόκρυψη αναρτήσεων 3ου βαθμού"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Απόκρυψη αναρτήσεων 2ου και 3ου βαθμού"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Απόκρυψη προωθημένων αναρτήσεων"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Κάλυψη εικόνων και βίντεο στη ροή"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Ασπρόμαυρη εμφάνιση εικόνων"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Ασπρόμαυρη εμφάνιση βίντεο"
+  },
+  "settings_inBrowserNote": {
+    "message": "Αφαίρεσε διαφημίσεις, περιόρισε τους περισπασμούς και φίλτραρε τις ροές σου. Ισχύει στο πρόγραμμα περιήγησης RelockIn."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "Οι ρυθμίσεις ισχύουν για τους ιστότοπους στο πρόγραμμα περιήγησης RelockIn, **όχι για την εφαρμογή $1.** Συνδέσου για να δεις την αλλαγή στη ροή σου."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "Οι ρυθμίσεις ισχύουν για τους ιστότοπους στο πρόγραμμα περιήγησης RelockIn, **όχι για την εφαρμογή $1.** Άνοιξε τον ιστότοπο για να δεις την αλλαγή."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Δες το στο $1"
+  },
+  "settings_generalSection": {
+    "message": "Γενικά"
+  },
+  "settings_showSessionTimer": {
+    "message": "Εμφάνιση χρονομέτρου συνεδρίας"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Να παίρνω μια γρήγορη ανάσα πριν ξεκλειδώσω έναν ιστότοπο"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Διάρκεια ανάσας (δευτερόλεπτα)"
+  },
+  "settings_clearSection": {
+    "message": "Επαναφορά"
+  },
+  "settings_ytAiContent": {
+    "message": "Βίντεο δημιουργημένα από AI"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Εμφάνιση"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Εμφανίζει τα βίντεο AI όπως όλα τα υπόλοιπα."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Σήμανση"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "Προσθέτει σήμανση «AI» στις μικρογραφίες αυτών των βίντεο."
+  },
+  "settings_ytAiContentCover": {
+    "message": "Κάλυψη"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Καλύπτει αυτά τα βίντεο, αλλά μπορείς να αποκαλύψεις όποιο θέλεις."
+  },
+  "settings_ytAiContentHide": {
+    "message": "Απόκρυψη"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Δεν εμφανίζει αυτά τα βίντεο στις ροές, στην αναζήτηση ή στις προτάσεις."
+  },
+  "settings_ytAiVotes": {
+    "message": "Οι ψήφοι σου: AI ή όχι"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Όχι AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Κανένα κανάλι ακόμη"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Αφαίρεση καναλιού $1"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Αποκλεισμένα κανάλια"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Τα βίντεο αυτών των καναλιών κρύβονται παντού στο YouTube. Πάτησε «Αποκλεισμός καναλιού» κάτω από ένα βίντεο ή στη σελίδα ενός καναλιού."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts και διαφημίσεις"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Κινήσεις σάρωσης"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Αρχική και ροή"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI και κανάλια"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Επόμενο"
+  },
+  "settings_sectionTabs": {
+    "message": "Καρτέλες"
+  },
+  "settings_sectionFeed": {
+    "message": "Ροή"
+  },
+  "settings_sectionFeeds": {
+    "message": "Ροές"
+  },
+  "settings_sectionAppearance": {
+    "message": "Όψη"
+  },
+  "settings_sectionOther": {
+    "message": "Άλλα"
+  },
+  "support_titleHelp": {
+    "message": "Βοήθεια"
+  },
+  "support_titleFeedback": {
+    "message": "Πες μας τη γνώμη σου"
+  },
+  "support_titleReportProblem": {
+    "message": "Αναφορά προβλήματος"
+  },
+  "support_sentimentTitle": {
+    "message": "Τι θέλεις να μας πεις;"
+  },
+  "support_sentimentPositive": {
+    "message": "Κάτι που μου αρέσει"
+  },
+  "support_sentimentNegative": {
+    "message": "Κάτι που θέλει βελτίωση"
+  },
+  "support_reviewTitle": {
+    "message": "Χαιρόμαστε πολύ που το ακούμε!"
+  },
+  "support_reviewBody": {
+    "message": "Θα άφηνες μια σύντομη κριτική; Έτσι θα βρουν κι άλλοι το RelockIn.\n\nΓια τη μικρή μας ομάδα σημαίνει πολλά."
+  },
+  "support_reviewCta": {
+    "message": "Γράψε κριτική"
+  },
+  "support_personalNoteTitle": {
+    "message": "Λίγα λόγια από τον δημιουργό"
+  },
+  "support_personalNoteBody": {
+    "message": "Σε ευχαριστώ που χρησιμοποιείς το RelockIn. Διαβάζω προσωπικά κάθε μήνυμα και θα σου απαντήσω το συντομότερο."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Ευχαριστούμε! Έχεις σχόλια ή προτάσεις;"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Λυπούμαστε γι' αυτό. Πες μας τι δεν λειτουργεί και θα το εξετάσουμε."
+  },
+  "support_messageLabel": {
+    "message": "Το μήνυμά σου"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Πώς μπορούμε να σε βοηθήσουμε;"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "Πες μας τι σκέφτεσαι"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "Τι δεν λειτουργεί σε αυτόν τον ιστότοπο;"
+  },
+  "support_siteLabel": {
+    "message": "Ιστότοπος"
+  },
+  "support_emailLabel": {
+    "message": "Το email σου"
+  },
+  "support_emailPlaceholder": {
+    "message": "you@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Γράψε μια έγκυρη διεύθυνση email."
+  },
+  "support_sendCta": {
+    "message": "Αποστολή"
+  },
+  "support_sendError": {
+    "message": "Δεν ήταν δυνατή η αποστολή του μηνύματός σου. Έλεγξε τη σύνδεσή σου και δοκίμασε ξανά."
+  },
+  "support_sentTitle": {
+    "message": "Το μήνυμα στάλθηκε"
+  },
+  "support_sentBodyFormat": {
+    "message": "Ευχαριστούμε! Θα σου απαντήσουμε στη διεύθυνση $1 το συντομότερο δυνατό."
+  },
+  "support_sendAnotherCta": {
+    "message": "Αποστολή νέου μηνύματος"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Χρειάζεσαι βοήθεια;"
+  },
+  "support_accountFooterCta": {
+    "message": "Επικοινωνία με την υποστήριξη"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Το μήνυμά σου πάει κατευθείαν στον δημιουργό"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Αρχεία καταγραφής διαγνωστικών"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Αρχεία καταγραφής διαγνωστικών"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Δεν υπάρχουν ακόμη καταχωρίσεις."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Αρχείο εντοπισμού σφαλμάτων"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Αυτές οι καταχωρίσεις αποθηκεύονται μόνο τοπικά σε αυτή τη συσκευή. Δεν ανεβαίνουν και δεν κοινοποιούνται ποτέ αυτόματα. Χρησιμοποίησε το κουμπί κοινοποίησης για να τις στείλεις στον δημιουργό όταν αναφέρεις ένα πρόβλημα."
+  },
+  "target_domainType": {
+    "message": "Ολόκληρος ιστότοπος"
+  },
+  "target_urlPatternType": {
+    "message": "Αντιστοίχιση URL"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Κλειδώνει κάθε σελίδα ενός ιστοτόπου. Απλώς γράψε το όνομά του (π.χ. reddit.com) — οι υποτομείς και οι διαδρομές URL δεν έχουν σημασία."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Κλειδώνει κάθε URL που περιέχει αυτό το κείμενο. Χρησιμοποίησε το * ως μπαλαντέρ για οτιδήποτε ενδιάμεσα.\n\nΓια παράδειγμα:\n- το youtube.com/shorts κλειδώνει τα Shorts του YouTube, αλλά όχι τα κανονικά βίντεο\n- το reddit.com/r/politics κλειδώνει μόνο αυτό το subreddit\n- το x.com/*/status/* κλειδώνει μεμονωμένες αναρτήσεις χωρίς να κλειδώνει το υπόλοιπο X, π.χ. τις σελίδες προφίλ"
+  },
+  "target_scopeNote": {
+    "message": "Τα κλειδώματά σου ισχύουν στο πρόγραμμα περιήγησης RelockIn, αλλά όχι σε άλλα προγράμματα περιήγησης, όπως το Safari. Μπορείς να ξεκινήσεις μια συνεδρία για να ξεκλειδώσεις για ορισμένο χρόνο."
+  },
+  "target_emptyPattern": {
+    "message": "(κενό)"
+  },
+  "target_addTargetTitle": {
+    "message": "Κλείδωμα ιστοτόπου"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "Τι θέλεις να κλειδώσεις;"
+  },
+  "target_removeTargetTitle": {
+    "message": "Αφαίρεση ιστοτόπου"
+  },
+  "target_editTargetTitle": {
+    "message": "Επεξεργασία στοιχείου"
+  },
+  "target_editingLabel": {
+    "message": "Σε επεξεργασία"
+  },
+  "target_typePickerLabel": {
+    "message": "Τύπος"
+  },
+  "typingSentences_short1": {
+    "message": "Το επιλέγω με πλήρη επίγνωση."
+  },
+  "typingSentences_short2": {
+    "message": "Αναλαμβάνω την ευθύνη αυτής της απόφασης."
+  },
+  "typingSentences_short3": {
+    "message": "Αυτή η επιλογή είναι δική μου."
+  },
+  "typingSentences_short4": {
+    "message": "Αυτή η απόφαση είναι συνειδητή."
+  },
+  "typingSentences_short5": {
+    "message": "Κάνω αυτή την επιλογή με σκέψη."
+  },
+  "typingSentences_long1": {
+    "message": "Αναγνωρίζω πλήρως ότι παρακάμπτω τα όρια που έβαλα για να προστατέψω τον χρόνο και τη συγκέντρωσή μου, και αναλαμβάνω την ευθύνη αυτής της επιλογής."
+  },
+  "typingSentences_long2": {
+    "message": "Είμαστε αυτό που κάνουμε επανειλημμένα. Η αριστεία, λοιπόν, δεν είναι πράξη αλλά συνήθεια. - Ουίλ Ντουράντ"
+  },
+  "typingSentences_long3": {
+    "message": "Οι επιλογές σου γίνονται συνήθειες. Οι συνήθειες γίνονται χαρακτήρας. Και ο χαρακτήρας γίνεται πεπρωμένο."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Το doomscrolling ή doomsurfing είναι η συνήθεια να περνά κανείς υπερβολικά πολύ χρόνο βλέποντας σύντομα βίντεο ή μεγάλο όγκο περιεχομένου χρηστών ή ειδήσεων, κυρίως αρνητικών, στο διαδίκτυο και στα μέσα κοινωνικής δικτύωσης. Έρευνες και μελέτες δείχνουν ότι το doomscrolling είναι πιο διαδεδομένο στους νέους. Το 2019, μια μελέτη της Εθνικής Ακαδημίας Επιστημών των ΗΠΑ διαπίστωσε ότι το doomscrolling μπορεί να συνδέεται με επιδείνωση της ψυχικής και σωματικής υγείας."
+  },
+  "typingSentences_paragraph2": {
+    "message": "Η ατέρμονη κύλιση είναι μια σχεδιαστική προσέγγιση που φορτώνει συνεχώς περιεχόμενο καθώς ο χρήστης κάνει κύλιση προς τα κάτω, καταργώντας την ανάγκη για σελιδοποίηση. Έτσι, μπορεί να επιδεινώσει το doomscrolling, αφού αφαιρεί τα φυσικά σημεία όπου ο χρήστης θα μπορούσε να σταματήσει. Έρευνες έχουν επίσης δείξει ότι η τάση των μέσων κοινωνικής δικτύωσης να ενισχύουν το αρνητικό περιεχόμενο μπορεί να εντείνει αυτή τη συνεχή κύλιση, κρατώντας τους χρήστες για πολλή ώρα σε δυσάρεστες ειδήσεις."
+  },
+  "typingSentences_paragraph3": {
+    "message": "Τα επιχειρηματικά μοντέλα των περισσότερων μέσων κοινωνικής δικτύωσης βασίζονται στην αλληλεπίδραση των χρηστών, που σημαίνει ότι όσο περισσότερο μένουν οι χρήστες στις πλατφόρμες, τόσο περισσότερες διαφημίσεις βλέπουν και τόσο περισσότερα δεδομένα συλλέγονται για τη συμπεριφορά τους. Έτσι δημιουργείται ένας κύκλος όπου συναισθηματικά φορτισμένο περιεχόμενο - συχνά αρνητικό ή αγχωτικό - προβάλλεται ξανά και ξανά στους χρήστες, ωθώντας τους να συνεχίζουν την κύλιση και να καταναλώνουν όλο και περισσότερο περιεχόμενο."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Η άμεση ψυχαγωγία, πληροφόρηση και επικοινωνία κάνουν τα μέσα κοινωνικής δικτύωσης ελκυστικά. Ο εθισμός στα μέσα κοινωνικής δικτύωσης χαρακτηρίζεται από υπερβολική και καταναγκαστική χρήση που επηρεάζει την καθημερινότητα και τη συνολική ευεξία. Δεν είναι μόνο ο υπερβολικός χρόνος στο διαδίκτυο. Περιλαμβάνει τον καταναγκαστικό έλεγχο για ενημερώσεις, το άγχος όταν είναι κανείς εκτός σύνδεσης και τις αρνητικές συνέπειες στις πραγματικές σχέσεις και υποχρεώσεις."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Οι αλγόριθμοι των σύντομων βίντεο είναι εξαιρετικά εθιστικοί, επειδή αφαιρούν από την εξίσωση τις επιλογές και την πρόθεσή σου. Αφαιρώντας το νοητικό βάρος του να αποφασίζεις τι θα δεις μετά, οι εφαρμογές αντικαθιστούν τη συνειδητή απόφαση με μια αδιάκοπη, παθητική ροή στον αυτόματο πιλότο. Σε αυτή τη ροή, είναι απίστευτα εύκολο και ευχάριστο να συνεχίσεις και απίστευτα δύσκολο να σταματήσεις."
+  },
+  "typingSentences_paragraph6": {
+    "message": "Τα μέσα κοινωνικής δικτύωσης είναι σχεδιασμένα για να προκαλούν εθισμό. Οι εταιρείες τεχνολογίας φτιάχνουν αυτές τις εφαρμογές ώστε να τραβούν την προσοχή σου ενεργοποιώντας το κέντρο ανταμοιβής του εγκεφάλου. Ο συνδυασμός της επιβράβευσης που απελευθερώνει ντοπαμίνη, των απρόβλεπτων ανταμοιβών και των ψυχολογικών αγκιστριών κάνει απίστευτα δύσκολο να αφήσεις το κινητό. Η αναγνώριση αυτών των τακτικών είναι το πρώτο βήμα για να ανακτήσεις τον έλεγχο των ψηφιακών σου συνηθειών και να χτίσεις μια πιο υγιή σχέση με την τεχνολογία."
+  },
+  "usage_title": {
+    "message": "Χρήση"
+  },
+  "usage_subtitle": {
+    "message": "Παρακολούθησε τον χρόνο οθόνης σου ανά κανόνα και συνεδρία."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Δεν υπάρχουν δεδομένα χρήσης"
+  },
+  "usage_noUsageBody": {
+    "message": "Τα δεδομένα θα εμφανιστούν εδώ μόλις ξεκινήσεις συνεδρίες."
+  },
+  "usage_today": {
+    "message": "Σήμερα"
+  },
+  "usage_thisWeek": {
+    "message": "Αυτή την εβδομάδα"
+  },
+  "usage_thisMonth": {
+    "message": "Αυτόν τον μήνα"
+  },
+  "usage_yesterday": {
+    "message": "Χθες"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Δεν έχεις ορίσει ακόμη κανόνες."
+  },
+  "usage_daily": {
+    "message": "Ημέρα"
+  },
+  "usage_weekly": {
+    "message": "Εβδομάδα"
+  },
+  "usage_monthly": {
+    "message": "Μήνας"
+  },
+  "usage_previousPeriod": {
+    "message": "Προηγούμενη περίοδος"
+  },
+  "usage_nextPeriod": {
+    "message": "Επόμενη περίοδος"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Περίοδος"
+  },
+  "usage_unknownRule": {
+    "message": "Άγνωστος κανόνας"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 από $2"
+  },
+  "locale_firstWeekday": {
+    "message": "1"
+  }
+}

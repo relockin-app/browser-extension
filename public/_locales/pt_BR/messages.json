@@ -1,0 +1,2879 @@
+{
+  "about_tagline": {
+    "message": "Bloqueie as distrações. Foque na sua melhor versão."
+  },
+  "about_welcome": {
+    "message": "Boas-vindas ao RelockIn!"
+  },
+  "about_sentence": {
+    "message": "O RelockIn é o navegador que acaba com as distrações. Na Central de foco, você configura facilmente regras e horários para limitar o uso de apps e sites que distraem. Tudo parte de um princípio simples: e se cada minuto no celular fosse intencional?\n\nAlém disso, o RelockIn inclui um navegador móvel totalmente personalizável e que respeita sua privacidade. O RelockIn nunca rastreia suas buscas e nunca compartilha seus dados com ninguém. Por ser o único app de foco com navegador totalmente integrado, é o único que permite personalizar sites para remover recursos que distraem, como Reels e Shorts, oferecendo uma camada avançada de controle."
+  },
+  "about_versionHeader": {
+    "message": "RelockIn para Android"
+  },
+  "about_extensionName": {
+    "message": "RelockIn - Bloqueie o lixo de IA, Shorts, Reels e sites | Tempo de tela"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn - Bloqueie o lixo de IA, Shorts e sites"
+  },
+  "about_extensionDescription": {
+    "message": "Bloqueie vídeos de IA, Shorts, Reels e feeds sem fim. E mais: limites de tempo e horários para qualquer site."
+  },
+  "challengeGoals_deleteRule": {
+    "message": "excluir esta regra"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "excluir o limite de “$1”"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "aumentar seu limite diário"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "pular a pausa"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "ignorar sua restrição de horário"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "ignorar seu limite diário"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "excluir este horário"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "flexibilizar este horário"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "remover apps ou sites externos da sua lista de bloqueio"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "flexibilizar esta proteção"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "facilitar o desafio “$1”"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "excluir o desafio “$1”"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "desativar a opção “Me desafiar antes de flexibilizar as proteções”"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "Se eu atingir meu limite diário e precisar de mais tempo…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "Até 2 min"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 min"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "Mais de 10 min"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "Se eu precisar ignorar um horário…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "Se eu quiser seguir com as sessões quando o app pedir uma pausa…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "Se você iniciar muitas sessões seguidas, pedimos que faça uma pausa. Você pode mudar a duração dela em “Evitar sessões seguidas”."
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 sessão seguida"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 sessões seguidas"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "4+ sessões seguidas"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "Se eu flexibilizar minhas regras de tempo de tela…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "Remover um app"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "Remover um site"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "Excluir uma regra"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "Aumentar um limite diário"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "Se eu flexibilizar um horário…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "Enquanto inativo"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "Enquanto ativo"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "Digite a frase para continuar"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "Digite o parágrafo para continuar"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "Parágrafo:\n“$1”"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "Aguarde a contagem regressiva"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "Você só pode continuar quando a contagem regressiva terminar."
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "Contagem concluída. Você já pode continuar."
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "Tem certeza de que quer fazer isso?"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "Tem certeza de que quer $1?"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "Quer mais proteção aqui? Acesse a aba Proteções para criar um atrito saudável que ajude a proteger seus objetivos."
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "Sim, continuar"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "Você não pode $1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "Você não pode fazer isso"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "Suas proteções tornam isso impossível, e nenhum desafio pode desbloquear essa ação."
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "Preciso mesmo fazer isso"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "Você pode alterar as configurações de proteção na aba Proteções."
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "Ir para Proteções"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "Frase:\n“$1”"
+  },
+  "challengeUi_confirm": {
+    "message": "Confirmar"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "Ainda não confere. Verifique a ortografia e a pontuação."
+  },
+  "challengeUi_typingCompleted": {
+    "message": "Concluído."
+  },
+  "challengeUi_typeExactly": {
+    "message": "Digite a frase exatamente como aparece."
+  },
+  "challengeUi_keepGoing": {
+    "message": "Continue…"
+  },
+  "challengeUi_typingReady": {
+    "message": "Pronto!"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "Texto diferente. Compare com cuidado: há um erro de digitação."
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "Resolva cada conta para continuar"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "Digite suas respostas e toque em Confirmar."
+  },
+  "challengeUi_allCorrect": {
+    "message": "Tudo certo!"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "Algumas respostas estão incorretas. Confira os campos destacados."
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "?"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "Resposta da conta $1"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "Sua pessoa de confiança será avisada"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "Enviaremos um e-mail para sua pessoa de confiança avisando que você escolheu ignorar seus limites. Esse aviso serve para ajudar você a manter o compromisso com suas metas."
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "Enviar aviso e continuar"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "Não consigo fazer isso"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "Em vez disso, espere $1 minutos"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "pt"
+  },
+  "challengeUi_waitInsteadTitle__many": {
+    "message": "Em vez disso, espere $1 de minutos"
+  },
+  "challengeUi_waitInsteadTitle__one": {
+    "message": "Em vez disso, espere $1 minuto"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "Nenhuma"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "Fácil"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "Média"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "Difícil"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "Muito difícil"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "Extrema"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "Impossível"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "Só confirmação"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "Padrão: $1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "Falha ao salvar"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "Tempo restante: $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "Campo do desafio"
+  },
+  "challenges_customizeChallenges": {
+    "message": "Personalizar desafios"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "Altere as etapas dos desafios “Fácil”, “Média” e “Difícil” ou crie os seus"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "Quando me desafiar"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "Altere a dificuldade de excluir uma regra de tempo de tela, pedir tempo extra e muito mais"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "Integrados"
+  },
+  "challenges_customChallengesSection": {
+    "message": "Personalizados"
+  },
+  "challenges_newChallenge": {
+    "message": "Novo"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "Nenhum desafio personalizado ainda. Toque em + para criar um."
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "Nome (ex.: “Brutal”)"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "Novo desafio"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "Dê um nome único a este desafio."
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "Escolha o que cada desafio exige de você ou crie o seu."
+  },
+  "challenges_savedBadge": {
+    "message": "Salvo"
+  },
+  "challenges_noSteps": {
+    "message": "Sem etapas — adicione pelo menos uma para salvar."
+  },
+  "challenges_addStep": {
+    "message": "Adicionar etapa"
+  },
+  "challenges_difficultyLabel": {
+    "message": "Dificuldade"
+  },
+  "challenges_problemsLabel": {
+    "message": "Contas"
+  },
+  "challenges_operationsLabel": {
+    "message": "Operações"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "Digitar uma frase curta"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "Digitar uma frase longa"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "Digitar um parágrafo"
+  },
+  "challenges_stepNameMath": {
+    "message": "Fazer contas"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "Avisar pessoa de confiança"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "Aguardar a contagem regressiva"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "Duração: $1 min $2 s"
+  },
+  "challenges_stepCount": {
+    "message": "$1 etapas"
+  },
+  "challenges_stepCount__lang": {
+    "message": "pt"
+  },
+  "challenges_stepCount__many": {
+    "message": "$1 de etapas"
+  },
+  "challenges_stepCount__one": {
+    "message": "$1 etapa"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "Desafios desta regra"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "Vale só para “$1”."
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "Se quiser mudar os desafios de todas as regras ou alterar as etapas deles:"
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "Ir para a aba Proteções"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "Me desafiar antes de flexibilizar as proteções"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "Para facilitar um desafio, primeiro você precisa fazer o que quer remover."
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "Você pode ajustar as proteções à vontade por mais $1 minutos. Depois disso, flexibilizá-las exige um desafio."
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "pt"
+  },
+  "challenges_looseningGraceMinutes__many": {
+    "message": "Você pode ajustar as proteções à vontade por mais $1 de minutos. Depois disso, flexibilizá-las exige um desafio."
+  },
+  "challenges_looseningGraceMinutes__one": {
+    "message": "Você pode ajustar as proteções à vontade por mais $1 minuto. Depois disso, flexibilizá-las exige um desafio."
+  },
+  "common_save": {
+    "message": "Salvar"
+  },
+  "common_cancel": {
+    "message": "Cancelar"
+  },
+  "common_done": {
+    "message": "Concluir"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "Editar"
+  },
+  "common_delete": {
+    "message": "Excluir"
+  },
+  "common_defaultOption": {
+    "message": "Padrão"
+  },
+  "common_back": {
+    "message": "Voltar"
+  },
+  "common_skip": {
+    "message": "Pular"
+  },
+  "common_next": {
+    "message": "Avançar"
+  },
+  "common_gotIt": {
+    "message": "Entendi"
+  },
+  "common_none": {
+    "message": "Nenhum"
+  },
+  "common_yes": {
+    "message": "Sim"
+  },
+  "common_no": {
+    "message": "Não"
+  },
+  "common_start": {
+    "message": "Iniciar"
+  },
+  "common_loading": {
+    "message": "Carregando…"
+  },
+  "common_error": {
+    "message": "Erro"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "Fechar"
+  },
+  "common_continue": {
+    "message": "Continuar"
+  },
+  "common_dismiss": {
+    "message": "Dispensar"
+  },
+  "common_notNow": {
+    "message": "Agora não"
+  },
+  "common_noThanks": {
+    "message": "Agora não"
+  },
+  "common_maybeLater": {
+    "message": "Talvez depois"
+  },
+  "common_add": {
+    "message": "Adicionar"
+  },
+  "common_create": {
+    "message": "Criar"
+  },
+  "common_startSetup": {
+    "message": "Iniciar configuração"
+  },
+  "common_continueSetup": {
+    "message": "Continuar configuração"
+  },
+  "common_resumeSetupTitle": {
+    "message": "Continue de onde parou"
+  },
+  "common_setItUp": {
+    "message": "Configurar"
+  },
+  "common_howItWorks": {
+    "message": "Como funciona"
+  },
+  "common_getStarted": {
+    "message": "Começar"
+  },
+  "common_signIn": {
+    "message": "Fazer login"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 min"
+  },
+  "common_hoursCount": {
+    "message": "$1 horas"
+  },
+  "common_hoursCount__lang": {
+    "message": "pt"
+  },
+  "common_hoursCount__many": {
+    "message": "$1 de horas"
+  },
+  "common_hoursCount__one": {
+    "message": "$1 hora"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "Etapa $1 de $2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "Removemos $1 Shorts do seu feed"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "pt"
+  },
+  "domShared_ytShortsRemovedBadge__many": {
+    "message": "Removemos $1 de Shorts do seu feed"
+  },
+  "domShared_ytShortsRemovedBadge__one": {
+    "message": "Removemos $1 Short do seu feed"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "Fechar"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "Coberto pelo RelockIn"
+  },
+  "domShared_coverDismiss": {
+    "message": "Revelar"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "Não é possível revelar"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "Revelar ($1s)"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "Faça login para continuar."
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "Fazer login"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "fechar"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "O Reddit acabou de tentar forçar você a usar o app dele."
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "Se encontrar algum problema, recarregue a página ou mude para o Modo Zen."
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "fechar"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "Este feed está oculto"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Você escolheu ocultar os feeds “Popular” e “All” do Reddit."
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Você escolheu ocultar seus feeds do Reddit."
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "Seus subreddits"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "Você pode mudar isso nas configurações do RelockIn."
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "Você já viu tudo"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "Essas são todas as novidades dos subreddits aos quais você se uniu."
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "Ver se há mais"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "Reproduzir"
+  },
+  "domShared_ytControlsPause": {
+    "message": "Pausar"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "Pular anúncio"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "Velocidade de reprodução"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "Volume"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "dar upvote"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "dar downvote"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "remover voto"
+  },
+  "domShared_redditActionSave": {
+    "message": "salvar"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "remover dos salvos"
+  },
+  "domShared_redditActionHide": {
+    "message": "ocultar"
+  },
+  "domShared_redditActionShare": {
+    "message": "compartilhar"
+  },
+  "domShared_redditActionComments": {
+    "message": "comentários"
+  },
+  "domShared_redditActionExpand": {
+    "message": "expandir"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "recolher"
+  },
+  "domShared_redditActionReply": {
+    "message": "responder"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "mais opções"
+  },
+  "domShared_redditActionScore": {
+    "message": "pontuação"
+  },
+  "domShared_redditActionSource": {
+    "message": "Fonte"
+  },
+  "domShared_redditActionPreview": {
+    "message": "Prévia"
+  },
+  "domShared_redditMenuSave": {
+    "message": "Salvar"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "Remover dos salvos"
+  },
+  "domShared_redditMenuHide": {
+    "message": "Ocultar"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "Reexibir"
+  },
+  "domShared_redditMenuShare": {
+    "message": "Compartilhar"
+  },
+  "domShared_redditMenuReport": {
+    "message": "Denunciar"
+  },
+  "domShared_redditMenuParent": {
+    "message": "Comentário pai"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "Link permanente"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "Incorporar"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "Crosspost"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "Copiar link do comentário"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "Copiar link da publicação"
+  },
+  "domShared_redditAgeNow": {
+    "message": "agora"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1min"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1h"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1d"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1mês"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1a"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Stories do Instagram"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "Ocultamos esta publicação de alguém que você não segue."
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "Ocultamos este vídeo."
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "Ocultamos este anúncio."
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "Por: $1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "Esta publicação é de uma conexão de 3º grau"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "Esta publicação não é de uma conexão de 1º grau"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "Cobrimos a publicação para proteger seu foco."
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "Ocultamos este anúncio para proteger seu foco"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "Toque para revelar"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "Imagem coberta para proteger seu foco"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "Toque para revelar."
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "Vídeo coberto para proteger seu foco."
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "Vídeos recomendados"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "Velocidade de reprodução: $1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "Volume: $1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "Voltar 10 segundos"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "Avançar 10 segundos"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "faça algo melhor."
+  },
+  "domShared_ytAiBadge": {
+    "message": "IA"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "Vídeo gerado por IA"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "Você votou “IA” para este canal"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "Ver mesmo assim"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "Assistir mesmo assim"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "Não IA"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "IA?"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "Possível IA"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "Provável IA"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "Muito provável IA"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "Sem consenso"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "Revisado pelo RelockIn"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "Provavelmente gerado por IA"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "Muito provavelmente gerado por IA"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "Segundo os votos de usuários do RelockIn"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "Este canal faz vídeos com IA?"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "IA"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "O que conta como IA?"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "Seu voto só muda o que você vê. Faça login no RelockIn para compartilhá-lo com a comunidade."
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "Fazer login"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "Fechar"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "Vote “IA” se a maioria dos vídeos do canal usar:"
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "Um roteiro escrito por IA"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "Uma voz de IA"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "Imagens ou vídeos gerados por IA"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "Música gerada por IA"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "Não conta como IA:"
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "Vídeos sobre IA, como análises de ferramentas de IA"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "Pequenos retoques de IA, como limpeza de áudio"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "Seu voto muda na hora o que você vê e ajuda outros usuários do RelockIn."
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "Rótulo errado? Solicite uma revisão"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "Mais opções"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "Bloquear canal"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "Bloqueado"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "Desbloquear canal"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "Você bloqueou este canal"
+  },
+  "limits_title": {
+    "message": "Regras e sessões"
+  },
+  "limits_subtitle": {
+    "message": "Inicie sessões e gerencie suas regras de tempo de tela."
+  },
+  "limits_addRule": {
+    "message": "+ Adicionar regra"
+  },
+  "limits_webextRulesTitle": {
+    "message": "Regras de tempo de tela"
+  },
+  "limits_webextRulesDescription": {
+    "message": "Proteja seu tempo com limites diários e sessões"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "Nenhuma regra ainda. Adicione uma para definir limites de tempo."
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "Redes sociais"
+  },
+  "main_backToBrowser": {
+    "message": "Voltar ao navegador"
+  },
+  "main_openFullPage": {
+    "message": "Abrir em página inteira"
+  },
+  "main_tabLimits": {
+    "message": "Regras"
+  },
+  "main_tabSettings": {
+    "message": "Sites"
+  },
+  "main_protectionTitle": {
+    "message": "Proteções"
+  },
+  "main_protectionSubtitle": {
+    "message": "Crie um obstáculo saudável antes de decisões por impulso"
+  },
+  "main_tabAccount": {
+    "message": "Conta"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "Média diária"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "méd."
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "Clique no ícone de **quebra-cabeça** na barra de ferramentas"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "Encontre o **RelockIn** e clique no ícone de **fixar**"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "Suas regras de tempo de tela"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "Clique em uma regra para editar. Cada uma tem seu próprio limite diário."
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "Boas-vindas ao **RelockIn**."
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "Leva cerca de um minuto"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "Nem tanto"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "Cansou do lixo de IA no YouTube?"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "Vídeos de IA feitos sem capricho estão por toda parte, do feed à pesquisa."
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "Quer passar menos tempo rolando a tela?"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "Sem depender só da força de vontade."
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "Conteúdo de IA"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "Identifique vídeos de IA **antes** de clicar."
+  },
+  "onboardingWebext_aiBody": {
+    "message": "Podemos cobrir, ocultar ou rotular o conteúdo de IA no seu feed."
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "Opcional"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "Ajude a **sinalizar** conteúdo de IA."
+  },
+  "onboardingWebext_accountBody": {
+    "message": "Nossa comunidade sinaliza conteúdo de IA. Se você criar uma conta, seus votos ajudam outras pessoas a identificar e bloquear esse conteúdo."
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "Conta conectada"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "Agora seus votos ajudam outras pessoas a identificar e bloquear conteúdo de IA."
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "Continuar com e-mail"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "Vídeos curtos"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "Faça Shorts e Reels **sumirem**."
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "Tire os Shorts do YouTube e os Reels do Instagram. Fique só com o que você quer."
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "Ocultar Shorts e Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "Opcional: limites diários"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "Navegue de forma **consciente**."
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "Quais sites devem ter limite?"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "Você pode adicionar mais depois."
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "Escolha um site para ver a regra dele aqui"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "Acesso rápido"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "Fixada. Boa!"
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn para iPhone e Android"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "Leve o RelockIn para o **celular**."
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "O app RelockIn permite personalizar o YouTube, o Instagram e mais para remover a IA e distrações como Shorts e Reels.\n\nEle também pode bloquear apps que distraem, para você ter seu tempo de volta."
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "Escaneie com a câmera do celular"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "Tudo pronto."
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "Ver no YouTube"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "Termine a configuração"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "A configuração abre em uma aba própria e leva cerca de um minuto."
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "Continuar configuração"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "Corte o lixo de IA, os Shorts e os feeds infinitos dos sites que você mais usa."
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "Por que criar uma conta?"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "Sem uma conta, seus votos marcam canais de IA só para você e não ajudam mais ninguém. Com uma conta, podemos confiar nos seus votos para ajudar a marcar conteúdo de IA para toda a comunidade. Ninguém mais pode ver como você votou.\n\nSua conta também funciona no RelockIn para iPhone e Android."
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "A transparência é importante para nós. $1."
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "Nosso código é público"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "Personalizar sites"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**Mais de 40 formas** de deixar os sites menos viciantes."
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "O RelockIn pode mudar o YouTube, o Instagram, o Reddit, o X e o LinkedIn. Teste algumas aqui; as outras estão nas configurações."
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "Limite diário: $1"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "Deixe o RelockIn **a um clique**."
+  },
+  "onboardingWebext_pinBody": {
+    "message": "Fixe a extensão para mudar qualquer configuração com facilidade."
+  },
+  "onboardingWebext_tourClose": {
+    "message": "Fechar configuração"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "Nenhum limite ainda"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "Escolha os sites onde você perde tempo e defina um limite diário para cada um. Leva uns 30 segundos."
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "Definir limites"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "Mostrar no feed só publicações de contas que você segue"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "Desativar r/popular e r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "Vídeos de IA"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts e Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "Ajustes nos sites"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "Limites diários"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "Votos sobre IA"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "Ocultos"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "Visíveis"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "Desativados"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "Cobertos"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "Rotulados"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "Para toda a comunidade"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "Só para você"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1 ativos"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "pt"
+  },
+  "onboardingWebext_doneStatusTweaksOn__many": {
+    "message": "$1 ativos"
+  },
+  "onboardingWebext_doneStatusTweaksOn__one": {
+    "message": "$1 ativo"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 sites"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "pt"
+  },
+  "onboardingWebext_doneStatusLimits__many": {
+    "message": "$1 de sites"
+  },
+  "onboardingWebext_doneStatusLimits__one": {
+    "message": "$1 site"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "Você gostaria que as redes sociais fossem menos viciantes?"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "Menos distrações, sem abrir mão do que você gosta."
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "Você está no lugar certo."
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "Entendido. Agora mostramos como tudo funciona."
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "Você pode definir um limite diário para qualquer site.\n\nO RelockIn ajuda você a parar de rolar a tela no piloto automático."
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "Escolha quanto tempo precisa"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "Use o site"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "Acabou o tempo? Bloqueia de novo"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "Experimentar limites diários"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "Está tudo **aqui**."
+  },
+  "onboardingWebext_tourBody": {
+    "message": "Abra este painel quando quiser pelo ícone do RelockIn na barra de ferramentas."
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "Quanto tempo você quer passar no $1?"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "Sua sessão no $1 terminou."
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "min/dia"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5 minutos a menos"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5 minutos a mais"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "Tempo de Uso"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "Mude o que quiser pelo ícone do RelockIn na barra de ferramentas."
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "Mude o que quiser pelo RelockIn no menu de extensões do navegador."
+  },
+  "overlay_breathScreenHeading": {
+    "message": "Esta é a melhor forma de usar seu tempo agora?"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "respire fundo"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "Ou, se precisar mesmo continuar em $1, inicie uma sessão da regra “$2”"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "Restam $1m $2s hoje"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "Tenha o RelockIn no celular"
+  },
+  "overlay_closeTab": {
+    "message": "Fechar esta aba"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "disponível hoje"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "usado hoje"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "reinicia"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "Ou, se precisar mesmo continuar, inicie uma sessão da regra “$1”"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "“$1”"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "Regra atual: $1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "Abrir o RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "Mais opções"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "uso diário"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "QR code para baixar o RelockIn"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "Baixe o app **RelockIn**"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "Remova Shorts, Reels e vídeos de IA"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "Defina limites diários para qualquer app ou site"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "Proteja seu sono e seu foco"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "Esta extensão é limitada no celular"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "Com o app RelockIn, limite qualquer app e remova todas as distrações e vídeos de IA."
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "Não funciona nos apps do YouTube e do Instagram"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "Apenas um limite diário e um horário"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "Pode rotular vídeos de IA, mas não ocultá-los"
+  },
+  "phoneWebext_getApp": {
+    "message": "Baixar o app"
+  },
+  "phoneWebext_continueHere": {
+    "message": "Continuar no navegador"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "Ou continuar aqui (versão limitada)"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "Baixe o app RelockIn para criar quantas regras de tempo de tela quiser:"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "Baixe o app RelockIn para criar quantos horários quiser:"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "Experimente o **app RelockIn** para liberar todas as configurações"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "Disponível com o RelockIn Pro"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "Na versão gratuita, esses sites compartilham um único limite diário."
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "Freie os impulsos"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "Crie uma barreira antes de ações como ignorar um limite ou excluir regras.\nLeva cerca de um minuto."
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "Configurar proteções"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "Evitar sessões seguidas"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "Faça uma pausa após muitas sessões seguidas"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "Configure suas regras primeiro"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "Conclua a configuração das regras na aba Regras antes de adicionar proteções."
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "Pare para pensar antes de agir por impulso"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "Antes de ações como ignorar limites ou excluir regras, o RelockIn pode exigir um desafio rápido para confirmar que é de propósito."
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "Você sempre tem o controle."
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "Experimente"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "Toque em um cartão para testar o desafio."
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "Ignorar o limite diário por alguns minutos"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "Digitar uma frase curta"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "Remover um app da sua lista de bloqueio"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "Resolver algumas contas de matemática"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "Flexibilizar um horário"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "Digitar uma frase mais longa"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "Qual o rigor das suas proteções?"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "Você pode mudar isso quando quiser."
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "Leve"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "Pequenos lembretes antes de ações por impulso."
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "Equilibrado"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "Uma barreira extra para os deslizes mais comuns."
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "Rígido"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "Barreiras mais fortes para largar maus hábitos."
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "Recomendado"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "Usar nível $1"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "Evitar sessões seguidas"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "Podemos obrigar você a fazer uma pausa se iniciar muitas sessões seguidas."
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "Se eu iniciar 2+ sessões seguidas (com menos de"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "entre elas),"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "me obrigue a fazer uma pausa de"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "Exemplo"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  Você inicia uma sessão de 5 minutos de Redes sociais."
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  Você inicia outra sessão de 5 minutos"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  Nós obrigamos você a fazer uma pausa antes de poder iniciar uma terceira sessão"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 segundos"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 minuto"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 minutos"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 minutos"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 minutos"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 minutos"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "Suas proteções estão ativas"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "Personalize quando quiser:"
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "Quando você terá que fazer um desafio"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "O que cada desafio pede de você"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "Desafios para regras específicas"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "Voltar ao app principal"
+  },
+  "rule_noAppsBlocked": {
+    "message": "Nenhum app bloqueado"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "Nome da regra"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "Acesso temporário"
+  },
+  "rule_deleteRule": {
+    "message": "Excluir regra"
+  },
+  "rule_editRule": {
+    "message": "Editar regra"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "Apps bloqueados"
+  },
+  "rule_changeBlockedApps": {
+    "message": "Alterar apps bloqueados"
+  },
+  "rule_blockedInsideSection": {
+    "message": "Bloqueados no navegador RelockIn"
+  },
+  "rule_noTargets": {
+    "message": "Nenhum site bloqueado ainda."
+  },
+  "rule_ruleSettingsSection": {
+    "message": "Configurações da regra"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "Minutos permitidos por dia"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "Minutos"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "Diminuir o limite diário em $1 minutos"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "pt"
+  },
+  "rule_decreaseMinutesBy__many": {
+    "message": "Diminuir o limite diário em $1 de minutos"
+  },
+  "rule_decreaseMinutesBy__one": {
+    "message": "Diminuir o limite diário em $1 minuto"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "Aumentar o limite diário em $1 minutos"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "pt"
+  },
+  "rule_increaseMinutesBy__many": {
+    "message": "Aumentar o limite diário em $1 de minutos"
+  },
+  "rule_increaseMinutesBy__one": {
+    "message": "Aumentar o limite diário em $1 minuto"
+  },
+  "rule_customizeGuardrails": {
+    "message": "Personalizar proteções"
+  },
+  "rule_targetsSection": {
+    "message": "Sites incluídos"
+  },
+  "rule_defaultRuleName": {
+    "message": "Nova regra"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "Sessão ativa"
+  },
+  "rule_lockedAccessibility": {
+    "message": "Bloqueado"
+  },
+  "rule_appCount": {
+    "message": "$1 apps"
+  },
+  "rule_appCount__lang": {
+    "message": "pt"
+  },
+  "rule_appCount__many": {
+    "message": "$1 de apps"
+  },
+  "rule_appCount__one": {
+    "message": "$1 app"
+  },
+  "rule_siteCount": {
+    "message": "$1 sites"
+  },
+  "rule_siteCount__lang": {
+    "message": "pt"
+  },
+  "rule_siteCount__many": {
+    "message": "$1 de sites"
+  },
+  "rule_siteCount__one": {
+    "message": "$1 site"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "Nome do horário"
+  },
+  "scheduleCard_unsaved": {
+    "message": "Não salvo"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "PERÍODO"
+  },
+  "scheduleCard_startLabel": {
+    "message": "Início"
+  },
+  "scheduleCard_endLabel": {
+    "message": "Fim"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "DIAS ATIVOS"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "Todos os dias"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "Nenhum dia"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "Dias úteis"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "Fins de semana"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "D"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "S"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "T"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "Q"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "Q"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "S"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "S"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "Dom"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "Seg"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "Ter"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "Qua"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "Qui"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "Sex"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "Sáb"
+  },
+  "scheduleCard_modeSection": {
+    "message": "MODO"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "Bloquear durante"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "Permitir só durante"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "Você não pode iniciar sessões neste período."
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "Você pode iniciar sessões de desbloqueio *somente* neste período. No resto do dia, você não pode desbloquear esses apps."
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "Pode desbloquear"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "Não pode desbloquear"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "VALE PARA AS REGRAS"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "Nenhuma regra criada ainda."
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "Aplicar automaticamente às novas regras"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "Salvar alterações"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "Excluir este horário?"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "Excluir horário"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "Horário"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "Editar horário"
+  },
+  "schedules_title": {
+    "message": "Horários"
+  },
+  "schedules_subtitle": {
+    "message": "Controle quando você pode iniciar sessões."
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "Nenhum horário ainda"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "Adicione um horário para definir restrições de tempo para suas regras."
+  },
+  "schedules_addSchedule": {
+    "message": "+ Adicionar horário"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "Sono"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "Configure primeiro suas regras de tempo de tela"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "Conclua a configuração na aba Regras antes de criar horários."
+  },
+  "schedules_moreInfoContent": {
+    "message": "Suas regras bloqueiam apps e sites até você iniciar uma sessão. Os horários adicionam uma segunda camada: limitam *quando* você pode iniciar essas sessões.\n\nProteja seus momentos de sono, estudo ou foco, ou reserve momentos para pausas planejadas."
+  },
+  "schedules_limitReachedBadge": {
+    "message": "Comece o teste gratuito para ter mais de 1 horário"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "Erro: $1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "Falha ao adicionar horário: $1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "Falha ao atualizar: $1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "Falha ao excluir: $1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "Falha ao atualizar as regras vinculadas: $1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "Quero uma pausa de 5 minutos pra ver o Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "Seus apps ficam bloqueados até você desbloquear"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "Os sites que você escolheu ficam bloqueados até você desbloquear"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "Mas em certas horas você quer que eles continuem bloqueados"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "Mas em certas horas você quer que eles continuem bloqueados"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "Os horários tiram o botão de desbloquear"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "Assim, seus apps continuam bloqueados até o horário terminar."
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "Assim, seus sites continuam bloqueados até o horário terminar."
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "Poxa! Melhor ir dormir."
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "Vamos proteger seu sono"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "Escolha as horas para dormir, não para rolar o feed."
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "Proteger meu sono"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "Seu sono está protegido"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "Sem desbloqueios entre $1 e $2. Você pode mudar os dias, as horas ou as regras quando quiser."
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "Quer proteger também o tempo de trabalho ou estudo?"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "Adicione um horário quando quiser."
+  },
+  "session_sectionTitleActive": {
+    "message": "Sessão"
+  },
+  "session_sectionTitleInactive": {
+    "message": "Iniciar sessão"
+  },
+  "session_endingSession": {
+    "message": "Encerrando sessão…"
+  },
+  "session_startingSession": {
+    "message": "Iniciando sessão…"
+  },
+  "session_remainingInSession": {
+    "message": "restantes na sessão"
+  },
+  "session_endSession": {
+    "message": "Encerrar sessão"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "Restrição de horário ativa"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "Você não pode usar “$1” por causa do seu horário"
+  },
+  "session_blockedBadge": {
+    "message": "HORÁRIO ATIVO"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "Seus horários não permitem iniciar sessões agora."
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "Ignorar o horário"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "Também bloqueiam agora:"
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "Vários limites estão ativos ao mesmo tempo. Ignorar o mais rígido já basta para iniciar uma sessão."
+  },
+  "session_restrictionScheduleShort": {
+    "message": "Restrição de horário"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "Pausa de sessões seguidas"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "Bloqueado por “$1” até $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "Fora do horário permitido. “$1” começa às $2"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "Fora de todos os períodos permitidos"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "Permitido até “$1” bloquear às $2"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "Permitido até “$1” terminar às $2"
+  },
+  "session_other": {
+    "message": "Outro"
+  },
+  "session_duration": {
+    "message": "Duração"
+  },
+  "session_startSession": {
+    "message": "Iniciar sessão"
+  },
+  "session_takeABreak": {
+    "message": "Faça uma pausa."
+  },
+  "session_reopensInFormat": {
+    "message": "Disponível em $1s"
+  },
+  "session_reopensInLabel": {
+    "message": "Disponível em"
+  },
+  "session_bypassBreak": {
+    "message": "Pular a pausa"
+  },
+  "session_quickReturnExplanation": {
+    "message": "Chega de doomscrolling."
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "São $1 sessões seguidas. Chega de doomscrolling."
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "pt"
+  },
+  "session_quickReturnExplanationCount__many": {
+    "message": "São $1 de sessões seguidas. Chega de doomscrolling."
+  },
+  "session_quickReturnExplanationCount__one": {
+    "message": "É $1 sessão seguida. Chega de doomscrolling."
+  },
+  "session_overrideSizeLow": {
+    "message": "Até 2 min"
+  },
+  "session_overrideSizeMedium": {
+    "message": "Até 10 min"
+  },
+  "session_overrideSizeHigh": {
+    "message": "Até 60 min"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "De quanto tempo extra você precisa?"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "Desafio rápido para desbloquear"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "Desafio médio para desbloquear"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "Desafio difícil para desbloquear"
+  },
+  "session_overridesNotAllowed": {
+    "message": "Suas proteções não permitem tempo extra."
+  },
+  "session_dailyLimitReached": {
+    "message": "Limite diário atingido"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "Você usou $1 min hoje."
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "Vá dar uma volta, resolva aquela pendência ou ligue para alguém querido."
+  },
+  "session_nothingBetterToDo": {
+    "message": "Não tenho nada melhor para fazer"
+  },
+  "session_chooseLength": {
+    "message": "Escolha a duração da sessão"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "O desbloqueio é por tempo limitado"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "Toque em uma duração para iniciar sua sessão. Quando o tempo acabar, bloqueamos de novo."
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "Iniciar sessão: $1 min"
+  },
+  "settings_title": {
+    "message": "Personalizar sites"
+  },
+  "settings_igComments": {
+    "message": "Ocultar comentários do Instagram"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "Não aplicar a contas que você segue"
+  },
+  "settings_igStories": {
+    "message": "Stories do Instagram"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "Cobrir publicações de desconhecidos no feed"
+  },
+  "settings_igFeedVideos": {
+    "message": "Ocultar vídeos no feed"
+  },
+  "settings_igGuardAds": {
+    "message": "Ocultar anúncios"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "Deixar só a busca em “Explorar”"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "Exibir imagens em tons de cinza"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "Exibir vídeos em tons de cinza"
+  },
+  "settings_accountSignedInAs": {
+    "message": "Conta conectada"
+  },
+  "settings_accountSignOut": {
+    "message": "Sair"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Fazer login com o Google"
+  },
+  "settings_accountSignInDescription": {
+    "message": "Faça login para sincronizar seus dados entre dispositivos. Se você já comprou o RelockIn Pro, o login restaura sua assinatura."
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "Assinatura"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "Status"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "Sair da conta?"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "Seus dados não serão mais sincronizados entre dispositivos até você fazer login de novo."
+  },
+  "settings_accountSignOutError": {
+    "message": "Não foi possível sair. Tente novamente."
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "Para fazer login, precisamos da sua permissão. Todo o resto funciona sem conta."
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "Ao continuar, você concorda com nossos $1. Nossa $2 explica como usamos seus dados."
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "Ao criar uma conta, você concorda com nossos $1. Nossa $2 explica como usamos seus dados."
+  },
+  "settings_accountTermsOfService": {
+    "message": "Termos de uso"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "Política de privacidade"
+  },
+  "settings_accountSourceCode": {
+    "message": "Código-fonte"
+  },
+  "settings_accountSignInError": {
+    "message": "Não foi possível fazer login. Tente novamente."
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "O login não encontrou uma conta Google neste celular. Abra as Configurações do celular, vá em Senhas e contas (ou Contas e backup, em celulares Samsung) e confira se há uma conta Google adicionada. Se ela já estiver na lista e o login ainda falhar, tente removê-la e adicioná-la de novo."
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "O login com o Google não está configurado corretamente neste app. Entre em contato com o suporte."
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "O login foi interrompido. Tente novamente."
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "Este dispositivo não pode usar o login com o Google. Tente atualizar o Google Play Services ou faça login com e-mail."
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Não foi possível ler os dados de login do Google. Tente novamente."
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "Não foi possível conectar ao servidor de login. Verifique sua conexão e tente novamente."
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "O login retornou uma credencial inesperada. Tente novamente."
+  },
+  "settings_emailSignInCta": {
+    "message": "Fazer login com e-mail"
+  },
+  "settings_appleSignInCta": {
+    "message": "Iniciar sessão com a Apple"
+  },
+  "settings_emailSignInTitle": {
+    "message": "Fazer login"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "Faça login com seu e-mail e senha."
+  },
+  "settings_emailSignUpTitle": {
+    "message": "Criar conta"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "Crie uma conta para sincronizar entre dispositivos."
+  },
+  "settings_emailSignUpAction": {
+    "message": "Criar conta"
+  },
+  "settings_emailResetTitle": {
+    "message": "Redefinir senha"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "Informe seu e-mail e enviaremos um link para redefinir sua senha."
+  },
+  "settings_emailResetAction": {
+    "message": "Enviar link"
+  },
+  "settings_emailPlaceholder": {
+    "message": "E-mail"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "Senha"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "Confirmar senha"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "Esqueceu a senha?"
+  },
+  "settings_switchToSignUp": {
+    "message": "Não tem uma conta? Cadastre-se"
+  },
+  "settings_switchToSignIn": {
+    "message": "Já tem uma conta? Faça login"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "Confira seu e-mail"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "Enviamos um link de confirmação para seu e-mail. Verifique seu endereço antes de fazer login."
+  },
+  "settings_emailResetSentTitle": {
+    "message": "Link enviado"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "Se a conta existir, enviamos um e-mail com um link para redefinir sua senha."
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "Seu e-mail ainda não foi verificado. Procure o link de confirmação na sua caixa de entrada."
+  },
+  "settings_emailRateLimitError": {
+    "message": "Muitas tentativas. Tente novamente mais tarde."
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "Senha muito fraca. Use pelo menos 6 caracteres."
+  },
+  "settings_emailSignInFailedError": {
+    "message": "E-mail ou senha inválidos. Se você acabou de se cadastrar, verifique se já confirmou seu e-mail."
+  },
+  "settings_changePasswordCta": {
+    "message": "Alterar senha"
+  },
+  "settings_newPasswordTitle": {
+    "message": "Definir nova senha"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "Escolha uma nova senha para sua conta."
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "Nova senha"
+  },
+  "settings_newPasswordAction": {
+    "message": "Atualizar senha"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "Senha atualizada"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "Sua senha foi atualizada. Agora você pode fazer login com a nova senha."
+  },
+  "settings_newPasswordError": {
+    "message": "Não foi possível atualizar a senha. Tente novamente."
+  },
+  "settings_errorFillAllFields": {
+    "message": "Preencha todos os campos."
+  },
+  "settings_errorSignUpFailed": {
+    "message": "Não foi possível criar a conta."
+  },
+  "settings_errorEnterEmail": {
+    "message": "Informe seu e-mail."
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "Não foi possível enviar o e-mail de redefinição."
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "Senha atualizada."
+  },
+  "settings_accountSigningOut": {
+    "message": "Saindo…"
+  },
+  "settings_accountSigningIn": {
+    "message": "Fazendo login…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "N/D"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "Grátis"
+  },
+  "settings_backToSignIn": {
+    "message": "Voltar ao login"
+  },
+  "settings_sending": {
+    "message": "Enviando…"
+  },
+  "settings_updating": {
+    "message": "Atualizando…"
+  },
+  "settings_creatingAccount": {
+    "message": "Criando conta…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "Confirmar nova senha"
+  },
+  "settings_showPasswordCta": {
+    "message": "Mostrar"
+  },
+  "settings_hidePasswordCta": {
+    "message": "Ocultar"
+  },
+  "settings_passwordTooShortError": {
+    "message": "A senha deve ter pelo menos 6 caracteres."
+  },
+  "settings_passwordMismatchError": {
+    "message": "As senhas não coincidem."
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "Conta confirmada"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "Seu e-mail foi verificado e você já fez login."
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "Falha no link de login"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "Não conseguimos fazer login com esse link. Ele pode ter expirado ou já ter sido usado. Tente novamente ou solicite um novo e-mail.\n\nDetalhes: $1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "Excluir conta"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "Zona de perigo"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "ZONA DE PERIGO — Exclusão da conta"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "O que será excluído permanentemente:"
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "Suas credenciais de conta e seu perfil\nRegras, horários e configurações sincronizados\nHistórico de uso sincronizado e outros dados diversos do app"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "O que será mantido:"
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "Registros de compras e transações (exigidos por lei para fins fiscais e contábeis)\nRelatórios de falhas e diagnósticos"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "A exclusão não cancela assinaturas"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "Digite $1 para confirmar a exclusão permanente da conta"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "EXCLUIR"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "Esta ação não pode ser desfeita."
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "Falha na autenticação"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "Não foi possível verificar sua sessão. Faça login novamente antes de excluir sua conta."
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "Conta excluída"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "Sua conta foi excluída permanentemente."
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "Falha ao excluir a conta (erro $1). Tente novamente mais tarde ou entre em contato com o suporte em relockin.com/support se o erro persistir."
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "Corte distrações e produza mais"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "Mostrar"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "Cobrir"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "Remover"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "Revelar na hora"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "Revelar após 5 s"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "Revelar após 10 s"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "Nunca revelar"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "Revelar com desafio"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "Como revelar"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "Padrão"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "Celular"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "Computador"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "Visível"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "Desfoque leve"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "Desfoque forte"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "Tons de cinza"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "Preto"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "Ocultar Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "Ocultar aba Shorts"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "Ocultar aba Início"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "Redirecionar Início para Inscrições"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "Desativar reprodução automática"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "Desativar prévias de vídeo"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "Ocultar posts sem vídeo"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "Os posts da comunidade, as enquetes e as fotos não aparecem na aba Início."
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "Permitir pular todos os anúncios"
+  },
+  "settings_ytBlockAds": {
+    "message": "Bloquear anúncios"
+  },
+  "settings_ytHideEndCard": {
+    "message": "Ocultar vídeo “Próximo”"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "Vídeos recomendados"
+  },
+  "settings_ytDisplayMode": {
+    "message": "Modo de exibição"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "Filtro de miniaturas"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "Ocultar aba Reels"
+  },
+  "settings_hideHomeTab": {
+    "message": "Ocultar aba Página inicial"
+  },
+  "settings_igHomeFeed": {
+    "message": "Feed da página inicial"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "Padrão"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "O feed normal do Instagram, com publicações sugeridas."
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "Só Seguindo"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "Publicações recentes de contas que você segue, das mais novas às mais antigas."
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "Só Favoritos"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "Só publicações de contas na sua lista de Favoritos."
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "Ocultar link para o feed padrão"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Usar o Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Otimizar o Old Reddit para celular"
+  },
+  "settings_redditVersion": {
+    "message": "Versão do Reddit"
+  },
+  "settings_redditVersionZen": {
+    "message": "Modo Zen"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "Um Reddit mais rápido e limpo, criado a partir de um old.reddit.com renovado"
+  },
+  "settings_redditVersionStandard": {
+    "message": "Padrão"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Interface padrão do Reddit para celular"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "ATENÇÃO: recomendamos usar o Modo Zen. Caso contrário, o Reddit pode tentar obrigar você a usar o app dele"
+  },
+  "settings_redditFeedStyle": {
+    "message": "Estilo do feed"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "Só títulos"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "Navegue mais rápido só com os títulos. Toque ou deslize para abrir as publicações."
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "Miniaturas"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "Títulos com uma miniatura de cada publicação."
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "Expandido"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "Mostra imagens, vídeos e publicações de texto direto no feed."
+  },
+  "settings_redditHideFeeds": {
+    "message": "Limitar os feeds infinitos?"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "Mostrar todos os feeds"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "O Reddit funciona normalmente."
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "Ocultar “Popular” e “All”"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "Oculta feeds com publicações de desconhecidos, como “Popular”, “All” e “Explorar”. O “Feed principal” continua disponível."
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "Ocultar todos os feeds"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "Também oculta o “Feed principal”. Você ainda pode visitar subreddits e pesquisar."
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "Mostrar no “Feed principal” só publicações de subreddits aos quais você se uniu"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "Exibir imagens em tons de cinza"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "Mover a contagem de votos para baixo das publicações"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "Colorir comentários por nível de resposta"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "Ativar gestos de deslizar nos comentários"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "Deslizada curta para a direita"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "Deslizada longa para a direita"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "Deslizada curta para a esquerda"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "Deslizada longa para a esquerda"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "Dar upvote"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "Dar downvote"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "Recolher"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "Responder"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "Salvar"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "Ativar gestos de deslizar nas publicações"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "Dar upvote"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "Dar downvote"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "Ocultar"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "Compartilhar"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "Salvar"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "Abrir comentários"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "Abrir link de origem"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "Prévia"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "Subreddits com CSS personalizado permitido"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "Os estilos personalizados de subreddits ficam ocultos por padrão para facilitar a leitura em telas pequenas."
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "nome do subreddit (ex.: politics)"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "Remover $1"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "Nenhum subreddit adicionado ainda."
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "Ocultar “Para você”"
+  },
+  "settings_xHideAds": {
+    "message": "Ocultar anúncios"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "Filtrar publicações por grau de conexão"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "Mostrar tudo"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "Ocultar publicações de 3º grau"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "Ocultar publicações de 2º e 3º graus"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "Ocultar publicações promovidas"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "Cobrir imagens e vídeos no feed"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "Exibir imagens em tons de cinza"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "Exibir vídeos em tons de cinza"
+  },
+  "settings_inBrowserNote": {
+    "message": "Remova anúncios, elimine distrações e filtre seus feeds. Funciona no navegador RelockIn."
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "As configurações afetam os sites no navegador RelockIn, **não o app $1.** Faça login para ver a mudança no seu feed."
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "As configurações afetam os sites no navegador RelockIn, **não o app $1.** Abra o site para ver a mudança."
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "Ver em $1"
+  },
+  "settings_generalSection": {
+    "message": "Geral"
+  },
+  "settings_showSessionTimer": {
+    "message": "Mostrar timer da sessão"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "Me obrigar a respirar fundo antes de desbloquear um site"
+  },
+  "settings_breathLengthLabel": {
+    "message": "Duração da respiração (segundos)"
+  },
+  "settings_clearSection": {
+    "message": "Redefinir"
+  },
+  "settings_ytAiContent": {
+    "message": "Vídeos gerados por IA"
+  },
+  "settings_ytAiContentOff": {
+    "message": "Mostrar"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "Os vídeos de IA aparecem como qualquer outro vídeo."
+  },
+  "settings_ytAiContentBadge": {
+    "message": "Rotular"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "As miniaturas dos vídeos de IA recebem um rótulo “IA”."
+  },
+  "settings_ytAiContentCover": {
+    "message": "Cobrir"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "Os vídeos de IA ficam cobertos; você ainda pode revelar um."
+  },
+  "settings_ytAiContentHide": {
+    "message": "Ocultar"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "Os vídeos de IA não aparecem nos feeds, na pesquisa nem nas recomendações."
+  },
+  "settings_ytAiVotes": {
+    "message": "Seus votos: IA ou não"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "IA"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "Não IA"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "Nenhum canal ainda"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "Remover $1"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "Canais bloqueados"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "Os vídeos desses canais ficam ocultos em todo o YouTube. Use o botão “Bloquear canal” abaixo de um vídeo ou na página de um canal."
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts e anúncios"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "Gestos de deslizar"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "Início e feed"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "IA e canais"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "Próximo"
+  },
+  "settings_sectionTabs": {
+    "message": "Abas"
+  },
+  "settings_sectionFeed": {
+    "message": "Feed"
+  },
+  "settings_sectionFeeds": {
+    "message": "Feeds"
+  },
+  "settings_sectionAppearance": {
+    "message": "Aparência"
+  },
+  "settings_sectionOther": {
+    "message": "Outros"
+  },
+  "support_titleHelp": {
+    "message": "Pedir ajuda"
+  },
+  "support_titleFeedback": {
+    "message": "Enviar feedback"
+  },
+  "support_titleReportProblem": {
+    "message": "Relatar um problema"
+  },
+  "support_sentimentTitle": {
+    "message": "Que tipo de feedback você quer dar?"
+  },
+  "support_sentimentPositive": {
+    "message": "Algo de que eu gosto"
+  },
+  "support_sentimentNegative": {
+    "message": "Algo precisa melhorar"
+  },
+  "support_reviewTitle": {
+    "message": "Que bom saber disso!"
+  },
+  "support_reviewBody": {
+    "message": "Você poderia deixar uma avaliação rápida? Isso ajuda outras pessoas a encontrar o RelockIn.\n\nSignifica muito para a nossa pequena equipe."
+  },
+  "support_reviewCta": {
+    "message": "Escrever avaliação"
+  },
+  "support_personalNoteTitle": {
+    "message": "Um recado do dev"
+  },
+  "support_personalNoteBody": {
+    "message": "Obrigado por usar o RelockIn. Eu leio cada mensagem pessoalmente e respondo assim que puder."
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "Obrigado! Algum comentário ou sugestão?"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "Que pena. Conte o que não está funcionando e vamos dar uma olhada."
+  },
+  "support_messageLabel": {
+    "message": "Sua mensagem"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "Como podemos ajudar?"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "O que você quer nos contar?"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "O que está dando errado neste site?"
+  },
+  "support_siteLabel": {
+    "message": "Site"
+  },
+  "support_emailLabel": {
+    "message": "Seu e-mail"
+  },
+  "support_emailPlaceholder": {
+    "message": "voce@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "Informe um e-mail válido."
+  },
+  "support_sendCta": {
+    "message": "Enviar"
+  },
+  "support_sendError": {
+    "message": "Não foi possível enviar sua mensagem. Verifique sua conexão e tente novamente."
+  },
+  "support_sentTitle": {
+    "message": "Mensagem enviada"
+  },
+  "support_sentBodyFormat": {
+    "message": "Obrigado! Vamos responder para $1 assim que possível."
+  },
+  "support_sendAnotherCta": {
+    "message": "Enviar outra mensagem"
+  },
+  "support_accountFooterPrompt": {
+    "message": "Precisa de ajuda?"
+  },
+  "support_accountFooterCta": {
+    "message": "Fale com o suporte"
+  },
+  "support_accountFooterFormat": {
+    "message": "$1 $2"
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "Sua mensagem vai direto para o dev"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "Logs de diagnóstico"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "Logs de diagnóstico"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "Nenhum log ainda."
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "Log de depuração"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "Estes registros ficam armazenados apenas neste dispositivo. Eles nunca são enviados nem compartilhados automaticamente. Use o botão de compartilhar para enviá-los ao desenvolvedor ao relatar um problema."
+  },
+  "target_domainType": {
+    "message": "Site inteiro"
+  },
+  "target_urlPatternType": {
+    "message": "Parte da URL"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "Bloqueia todas as páginas de um site. Basta digitar o nome do site (como reddit.com): subdomínios e caminhos de URL não importam."
+  },
+  "target_urlPatternExplanation": {
+    "message": "Bloqueia qualquer URL que contenha este texto. Use * como curinga para qualquer trecho no meio.\n\nPor exemplo:\n- youtube.com/shorts bloqueia os Shorts do YouTube, mas não os vídeos normais\n- reddit.com/r/politics bloqueia só esse subreddit\n- x.com/*/status/* bloqueia posts individuais sem bloquear o resto do X, como as páginas de perfil"
+  },
+  "target_scopeNote": {
+    "message": "Seus bloqueios valem no navegador RelockIn, mas não em outros navegadores, como o Safari. Você pode iniciar uma sessão para um desbloqueio por tempo determinado."
+  },
+  "target_emptyPattern": {
+    "message": "(vazio)"
+  },
+  "target_addTargetTitle": {
+    "message": "Bloquear um site"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "O que você quer bloquear?"
+  },
+  "target_removeTargetTitle": {
+    "message": "Remover site"
+  },
+  "target_editTargetTitle": {
+    "message": "Editar item"
+  },
+  "target_editingLabel": {
+    "message": "Editando"
+  },
+  "target_typePickerLabel": {
+    "message": "Tipo"
+  },
+  "typingSentences_short1": {
+    "message": "Estou escolhendo isso com plena consciência."
+  },
+  "typingSentences_short2": {
+    "message": "Assumo a responsabilidade por esta decisão."
+  },
+  "typingSentences_short3": {
+    "message": "Esta escolha agora é minha."
+  },
+  "typingSentences_short4": {
+    "message": "Tomei esta decisão de propósito."
+  },
+  "typingSentences_short5": {
+    "message": "Faço esta escolha com atenção plena."
+  },
+  "typingSentences_long1": {
+    "message": "Reconheço plenamente que estou ignorando os limites que defini para proteger meu tempo e meu foco, e assumo a responsabilidade por essa escolha."
+  },
+  "typingSentences_long2": {
+    "message": "Somos aquilo que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito. - Will Durant"
+  },
+  "typingSentences_long3": {
+    "message": "Suas escolhas se tornam seus hábitos. Seus hábitos se tornam seu caráter. E seu caráter se torna seu destino."
+  },
+  "typingSentences_paragraph1": {
+    "message": "Doomscrolling ou doomsurfing é o ato de passar tempo excessivo assistindo a vídeos curtos ou a grandes quantidades de conteúdo criado por usuários ou de notícias, principalmente negativas, na web e nas redes sociais. Pesquisas e estudos sugerem que o doomscrolling é predominante entre os jovens. Em 2019, um estudo da Academia Nacional de Ciências dos Estados Unidos concluiu que o doomscrolling pode estar associado ao declínio da saúde mental e física."
+  },
+  "typingSentences_paragraph2": {
+    "message": "A rolagem infinita é uma abordagem de design que carrega conteúdo continuamente conforme o usuário rola a tela para baixo, eliminando a necessidade de paginação. Por isso, esse recurso pode agravar o doomscrolling, pois remove os pontos naturais de parada em que a pessoa poderia fazer uma pausa. Pesquisas também demonstraram que a tendência das plataformas de redes sociais de amplificar conteúdo negativo pode piorar esse comportamento de rolagem contínua, fazendo com que os usuários continuem envolvidos com notícias ruins por longos períodos."
+  },
+  "typingSentences_paragraph3": {
+    "message": "Os modelos de negócio da maioria das plataformas de redes sociais dependem muito do engajamento dos usuários, o que significa que, quanto mais tempo as pessoas ficam nas plataformas, mais anúncios veem e mais dados sobre seu comportamento são coletados. Isso cria um ciclo em que conteúdos carregados de emoção - muitas vezes com informações negativas ou que causam ansiedade - são empurrados repetidamente para os usuários, incentivando-os a continuar rolando e consumindo mais conteúdo."
+  },
+  "typingSentences_paragraph4": {
+    "message": "Entretenimento, informação e conectividade instantâneos tornam as redes sociais atraentes. O vício em redes sociais se caracteriza pelo uso excessivo e compulsivo, que afeta o funcionamento diário e o bem-estar geral. Ele vai além de passar tempo demais on-line: envolve verificar atualizações compulsivamente, sentir ansiedade quando se está off-line e sofrer impactos negativos nos relacionamentos e nas responsabilidades da vida real."
+  },
+  "typingSentences_paragraph5": {
+    "message": "Os algoritmos de conteúdo curto são intensamente viciantes porque tiram suas escolhas e sua intenção da equação. Ao eliminar o peso cognitivo de decidir o que vem a seguir, os apps substituem a decisão consciente por um fluxo contínuo e passivo, no piloto automático. Nesse estado de fluxo, continuar é incrivelmente fácil e gratificante, e parar é incrivelmente difícil."
+  },
+  "typingSentences_paragraph6": {
+    "message": "As redes sociais são feitas para viciar. As empresas de tecnologia criam esses apps para capturar sua atenção ao ativar o centro de recompensa do cérebro. A combinação de aprovação movida a dopamina, recompensas imprevisíveis e ganchos psicológicos torna incrivelmente difícil largar o celular. Reconhecer essas táticas de design é o primeiro passo para recuperar o controle sobre seus hábitos digitais e cultivar uma relação mais saudável com a tecnologia."
+  },
+  "usage_title": {
+    "message": "Uso"
+  },
+  "usage_subtitle": {
+    "message": "Acompanhe seu tempo de tela por regra e sessão."
+  },
+  "usage_noUsageHeadline": {
+    "message": "Nenhum dado de uso"
+  },
+  "usage_noUsageBody": {
+    "message": "Seu uso vai aparecer aqui quando você começar a usar suas sessões."
+  },
+  "usage_today": {
+    "message": "Hoje"
+  },
+  "usage_thisWeek": {
+    "message": "Esta semana"
+  },
+  "usage_thisMonth": {
+    "message": "Este mês"
+  },
+  "usage_yesterday": {
+    "message": "Ontem"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "Nenhuma regra criada ainda."
+  },
+  "usage_daily": {
+    "message": "Dia"
+  },
+  "usage_weekly": {
+    "message": "Semana"
+  },
+  "usage_monthly": {
+    "message": "Mês"
+  },
+  "usage_previousPeriod": {
+    "message": "Período anterior"
+  },
+  "usage_nextPeriod": {
+    "message": "Próximo período"
+  },
+  "usage_periodPickerLabel": {
+    "message": "Período"
+  },
+  "usage_unknownRule": {
+    "message": "Regra desconhecida"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$1 de $2"
+  },
+  "locale_firstWeekday": {
+    "message": "0"
+  }
+}

@@ -1,0 +1,2815 @@
+{
+  "about_tagline": {
+    "message": "擋下干擾，鎖定最好的自己"
+  },
+  "about_welcome": {
+    "message": "歡迎使用 RelockIn！"
+  },
+  "about_sentence": {
+    "message": "RelockIn 是一款幫你消滅干擾的瀏覽器。在專注中心，你可以輕鬆設定規則和排程，限制自己使用容易分心的應用程式和網站。它的原則很簡單：要是你花在手機上的每一分鐘，都是有意識的選擇呢？\n\n此外，RelockIn 還內建一個重視隱私、可完整自訂的行動瀏覽器。RelockIn 絕不追蹤你的搜尋，也絕不與任何人分享你的資料。RelockIn 是唯一內建完整瀏覽器的專注應用程式，因此也只有它能讓你自訂網站，移除 Reels 和 Shorts 等讓人分心的功能，給你更進一步的掌控權。"
+  },
+  "about_versionHeader": {
+    "message": "Android 版 RelockIn"
+  },
+  "about_extensionName": {
+    "message": "RelockIn - 封鎖 AI 垃圾內容、Shorts、Reels 和網站｜專注與螢幕時間"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn - 封鎖 AI 垃圾內容、Shorts、Reels 和網站"
+  },
+  "about_extensionDescription": {
+    "message": "封鎖 AI 影片、Shorts、Reels 和滑不完的動態消息，還能替任何網站設定使用時間限制和排程。"
+  },
+  "challengeGoals_deleteRule": {
+    "message": "刪除這條規則"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "移除「$1」的限制"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "增加每日可用分鐘數"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "跳過休息"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "暫時解除排程限制"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "超過每日上限繼續使用"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "刪除這個排程"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "放寬這個排程"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "從封鎖清單中移除其他應用程式或網站"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "放寬這項防護設定"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "降低「$1」任務的難度"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "刪除「$1」任務"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "關閉「放寬防護設定前先讓我完成任務」"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "如果我用完了每日上限，還需要更多時間……"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "最多 2 分鐘"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2–10 分鐘"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "超過 10 分鐘"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "如果我需要暫時解除排程封鎖……"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "如果 RelockIn 要我休息，我卻還想繼續用……"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "如果你連續開始太多個使用時段，我們會請你休息一下。你可以在「防止連續使用」中調整休息時間的長度。"
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "1 個連續使用時段"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "2–3 個連續使用時段"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "至少 4 個連續使用時段"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "如果我放寬螢幕時間規則……"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "移除應用程式"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "移除網站"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "刪除規則"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "提高每日上限"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "如果我放寬排程……"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "排程未封鎖時"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "排程封鎖期間"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "輸入句子即可繼續"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "輸入段落即可繼續"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "段落：\n「$1」"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "等待倒數結束"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "倒數結束前無法繼續。"
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "倒數結束，你可以繼續了。"
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "確定要這麼做嗎？"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "確定要$1嗎？"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "想在這裡多一層保護嗎？前往「防護」分頁設定適度的阻力，守住你的目標。"
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "是，繼續"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "無法$1"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "無法這麼做"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "你的防護設定不允許這個操作，完成任何任務都無法解鎖。"
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "我真的需要這麼做"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "你可以在「防護」分頁變更防護設定。"
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "前往防護設定"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "句子：\n「$1」"
+  },
+  "challengeUi_confirm": {
+    "message": "確認"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "還不一致，請檢查用字和標點符號。"
+  },
+  "challengeUi_typingCompleted": {
+    "message": "已完成。"
+  },
+  "challengeUi_typeExactly": {
+    "message": "請完全依照顯示的句子輸入。"
+  },
+  "challengeUi_keepGoing": {
+    "message": "繼續輸入……"
+  },
+  "challengeUi_typingReady": {
+    "message": "輸入完成！"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "內容不一致，請仔細比對，你打錯字了。"
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "解出每一題即可繼續"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "輸入答案後，輕觸「確認」。"
+  },
+  "challengeUi_allCorrect": {
+    "message": "全部答對！"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "有些答案不正確，請檢查標示的欄位。"
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "？"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "第 $1 題的答案"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "我們會通知你的督促夥伴"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "我們會寄電子郵件給你的督促夥伴，讓對方知道你選擇突破自己設下的限制。這則通知是為了幫助你堅守目標。"
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "傳送通知並繼續"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "我做不到"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "改為等待 $1 分鐘"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "zh-Hant"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "無"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "簡單"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "中等"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "困難"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "超困難"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "極限"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "不可能"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "僅需確認"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "預設：$1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "儲存失敗"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "還剩 $1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "任務輸入欄位"
+  },
+  "challenges_customizeChallenges": {
+    "message": "調整任務"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "變更「簡單」「中等」「困難」任務包含的步驟，或建立自己的任務"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "何時要我完成任務"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "調整刪除螢幕時間規則、取得額外時間等操作的難度"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "內建"
+  },
+  "challenges_customChallengesSection": {
+    "message": "自訂"
+  },
+  "challenges_newChallenge": {
+    "message": "新增"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "還沒有自訂任務。輕觸 + 即可建立。"
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "名稱（例如「地獄級」）"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "新增任務"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "請為這個任務取一個不重複的名稱。"
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "選擇每個任務要你完成哪些步驟，或建立自己的任務。"
+  },
+  "challenges_savedBadge": {
+    "message": "已儲存"
+  },
+  "challenges_noSteps": {
+    "message": "還沒有步驟，至少新增一個才能儲存。"
+  },
+  "challenges_addStep": {
+    "message": "新增步驟"
+  },
+  "challenges_difficultyLabel": {
+    "message": "難度"
+  },
+  "challenges_problemsLabel": {
+    "message": "題數"
+  },
+  "challenges_operationsLabel": {
+    "message": "運算"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "輸入短句"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "輸入長句"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "輸入段落"
+  },
+  "challenges_stepNameMath": {
+    "message": "解數學題"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "通知督促夥伴"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "等待倒數"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "時間長度：$1 分 $2 秒"
+  },
+  "challenges_stepCount": {
+    "message": "$1 個步驟"
+  },
+  "challenges_stepCount__lang": {
+    "message": "zh-Hant"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "這條規則的任務"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "只適用於「$1」。"
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "如果你想變更所有規則的任務，或調整任務的步驟："
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "前往「防護」分頁"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "放寬防護設定前先讓我完成任務"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "想降低任務難度，必須先完成你要移除的步驟。"
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "接下來 $1 分鐘內，你可以隨意調整防護設定。之後若要放寬，就需要先完成任務。"
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "zh-Hant"
+  },
+  "common_save": {
+    "message": "儲存"
+  },
+  "common_cancel": {
+    "message": "取消"
+  },
+  "common_done": {
+    "message": "完成"
+  },
+  "common_ok": {
+    "message": "好"
+  },
+  "common_edit": {
+    "message": "編輯"
+  },
+  "common_delete": {
+    "message": "刪除"
+  },
+  "common_defaultOption": {
+    "message": "預設"
+  },
+  "common_back": {
+    "message": "返回"
+  },
+  "common_skip": {
+    "message": "略過"
+  },
+  "common_next": {
+    "message": "下一步"
+  },
+  "common_gotIt": {
+    "message": "我知道了"
+  },
+  "common_none": {
+    "message": "無"
+  },
+  "common_yes": {
+    "message": "是"
+  },
+  "common_no": {
+    "message": "否"
+  },
+  "common_start": {
+    "message": "開始"
+  },
+  "common_loading": {
+    "message": "載入中……"
+  },
+  "common_error": {
+    "message": "錯誤"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "關閉"
+  },
+  "common_continue": {
+    "message": "繼續"
+  },
+  "common_dismiss": {
+    "message": "關閉"
+  },
+  "common_notNow": {
+    "message": "現在不要"
+  },
+  "common_noThanks": {
+    "message": "不用了，謝謝"
+  },
+  "common_maybeLater": {
+    "message": "以後再說"
+  },
+  "common_add": {
+    "message": "新增"
+  },
+  "common_create": {
+    "message": "建立"
+  },
+  "common_startSetup": {
+    "message": "開始設定"
+  },
+  "common_continueSetup": {
+    "message": "繼續設定"
+  },
+  "common_resumeSetupTitle": {
+    "message": "從上次中斷的地方繼續"
+  },
+  "common_setItUp": {
+    "message": "立即設定"
+  },
+  "common_howItWorks": {
+    "message": "運作方式"
+  },
+  "common_getStarted": {
+    "message": "開始使用"
+  },
+  "common_signIn": {
+    "message": "登入"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1 分鐘"
+  },
+  "common_hoursCount": {
+    "message": "$1 小時"
+  },
+  "common_hoursCount__lang": {
+    "message": "zh-Hant"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "第 $1 步，共 $2 步"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "已從你的動態中移除 $1 支 Shorts"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "zh-Hant"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "關閉"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "已由 RelockIn 遮蔽"
+  },
+  "domShared_coverDismiss": {
+    "message": "取消遮蔽"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "無法取消遮蔽"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "取消遮蔽（$1 秒）"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "登入後才能這麼做。"
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "登入"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "關閉"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Reddit 剛剛想逼你改用它的應用程式"
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "如果遇到任何異常，請試著重新載入網頁或切換到 Zen 模式。"
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "關閉"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "這個動態消息已隱藏"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "你已選擇隱藏 Reddit 的「爆紅」和「全部」動態消息。"
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "你已選擇隱藏 Reddit 的動態消息。"
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "已加入的社群"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "你可以在 RelockIn 的設定中變更。"
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "你已全部看完"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "以上就是你已加入社群的所有新貼文。"
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "載入更多"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "播放"
+  },
+  "domShared_ytControlsPause": {
+    "message": "暫停"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "略過廣告"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "播放速度"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "音量"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "推"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "噓"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "取消推噓"
+  },
+  "domShared_redditActionSave": {
+    "message": "儲存"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "取消儲存"
+  },
+  "domShared_redditActionHide": {
+    "message": "隱藏"
+  },
+  "domShared_redditActionShare": {
+    "message": "分享"
+  },
+  "domShared_redditActionComments": {
+    "message": "留言"
+  },
+  "domShared_redditActionExpand": {
+    "message": "展開"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "收合"
+  },
+  "domShared_redditActionReply": {
+    "message": "回覆"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "更多選項"
+  },
+  "domShared_redditActionScore": {
+    "message": "分數"
+  },
+  "domShared_redditActionSource": {
+    "message": "來源"
+  },
+  "domShared_redditActionPreview": {
+    "message": "預覽"
+  },
+  "domShared_redditMenuSave": {
+    "message": "儲存"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "取消儲存"
+  },
+  "domShared_redditMenuHide": {
+    "message": "隱藏"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "取消隱藏"
+  },
+  "domShared_redditMenuShare": {
+    "message": "分享"
+  },
+  "domShared_redditMenuReport": {
+    "message": "檢舉"
+  },
+  "domShared_redditMenuParent": {
+    "message": "上層留言"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "永久連結"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "嵌入"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "轉貼"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "複製留言連結"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "複製貼文連結"
+  },
+  "domShared_redditAgeNow": {
+    "message": "剛剛"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1 分鐘"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1 小時"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1 天"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1 個月"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1 年"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Instagram 限時動態"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "我們隱藏了這則陌生人的貼文"
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "我們隱藏了這部影片"
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "我們隱藏了這則廣告"
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "作者：$1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "這則貼文來自三度人脈"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "這則貼文不是來自一度人脈"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "為了幫你保持專注，我們遮蔽了這則貼文。"
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "為了幫你保持專注，我們隱藏了這則廣告"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "點一下即可取消遮蔽"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "為了幫你保持專注，已遮蔽這張圖片"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "點一下即可取消遮蔽。"
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "為了幫你保持專注，已遮蔽這部影片"
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "推薦影片"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "播放速度：$1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "音量：$1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "倒轉 10 秒"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "快轉 10 秒"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "做點更有意義的事。"
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "AI 生成的影片"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "你為這個頻道投了「AI」"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "仍要顯示"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "仍要觀看"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "非 AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI？"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "可能是 AI"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "很可能是 AI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "極有可能是 AI"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "有爭議"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "RelockIn 已審核"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "很可能是 AI 生成"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "極有可能是 AI 生成"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "根據 RelockIn 使用者的投票"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "這是 AI 影片頻道嗎？"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "什麼算是 AI？"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "目前，你的投票只會改變你看到的內容。登入 RelockIn，就能分享給大家。"
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "登入"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "關閉"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "頻道的大部分影片用到以下內容時，請投「AI」："
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "AI 撰寫的腳本"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "AI 生成的人聲"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "AI 生成的圖片或影片"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "AI 音樂"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "不算 AI："
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "介紹 AI 的影片，例如 AI 工具評測"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "少量 AI 輔助，例如音訊降噪"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "你的投票會立即改變你看到的內容，也能幫助其他 RelockIn 使用者。"
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "標示有誤？提出申訴"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "更多選項"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "封鎖頻道"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "已封鎖"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "解除封鎖頻道"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "你已封鎖這個頻道"
+  },
+  "limits_title": {
+    "message": "規則和使用時段"
+  },
+  "limits_subtitle": {
+    "message": "開始使用時段，管理你的螢幕時間規則。"
+  },
+  "limits_addRule": {
+    "message": "+ 新增規則"
+  },
+  "limits_webextRulesTitle": {
+    "message": "螢幕時間規則"
+  },
+  "limits_webextRulesDescription": {
+    "message": "用每日上限和使用時段守住你的時間"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "還沒有規則。新增一條規則來設定每日上限。"
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "社群媒體"
+  },
+  "main_backToBrowser": {
+    "message": "返回瀏覽器"
+  },
+  "main_openFullPage": {
+    "message": "以完整頁面開啟"
+  },
+  "main_tabLimits": {
+    "message": "規則"
+  },
+  "main_tabSettings": {
+    "message": "自訂網站"
+  },
+  "main_protectionTitle": {
+    "message": "防護設定"
+  },
+  "main_protectionSubtitle": {
+    "message": "在衝動做決定前，加上一點健康的阻力"
+  },
+  "main_tabAccount": {
+    "message": "帳號"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "每日平均"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "平均"
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "點選工具列中的**拼圖**圖示"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "找到 **RelockIn**，然後點選**固定**圖示"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "你的螢幕時間規則"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "點選規則即可編輯。每條規則都有各自的每日上限。"
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "歡迎使用 **RelockIn**"
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "大約 1 分鐘就能完成"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "還好"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "受夠 YouTube 上的 AI 垃圾內容了嗎？"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "從動態消息到搜尋結果，粗製濫造的 AI 影片現在隨處可見。"
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "想少花點時間在網路上滑來滑去嗎？"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "不必只靠意志力。"
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AI 內容"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "點開**之前**就能認出 AI 影片"
+  },
+  "onboardingWebext_aiBody": {
+    "message": "我們可以遮蔽、隱藏或標示動態消息中的 AI 內容。"
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "選用"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "一起**標出** AI 內容"
+  },
+  "onboardingWebext_accountBody": {
+    "message": "RelockIn 社群正一起標出 AI 內容。註冊後，你的投票能幫助其他人辨識並封鎖 AI 內容。"
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "已登入"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "現在，你的投票能幫助其他人辨識並封鎖 AI 內容。"
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "使用電子郵件繼續"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "短影音"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "讓 Shorts 和 Reels **消失**"
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "拿掉 YouTube 的 Shorts 和 Instagram 的 Reels，想看的內容照樣保留。"
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "隱藏 Shorts 和 Reels"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "選用：每日上限"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "**有意識地**瀏覽"
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "要為哪些網站設定上限？"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "之後還可以新增更多。"
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "選擇網站後，規則會顯示在這裡"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "快速存取"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "已固定，很好！"
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "RelockIn iPhone 和 Android 版"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "在**手機**上也能用"
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "使用 RelockIn 應用程式，你可以自訂 YouTube、Instagram 等網站，移除 AI 內容和 Shorts、Reels 等干擾。\n\n它還能鎖定讓你分心的應用程式，幫你把時間奪回來。"
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "用手機相機掃描"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "一切就緒"
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "到 YouTube 看看"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "完成剩下的設定"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "設定會在新分頁中開啟，大約 1 分鐘就能完成。"
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "繼續設定"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "從你最常用的網站拿掉 AI 垃圾內容、Shorts 和滑不完的動態消息。"
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "為什麼要建立帳號？"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "沒有帳號時，你的投票只會為你自己標記 AI 頻道，無法幫助其他人。建立帳號後，我們就能信任你的投票，讓它們幫助整個社群標記 AI 內容。其他使用者看不到你的投票內容。\n\n你的帳號也可以用在 iPhone 和 Android 版 RelockIn。"
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "透明度對我們很重要。$1。"
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "程式碼已公開"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "自訂網站"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "**超過 40 種方法**，讓網站不再那麼容易上癮"
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockIn 可以調整 YouTube、Instagram、Reddit、X 和 LinkedIn。先在這裡試試幾項，其餘的都在設定中。"
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "「$1」的每日上限"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "**一鍵**開啟 RelockIn"
+  },
+  "onboardingWebext_pinBody": {
+    "message": "將擴充功能固定在工具列上，就能輕鬆變更任何設定。"
+  },
+  "onboardingWebext_tourClose": {
+    "message": "關閉設定"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "還沒有上限"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "選出讓你浪費時間的網站，為每個網站設定每日上限。大約 30 秒就能完成。"
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "設定上限"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "動態消息只顯示已追蹤帳號的貼文"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "停用 r/popular 和 r/all"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI 影片"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "Shorts 和 Reels"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "網站自訂"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "每日上限"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "AI 投票"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "已隱藏"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "已顯示"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "已關閉"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "已遮蔽"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "已標示"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "面向整個社群"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "只對你生效"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "已開啟 $1 項"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "zh-Hant"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1 個網站"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "zh-Hant"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "希望社群媒體不再那麼容易上癮嗎？"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "減少干擾，同時保留你喜歡的內容。"
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "你來對地方了"
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "好的，現在帶你快速認識一下"
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "你可以為任何網站設定每日上限，管理螢幕時間。\n\nRelockIn 幫你戒掉不自覺滑個不停的習慣。"
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "選擇需要的時間"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "使用網站"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "時間一到，重新鎖定"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "試試每日上限"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "一切都在**這裡**"
+  },
+  "onboardingWebext_tourBody": {
+    "message": "隨時點選工具列中的 RelockIn 圖示，即可開啟這個面板。"
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "你想在 $1 上花多少時間？"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "$1 的使用時段已結束。"
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "分鐘/天"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "減少 5 分鐘"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "增加 5 分鐘"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "螢幕使用時間"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "透過工具列中的 RelockIn 圖示，隨時變更任何設定。"
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "在瀏覽器的擴充功能選單中開啟 RelockIn，即可變更任何設定。"
+  },
+  "overlay_breathScreenHeading": {
+    "message": "這是你現在運用時間的最好方式嗎？"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "深呼吸一下"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "或者，如果你真的需要繼續前往 $1，可以為規則「$2」開始使用時段"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "今天還剩 $1 分 $2 秒"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "在手機上使用 RelockIn"
+  },
+  "overlay_closeTab": {
+    "message": "關閉這個分頁"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "今日剩餘"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "今日已用"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "上限重設時間"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "或者，如果你真的需要繼續，可以為規則「$1」開始使用時段"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "「$1」"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "目前規則：$1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "開啟 RelockIn"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "更多選項"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "每日使用"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "下載 RelockIn 的 QR 圖碼"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "下載 **RelockIn** 應用程式"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "移除 Shorts、Reels 和 AI 影片"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "為任何應用程式或網站設定每日上限"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "守護睡眠與專注"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "這個擴充功能在手機上有所限制"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "下載 RelockIn App，就能限制任何應用程式的使用，還能移除所有干擾內容和 AI 影片。"
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "無法在 YouTube 或 Instagram 應用程式中使用"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "只能設定 1 個每日上限和 1 個排程"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "只能標示 AI 影片，無法隱藏"
+  },
+  "phoneWebext_getApp": {
+    "message": "下載 App"
+  },
+  "phoneWebext_continueHere": {
+    "message": "在瀏覽器中繼續"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "或在這裡繼續（功能有限）"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "下載 RelockIn App，螢幕時間規則想建立幾條都可以"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "下載 RelockIn App，排程想建立幾個都可以"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "試試 **RelockIn 應用程式**，所有設定都能使用"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "RelockIn Pro 功能"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "在免費版中，這些網站共用同一個每日上限。"
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "讓衝動的操作慢下來"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "在超過上限繼續使用或刪除規則等操作前，刻意加上一道關卡。\n大約只需一分鐘。"
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "設定防護"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "防止連續使用"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "連續開始太多個使用時段後，休息一下"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "先設定你的規則"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "請先在「規則」分頁完成規則設定，再新增防護。"
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "做出衝動的決定前，先停一下"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "在超過每日上限繼續使用或刪除規則等操作前，RelockIn 可以要求你先完成一個簡單的任務，確認這是你有意識的決定。"
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "一切仍由你掌控。"
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "試試看"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "輕觸任一張卡片，親自試試這個任務。"
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "稍微超過每日上限繼續使用"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "輸入一個短句"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "從封鎖清單移除一個應用程式"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "解幾道數學題"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "放寬排程"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "輸入一個較長的句子"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "防護要多嚴格？"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "之後隨時可以變更。"
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "寬鬆"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "衝動行事前，給你一點小提醒。"
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "適中"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "在常見的一時鬆懈前，多加一點阻力。"
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "嚴格"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "更強的阻力，幫你戒掉壞習慣。"
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "推薦"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "設為$1"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "防止連續使用"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "如果你連續開始太多個使用時段，我們可以讓你先休息一下。"
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "如果我連續開始 2 個以上的使用時段（間隔不到"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "），"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "就讓我休息"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "範例"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  開始 5 分鐘的「社群媒體」使用時段。"
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  再開始一個 5 分鐘的使用時段"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  我們會讓你先休息一下，才能開始第三個使用時段"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30 秒"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1 分鐘"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2 分鐘"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3 分鐘"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5 分鐘"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10 分鐘"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "防護已開啟"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "隨時可以調整："
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "何時需要完成任務"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "每個任務要你做什麼"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "特定規則的任務"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "返回主畫面"
+  },
+  "rule_noAppsBlocked": {
+    "message": "未封鎖任何應用程式"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "規則名稱"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "體驗期"
+  },
+  "rule_deleteRule": {
+    "message": "刪除規則"
+  },
+  "rule_editRule": {
+    "message": "編輯規則"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "已封鎖的應用程式"
+  },
+  "rule_changeBlockedApps": {
+    "message": "變更封鎖的應用程式"
+  },
+  "rule_blockedInsideSection": {
+    "message": "RelockIn 瀏覽器中已封鎖的網站"
+  },
+  "rule_noTargets": {
+    "message": "尚未封鎖任何網站。"
+  },
+  "rule_ruleSettingsSection": {
+    "message": "規則設定"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "每日可用分鐘數"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "分鐘"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "每日上限減少 $1 分鐘"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "zh-Hant"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "每日上限增加 $1 分鐘"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "zh-Hant"
+  },
+  "rule_customizeGuardrails": {
+    "message": "調整防護設定"
+  },
+  "rule_targetsSection": {
+    "message": "要封鎖的網站"
+  },
+  "rule_defaultRuleName": {
+    "message": "新規則"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "使用時段進行中"
+  },
+  "rule_lockedAccessibility": {
+    "message": "已鎖定"
+  },
+  "rule_appCount": {
+    "message": "$1 個應用程式"
+  },
+  "rule_appCount__lang": {
+    "message": "zh-Hant"
+  },
+  "rule_siteCount": {
+    "message": "$1 個網站"
+  },
+  "rule_siteCount__lang": {
+    "message": "zh-Hant"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "排程名稱"
+  },
+  "scheduleCard_unsaved": {
+    "message": "未儲存"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "時間範圍"
+  },
+  "scheduleCard_startLabel": {
+    "message": "開始"
+  },
+  "scheduleCard_endLabel": {
+    "message": "結束"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "生效日"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "每天"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "未選擇日期"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "平日"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "週末"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "日"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "一"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "二"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "三"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "四"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "五"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "六"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "週日"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "週一"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "週二"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "週三"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "週四"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "週五"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "週六"
+  },
+  "scheduleCard_modeSection": {
+    "message": "模式"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "在這段期間封鎖"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "僅在這段期間允許"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "這段期間無法開始使用時段。"
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "只有在這段期間才能開始使用時段來解鎖。其他時間都無法解鎖這些應用程式。"
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "可解鎖"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "無法解鎖"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "套用的規則"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "還沒有建立任何規則。"
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "自動套用到新規則"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "儲存變更"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "要刪除這個排程嗎？"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "刪除排程"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "排程"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "編輯排程"
+  },
+  "schedules_title": {
+    "message": "排程"
+  },
+  "schedules_subtitle": {
+    "message": "控制什麼時候可以開始使用時段。"
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "還沒有排程"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "新增排程，為你的規則設定時間限制。"
+  },
+  "schedules_addSchedule": {
+    "message": "+ 新增排程"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "睡眠"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "先設定你的螢幕時間規則"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "請先在「規則」分頁完成設定，再建立排程。"
+  },
+  "schedules_moreInfoContent": {
+    "message": "規則會封鎖應用程式和網站，直到你開始使用時段。排程則多加一層限制：決定你「什麼時候」可以開始使用時段。\n\n保護你的睡眠、讀書或專注時間，或是替自己安排好休息時間。"
+  },
+  "schedules_limitReachedBadge": {
+    "message": "開始免費試用，即可建立多個排程"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "錯誤：$1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "無法新增排程：$1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "無法更新：$1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "無法刪除：$1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "無法更新套用的規則：$1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "我想休息 5 分鐘，滑一下 Instagram"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "應用程式會保持鎖定，直到你解鎖"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "你選擇的網站會保持鎖定，直到你解鎖"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "但到了某些時間，你會希望應用程式保持鎖定"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "但到了某些時間，你會希望網站保持鎖定"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "排程會讓解鎖按鈕消失"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "所以應用程式會一直鎖定到排程結束。"
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "所以網站會一直鎖定到排程結束。"
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "唉！只好去睡了。"
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "一起守護你的睡眠"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "選出你想好好睡覺、不再滑手機的時間。"
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "守護我的睡眠"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "已開始守護你的睡眠"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "$1 到 $2 之間無法解鎖。你隨時可以變更日期、時間或規則。"
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "也想守護工作或讀書時間嗎？"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "隨時都可以新增排程。"
+  },
+  "session_sectionTitleActive": {
+    "message": "使用時段"
+  },
+  "session_sectionTitleInactive": {
+    "message": "開始使用時段"
+  },
+  "session_endingSession": {
+    "message": "正在結束使用時段……"
+  },
+  "session_startingSession": {
+    "message": "正在開始使用時段……"
+  },
+  "session_remainingInSession": {
+    "message": "本次使用剩餘時間"
+  },
+  "session_endSession": {
+    "message": "結束使用時段"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "排程限制已生效"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "依照你的排程，目前無法使用「$1」"
+  },
+  "session_blockedBadge": {
+    "message": "已封鎖"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "依照你的排程，現在無法開始使用時段。"
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "暫時解除排程限制"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "其他同時生效的限制："
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "目前有多項限制同時生效。只要通過最嚴格的那一項，就能開始使用時段。"
+  },
+  "session_restrictionScheduleShort": {
+    "message": "排程限制"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "連續使用後的休息"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "「$1」封鎖至 $2"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "不在允許的時間內。「$1」將於 $2 開始"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "不在任何排程允許的時間內"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "可使用到 $2，屆時「$1」開始封鎖"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "可使用到 $2，屆時「$1」結束"
+  },
+  "session_other": {
+    "message": "其他"
+  },
+  "session_duration": {
+    "message": "時間長度"
+  },
+  "session_startSession": {
+    "message": "開始使用時段"
+  },
+  "session_takeABreak": {
+    "message": "休息一下"
+  },
+  "session_reopensInFormat": {
+    "message": "$1 秒後可再使用"
+  },
+  "session_reopensInLabel": {
+    "message": "再次使用倒數"
+  },
+  "session_bypassBreak": {
+    "message": "跳過休息"
+  },
+  "session_quickReturnExplanation": {
+    "message": "別再一直滑手機了。"
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "這已經是連續第 $1 個使用時段了。別再一直滑手機了。"
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "zh-Hant"
+  },
+  "session_overrideSizeLow": {
+    "message": "最多 2 分鐘"
+  },
+  "session_overrideSizeMedium": {
+    "message": "最多 10 分鐘"
+  },
+  "session_overrideSizeHigh": {
+    "message": "最多 60 分鐘"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "你需要多少額外時間？"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "完成簡單任務即可解鎖"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "完成中等任務即可解鎖"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "完成困難任務即可解鎖"
+  },
+  "session_overridesNotAllowed": {
+    "message": "依照你的防護設定，無法取得額外時間。"
+  },
+  "session_dailyLimitReached": {
+    "message": "已達每日上限"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "你今天已使用 $1 分鐘。"
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "去散個步、把那件家事做完，或打通電話給朋友。"
+  },
+  "session_nothingBetterToDo": {
+    "message": "反正我也沒更好的事可做"
+  },
+  "session_chooseLength": {
+    "message": "選擇使用時段長度"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "解鎖都有時間限制"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "輕觸時間長度即可開始使用時段。時間一到，我們就會重新鎖定。"
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "開始使用時段：$1 分鐘"
+  },
+  "settings_title": {
+    "message": "自訂網站"
+  },
+  "settings_igComments": {
+    "message": "隱藏 Instagram 留言"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "追蹤中的帳號除外"
+  },
+  "settings_igStories": {
+    "message": "Instagram 限時動態"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "遮蔽動態消息中未追蹤帳號的貼文"
+  },
+  "settings_igFeedVideos": {
+    "message": "隱藏動態消息中的影片"
+  },
+  "settings_igGuardAds": {
+    "message": "隱藏廣告"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "「探索」頁只保留搜尋"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "將相片轉為灰階"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "將影片轉為灰階"
+  },
+  "settings_accountSignedInAs": {
+    "message": "登入帳號"
+  },
+  "settings_accountSignOut": {
+    "message": "登出"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "使用 Google 帳戶登入"
+  },
+  "settings_accountSignInDescription": {
+    "message": "登入即可在不同裝置間同步資料。如果你已購買 RelockIn Pro，登入後就會還原你的訂閱。"
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "訂閱"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "狀態"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "要登出嗎？"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "重新登入前，資料不會在不同裝置間同步。"
+  },
+  "settings_accountSignOutError": {
+    "message": "無法登出。請再試一次。"
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "登入需要你授予權限。其他功能不需帳號也能使用。"
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "繼續即表示你同意我們的$1。我們的$2 說明了我們如何使用你的資料。"
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "建立帳號即表示你同意我們的$1。我們的$2 說明了我們如何使用你的資料。"
+  },
+  "settings_accountTermsOfService": {
+    "message": "服務條款"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "隱私權政策"
+  },
+  "settings_accountSourceCode": {
+    "message": "原始碼"
+  },
+  "settings_accountSignInError": {
+    "message": "無法登入。請再試一次。"
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "登入時找不到這支手機上的 Google 帳戶。請開啟手機的「設定」，進入「密碼和帳戶」（三星手機為「帳戶與備份」），確認已新增 Google 帳戶。如果帳戶已在清單中但仍無法登入，請試著移除後再重新新增。"
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "這個應用程式的 Google 登入設定不正確。請聯絡客服。"
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "登入程序中斷了。請再試一次。"
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "這部裝置無法使用 Google 登入。請試著更新 Google Play 服務，或改用電子郵件登入。"
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "無法讀取你的 Google 登入資料。請再試一次。"
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "無法連線到登入伺服器。請檢查網路連線，然後再試一次。"
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "登入時傳回了非預期的憑證。請再試一次。"
+  },
+  "settings_emailSignInCta": {
+    "message": "使用電子郵件登入"
+  },
+  "settings_appleSignInCta": {
+    "message": "使用 Apple 登入"
+  },
+  "settings_emailSignInTitle": {
+    "message": "登入"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "使用你的電子郵件和密碼登入。"
+  },
+  "settings_emailSignUpTitle": {
+    "message": "建立帳號"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "建立帳號，即可在不同裝置間同步。"
+  },
+  "settings_emailSignUpAction": {
+    "message": "建立帳號"
+  },
+  "settings_emailResetTitle": {
+    "message": "重設密碼"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "輸入你的電子郵件，我們會寄送重設密碼的連結給你。"
+  },
+  "settings_emailResetAction": {
+    "message": "寄送重設連結"
+  },
+  "settings_emailPlaceholder": {
+    "message": "電子郵件"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "密碼"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "確認密碼"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "忘記密碼？"
+  },
+  "settings_switchToSignUp": {
+    "message": "還沒有帳號？註冊"
+  },
+  "settings_switchToSignIn": {
+    "message": "已經有帳號了？登入"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "查看你的電子郵件"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "我們已將確認連結寄到你的電子郵件。請先驗證電子郵件地址再登入。"
+  },
+  "settings_emailResetSentTitle": {
+    "message": "已寄出重設連結"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "如果這個帳號存在，你會收到一封含有密碼重設連結的電子郵件。"
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "你的電子郵件尚未驗證。請到收件匣查看確認連結。"
+  },
+  "settings_emailRateLimitError": {
+    "message": "嘗試次數過多。請稍後再試。"
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "密碼強度不足。請至少使用 6 個字元。"
+  },
+  "settings_emailSignInFailedError": {
+    "message": "電子郵件或密碼錯誤。如果你剛註冊，請確認已完成電子郵件驗證。"
+  },
+  "settings_changePasswordCta": {
+    "message": "變更密碼"
+  },
+  "settings_newPasswordTitle": {
+    "message": "設定新密碼"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "為你的帳號設定新密碼。"
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "新密碼"
+  },
+  "settings_newPasswordAction": {
+    "message": "更新密碼"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "密碼已更新"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "你的密碼已更新。現在可以使用新密碼登入。"
+  },
+  "settings_newPasswordError": {
+    "message": "無法更新密碼。請再試一次。"
+  },
+  "settings_errorFillAllFields": {
+    "message": "請填寫所有欄位。"
+  },
+  "settings_errorSignUpFailed": {
+    "message": "註冊失敗。"
+  },
+  "settings_errorEnterEmail": {
+    "message": "請輸入你的電子郵件。"
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "無法寄送重設密碼的電子郵件。"
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "密碼已成功更新。"
+  },
+  "settings_accountSigningOut": {
+    "message": "正在登出……"
+  },
+  "settings_accountSigningIn": {
+    "message": "正在登入……"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "不適用"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "免費版"
+  },
+  "settings_backToSignIn": {
+    "message": "返回登入"
+  },
+  "settings_sending": {
+    "message": "正在寄送……"
+  },
+  "settings_updating": {
+    "message": "正在更新……"
+  },
+  "settings_creatingAccount": {
+    "message": "正在建立帳號……"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "確認新密碼"
+  },
+  "settings_showPasswordCta": {
+    "message": "顯示"
+  },
+  "settings_hidePasswordCta": {
+    "message": "隱藏"
+  },
+  "settings_passwordTooShortError": {
+    "message": "密碼至少需要 6 個字元。"
+  },
+  "settings_passwordMismatchError": {
+    "message": "密碼不一致。"
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "帳號已確認"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "電子郵件已完成驗證，你現在已登入。"
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "登入連結無法使用"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "我們無法透過這個登入連結完成登入。連結可能已過期或已經使用過。請再試一次，或重新申請一封電子郵件。\n\n詳細資訊：$1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "刪除帳號"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "危險操作"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "危險操作：刪除帳號"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "將永久刪除的資料："
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "你的帳號憑證和個人資料\n所有已同步的規則、排程和設定\n所有已同步的使用紀錄和其他應用程式資料"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "會保留的資料："
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "購買和交易紀錄（依法須保留，用於稅務和會計）\n當機報告和診斷資料"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "刪除帳號不會取消訂閱"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "輸入「$1」以確認永久刪除帳號"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "刪除"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "這個動作無法復原。"
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "驗證失敗"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "無法驗證你的登入狀態。請重新登入後再刪除帳號。"
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "帳號已刪除"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "你的帳號已永久刪除。"
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "無法刪除帳號（錯誤 $1）。請稍後再試。如果問題持續發生，請前往 relockin.com/support 聯絡客服。"
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "擺脫干擾，做事更有效率"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "顯示"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "遮蔽"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "移除"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "可立即取消遮蔽"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "5 秒後可取消遮蔽"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "10 秒後可取消遮蔽"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "無法取消遮蔽"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "完成任務後可取消遮蔽"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "取消遮蔽方式"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "預設"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "行動版"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "電腦版"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "正常顯示"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "輕度模糊"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "重度模糊"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "灰階"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "全黑"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "隱藏 Shorts"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "隱藏 Shorts 分頁"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "隱藏「首頁」分頁"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "將「首頁」導向「訂閱內容」"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "關閉自動播放"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "關閉影片預覽"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "隱藏非影片貼文"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "從首頁動態消息中移除社群貼文、投票和相片貼文。"
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "讓所有廣告都能略過"
+  },
+  "settings_ytBlockAds": {
+    "message": "封鎖廣告"
+  },
+  "settings_ytHideEndCard": {
+    "message": "隱藏「接著播放」影片"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "推薦影片"
+  },
+  "settings_ytDisplayMode": {
+    "message": "顯示模式"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "縮圖濾鏡"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "隱藏 Reels 分頁"
+  },
+  "settings_hideHomeTab": {
+    "message": "隱藏「首頁」分頁"
+  },
+  "settings_igHomeFeed": {
+    "message": "首頁動態消息"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "預設"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "Instagram 的一般動態消息，包含推薦貼文。"
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "只看「追蹤中」"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "你追蹤的帳號最近發布的貼文，最新的排在最前面。"
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "只看「最愛」"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "只顯示「最愛」名單中帳號的貼文。"
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "隱藏返回預設動態消息的連結"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "使用 Old Reddit"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "讓 Old Reddit 更適合在手機上瀏覽"
+  },
+  "settings_redditVersion": {
+    "message": "Reddit 版本"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zen 模式"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "以全新改造的 old.reddit.com 打造，更快速、更簡潔的 Reddit 體驗"
+  },
+  "settings_redditVersionStandard": {
+    "message": "標準"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Reddit 預設的行動版介面"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "注意：建議使用 Zen 模式，否則 Reddit 可能會試圖逼你改用它的應用程式"
+  },
+  "settings_redditFeedStyle": {
+    "message": "動態消息樣式"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "只顯示標題"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "只顯示標題，瀏覽更快速。輕觸或滑動即可開啟貼文。"
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "縮圖"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "每則貼文的標題旁附上預覽縮圖。"
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "展開"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "直接在動態消息中顯示圖片、影片和文字貼文。"
+  },
+  "settings_redditHideFeeds": {
+    "message": "限制無限捲動的動態消息"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "顯示所有動態消息"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Reddit 一切照常。"
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "隱藏「爆紅」和「全部」"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "隱藏「爆紅」「全部」「探索」等充斥陌生人貼文的動態消息。首頁動態消息仍可正常使用。"
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "隱藏所有動態消息"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "首頁動態消息也會隱藏。你仍可造訪社群及搜尋。"
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "首頁動態消息只顯示已加入社群的貼文"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "將圖片轉為灰階"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "將票數移到貼文下方"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "以顏色區分留言層級"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "啟用留言滑動手勢"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "向右短滑"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "向右長滑"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "向左短滑"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "向左長滑"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "推"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "噓"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "收合"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "回覆"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "儲存"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "啟用貼文滑動手勢"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "推"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "噓"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "隱藏"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "分享"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "儲存"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "開啟留言"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "開啟來源連結"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "預覽"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "允許下列社群使用自訂 CSS"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "為了在小螢幕上保持易讀，社群的自訂樣式預設會隱藏。"
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "社群名稱（例如 politics）"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "移除「$1」"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "尚未新增任何社群。"
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "隱藏「為你推薦」"
+  },
+  "settings_xHideAds": {
+    "message": "隱藏廣告"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "依人脈度數篩選貼文"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "全部顯示"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "隱藏三度人脈的貼文"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "隱藏二度和三度人脈的貼文"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "隱藏推廣貼文"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "遮蔽動態消息中的圖片和影片"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "將相片轉為灰階"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "將影片轉為灰階"
+  },
+  "settings_inBrowserNote": {
+    "message": "移除廣告、排除干擾，並篩選你的動態消息。只在 RelockIn 瀏覽器中生效。"
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "這些設定適用於 RelockIn 瀏覽器中的網站，**不適用於 $1 應用程式。**登入後即可在動態消息中看到變更。"
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "這些設定適用於 RelockIn 瀏覽器中的網站，**不適用於 $1 應用程式。**開啟網站即可看到變更。"
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "前往 $1 查看"
+  },
+  "settings_generalSection": {
+    "message": "一般"
+  },
+  "settings_showSessionTimer": {
+    "message": "顯示使用時段計時器"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "解鎖網站前，讓我先深呼吸一下"
+  },
+  "settings_breathLengthLabel": {
+    "message": "呼吸時長（秒）"
+  },
+  "settings_clearSection": {
+    "message": "重設"
+  },
+  "settings_ytAiContent": {
+    "message": "AI 生成的影片"
+  },
+  "settings_ytAiContentOff": {
+    "message": "顯示"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "AI 生成的影片和其他影片一樣正常顯示。"
+  },
+  "settings_ytAiContentBadge": {
+    "message": "標示"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "AI 生成的影片會在縮圖上標示「AI」。"
+  },
+  "settings_ytAiContentCover": {
+    "message": "遮蔽"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "AI 生成的影片會被遮蔽，你仍可逐一取消遮蔽。"
+  },
+  "settings_ytAiContentHide": {
+    "message": "隱藏"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "AI 生成的影片不會出現在動態消息、搜尋結果和推薦內容中。"
+  },
+  "settings_ytAiVotes": {
+    "message": "你的投票：是否為 AI"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "非 AI"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "尚無頻道"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "移除「$1」"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "已封鎖的頻道"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "這些頻道的影片不會出現在 YouTube 的任何地方。在影片下方或頻道頁面輕觸「封鎖頻道」即可加入。"
+  },
+  "settings_ytSectionShorts": {
+    "message": "Shorts"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "Shorts 和廣告"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "滑動手勢"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "首頁和動態消息"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AI 和頻道"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "接著播放"
+  },
+  "settings_sectionTabs": {
+    "message": "分頁"
+  },
+  "settings_sectionFeed": {
+    "message": "動態消息"
+  },
+  "settings_sectionFeeds": {
+    "message": "動態消息"
+  },
+  "settings_sectionAppearance": {
+    "message": "外觀"
+  },
+  "settings_sectionOther": {
+    "message": "其他"
+  },
+  "support_titleHelp": {
+    "message": "取得協助"
+  },
+  "support_titleFeedback": {
+    "message": "分享意見回饋"
+  },
+  "support_titleReportProblem": {
+    "message": "回報問題"
+  },
+  "support_sentimentTitle": {
+    "message": "你想提供哪一種意見？"
+  },
+  "support_sentimentPositive": {
+    "message": "我喜歡的地方"
+  },
+  "support_sentimentNegative": {
+    "message": "需要改進的地方"
+  },
+  "support_reviewTitle": {
+    "message": "很高興聽你這麼說！"
+  },
+  "support_reviewBody": {
+    "message": "可以花一點時間留個評論嗎？這能幫助更多人找到 RelockIn。\n\n這對我們的小團隊來說意義重大。"
+  },
+  "support_reviewCta": {
+    "message": "撰寫評論"
+  },
+  "support_personalNoteTitle": {
+    "message": "開發者的話"
+  },
+  "support_personalNoteBody": {
+    "message": "感謝你使用 RelockIn。每則訊息我都會親自閱讀，並盡快回覆你。"
+  },
+  "support_personalNoteSignOff": {
+    "message": "——Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "謝謝你！有任何意見或建議嗎？"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "很抱歉。告訴我們哪裡不好用，我們會好好研究。"
+  },
+  "support_messageLabel": {
+    "message": "你的訊息"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "有什麼可以幫你的嗎？"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "你有什麼想法？"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "這個網站出了什麼問題？"
+  },
+  "support_siteLabel": {
+    "message": "網站"
+  },
+  "support_emailLabel": {
+    "message": "你的電子郵件"
+  },
+  "support_emailPlaceholder": {
+    "message": "you@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "請輸入有效的電子郵件地址。"
+  },
+  "support_sendCta": {
+    "message": "傳送"
+  },
+  "support_sendError": {
+    "message": "無法傳送訊息。請檢查網路連線，然後再試一次。"
+  },
+  "support_sentTitle": {
+    "message": "訊息已送出"
+  },
+  "support_sentBodyFormat": {
+    "message": "謝謝！我們會盡快回覆至 $1。"
+  },
+  "support_sendAnotherCta": {
+    "message": "再傳送一則訊息"
+  },
+  "support_accountFooterPrompt": {
+    "message": "需要協助嗎？"
+  },
+  "support_accountFooterCta": {
+    "message": "聯絡客服"
+  },
+  "support_accountFooterFormat": {
+    "message": "$arg1$$arg2$",
+    "placeholders": {
+      "arg1": {
+        "content": "$1"
+      },
+      "arg2": {
+        "content": "$2"
+      }
+    }
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "訊息會直接傳給開發者"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "診斷記錄"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "診斷記錄"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "尚無記錄項目。"
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "偵錯記錄"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "這些記錄只會儲存在這部裝置上，絕不會自動上傳或分享。回報問題時，可以使用分享按鈕將記錄傳送給開發者。"
+  },
+  "target_domainType": {
+    "message": "整個網站"
+  },
+  "target_urlPatternType": {
+    "message": "網址比對"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "鎖定網站上的每個頁面。只要輸入網站名稱（例如 reddit.com）即可，子網域和網址路徑都不影響。"
+  },
+  "target_urlPatternExplanation": {
+    "message": "鎖定所有包含這段文字的網址。使用 * 作為萬用字元，代表中間的任何內容。\n\n例如：\n- youtube.com/shorts 會鎖定 YouTube Shorts，但不會鎖定一般影片\n- reddit.com/r/politics 只會鎖定該社群\n- x.com/*/status/* 會鎖定個別推文，但不會鎖定 X 的其他部分，例如個人檔案頁面"
+  },
+  "target_scopeNote": {
+    "message": "鎖定只在 RelockIn 瀏覽器中生效，在 Safari 等其他瀏覽器中則不會。你可以開始使用時段，暫時解鎖一段時間。"
+  },
+  "target_emptyPattern": {
+    "message": "（空白）"
+  },
+  "target_addTargetTitle": {
+    "message": "鎖定網站"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "你想鎖定什麼？"
+  },
+  "target_removeTargetTitle": {
+    "message": "移除網站"
+  },
+  "target_editTargetTitle": {
+    "message": "編輯項目"
+  },
+  "target_editingLabel": {
+    "message": "編輯中"
+  },
+  "target_typePickerLabel": {
+    "message": "類型"
+  },
+  "typingSentences_short1": {
+    "message": "我很清楚自己在做這個選擇。"
+  },
+  "typingSentences_short2": {
+    "message": "我願意為這個決定負責。"
+  },
+  "typingSentences_short3": {
+    "message": "現在這個選擇由我自己做主。"
+  },
+  "typingSentences_short4": {
+    "message": "這是我深思熟慮後的決定。"
+  },
+  "typingSentences_short5": {
+    "message": "我是用心做出這個選擇的。"
+  },
+  "typingSentences_long1": {
+    "message": "我很清楚自己正在繞過為保護時間和專注力而設下的限制，也願意為這個選擇承擔責任。"
+  },
+  "typingSentences_long2": {
+    "message": "我們反覆做的事，造就了我們。因此，卓越不是一時的行為，而是一種習慣。威爾杜蘭特"
+  },
+  "typingSentences_long3": {
+    "message": "你的選擇會成為習慣。習慣會成為性格。而性格會成為命運。"
+  },
+  "typingSentences_paragraph1": {
+    "message": "末日滾動又稱末日衝浪，是指在網路和社群媒體上花過多時間觀看短影音，或大量瀏覽使用者產生的內容或新聞，尤其是負面新聞。調查和研究顯示，末日滾動在年輕人之間最為普遍。二零一九年，美國國家科學院的一項研究發現，末日滾動可能和身心健康變差有關。"
+  },
+  "typingSentences_paragraph2": {
+    "message": "無限滾動是一種設計方式，會在使用者往下滑時持續載入內容，因此不需要分頁。這項功能會讓人更容易滑手機停不下來，因為它移除了使用者原本可能停下來的自然停頓點。研究也顯示，社群媒體平台傾向放大負面內容，可能讓這種不停往下滑的行為更嚴重，使人長時間沉浸在負面新聞中。"
+  },
+  "typingSentences_paragraph3": {
+    "message": "大多數社群媒體平台的商業模式高度依賴使用者參與，也就是說，人們在平台上停留越久，看到的廣告就越多，平台收集到的行為資料也越多。這形成了一個循環，情緒強烈的內容，通常是負面或讓人焦慮的資訊，會不斷推送給使用者，讓他們繼續滑下去，看更多內容。"
+  },
+  "typingSentences_paragraph4": {
+    "message": "即時的娛樂和資訊，加上隨時與人保持聯繫，讓社群媒體很有吸引力。社群媒體成癮的特徵是過度且強迫性的使用，會影響日常生活和整體的身心健康。它不只是花太多時間上網，還包括強迫性地查看最新動態，離線時感到焦慮，以及現實生活中的人際關係和責任受到負面影響。"
+  },
+  "typingSentences_paragraph5": {
+    "message": "短影音的演算法極度讓人上癮，因為它們把你的選擇和意圖排除在外。應用程式替你省去決定下一個要看什麼的思考負擔，用流暢而被動的沉浸狀態取代有意識的決定，就像開了自動駕駛。在這種狀態下，繼續看下去既輕鬆又有滿足感，想停下來卻非常困難。"
+  },
+  "typingSentences_paragraph6": {
+    "message": "社群媒體是刻意設計得讓人上癮的。科技公司打造這些應用程式，透過刺激大腦的獎勵中樞來抓住你的注意力。多巴胺帶來的認同感，難以預測的獎勵，再加上各種心理誘因，讓人非常難放下手機。認清這些設計手法，是重新掌控數位習慣，並和科技建立更健康關係的第一步。"
+  },
+  "usage_title": {
+    "message": "使用狀況"
+  },
+  "usage_subtitle": {
+    "message": "追蹤你在各條規則和使用時段中的螢幕時間。"
+  },
+  "usage_noUsageHeadline": {
+    "message": "尚無使用資料"
+  },
+  "usage_noUsageBody": {
+    "message": "開始使用時段後，使用時間就會顯示在這裡。"
+  },
+  "usage_today": {
+    "message": "今天"
+  },
+  "usage_thisWeek": {
+    "message": "本週"
+  },
+  "usage_thisMonth": {
+    "message": "本月"
+  },
+  "usage_yesterday": {
+    "message": "昨天"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "尚未建立任何規則。"
+  },
+  "usage_daily": {
+    "message": "每日"
+  },
+  "usage_weekly": {
+    "message": "每週"
+  },
+  "usage_monthly": {
+    "message": "每月"
+  },
+  "usage_previousPeriod": {
+    "message": "上一個期間"
+  },
+  "usage_nextPeriod": {
+    "message": "下一個期間"
+  },
+  "usage_periodPickerLabel": {
+    "message": "期間"
+  },
+  "usage_unknownRule": {
+    "message": "未知的規則"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "已使用 $1，共 $2"
+  },
+  "locale_firstWeekday": {
+    "message": "0"
+  }
+}

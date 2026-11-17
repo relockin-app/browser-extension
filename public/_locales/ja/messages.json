@@ -1,0 +1,2815 @@
+{
+  "about_tagline": {
+    "message": "気を散らすものはシャットアウト。なりたい自分に集中。"
+  },
+  "about_welcome": {
+    "message": "RelockInへようこそ！"
+  },
+  "about_sentence": {
+    "message": "RelockInは、気を散らすものを断ち切るブラウザです。フォーカスハブでルールとスケジュールを簡単に設定して、気が散るアプリやウェブサイトの利用を制限できます。基本の考え方はシンプル。スマホを使う1分1分が、自分の意思によるものだったらどうでしょう？\n\nさらにRelockInには、自由にカスタマイズできるプライバシー重視のモバイルブラウザも搭載。検索を追跡することも、データを誰かと共有することも一切ありません。ブラウザを完全に統合しているフォーカスアプリはRelockInだけ。だからこそ、リールやショートのような気が散る機能をウェブサイトから削除するなど、さらに高度なコントロールができます。"
+  },
+  "about_versionHeader": {
+    "message": "Android版RelockIn"
+  },
+  "about_extensionName": {
+    "message": "RelockIn - AIスロップ・ショート・リール・ウェブサイトをブロック | 集中とスクリーンタイム"
+  },
+  "about_extensionShortName": {
+    "message": "RelockIn"
+  },
+  "about_extensionNameFirefox": {
+    "message": "RelockIn - AIスロップ・ショート・リール・ウェブサイトをブロック"
+  },
+  "about_extensionDescription": {
+    "message": "AI動画、ショート、リール、終わりのないフィードをブロック。さらに、どのウェブサイトにも利用時間の上限やスケジュールを設定できます。"
+  },
+  "challengeGoals_deleteRule": {
+    "message": "このルールを削除する"
+  },
+  "challengeGoals_deleteTargetFormat": {
+    "message": "「$1」の制限を解除する"
+  },
+  "challengeGoals_increaseAllowedMinutes": {
+    "message": "1日の上限を上げる"
+  },
+  "challengeGoals_bypassBreak": {
+    "message": "休憩をスキップする"
+  },
+  "challengeGoals_overrideSchedule": {
+    "message": "スケジュールによる制限を一時解除する"
+  },
+  "challengeGoals_bypassDailyLimit": {
+    "message": "1日の上限を超えて使う"
+  },
+  "challengeGoals_deleteSchedule": {
+    "message": "このスケジュールを削除する"
+  },
+  "challengeGoals_makeScheduleLessRestrictive": {
+    "message": "このスケジュールを緩める"
+  },
+  "challengeGoals_removeFromBlocklist": {
+    "message": "他のアプリやウェブサイトをブロック対象から外す"
+  },
+  "challengeGoals_loosenGuardrail": {
+    "message": "この保護設定を緩める"
+  },
+  "challengeGoals_loosenChallengeFormat": {
+    "message": "「$1」の課題を簡単にする"
+  },
+  "challengeGoals_deleteChallengeFormat": {
+    "message": "「$1」の課題を削除する"
+  },
+  "challengeGoals_stopRequiringLooseningChallenge": {
+    "message": "保護設定を緩める前の課題をオフにする"
+  },
+  "challengeTriggers_extraTimeDailyLimitGroup": {
+    "message": "1日の上限を使い切って、さらに時間が必要なとき…"
+  },
+  "challengeTriggers_triggerUpTo2Min": {
+    "message": "2分まで"
+  },
+  "challengeTriggers_trigger2To10Min": {
+    "message": "2〜10分"
+  },
+  "challengeTriggers_triggerOver10Min": {
+    "message": "10分超"
+  },
+  "challengeTriggers_extraTimeScheduleGroup": {
+    "message": "スケジュールによる制限を一時解除したいとき…"
+  },
+  "challengeTriggers_bypassBreakGroup": {
+    "message": "休憩を促されても連続で使い続けたいとき…"
+  },
+  "challengeTriggers_bypassBreakGroupSubtitle": {
+    "message": "連続セッションが続きすぎると、休憩を取るよう促されます。休憩の長さは「連続利用を防ぐ」で変更できます。"
+  },
+  "challengeTriggers_backToBack1": {
+    "message": "連続セッション1回"
+  },
+  "challengeTriggers_backToBack2To3": {
+    "message": "連続セッション2〜3回"
+  },
+  "challengeTriggers_backToBack4Plus": {
+    "message": "連続セッション4回以上"
+  },
+  "challengeTriggers_loosenRulesGroup": {
+    "message": "スクリーンタイムルールを緩めるとき…"
+  },
+  "challengeTriggers_removeApp": {
+    "message": "アプリを外す"
+  },
+  "challengeTriggers_removeWebsite": {
+    "message": "ウェブサイトを外す"
+  },
+  "challengeTriggers_deleteRule": {
+    "message": "ルールを削除"
+  },
+  "challengeTriggers_raiseDailyLimit": {
+    "message": "1日の上限を上げる"
+  },
+  "challengeTriggers_loosenSchedulesGroup": {
+    "message": "スケジュールを緩めるとき…"
+  },
+  "challengeTriggers_whileInactive": {
+    "message": "ブロックしていないとき"
+  },
+  "challengeTriggers_whileActive": {
+    "message": "ブロックしているとき"
+  },
+  "challengeUi_typeToConfirmTitle": {
+    "message": "文章を入力して続ける"
+  },
+  "challengeUi_typeParagraphTitle": {
+    "message": "段落を入力して続ける"
+  },
+  "challengeUi_paragraphLabelFormat": {
+    "message": "段落：\n「$1」"
+  },
+  "challengeUi_waitTimerTitle": {
+    "message": "タイマーが終わるまで待つ"
+  },
+  "challengeUi_waitTimerHint": {
+    "message": "カウントダウンが終わるまで先に進めません。"
+  },
+  "challengeUi_waitTimerCompleted": {
+    "message": "タイマーが完了しました。続けられます。"
+  },
+  "challengeUi_defaultGoalText": {
+    "message": "本当に実行しますか？"
+  },
+  "challengeUi_areYouSureGoalFormat": {
+    "message": "本当に$1つもりですか？"
+  },
+  "challengeUi_referToGuardrailsBody": {
+    "message": "この操作にも歯止めをかけたいときは、「保護」タブで目標を守るための適度なハードルを設定できます。"
+  },
+  "challengeUi_referToGuardrailsConfirm": {
+    "message": "続ける"
+  },
+  "challengeUi_notAllowedTitleFormat": {
+    "message": "$1ことはできません"
+  },
+  "challengeUi_notAllowedDefaultTitle": {
+    "message": "この操作はできません"
+  },
+  "challengeUi_notAllowedBody": {
+    "message": "保護設定により、この操作は不可能になっています。どの課題をクリアしても解除できません。"
+  },
+  "challengeUi_notAllowedReallyNeed": {
+    "message": "どうしても必要な場合"
+  },
+  "challengeUi_notAllowedGuardrailsHint": {
+    "message": "保護設定は「保護」タブで変更できます。"
+  },
+  "challengeUi_notAllowedGoToGuardrails": {
+    "message": "「保護」タブへ移動"
+  },
+  "challengeUi_sentenceLabelFormat": {
+    "message": "文章：\n「$1」"
+  },
+  "challengeUi_confirm": {
+    "message": "確定"
+  },
+  "challengeUi_typingNoMatch": {
+    "message": "まだ一致していません。誤字や句読点を確認してください。"
+  },
+  "challengeUi_typingCompleted": {
+    "message": "完了しました。"
+  },
+  "challengeUi_typeExactly": {
+    "message": "表示されている文章のとおりに入力してください。"
+  },
+  "challengeUi_keepGoing": {
+    "message": "その調子です…"
+  },
+  "challengeUi_typingReady": {
+    "message": "できました！"
+  },
+  "challengeUi_mismatchDetected": {
+    "message": "一致しません。入力ミスがあります。よく見比べてください。"
+  },
+  "challengeUi_solveToConfirm": {
+    "message": "すべての問題を解いて続ける"
+  },
+  "challengeUi_enterAnswers": {
+    "message": "答えを入力して「確定」をタップしてください。"
+  },
+  "challengeUi_allCorrect": {
+    "message": "すべて正解です！"
+  },
+  "challengeUi_someIncorrect": {
+    "message": "間違っている答えがあります。強調表示された欄を確認してください。"
+  },
+  "challengeUi_questionPlaceholder": {
+    "message": "？"
+  },
+  "challengeUi_answerAccessibilityFormat": {
+    "message": "問題$1の答え"
+  },
+  "challengeUi_accountabilityPartnerNotified": {
+    "message": "見守り役に通知されます"
+  },
+  "challengeUi_accountabilityEmailBody": {
+    "message": "制限を超えて使うことを選んだ場合は、見守り役にメールでお知らせします。この通知は、目標を守り続けるためのものです。"
+  },
+  "challengeUi_sendNotificationAndContinue": {
+    "message": "通知を送信して続ける"
+  },
+  "challengeUi_cantDoThisChallenge": {
+    "message": "課題ができない場合"
+  },
+  "challengeUi_waitInsteadTitle": {
+    "message": "代わりに$1分待つ"
+  },
+  "challengeUi_waitInsteadTitle__lang": {
+    "message": "ja"
+  },
+  "challengeUi_difficultyNone": {
+    "message": "なし"
+  },
+  "challengeUi_difficultyEasy": {
+    "message": "簡単"
+  },
+  "challengeUi_difficultyMedium": {
+    "message": "普通"
+  },
+  "challengeUi_difficultyHard": {
+    "message": "難しい"
+  },
+  "challengeUi_difficultyExtraHard": {
+    "message": "非常に難しい"
+  },
+  "challengeUi_difficultyExtreme": {
+    "message": "極限"
+  },
+  "challengeUi_difficultyImpossible": {
+    "message": "不可能"
+  },
+  "challengeUi_difficultyReferToGuardrails": {
+    "message": "確認のみ"
+  },
+  "challengeUi_defaultDifficultyFormat": {
+    "message": "デフォルト：$1"
+  },
+  "challengeUi_saveFailed": {
+    "message": "保存できませんでした"
+  },
+  "challengeUi_timeRemainingFormat": {
+    "message": "残り$1"
+  },
+  "challengeUi_typingInputAccessibility": {
+    "message": "課題の入力欄"
+  },
+  "challenges_customizeChallenges": {
+    "message": "課題をカスタマイズ"
+  },
+  "challenges_customizeChallengesSubtitle": {
+    "message": "「簡単」「普通」「難しい」の課題の内容を変更したり、オリジナルの課題を作成したりできます"
+  },
+  "challenges_whenToChallengeMe": {
+    "message": "課題を出すタイミング"
+  },
+  "challenges_whenToChallengeMeSubtitle": {
+    "message": "スクリーンタイムルールを削除したり、追加時間を得たりするときの難しさを変更できます"
+  },
+  "challenges_builtInChallengesSection": {
+    "message": "標準搭載"
+  },
+  "challenges_customChallengesSection": {
+    "message": "カスタム"
+  },
+  "challenges_newChallenge": {
+    "message": "新規"
+  },
+  "challenges_noCustomChallenges": {
+    "message": "カスタム課題はまだありません。「+」をタップして作成できます。"
+  },
+  "challenges_newChallengeNamePlaceholder": {
+    "message": "名前（例：「地獄」）"
+  },
+  "challenges_newChallengeAlertTitle": {
+    "message": "新しい課題"
+  },
+  "challenges_uniqueNameRequired": {
+    "message": "この課題に他と重複しない名前を付けてください。"
+  },
+  "challenges_customizeChallengesHeader": {
+    "message": "それぞれの課題の内容を選んだり、オリジナルの課題を作成したりできます。"
+  },
+  "challenges_savedBadge": {
+    "message": "保存済み"
+  },
+  "challenges_noSteps": {
+    "message": "ステップがありません。保存するには1つ以上追加してください。"
+  },
+  "challenges_addStep": {
+    "message": "ステップを追加"
+  },
+  "challenges_difficultyLabel": {
+    "message": "難易度"
+  },
+  "challenges_problemsLabel": {
+    "message": "問題数"
+  },
+  "challenges_operationsLabel": {
+    "message": "演算の種類"
+  },
+  "challenges_stepNameTypingShort": {
+    "message": "短い文を入力"
+  },
+  "challenges_stepNameTypingLong": {
+    "message": "長い文を入力"
+  },
+  "challenges_stepNameTypingParagraph": {
+    "message": "段落を入力"
+  },
+  "challenges_stepNameMath": {
+    "message": "計算問題を解く"
+  },
+  "challenges_stepNameAccountabilityEmail": {
+    "message": "見守りメール"
+  },
+  "challenges_stepNameWaitTimer": {
+    "message": "タイマーを待つ"
+  },
+  "challenges_waitTimerDurationFormat": {
+    "message": "待ち時間：$1分$2秒"
+  },
+  "challenges_stepCount": {
+    "message": "$1ステップ"
+  },
+  "challenges_stepCount__lang": {
+    "message": "ja"
+  },
+  "challenges_ruleChallengesTitle": {
+    "message": "このルールの課題"
+  },
+  "challenges_ruleChallengesHeaderFormat": {
+    "message": "「$1」にのみ適用されます。"
+  },
+  "challenges_allRulesGuardrailsHint": {
+    "message": "すべてのルールの課題やステップを変更するには："
+  },
+  "challenges_goToGuardrailsTab": {
+    "message": "「保護」タブへ移動"
+  },
+  "challenges_looseningChallengeToggleTitle": {
+    "message": "保護設定を緩める前に課題を出す"
+  },
+  "challenges_looseningChallengeToggleSubtitle": {
+    "message": "課題を簡単にするには、外そうとしているステップを先に行う必要があります。"
+  },
+  "challenges_looseningGraceMinutes": {
+    "message": "あと$1分間は、保護設定を自由に調整できます。その後は、緩めるのに課題が必要になります。"
+  },
+  "challenges_looseningGraceMinutes__lang": {
+    "message": "ja"
+  },
+  "common_save": {
+    "message": "保存"
+  },
+  "common_cancel": {
+    "message": "キャンセル"
+  },
+  "common_done": {
+    "message": "完了"
+  },
+  "common_ok": {
+    "message": "OK"
+  },
+  "common_edit": {
+    "message": "編集"
+  },
+  "common_delete": {
+    "message": "削除"
+  },
+  "common_defaultOption": {
+    "message": "デフォルト"
+  },
+  "common_back": {
+    "message": "戻る"
+  },
+  "common_skip": {
+    "message": "スキップ"
+  },
+  "common_next": {
+    "message": "次へ"
+  },
+  "common_gotIt": {
+    "message": "了解"
+  },
+  "common_none": {
+    "message": "なし"
+  },
+  "common_yes": {
+    "message": "はい"
+  },
+  "common_no": {
+    "message": "いいえ"
+  },
+  "common_start": {
+    "message": "開始"
+  },
+  "common_loading": {
+    "message": "読み込み中…"
+  },
+  "common_error": {
+    "message": "エラー"
+  },
+  "common_stepCounterFormat": {
+    "message": "$1 / $2"
+  },
+  "common_close": {
+    "message": "閉じる"
+  },
+  "common_continue": {
+    "message": "続ける"
+  },
+  "common_dismiss": {
+    "message": "閉じる"
+  },
+  "common_notNow": {
+    "message": "今はしない"
+  },
+  "common_noThanks": {
+    "message": "今はやめておく"
+  },
+  "common_maybeLater": {
+    "message": "あとで"
+  },
+  "common_add": {
+    "message": "追加"
+  },
+  "common_create": {
+    "message": "作成"
+  },
+  "common_startSetup": {
+    "message": "セットアップを開始"
+  },
+  "common_continueSetup": {
+    "message": "セットアップを続ける"
+  },
+  "common_resumeSetupTitle": {
+    "message": "前回の続きから再開"
+  },
+  "common_setItUp": {
+    "message": "設定する"
+  },
+  "common_howItWorks": {
+    "message": "仕組み"
+  },
+  "common_getStarted": {
+    "message": "はじめる"
+  },
+  "common_signIn": {
+    "message": "ログイン"
+  },
+  "common_minutesShortFormat": {
+    "message": "$1分"
+  },
+  "common_hoursCount": {
+    "message": "$1時間"
+  },
+  "common_hoursCount__lang": {
+    "message": "ja"
+  },
+  "common_stepOfTotalFormat": {
+    "message": "ステップ$1/$2"
+  },
+  "domShared_ytShortsRemovedBadge": {
+    "message": "フィードから$1本のショートを削除しました"
+  },
+  "domShared_ytShortsRemovedBadge__lang": {
+    "message": "ja"
+  },
+  "domShared_ytShortsRemovedBadgeDismiss": {
+    "message": "閉じる"
+  },
+  "domShared_coverSubtitleDefault": {
+    "message": "RelockInでカバー中"
+  },
+  "domShared_coverDismiss": {
+    "message": "カバーを外す"
+  },
+  "domShared_coverCannotDismiss": {
+    "message": "カバーを外せません"
+  },
+  "domShared_coverDismissCountdownFormat": {
+    "message": "カバーを外す（$1秒）"
+  },
+  "domShared_redditSignInToastMessage": {
+    "message": "この操作にはログインが必要です。"
+  },
+  "domShared_redditSignInToastLogin": {
+    "message": "ログイン"
+  },
+  "domShared_redditSignInToastDismiss": {
+    "message": "閉じる"
+  },
+  "domShared_redditAppWallToastTitle": {
+    "message": "Redditがアプリに無理やり誘導しようとしました"
+  },
+  "domShared_redditAppWallToastBody": {
+    "message": "表示に不具合がある場合は、ページを再読み込みするか、Zenモードに切り替えてください。"
+  },
+  "domShared_redditAppWallToastDismiss": {
+    "message": "閉じる"
+  },
+  "domShared_redditFeedHiddenTitle": {
+    "message": "このフィードは非表示です"
+  },
+  "domShared_redditFeedHiddenDiscoveryBody": {
+    "message": "Redditの「人気順」と「すべて」のフィードを非表示に設定しています。"
+  },
+  "domShared_redditFeedHiddenAllBody": {
+    "message": "Redditのフィードを非表示に設定しています。"
+  },
+  "domShared_redditFeedHiddenCommunities": {
+    "message": "参加しているサブレディット"
+  },
+  "domShared_redditFeedHiddenSettingsHint": {
+    "message": "RelockInの設定で変更できます。"
+  },
+  "domShared_redditHomeCaughtUpTitle": {
+    "message": "すべてチェックしました"
+  },
+  "domShared_redditHomeCaughtUpBody": {
+    "message": "参加しているサブレディットの新着投稿は以上です。"
+  },
+  "domShared_redditHomeCaughtUpLoadMore": {
+    "message": "さらに読み込む"
+  },
+  "domShared_ytControlsPlay": {
+    "message": "再生"
+  },
+  "domShared_ytControlsPause": {
+    "message": "一時停止"
+  },
+  "domShared_ytControlsSkipAd": {
+    "message": "広告をスキップ"
+  },
+  "domShared_ytControlsSpeed": {
+    "message": "再生速度"
+  },
+  "domShared_ytControlsVolume": {
+    "message": "音量"
+  },
+  "domShared_redditActionUpvote": {
+    "message": "賛成票"
+  },
+  "domShared_redditActionDownvote": {
+    "message": "反対票"
+  },
+  "domShared_redditActionUnvote": {
+    "message": "投票を取り消す"
+  },
+  "domShared_redditActionSave": {
+    "message": "保存"
+  },
+  "domShared_redditActionUnsave": {
+    "message": "保存を解除"
+  },
+  "domShared_redditActionHide": {
+    "message": "非表示"
+  },
+  "domShared_redditActionShare": {
+    "message": "共有"
+  },
+  "domShared_redditActionComments": {
+    "message": "コメント"
+  },
+  "domShared_redditActionExpand": {
+    "message": "展開"
+  },
+  "domShared_redditActionCollapse": {
+    "message": "折りたたむ"
+  },
+  "domShared_redditActionReply": {
+    "message": "返信"
+  },
+  "domShared_redditActionMoreOptions": {
+    "message": "その他のオプション"
+  },
+  "domShared_redditActionScore": {
+    "message": "スコア"
+  },
+  "domShared_redditActionSource": {
+    "message": "ソース"
+  },
+  "domShared_redditActionPreview": {
+    "message": "プレビュー"
+  },
+  "domShared_redditMenuSave": {
+    "message": "保存"
+  },
+  "domShared_redditMenuUnsave": {
+    "message": "保存を解除"
+  },
+  "domShared_redditMenuHide": {
+    "message": "非表示"
+  },
+  "domShared_redditMenuUnhide": {
+    "message": "非表示を解除"
+  },
+  "domShared_redditMenuShare": {
+    "message": "共有"
+  },
+  "domShared_redditMenuReport": {
+    "message": "報告"
+  },
+  "domShared_redditMenuParent": {
+    "message": "親コメント"
+  },
+  "domShared_redditMenuPermalink": {
+    "message": "パーマリンク"
+  },
+  "domShared_redditMenuEmbed": {
+    "message": "埋め込み"
+  },
+  "domShared_redditMenuCrosspost": {
+    "message": "クロスポスト"
+  },
+  "domShared_redditMenuCopyLinkToComment": {
+    "message": "コメントのリンクをコピー"
+  },
+  "domShared_redditMenuCopyLinkToPost": {
+    "message": "投稿のリンクをコピー"
+  },
+  "domShared_redditAgeNow": {
+    "message": "たった今"
+  },
+  "domShared_redditAgeMinutesFormat": {
+    "message": "$1分"
+  },
+  "domShared_redditAgeHoursFormat": {
+    "message": "$1時間"
+  },
+  "domShared_redditAgeDaysFormat": {
+    "message": "$1日"
+  },
+  "domShared_redditAgeMonthsFormat": {
+    "message": "$1か月"
+  },
+  "domShared_redditAgeYearsFormat": {
+    "message": "$1年"
+  },
+  "domShared_instagramCoverStoriesTitle": {
+    "message": "Instagramのストーリーズ"
+  },
+  "domShared_instagramCoverStrangerPostTitle": {
+    "message": "知らない人の投稿を非表示にしました"
+  },
+  "domShared_instagramCoverVideoTitle": {
+    "message": "この動画を非表示にしました"
+  },
+  "domShared_instagramCoverAdTitle": {
+    "message": "この広告を非表示にしました"
+  },
+  "domShared_instagramCoverByAuthorFormat": {
+    "message": "投稿者：$1"
+  },
+  "domShared_linkedInCoverDegree3rdTitle": {
+    "message": "3次のつながりの投稿です"
+  },
+  "domShared_linkedInCoverDegreeNot1stTitle": {
+    "message": "1次のつながり以外の投稿です"
+  },
+  "domShared_linkedInCoverDegreeSubtitle": {
+    "message": "集中を守るためにカバーしました。"
+  },
+  "domShared_linkedInCoverAdTitle": {
+    "message": "集中を守るため、この広告を非表示にしました"
+  },
+  "domShared_linkedInCoverAdSubtitle": {
+    "message": "押してカバーを外す"
+  },
+  "domShared_linkedInCoverImageTitle": {
+    "message": "集中を守るため画像をカバー中"
+  },
+  "domShared_linkedInCoverMediaSubtitle": {
+    "message": "押してカバーを外す"
+  },
+  "domShared_linkedInCoverVideoTitle": {
+    "message": "集中を守るため動画をカバー中"
+  },
+  "domShared_youTubeCoverRecommendedTitle": {
+    "message": "おすすめ動画"
+  },
+  "domShared_ytControlsSpeedAccessibilityFormat": {
+    "message": "再生速度：$1"
+  },
+  "domShared_ytControlsVolumeAccessibilityFormat": {
+    "message": "音量：$1"
+  },
+  "domShared_ytControlsSeekBackAccessibility": {
+    "message": "10秒戻る"
+  },
+  "domShared_ytControlsSeekForwardAccessibility": {
+    "message": "10秒進む"
+  },
+  "domShared_blockedOverlayHeading": {
+    "message": "もっといいことをしよう。"
+  },
+  "domShared_ytAiBadge": {
+    "message": "AI"
+  },
+  "domShared_ytAiCoverTitle": {
+    "message": "AI生成の動画"
+  },
+  "domShared_ytAiReasonChannel": {
+    "message": "あなたが「AI」に投票したチャンネル"
+  },
+  "domShared_ytAiShowAnyway": {
+    "message": "それでも表示"
+  },
+  "domShared_ytAiWatchAnyway": {
+    "message": "それでも再生"
+  },
+  "domShared_ytAiNotAi": {
+    "message": "非AI"
+  },
+  "domShared_ytAiBadgePossibly": {
+    "message": "AI？"
+  },
+  "domShared_ytAiTierPossibly": {
+    "message": "AIの可能性あり"
+  },
+  "domShared_ytAiTierLikely": {
+    "message": "おそらくAI"
+  },
+  "domShared_ytAiTierVeryLikely": {
+    "message": "AIの可能性が極めて高い"
+  },
+  "domShared_ytAiTierDisputed": {
+    "message": "賛否両論"
+  },
+  "domShared_ytAiReviewed": {
+    "message": "RelockInが確認済み"
+  },
+  "domShared_ytAiCoverTitleLikely": {
+    "message": "おそらくAI生成"
+  },
+  "domShared_ytAiCoverTitleVeryLikely": {
+    "message": "AI生成の可能性が極めて高い"
+  },
+  "domShared_ytAiReasonVotes": {
+    "message": "RelockInユーザーの投票に基づく判定"
+  },
+  "domShared_ytAiVoteQuestion": {
+    "message": "AI動画のチャンネルですか？"
+  },
+  "domShared_ytAiVoteAi": {
+    "message": "AI"
+  },
+  "domShared_ytAiHelpTitle": {
+    "message": "AIに該当するものは？"
+  },
+  "domShared_ytAiSignInNotice": {
+    "message": "今の投票は自分の画面にだけ反映されます。RelockInにログインして、みんなと共有しましょう。"
+  },
+  "domShared_ytAiSignInButton": {
+    "message": "ログイン"
+  },
+  "domShared_ytAiSignInDismiss": {
+    "message": "閉じる"
+  },
+  "domShared_ytAiHelpAiIntro": {
+    "message": "大半の動画で次のものを使っているチャンネルは「AI」に投票してください："
+  },
+  "domShared_ytAiHelpAiScript": {
+    "message": "AIが書いた台本"
+  },
+  "domShared_ytAiHelpAiVoice": {
+    "message": "AI音声"
+  },
+  "domShared_ytAiHelpAiVisuals": {
+    "message": "AI生成の画像や映像"
+  },
+  "domShared_ytAiHelpAiMusic": {
+    "message": "AI生成の音楽"
+  },
+  "domShared_ytAiHelpNotAiTitle": {
+    "message": "該当しないもの："
+  },
+  "domShared_ytAiHelpNotAiAbout": {
+    "message": "AIについての動画（AIツールのレビューなど）"
+  },
+  "domShared_ytAiHelpNotAiTouches": {
+    "message": "AIによる軽い補助（音声のノイズ除去など）"
+  },
+  "domShared_ytAiHelpEffect": {
+    "message": "投票はすぐに反映され、ほかのRelockInユーザーの役にも立ちます。"
+  },
+  "domShared_ytAiDisputeLink": {
+    "message": "ラベルが間違っていますか？異議を申し立てる"
+  },
+  "domShared_ytMoreOptions": {
+    "message": "その他のオプション"
+  },
+  "domShared_ytBlockChannel": {
+    "message": "チャンネルをブロック"
+  },
+  "domShared_ytBlockedChannel": {
+    "message": "ブロック中"
+  },
+  "domShared_ytUnblockChannel": {
+    "message": "チャンネルのブロックを解除"
+  },
+  "domShared_ytBlockedCoverTitle": {
+    "message": "このチャンネルはブロック済みです"
+  },
+  "limits_title": {
+    "message": "ルールとセッション"
+  },
+  "limits_subtitle": {
+    "message": "セッションの開始やスクリーンタイムルールの管理ができます。"
+  },
+  "limits_addRule": {
+    "message": "+ ルールを追加"
+  },
+  "limits_webextRulesTitle": {
+    "message": "スクリーンタイムルール"
+  },
+  "limits_webextRulesDescription": {
+    "message": "1日の上限とセッションで時間を守ろう"
+  },
+  "limits_noRulesEmptyState": {
+    "message": "ルールはまだありません。追加して利用時間の上限を設定しましょう。"
+  },
+  "limitsOnboarding_v2SurveyCategoriesOptionSocialMedia": {
+    "message": "SNS"
+  },
+  "main_backToBrowser": {
+    "message": "ブラウザに戻る"
+  },
+  "main_openFullPage": {
+    "message": "フルページで開く"
+  },
+  "main_tabLimits": {
+    "message": "ルール"
+  },
+  "main_tabSettings": {
+    "message": "サイト"
+  },
+  "main_protectionTitle": {
+    "message": "保護設定"
+  },
+  "main_protectionSubtitle": {
+    "message": "衝動的な判断の前に、ほどよいひと手間を"
+  },
+  "main_tabAccount": {
+    "message": "アカウント"
+  },
+  "onboarding_overviewChartDailyAverage": {
+    "message": "1日の平均"
+  },
+  "onboarding_overviewChartAverageShort": {
+    "message": "平均"
+  },
+  "onboardingWebext_pinStep1": {
+    "message": "ツールバーの**パズルのピース**アイコンをクリック"
+  },
+  "onboardingWebext_pinStep2": {
+    "message": "**RelockIn**を見つけて**ピン**アイコンをクリック"
+  },
+  "onboardingWebext_coachMarkLimitsTabTitle": {
+    "message": "スクリーンタイムルール"
+  },
+  "onboardingWebext_coachMarkLimitsTabBody": {
+    "message": "ルールをクリックして編集できます。1日の上限はルールごとに設定されています。"
+  },
+  "onboardingWebext_welcomeTitle": {
+    "message": "**RelockIn**へようこそ"
+  },
+  "onboardingWebext_welcomeDuration": {
+    "message": "約1分で完了します"
+  },
+  "onboardingWebext_goalNo": {
+    "message": "そうでもない"
+  },
+  "onboardingWebext_goalAiTitle": {
+    "message": "YouTubeのAIスロップにうんざりしていますか？"
+  },
+  "onboardingWebext_goalAiBody": {
+    "message": "今やフィードから検索結果まで、手抜きのAI動画があふれています。"
+  },
+  "onboardingWebext_goalLimitsTitle": {
+    "message": "スクロールする時間を減らしたいですか？"
+  },
+  "onboardingWebext_goalLimitsBody": {
+    "message": "意志の力だけに頼る必要はありません。"
+  },
+  "onboardingWebext_aiEyebrow": {
+    "message": "AIコンテンツ"
+  },
+  "onboardingWebext_aiTitle": {
+    "message": "クリックする**前に**AI動画を見分ける"
+  },
+  "onboardingWebext_aiBody": {
+    "message": "フィードのAIコンテンツをカバーしたり、非表示にしたり、ラベルを付けたりできます。"
+  },
+  "onboardingWebext_accountEyebrow": {
+    "message": "任意"
+  },
+  "onboardingWebext_accountTitle": {
+    "message": "みんなでAIコンテンツを**見分けよう**"
+  },
+  "onboardingWebext_accountBody": {
+    "message": "RelockInのコミュニティでは、みんなでAIコンテンツを見分けています。アカウントを作成すると、あなたの投票がほかのユーザーにも役立ち、AIを見分けてブロックしやすくなります。"
+  },
+  "onboardingWebext_accountSignedIn": {
+    "message": "ログイン済み"
+  },
+  "onboardingWebext_accountSignedInBody": {
+    "message": "これで、あなたの投票がほかのユーザーにも役立ち、AIを見分けてブロックしやすくなります。"
+  },
+  "onboardingWebext_accountContinueWithEmail": {
+    "message": "メールアドレスで続ける"
+  },
+  "onboardingWebext_shortsEyebrow": {
+    "message": "ショート動画"
+  },
+  "onboardingWebext_shortsTitle": {
+    "message": "ショートとリールを**消そう**"
+  },
+  "onboardingWebext_shortsBody": {
+    "message": "YouTubeからショートを、Instagramからリールを取り除けます。残したい部分はそのまま使えます。"
+  },
+  "onboardingWebext_shortsToggle": {
+    "message": "ショートとリールを非表示"
+  },
+  "onboardingWebext_limitsEyebrow": {
+    "message": "任意：1日の上限"
+  },
+  "onboardingWebext_limitsTitle": {
+    "message": "**目的を持って**スクロールしよう"
+  },
+  "onboardingWebext_sitesTitle": {
+    "message": "どのサイトに上限を設定しますか？"
+  },
+  "onboardingWebext_sitesBody": {
+    "message": "あとから追加することもできます。"
+  },
+  "onboardingWebext_sitesEmpty": {
+    "message": "サイトを選ぶと、ここにルールが表示されます"
+  },
+  "onboardingWebext_pinEyebrow": {
+    "message": "クイックアクセス"
+  },
+  "onboardingWebext_pinDone": {
+    "message": "ピン留めできました。ばっちりです！"
+  },
+  "onboardingWebext_phoneEyebrow": {
+    "message": "iPhone・Android版RelockIn"
+  },
+  "onboardingWebext_phoneTitle": {
+    "message": "**スマホ**でも使おう"
+  },
+  "onboardingWebext_phoneBody": {
+    "message": "RelockInアプリなら、YouTubeやInstagramなどをカスタマイズして、AIコンテンツやショート、リールといった気が散る要素を取り除けます。\n\n気が散るアプリをロックすることもできるので、自分の時間を取り戻せます。"
+  },
+  "onboardingWebext_phoneScan": {
+    "message": "スマホのカメラでスキャン"
+  },
+  "onboardingWebext_doneTitle": {
+    "message": "準備が整いました"
+  },
+  "onboardingWebext_doneTryYouTube": {
+    "message": "YouTubeで見てみる"
+  },
+  "onboardingWebext_resumeTitle": {
+    "message": "セットアップを完了しましょう"
+  },
+  "onboardingWebext_resumeBody": {
+    "message": "セットアップは専用のタブで開き、約1分で完了します。"
+  },
+  "onboardingWebext_resumeCta": {
+    "message": "セットアップを続ける"
+  },
+  "onboardingWebext_welcomeBody": {
+    "message": "よく使うサイトから、AIスロップ、ショート、終わりのないフィードを取り除けます。"
+  },
+  "onboardingWebext_accountWhy": {
+    "message": "アカウントを作成するメリットは？"
+  },
+  "onboardingWebext_accountWhyBody": {
+    "message": "アカウントがなくても、投票はあなた自身の画面でAIチャンネルを示すために使われますが、ほかのユーザーの役には立ちません。アカウントを作成すると、投票を信頼できるものとして扱えるため、コミュニティ全体でAIコンテンツを見分けるのに役立ちます。どう投票したかがほかのユーザーに見られることはありません。\n\nアカウントはiPhone版とAndroid版のRelockInでも使えます。"
+  },
+  "onboardingWebext_welcomeSourceNote": {
+    "message": "透明性を大切にしています。$1。"
+  },
+  "onboardingWebext_welcomeSourceNoteLink": {
+    "message": "コードは公開されています"
+  },
+  "onboardingWebext_tweaksEyebrow": {
+    "message": "サイトのカスタマイズ"
+  },
+  "onboardingWebext_tweaksTitle": {
+    "message": "サイトの中毒性を下げる**40以上の方法**"
+  },
+  "onboardingWebext_tweaksBody": {
+    "message": "RelockInはYouTube、Instagram、Reddit、X、LinkedInをカスタマイズできます。ここでいくつか試してみてください。ほかの項目は設定にあります。"
+  },
+  "onboardingWebext_sitesLimitLabel": {
+    "message": "$1の1日の上限"
+  },
+  "onboardingWebext_pinTitle": {
+    "message": "RelockInを**ワンクリック**で使えるように"
+  },
+  "onboardingWebext_pinBody": {
+    "message": "ピン留めしておけば、どの設定も簡単に変更できます。"
+  },
+  "onboardingWebext_tourClose": {
+    "message": "セットアップを閉じる"
+  },
+  "onboardingWebext_limitsSetupTitle": {
+    "message": "上限はまだありません"
+  },
+  "onboardingWebext_limitsSetupBody": {
+    "message": "つい時間を使いすぎてしまうサイトを選んで、それぞれに1日の上限を設定しましょう。約30秒で完了します。"
+  },
+  "onboardingWebext_limitsSetupCta": {
+    "message": "上限を設定"
+  },
+  "onboardingWebext_tweaksIgFollowingOnly": {
+    "message": "フィードにフォロー中のアカウントの投稿のみ表示"
+  },
+  "onboardingWebext_tweaksRedditNoPopular": {
+    "message": "r/popularとr/allを無効化"
+  },
+  "onboardingWebext_doneTileAi": {
+    "message": "AI動画"
+  },
+  "onboardingWebext_doneTileShorts": {
+    "message": "ショートとリール"
+  },
+  "onboardingWebext_doneTileTweaks": {
+    "message": "サイトのカスタマイズ"
+  },
+  "onboardingWebext_doneTileLimits": {
+    "message": "1日の上限"
+  },
+  "onboardingWebext_doneTileVotes": {
+    "message": "AI判定の投票"
+  },
+  "onboardingWebext_doneStatusHidden": {
+    "message": "非表示"
+  },
+  "onboardingWebext_doneStatusShowing": {
+    "message": "表示"
+  },
+  "onboardingWebext_doneStatusOff": {
+    "message": "オフ"
+  },
+  "onboardingWebext_doneStatusCovered": {
+    "message": "カバー"
+  },
+  "onboardingWebext_doneStatusLabeled": {
+    "message": "ラベル付き"
+  },
+  "onboardingWebext_doneStatusShared": {
+    "message": "コミュニティ全体のために"
+  },
+  "onboardingWebext_doneStatusJustYou": {
+    "message": "自分だけ"
+  },
+  "onboardingWebext_doneStatusTweaksOn": {
+    "message": "$1件オン"
+  },
+  "onboardingWebext_doneStatusTweaksOn__lang": {
+    "message": "ja"
+  },
+  "onboardingWebext_doneStatusLimits": {
+    "message": "$1件のサイト"
+  },
+  "onboardingWebext_doneStatusLimits__lang": {
+    "message": "ja"
+  },
+  "onboardingWebext_goalCustomizeTitle": {
+    "message": "SNSの中毒性を下げたいですか？"
+  },
+  "onboardingWebext_goalCustomizeBody": {
+    "message": "好きな部分はそのままに、気が散る要素を減らせます。"
+  },
+  "onboardingWebext_ackTitle": {
+    "message": "その悩み、RelockInがお手伝いします"
+  },
+  "onboardingWebext_ackTitleNone": {
+    "message": "わかりました。では、機能をご紹介します"
+  },
+  "onboardingWebext_limitsIntroBody": {
+    "message": "どのサイトにもスクリーンタイムの上限を設定できます。\n\nなんとなくスクロールしてしまう習慣を、RelockInが断ち切るお手伝いをします。"
+  },
+  "onboardingWebext_limitsStepPick": {
+    "message": "使う時間を選ぶ"
+  },
+  "onboardingWebext_limitsStepUse": {
+    "message": "サイトを使う"
+  },
+  "onboardingWebext_limitsStepRelock": {
+    "message": "時間になると再びロック"
+  },
+  "onboardingWebext_limitsTry": {
+    "message": "上限を設定してみる"
+  },
+  "onboardingWebext_tourTitle": {
+    "message": "すべて**ここ**にあります"
+  },
+  "onboardingWebext_tourBody": {
+    "message": "ツールバーのRelockInアイコンから、いつでもこのパネルを開けます。"
+  },
+  "onboardingWebext_limitsDemoQuestion": {
+    "message": "$1をどれくらい使いますか？"
+  },
+  "onboardingWebext_limitsDemoEnded": {
+    "message": "$1のセッションが終了しました。"
+  },
+  "onboardingWebext_sitesLimitUnit": {
+    "message": "分/日"
+  },
+  "onboardingWebext_sitesLimitDecrease": {
+    "message": "5分減らす"
+  },
+  "onboardingWebext_sitesLimitIncrease": {
+    "message": "5分増やす"
+  },
+  "onboardingWebext_phoneChartTitle": {
+    "message": "スクリーンタイム"
+  },
+  "onboardingWebext_doneBodyPinned": {
+    "message": "ツールバーのRelockInアイコンから、設定をいつでも変更できます。"
+  },
+  "onboardingWebext_doneBodyUnpinned": {
+    "message": "ブラウザの拡張機能メニューにあるRelockInから、設定をいつでも変更できます。"
+  },
+  "overlay_breathScreenHeading": {
+    "message": "今はこれが一番の時間の使い方ですか？"
+  },
+  "overlay_breathScreenSubtitle": {
+    "message": "深呼吸しましょう"
+  },
+  "overlay_initialScreenBodyFormat": {
+    "message": "どうしても$1を利用する必要がある場合は、ルール「$2」のセッションを開始できます"
+  },
+  "overlay_remainingTodayFormat": {
+    "message": "本日の残り$1分$2秒"
+  },
+  "overlay_appUpsellHeadline": {
+    "message": "RelockInをスマホでも"
+  },
+  "overlay_closeTab": {
+    "message": "このタブを閉じる"
+  },
+  "overlay_remainingTodayLabel": {
+    "message": "本日の残り"
+  },
+  "overlay_usedTodayLabel": {
+    "message": "本日の利用"
+  },
+  "overlay_resetsAtLabel": {
+    "message": "リセット時刻"
+  },
+  "overlay_initialScreenBodyNoDomainFormat": {
+    "message": "どうしても続ける必要がある場合は、ルール「$1」のセッションを開始できます"
+  },
+  "overlay_dailyLimitElapsedRuleNameFormat": {
+    "message": "「$1」"
+  },
+  "overlay_sessionTimerCurrentRuleFormat": {
+    "message": "現在のルール：$1"
+  },
+  "overlay_sessionTimerOpenRelockIn": {
+    "message": "RelockInを開く"
+  },
+  "overlay_sessionTimerMoreAccessibility": {
+    "message": "その他のオプション"
+  },
+  "overlay_usagePieChartLabel": {
+    "message": "1日の利用"
+  },
+  "overlay_appUpsellQrAlt": {
+    "message": "RelockInをダウンロードするQRコード"
+  },
+  "phoneWebext_onboardingTitle": {
+    "message": "**RelockIn**アプリを入手しましょう"
+  },
+  "phoneWebext_onboardingBenefitTweaks": {
+    "message": "ショート、リール、AI動画を非表示にする"
+  },
+  "phoneWebext_onboardingBenefitLimits": {
+    "message": "どのアプリやサイトにも1日の上限を設定する"
+  },
+  "phoneWebext_onboardingBenefitSchedules": {
+    "message": "睡眠と集中の時間を守る"
+  },
+  "phoneWebext_onboardingLimitsTitle": {
+    "message": "スマホではこの拡張機能に制限があります"
+  },
+  "phoneWebext_onboardingLimitsBody": {
+    "message": "RelockInアプリなら、どのアプリにも制限をかけられ、気が散る要素やAI動画もすべて非表示にできます。"
+  },
+  "phoneWebext_onboardingLimitsNoApps": {
+    "message": "YouTubeやInstagramのアプリでは動作しません"
+  },
+  "phoneWebext_onboardingLimitsOneRule": {
+    "message": "1日の上限とスケジュールは1つずつしか設定できません"
+  },
+  "phoneWebext_onboardingLimitsAiLabelOnly": {
+    "message": "AI動画にラベルは付けられますが、非表示にはできません"
+  },
+  "phoneWebext_getApp": {
+    "message": "アプリを入手"
+  },
+  "phoneWebext_continueHere": {
+    "message": "ブラウザで続ける"
+  },
+  "phoneWebext_continueLimited": {
+    "message": "または、このまま続ける（機能制限あり）"
+  },
+  "phoneWebext_ruleLimitTitle": {
+    "message": "スクリーンタイムルールを無制限に作成するには、RelockInアプリを入手してください"
+  },
+  "phoneWebext_scheduleLimitTitle": {
+    "message": "スケジュールを無制限に作成するには、RelockInアプリを入手してください"
+  },
+  "phoneWebext_customizationsNote": {
+    "message": "すべての設定を使うには、**RelockInアプリ**をお試しください"
+  },
+  "phoneWebext_proLockedTooltip": {
+    "message": "RelockIn Proの機能"
+  },
+  "phoneWebext_sitesOneRuleNote": {
+    "message": "無料版では、これらのサイトに共通の1日の上限が適用されます。"
+  },
+  "protectionOnboarding_startCtaTitle": {
+    "message": "衝動的な行動にブレーキを"
+  },
+  "protectionOnboarding_startCtaSubtitle": {
+    "message": "1日の上限を超えて使う前や、ルールを削除する前に、あえてひと手間かかるようにします。\n所要時間は約1分です。"
+  },
+  "protectionOnboarding_startCtaButton": {
+    "message": "保護設定を始める"
+  },
+  "protectionOnboarding_preventBingingLauncherLabel": {
+    "message": "連続利用を防ぐ"
+  },
+  "protectionOnboarding_preventBingingLauncherSubtitle": {
+    "message": "セッションが続いたら休憩を取ります"
+  },
+  "protectionOnboarding_limitsNotReadyHeadline": {
+    "message": "まずルールを設定しましょう"
+  },
+  "protectionOnboarding_limitsNotReadyBody": {
+    "message": "保護設定を追加する前に、「ルール」タブでルールの設定を完了してください。"
+  },
+  "protectionOnboarding_philosophyTitle": {
+    "message": "衝動的な判断の前にひと呼吸"
+  },
+  "protectionOnboarding_philosophyBody": {
+    "message": "1日の上限を超えて使うときやルールを削除するときは、RelockInが簡単な課題を出して、本当に実行していいか確認できます。"
+  },
+  "protectionOnboarding_philosophyFooter": {
+    "message": "設定はいつでも自分で決められます。"
+  },
+  "protectionOnboarding_examplesTitle": {
+    "message": "実際に試してみましょう"
+  },
+  "protectionOnboarding_examplesSubtitle": {
+    "message": "カードをタップすると、課題を体験できます。"
+  },
+  "protectionOnboarding_examplesCard1Action": {
+    "message": "1日の上限を少しだけ超えて使う"
+  },
+  "protectionOnboarding_examplesCard1Challenge": {
+    "message": "短い文を入力"
+  },
+  "protectionOnboarding_examplesCard2Action": {
+    "message": "ブロック対象からアプリを外す"
+  },
+  "protectionOnboarding_examplesCard2Challenge": {
+    "message": "計算問題をいくつか解く"
+  },
+  "protectionOnboarding_examplesCard3Action": {
+    "message": "スケジュールを緩める"
+  },
+  "protectionOnboarding_examplesCard3Challenge": {
+    "message": "長めの文を入力"
+  },
+  "protectionOnboarding_pickLevelTitle": {
+    "message": "保護の強さはどのくらいにしますか？"
+  },
+  "protectionOnboarding_pickLevelSubtitle": {
+    "message": "いつでも変更できます。"
+  },
+  "protectionOnboarding_presetLightName": {
+    "message": "弱め"
+  },
+  "protectionOnboarding_presetLightDescription": {
+    "message": "衝動的な行動の前に、軽く知らせます。"
+  },
+  "protectionOnboarding_presetBalancedName": {
+    "message": "標準"
+  },
+  "protectionOnboarding_presetBalancedDescription": {
+    "message": "つい手を出してしまいがちな場面に、ひと手間加えます。"
+  },
+  "protectionOnboarding_presetStrictName": {
+    "message": "強め"
+  },
+  "protectionOnboarding_presetStrictDescription": {
+    "message": "強めの歯止めで、悪い習慣を断ち切ります。"
+  },
+  "protectionOnboarding_recommendedBadge": {
+    "message": "おすすめ"
+  },
+  "protectionOnboarding_pickLevelCtaFormat": {
+    "message": "$1に設定"
+  },
+  "protectionOnboarding_quickReturnTitle": {
+    "message": "連続利用を防ぐ"
+  },
+  "protectionOnboarding_quickReturnBody": {
+    "message": "セッションを立て続けに開始しすぎると、休憩を取ってもらうこともできます。"
+  },
+  "protectionOnboarding_quickReturnLine1Prefix": {
+    "message": "セッションを2回以上続けて開始したとき（間隔が"
+  },
+  "protectionOnboarding_quickReturnLine1Suffix": {
+    "message": "未満）、"
+  },
+  "protectionOnboarding_quickReturnLine2Prefix": {
+    "message": "休憩時間は"
+  },
+  "protectionOnboarding_quickReturnExampleTitle": {
+    "message": "例"
+  },
+  "protectionOnboarding_quickReturnExampleLine1": {
+    "message": "8:00  SNSのセッションを5分間開始"
+  },
+  "protectionOnboarding_quickReturnExampleLine2": {
+    "message": "8:05  続けて5分のセッションを開始"
+  },
+  "protectionOnboarding_quickReturnExampleLine3": {
+    "message": "8:10  3回目のセッションを始める前に休憩を取ってもらいます"
+  },
+  "protectionOnboarding_durationSeconds30": {
+    "message": "30秒"
+  },
+  "protectionOnboarding_duration1Minute": {
+    "message": "1分"
+  },
+  "protectionOnboarding_duration2Minutes": {
+    "message": "2分"
+  },
+  "protectionOnboarding_duration3Minutes": {
+    "message": "3分"
+  },
+  "protectionOnboarding_duration5Minutes": {
+    "message": "5分"
+  },
+  "protectionOnboarding_duration10Minutes": {
+    "message": "10分"
+  },
+  "protectionOnboarding_doneTitle": {
+    "message": "保護設定をオンにしました"
+  },
+  "protectionOnboarding_doneBody": {
+    "message": "いつでも変更できます："
+  },
+  "protectionOnboarding_doneBullet1": {
+    "message": "課題が出るタイミング"
+  },
+  "protectionOnboarding_doneBullet2": {
+    "message": "各課題の内容"
+  },
+  "protectionOnboarding_doneBullet3": {
+    "message": "特定のルールごとの課題"
+  },
+  "protectionOnboarding_doneCta": {
+    "message": "メインアプリに戻る"
+  },
+  "rule_noAppsBlocked": {
+    "message": "ブロック中のアプリはありません"
+  },
+  "rule_ruleNamePlaceholder": {
+    "message": "ルール名"
+  },
+  "rule_proBadge": {
+    "message": "Pro"
+  },
+  "rule_previewBadge": {
+    "message": "プレビュー"
+  },
+  "rule_deleteRule": {
+    "message": "ルールを削除"
+  },
+  "rule_editRule": {
+    "message": "ルールを編集"
+  },
+  "rule_blockedOutsideSection": {
+    "message": "ブロック中のアプリ"
+  },
+  "rule_changeBlockedApps": {
+    "message": "ブロックするアプリを変更"
+  },
+  "rule_blockedInsideSection": {
+    "message": "RelockInブラウザでブロック中"
+  },
+  "rule_noTargets": {
+    "message": "ブロック中のサイトはまだありません。"
+  },
+  "rule_ruleSettingsSection": {
+    "message": "ルール設定"
+  },
+  "rule_allowedMinutesPerDay": {
+    "message": "1日に使える時間（分）"
+  },
+  "rule_minutesPlaceholder": {
+    "message": "分"
+  },
+  "rule_decreaseMinutesBy": {
+    "message": "1日の上限を$1分減らす"
+  },
+  "rule_decreaseMinutesBy__lang": {
+    "message": "ja"
+  },
+  "rule_increaseMinutesBy": {
+    "message": "1日の上限を$1分増やす"
+  },
+  "rule_increaseMinutesBy__lang": {
+    "message": "ja"
+  },
+  "rule_customizeGuardrails": {
+    "message": "保護設定を調整"
+  },
+  "rule_targetsSection": {
+    "message": "対象サイト"
+  },
+  "rule_defaultRuleName": {
+    "message": "新しいルール"
+  },
+  "rule_sessionActiveAccessibility": {
+    "message": "セッション中"
+  },
+  "rule_lockedAccessibility": {
+    "message": "ロック中"
+  },
+  "rule_appCount": {
+    "message": "$1個のアプリ"
+  },
+  "rule_appCount__lang": {
+    "message": "ja"
+  },
+  "rule_siteCount": {
+    "message": "$1件のサイト"
+  },
+  "rule_siteCount__lang": {
+    "message": "ja"
+  },
+  "scheduleCard_scheduleNamePlaceholder": {
+    "message": "スケジュール名"
+  },
+  "scheduleCard_unsaved": {
+    "message": "未保存"
+  },
+  "scheduleCard_timeRangeSection": {
+    "message": "時間帯"
+  },
+  "scheduleCard_startLabel": {
+    "message": "開始"
+  },
+  "scheduleCard_endLabel": {
+    "message": "終了"
+  },
+  "scheduleCard_activeDaysSection": {
+    "message": "有効な曜日"
+  },
+  "scheduleCard_everyDaySummary": {
+    "message": "毎日"
+  },
+  "scheduleCard_noDaysSummary": {
+    "message": "曜日なし"
+  },
+  "scheduleCard_weekdaysSummary": {
+    "message": "平日"
+  },
+  "scheduleCard_weekendsSummary": {
+    "message": "週末"
+  },
+  "scheduleCard_sundayShort": {
+    "message": "日"
+  },
+  "scheduleCard_mondayShort": {
+    "message": "月"
+  },
+  "scheduleCard_tuesdayShort": {
+    "message": "火"
+  },
+  "scheduleCard_wednesdayShort": {
+    "message": "水"
+  },
+  "scheduleCard_thursdayShort": {
+    "message": "木"
+  },
+  "scheduleCard_fridayShort": {
+    "message": "金"
+  },
+  "scheduleCard_saturdayShort": {
+    "message": "土"
+  },
+  "scheduleCard_sundayFull": {
+    "message": "日"
+  },
+  "scheduleCard_mondayFull": {
+    "message": "月"
+  },
+  "scheduleCard_tuesdayFull": {
+    "message": "火"
+  },
+  "scheduleCard_wednesdayFull": {
+    "message": "水"
+  },
+  "scheduleCard_thursdayFull": {
+    "message": "木"
+  },
+  "scheduleCard_fridayFull": {
+    "message": "金"
+  },
+  "scheduleCard_saturdayFull": {
+    "message": "土"
+  },
+  "scheduleCard_modeSection": {
+    "message": "モード"
+  },
+  "scheduleCard_blockDuring": {
+    "message": "期間中はブロック"
+  },
+  "scheduleCard_allowOnlyDuring": {
+    "message": "期間中のみ許可"
+  },
+  "scheduleCard_blockDuringModeDescription": {
+    "message": "この時間帯はセッションを開始できません。"
+  },
+  "scheduleCard_allowOnlyDuringModeDescription": {
+    "message": "ロック解除のセッションを開始できるのは、この時間帯だけです。それ以外の時間は、対象のアプリのロックを解除できません。"
+  },
+  "scheduleCard_timelineCanUnlock": {
+    "message": "ロック解除可"
+  },
+  "scheduleCard_timelineCantUnlock": {
+    "message": "ロック解除不可"
+  },
+  "scheduleCard_appliesToRulesSection": {
+    "message": "適用するルール"
+  },
+  "scheduleCard_noRulesCreated": {
+    "message": "ルールがまだありません。"
+  },
+  "scheduleCard_autoApplyToNewRules": {
+    "message": "新しいルールに自動で適用"
+  },
+  "scheduleCard_saveChanges": {
+    "message": "変更を保存"
+  },
+  "scheduleCard_deleteScheduleConfirm": {
+    "message": "このスケジュールを削除しますか？"
+  },
+  "scheduleCard_deleteSchedule": {
+    "message": "スケジュールを削除"
+  },
+  "scheduleCard_defaultScheduleName": {
+    "message": "スケジュール"
+  },
+  "scheduleCard_summaryFormat": {
+    "message": "$1 – $2  ·  $3"
+  },
+  "scheduleCard_editSchedule": {
+    "message": "スケジュールを編集"
+  },
+  "schedules_title": {
+    "message": "スケジュール"
+  },
+  "schedules_subtitle": {
+    "message": "セッションを開始できる時間を管理します。"
+  },
+  "schedules_noSchedulesHeadline": {
+    "message": "スケジュールはまだありません"
+  },
+  "schedules_noSchedulesBody": {
+    "message": "スケジュールを追加すると、ルールに時間の制限を設定できます。"
+  },
+  "schedules_addSchedule": {
+    "message": "+ スケジュールを追加"
+  },
+  "schedules_firstScheduleDefaultName": {
+    "message": "睡眠"
+  },
+  "schedules_limitsNotReadyHeadline": {
+    "message": "まずスクリーンタイムルールを設定しましょう"
+  },
+  "schedules_limitsNotReadyBody": {
+    "message": "スケジュールを作成する前に、「ルール」タブで設定を完了してください。"
+  },
+  "schedules_moreInfoContent": {
+    "message": "ルールは、セッションを開始するまでアプリとサイトをブロックします。スケジュールはその上にもう一段階の制限を加え、セッションを「いつ」開始できるかを決めます。\n\n睡眠や勉強、集中したい時間帯を守ったり、あらかじめ休憩時間を決めたりできます。"
+  },
+  "schedules_limitReachedBadge": {
+    "message": "スケジュールを2つ以上作成するには、無料トライアルの開始が必要です"
+  },
+  "schedules_loadFailedFormat": {
+    "message": "エラー：$1"
+  },
+  "schedules_addFailedFormat": {
+    "message": "スケジュールを追加できませんでした：$1"
+  },
+  "schedules_updateFailedFormat": {
+    "message": "更新できませんでした：$1"
+  },
+  "schedules_deleteFailedFormat": {
+    "message": "削除できませんでした：$1"
+  },
+  "schedules_updateLinkedRulesFailedFormat": {
+    "message": "適用するルールを更新できませんでした：$1"
+  },
+  "schedules_tutorialUnlockThought": {
+    "message": "5分だけInstagramを見て息抜きしたいな"
+  },
+  "schedules_tutorialUnlockTitle": {
+    "message": "アプリは、ロックを解除するまでロックされたまま"
+  },
+  "schedules_tutorialUnlockTitleWeb": {
+    "message": "選んだサイトは、ロックを解除するまでロックされたまま"
+  },
+  "schedules_tutorialLateNightTitle": {
+    "message": "でも、ロックしたままにしておきたい時間もあります"
+  },
+  "schedules_tutorialLateNightTitleWeb": {
+    "message": "でも、ロックしたままにしておきたい時間もあります"
+  },
+  "schedules_tutorialScheduleTitle": {
+    "message": "スケジュール中は、ロックを解除できません"
+  },
+  "schedules_tutorialScheduleBody": {
+    "message": "そのため、スケジュールが終わるまでアプリはロックされたままです。"
+  },
+  "schedules_tutorialScheduleBodyWeb": {
+    "message": "そのため、スケジュールが終わるまでサイトはロックされたままです。"
+  },
+  "schedules_tutorialScheduleThought": {
+    "message": "あーあ、もう寝よう。"
+  },
+  "schedules_tutorialScheduleBandFormat": {
+    "message": "$1 · $2 – $3"
+  },
+  "schedules_tutorialSetupTitle": {
+    "message": "睡眠時間を守りましょう"
+  },
+  "schedules_tutorialSetupBody": {
+    "message": "スマホを見ずに眠っていたい時間帯を選びましょう。"
+  },
+  "schedules_tutorialSetupConfirm": {
+    "message": "睡眠時間を守る"
+  },
+  "schedules_tutorialDoneTitle": {
+    "message": "これで睡眠時間を守れます"
+  },
+  "schedules_tutorialDoneBodyFormat": {
+    "message": "$1から$2まではロックを解除できません。曜日、時間、ルールはいつでも変更できます。"
+  },
+  "schedules_moreSchedulesTipTitle": {
+    "message": "仕事や勉強の時間も守りませんか？"
+  },
+  "schedules_moreSchedulesTipBody": {
+    "message": "スケジュールはいつでも追加できます。"
+  },
+  "session_sectionTitleActive": {
+    "message": "セッション"
+  },
+  "session_sectionTitleInactive": {
+    "message": "セッションを開始"
+  },
+  "session_endingSession": {
+    "message": "セッションを終了中…"
+  },
+  "session_startingSession": {
+    "message": "セッションを開始中…"
+  },
+  "session_remainingInSession": {
+    "message": "セッションの残り時間"
+  },
+  "session_endSession": {
+    "message": "セッションを終了"
+  },
+  "session_scheduleRestrictionActive": {
+    "message": "スケジュールによる制限が有効"
+  },
+  "session_scheduleRestrictionHeadlineFormat": {
+    "message": "スケジュールにより「$1」は使用できません"
+  },
+  "session_blockedBadge": {
+    "message": "ブロック中"
+  },
+  "session_scheduleRestrictionMessage": {
+    "message": "スケジュールにより、現在はセッションを開始できません。"
+  },
+  "session_overrideScheduleRestriction": {
+    "message": "スケジュールによる制限を一時解除"
+  },
+  "session_multipleRestrictionsLabel": {
+    "message": "現在ブロック中のその他の制限："
+  },
+  "session_multipleRestrictionsMessage": {
+    "message": "複数の制限が同時に有効です。最も厳しい制限の課題をクリアすれば、セッションを開始できます。"
+  },
+  "session_restrictionScheduleShort": {
+    "message": "スケジュールによる制限"
+  },
+  "session_restrictionQuickReturnShort": {
+    "message": "連続利用の休憩"
+  },
+  "session_scheduleBlockedUntilFormat": {
+    "message": "「$1」により$2までブロック中"
+  },
+  "session_scheduleOpensAtFormat": {
+    "message": "許可時間外です。「$1」は$2に開始します"
+  },
+  "session_scheduleOutsideAllWindows": {
+    "message": "許可されたスケジュールの時間帯外です"
+  },
+  "session_scheduleAllowedUntilBlocksFormat": {
+    "message": "「$1」のブロックが始まる$2まで利用できます"
+  },
+  "session_scheduleAllowedUntilEndsFormat": {
+    "message": "「$1」が終了する$2まで利用できます"
+  },
+  "session_other": {
+    "message": "その他"
+  },
+  "session_duration": {
+    "message": "時間"
+  },
+  "session_startSession": {
+    "message": "セッションを開始"
+  },
+  "session_takeABreak": {
+    "message": "休憩を取りましょう"
+  },
+  "session_reopensInFormat": {
+    "message": "$1秒後に再開"
+  },
+  "session_reopensInLabel": {
+    "message": "再開まで"
+  },
+  "session_bypassBreak": {
+    "message": "休憩をスキップ"
+  },
+  "session_quickReturnExplanation": {
+    "message": "だらだらスクロールはやめましょう。"
+  },
+  "session_quickReturnExplanationCount": {
+    "message": "$1回連続でセッションを開始しています。だらだらスクロールはやめましょう。"
+  },
+  "session_quickReturnExplanationCount__lang": {
+    "message": "ja"
+  },
+  "session_overrideSizeLow": {
+    "message": "最大2分"
+  },
+  "session_overrideSizeMedium": {
+    "message": "最大10分"
+  },
+  "session_overrideSizeHigh": {
+    "message": "最大60分"
+  },
+  "session_overrideExtraTimePrompt": {
+    "message": "追加時間はどのくらい必要ですか？"
+  },
+  "session_overrideTierChallengeEasy": {
+    "message": "簡単な課題でロック解除"
+  },
+  "session_overrideTierChallengeMedium": {
+    "message": "普通の課題でロック解除"
+  },
+  "session_overrideTierChallengeHard": {
+    "message": "難しい課題でロック解除"
+  },
+  "session_overridesNotAllowed": {
+    "message": "保護設定により、追加時間は利用できません。"
+  },
+  "session_dailyLimitReached": {
+    "message": "1日の上限に達しました"
+  },
+  "session_usedMinTodayFormat": {
+    "message": "今日は$1分使いました。"
+  },
+  "session_dailyLimitMotivationalMessage": {
+    "message": "散歩に出たり、後回しにしていた用事を片付けたり、友達に電話したりしてみましょう。"
+  },
+  "session_nothingBetterToDo": {
+    "message": "もっといいことが思いつかない"
+  },
+  "session_chooseLength": {
+    "message": "セッションの長さを選択"
+  },
+  "session_howToStartCoachMarkTitle": {
+    "message": "ロック解除は時間限定です"
+  },
+  "session_howToStartCoachMarkBody": {
+    "message": "時間をタップしてセッションを開始します。終了時刻になると再びロックされます。"
+  },
+  "session_startSessionForMinutesFormat": {
+    "message": "セッションを開始：$1分"
+  },
+  "settings_title": {
+    "message": "サイトのカスタマイズ"
+  },
+  "settings_igComments": {
+    "message": "Instagramのコメントを非表示"
+  },
+  "settings_igCommentsExemptFollowing": {
+    "message": "フォロー中のアカウントは対象外"
+  },
+  "settings_igStories": {
+    "message": "Instagramのストーリーズ"
+  },
+  "settings_igExploreFeedStrangers": {
+    "message": "フィードでフォローしていない人の投稿をカバー"
+  },
+  "settings_igFeedVideos": {
+    "message": "フィードの動画を非表示"
+  },
+  "settings_igGuardAds": {
+    "message": "広告を非表示"
+  },
+  "settings_igHideExploreTiles": {
+    "message": "「発見」タブを検索専用にする"
+  },
+  "settings_igGreyscalePictures": {
+    "message": "画像をグレースケール表示"
+  },
+  "settings_igGreyscaleVideos": {
+    "message": "動画をグレースケール表示"
+  },
+  "settings_accountSignedInAs": {
+    "message": "ログイン中のアカウント"
+  },
+  "settings_accountSignOut": {
+    "message": "ログアウト"
+  },
+  "settings_accountSignInWithGoogle": {
+    "message": "Google でログイン"
+  },
+  "settings_accountSignInDescription": {
+    "message": "ログインすると、複数の端末間でデータを同期できます。RelockIn Proを購入済みの場合は、ログインするとサブスクリプションが復元されます。"
+  },
+  "settings_accountSubscriptionSectionHeader": {
+    "message": "サブスクリプション"
+  },
+  "settings_accountPurchaseStatusLabel": {
+    "message": "ステータス"
+  },
+  "settings_accountSignOutConfirmTitle": {
+    "message": "ログアウトしますか？"
+  },
+  "settings_accountSignOutConfirmMessage": {
+    "message": "再びログインするまで、端末間でデータが同期されなくなります。"
+  },
+  "settings_accountSignOutError": {
+    "message": "ログアウトできませんでした。もう一度お試しください。"
+  },
+  "settings_accountDataConsentDeclined": {
+    "message": "ログインには許可が必要です。ほかの機能はすべてアカウントなしで使えます。"
+  },
+  "settings_accountLegalNoticeContinue": {
+    "message": "続行すると、$1に同意したことになります。データの利用方法については$2をご覧ください。"
+  },
+  "settings_accountLegalNoticeCreate": {
+    "message": "アカウントを作成すると、$1に同意したことになります。データの利用方法については$2をご覧ください。"
+  },
+  "settings_accountTermsOfService": {
+    "message": "利用規約"
+  },
+  "settings_accountPrivacyPolicy": {
+    "message": "プライバシーポリシー"
+  },
+  "settings_accountSourceCode": {
+    "message": "ソースコード"
+  },
+  "settings_accountSignInError": {
+    "message": "ログインできませんでした。もう一度お試しください。"
+  },
+  "settings_accountSignInNoGoogleAccount": {
+    "message": "このスマートフォンでGoogleアカウントが見つかりませんでした。端末の「設定」から「パスワードとアカウント」（または「アカウント」）を開き、Googleアカウントが追加されているか確認してください。すでに追加されているのにログインできない場合は、いったん削除してから追加し直してみてください。"
+  },
+  "settings_accountSignInProviderMisconfigured": {
+    "message": "このアプリのGoogleログイン設定が正しくありません。サポートまでお問い合わせください。"
+  },
+  "settings_accountSignInInterrupted": {
+    "message": "ログインが中断されました。もう一度お試しください。"
+  },
+  "settings_accountSignInUnsupportedDevice": {
+    "message": "この端末ではGoogleログインを利用できません。Google Play 開発者サービスを更新するか、メールアドレスでログインしてください。"
+  },
+  "settings_accountSignInTokenParseFailed": {
+    "message": "Googleのログイン情報を読み取れませんでした。もう一度お試しください。"
+  },
+  "settings_accountSignInNetworkError": {
+    "message": "ログインサーバーに接続できませんでした。通信状況を確認して、もう一度お試しください。"
+  },
+  "settings_accountSignInUnexpectedCredentialType": {
+    "message": "ログインで想定外の認証情報が返されました。もう一度お試しください。"
+  },
+  "settings_emailSignInCta": {
+    "message": "メールアドレスでログイン"
+  },
+  "settings_appleSignInCta": {
+    "message": "Appleでサインイン"
+  },
+  "settings_emailSignInTitle": {
+    "message": "ログイン"
+  },
+  "settings_emailSignInSubtitle": {
+    "message": "メールアドレスとパスワードでログインします。"
+  },
+  "settings_emailSignUpTitle": {
+    "message": "アカウントを作成"
+  },
+  "settings_emailSignUpSubtitle": {
+    "message": "アカウントを作成すると、複数の端末で同期できます。"
+  },
+  "settings_emailSignUpAction": {
+    "message": "アカウントを作成"
+  },
+  "settings_emailResetTitle": {
+    "message": "パスワードをリセット"
+  },
+  "settings_emailResetSubtitle": {
+    "message": "メールアドレスを入力してください。パスワードをリセットするためのリンクをお送りします。"
+  },
+  "settings_emailResetAction": {
+    "message": "リセットリンクを送信"
+  },
+  "settings_emailPlaceholder": {
+    "message": "メールアドレス"
+  },
+  "settings_passwordPlaceholder": {
+    "message": "パスワード"
+  },
+  "settings_confirmPasswordPlaceholder": {
+    "message": "パスワード（確認）"
+  },
+  "settings_forgotPasswordCta": {
+    "message": "パスワードをお忘れですか？"
+  },
+  "settings_switchToSignUp": {
+    "message": "アカウントをお持ちでない場合は新規登録"
+  },
+  "settings_switchToSignIn": {
+    "message": "アカウントをお持ちの場合はログイン"
+  },
+  "settings_emailConfirmationTitle": {
+    "message": "メールをご確認ください"
+  },
+  "settings_emailConfirmationMessage": {
+    "message": "確認用のリンクをメールで送信しました。ログインする前に、リンクを開いてメールアドレスの認証を完了してください。"
+  },
+  "settings_emailResetSentTitle": {
+    "message": "リセットリンクを送信しました"
+  },
+  "settings_emailResetSentMessage": {
+    "message": "アカウントが存在する場合、パスワードをリセットするためのリンクをメールでお送りしました。"
+  },
+  "settings_emailNotConfirmedError": {
+    "message": "メールアドレスの認証が完了していません。受信トレイに届いた確認用のリンクを開いてください。"
+  },
+  "settings_emailRateLimitError": {
+    "message": "試行回数が多すぎます。しばらくしてからもう一度お試しください。"
+  },
+  "settings_emailWeakPasswordError": {
+    "message": "パスワードが簡単すぎます。6文字以上にしてください。"
+  },
+  "settings_emailSignInFailedError": {
+    "message": "メールアドレスまたはパスワードが正しくありません。新規登録した直後の場合は、メールアドレスの認証が完了しているか確認してください。"
+  },
+  "settings_changePasswordCta": {
+    "message": "パスワードを変更"
+  },
+  "settings_newPasswordTitle": {
+    "message": "新しいパスワードを設定"
+  },
+  "settings_newPasswordSubtitle": {
+    "message": "アカウントの新しいパスワードを決めてください。"
+  },
+  "settings_newPasswordPlaceholder": {
+    "message": "新しいパスワード"
+  },
+  "settings_newPasswordAction": {
+    "message": "パスワードを更新"
+  },
+  "settings_newPasswordSuccessTitle": {
+    "message": "パスワードを更新しました"
+  },
+  "settings_newPasswordSuccessMessage": {
+    "message": "パスワードを更新しました。新しいパスワードでログインできます。"
+  },
+  "settings_newPasswordError": {
+    "message": "パスワードを更新できませんでした。もう一度お試しください。"
+  },
+  "settings_errorFillAllFields": {
+    "message": "すべての項目を入力してください。"
+  },
+  "settings_errorSignUpFailed": {
+    "message": "登録できませんでした。"
+  },
+  "settings_errorEnterEmail": {
+    "message": "メールアドレスを入力してください。"
+  },
+  "settings_errorSendResetEmailFailed": {
+    "message": "リセット用のメールを送信できませんでした。"
+  },
+  "settings_passwordUpdatedSuccess": {
+    "message": "パスワードを更新しました。"
+  },
+  "settings_accountSigningOut": {
+    "message": "ログアウト中…"
+  },
+  "settings_accountSigningIn": {
+    "message": "ログイン中…"
+  },
+  "settings_accountStatusNotAvailable": {
+    "message": "該当なし"
+  },
+  "settings_accountPurchaseStatusFree": {
+    "message": "無料"
+  },
+  "settings_backToSignIn": {
+    "message": "ログインに戻る"
+  },
+  "settings_sending": {
+    "message": "送信中…"
+  },
+  "settings_updating": {
+    "message": "更新中…"
+  },
+  "settings_creatingAccount": {
+    "message": "アカウントを作成中…"
+  },
+  "settings_confirmNewPasswordPlaceholder": {
+    "message": "新しいパスワード（確認）"
+  },
+  "settings_showPasswordCta": {
+    "message": "表示"
+  },
+  "settings_hidePasswordCta": {
+    "message": "非表示"
+  },
+  "settings_passwordTooShortError": {
+    "message": "パスワードは6文字以上で入力してください。"
+  },
+  "settings_passwordMismatchError": {
+    "message": "パスワードが一致しません。"
+  },
+  "settings_emailConfirmedTitle": {
+    "message": "アカウントの認証が完了しました"
+  },
+  "settings_emailConfirmedMessage": {
+    "message": "メールアドレスの認証が完了し、ログインしました。"
+  },
+  "settings_deepLinkFailedTitle": {
+    "message": "ログインリンクを開けませんでした"
+  },
+  "settings_deepLinkFailedMessage": {
+    "message": "ログインリンクを処理できませんでした。有効期限が切れているか、すでに使用された可能性があります。もう一度お試しいただくか、新しいメールをリクエストしてください。\n\n詳細：$1"
+  },
+  "settings_deleteAccountCta": {
+    "message": "アカウントを削除"
+  },
+  "settings_deleteAccountDangerZoneSectionHeader": {
+    "message": "危険な操作"
+  },
+  "settings_deleteAccountTitle": {
+    "message": "危険な操作：アカウントの削除"
+  },
+  "settings_deleteAccountDataDeletedHeader": {
+    "message": "完全に削除されるデータ："
+  },
+  "settings_deleteAccountDataDeletedItems": {
+    "message": "アカウント情報とプロフィール\n同期されたルール、スケジュール、設定\n同期された利用履歴などのアプリデータ"
+  },
+  "settings_deleteAccountDataRetainedHeader": {
+    "message": "保持されるデータ："
+  },
+  "settings_deleteAccountDataRetainedItems": {
+    "message": "購入・取引記録（税務・会計上、法律で保管が義務付けられています）\nクラッシュレポートと診断情報"
+  },
+  "settings_deleteAccountNoCancel": {
+    "message": "削除してもサブスクリプションは解約されません"
+  },
+  "settings_deleteAccountConfirmationPromptFormat": {
+    "message": "アカウントを完全に削除するには「$1」と入力してください"
+  },
+  "settings_deleteAccountConfirmPlaceholder": {
+    "message": "削除"
+  },
+  "settings_deleteAccountIrreversibleWarning": {
+    "message": "この操作は取り消せません。"
+  },
+  "settings_deleteAccountAuthFailedTitle": {
+    "message": "認証に失敗しました"
+  },
+  "settings_deleteAccountAuthFailedMessage": {
+    "message": "ログイン状態を確認できませんでした。アカウントを削除する前に、もう一度ログインしてください。"
+  },
+  "settings_deleteAccountSuccessTitle": {
+    "message": "アカウントを削除しました"
+  },
+  "settings_deleteAccountSuccessMessage": {
+    "message": "アカウントを完全に削除しました。"
+  },
+  "settings_deleteAccountErrorMessage": {
+    "message": "エラー$1でアカウントを削除できませんでした。しばらくしてからもう一度お試しいただくか、問題が続く場合はrelockin.com/supportからサポートにお問い合わせください。"
+  },
+  "settings_webextCustomizationsDescription": {
+    "message": "気が散るものを減らして、集中力アップ"
+  },
+  "settings_enumElementTreatmentShow": {
+    "message": "表示"
+  },
+  "settings_enumElementTreatmentCover": {
+    "message": "カバー"
+  },
+  "settings_enumElementTreatmentRemove": {
+    "message": "削除"
+  },
+  "settings_enumCoverDifficultyInstant": {
+    "message": "すぐに外せる"
+  },
+  "settings_enumCoverDifficultyShortWait": {
+    "message": "5秒後に外せる"
+  },
+  "settings_enumCoverDifficultyLongWait": {
+    "message": "10秒後に外せる"
+  },
+  "settings_enumCoverDifficultyPermanent": {
+    "message": "外せない"
+  },
+  "settings_enumCoverDifficultyChallenge": {
+    "message": "課題をクリアすると外せる"
+  },
+  "settings_coverDifficultyRowLabel": {
+    "message": "カバーを外す方法"
+  },
+  "settings_enumDisplayModeDefault": {
+    "message": "デフォルト"
+  },
+  "settings_enumDisplayModeMobile": {
+    "message": "モバイル"
+  },
+  "settings_enumDisplayModeDesktop": {
+    "message": "デスクトップ"
+  },
+  "settings_enumThumbnailFilterVisible": {
+    "message": "表示"
+  },
+  "settings_enumThumbnailFilterLightlyBlurred": {
+    "message": "軽くぼかす"
+  },
+  "settings_enumThumbnailFilterHeavilyBlurred": {
+    "message": "強くぼかす"
+  },
+  "settings_enumThumbnailFilterGreyscale": {
+    "message": "グレースケール"
+  },
+  "settings_enumThumbnailFilterBlack": {
+    "message": "黒"
+  },
+  "settings_youTubeSection": {
+    "message": "YouTube"
+  },
+  "settings_ytBlockShorts": {
+    "message": "ショートを非表示"
+  },
+  "settings_ytHideShortsTab": {
+    "message": "ショートタブを非表示"
+  },
+  "settings_ytHideHomeTab": {
+    "message": "ホームタブを非表示"
+  },
+  "settings_ytRedirectHomeToSubscriptions": {
+    "message": "ホームの代わりに登録チャンネルを表示"
+  },
+  "settings_ytDisableAutoplay": {
+    "message": "自動再生をオフ"
+  },
+  "settings_ytDisableVideoPreviews": {
+    "message": "動画のプレビュー再生をオフ"
+  },
+  "settings_ytHideHomeFeedPosts": {
+    "message": "動画以外の投稿を非表示"
+  },
+  "settings_ytHideHomeFeedPostsDesc": {
+    "message": "コミュニティ投稿、アンケート、写真付きの投稿をホームフィードで非表示にします。"
+  },
+  "settings_ytMakeAdsSkippable": {
+    "message": "すべての広告をスキップ可能にする"
+  },
+  "settings_ytBlockAds": {
+    "message": "広告をブロック"
+  },
+  "settings_ytHideEndCard": {
+    "message": "「次の動画」を非表示"
+  },
+  "settings_ytRecommendedVideos": {
+    "message": "おすすめ動画"
+  },
+  "settings_ytDisplayMode": {
+    "message": "表示モード"
+  },
+  "settings_ytThumbnailFilter": {
+    "message": "サムネイルフィルター"
+  },
+  "settings_instagramSection": {
+    "message": "Instagram"
+  },
+  "settings_hideReelsTab": {
+    "message": "リールタブを非表示"
+  },
+  "settings_hideHomeTab": {
+    "message": "ホームタブを非表示"
+  },
+  "settings_igHomeFeed": {
+    "message": "ホームフィード"
+  },
+  "settings_igHomeFeedDefault": {
+    "message": "デフォルト"
+  },
+  "settings_igHomeFeedDefaultDesc": {
+    "message": "おすすめの投稿を含む、Instagramの通常のフィードです。"
+  },
+  "settings_igHomeFeedFollowing": {
+    "message": "フォロー中のみ"
+  },
+  "settings_igHomeFeedFollowingDesc": {
+    "message": "フォロー中のアカウントの最新の投稿を、新しい順に表示します。"
+  },
+  "settings_igHomeFeedFavorites": {
+    "message": "お気に入りのみ"
+  },
+  "settings_igHomeFeedFavoritesDesc": {
+    "message": "お気に入りリストに入れたアカウントの投稿のみ表示します。"
+  },
+  "settings_igHomeFeedHideDefaultLink": {
+    "message": "通常のフィードへのリンクを非表示"
+  },
+  "settings_redditSection": {
+    "message": "Reddit"
+  },
+  "settings_useOldReddit": {
+    "message": "Old Redditを使う"
+  },
+  "settings_redditOldMobileFriendly": {
+    "message": "Old Redditをスマホ向けに最適化"
+  },
+  "settings_redditVersion": {
+    "message": "Redditのバージョン"
+  },
+  "settings_redditVersionZen": {
+    "message": "Zenモード"
+  },
+  "settings_redditVersionZenDesc": {
+    "message": "刷新したold.reddit.comで動く、より速くすっきりしたReddit"
+  },
+  "settings_redditVersionStandard": {
+    "message": "標準"
+  },
+  "settings_redditVersionStandardDesc": {
+    "message": "Redditの標準のモバイル版"
+  },
+  "settings_redditVersionStandardWarning": {
+    "message": "注意：Zenモードのご利用をおすすめします。標準のままだと、Redditがアプリの利用を強く促すことがあります。"
+  },
+  "settings_redditFeedStyle": {
+    "message": "フィードのスタイル"
+  },
+  "settings_redditFeedStyleCompact": {
+    "message": "タイトルのみ"
+  },
+  "settings_redditFeedStyleCompactDesc": {
+    "message": "タイトルだけで素早くチェック。タップまたはスワイプで投稿を開きます。"
+  },
+  "settings_redditFeedStyleThumbnails": {
+    "message": "サムネイル"
+  },
+  "settings_redditFeedStyleThumbnailsDesc": {
+    "message": "各投稿のタイトルにサムネイルを表示します。"
+  },
+  "settings_redditFeedStyleExpanded": {
+    "message": "展開"
+  },
+  "settings_redditFeedStyleExpandedDesc": {
+    "message": "画像、動画、テキストの投稿をフィードにそのまま表示します。"
+  },
+  "settings_redditHideFeeds": {
+    "message": "無限に続くフィードの制限"
+  },
+  "settings_redditHideFeedsShowAll": {
+    "message": "すべてのフィードを表示"
+  },
+  "settings_redditHideFeedsShowAllDesc": {
+    "message": "Redditを通常どおり使えます。"
+  },
+  "settings_redditHideFeedsHideDiscovery": {
+    "message": "「人気順」と「すべて」を非表示"
+  },
+  "settings_redditHideFeedsHideDiscoveryDesc": {
+    "message": "「人気順」「すべて」「探索」など、知らない人の投稿が流れてくるフィードを非表示にします。ホームフィードは引き続き使えます。"
+  },
+  "settings_redditHideFeedsHideAll": {
+    "message": "すべてのフィードを非表示"
+  },
+  "settings_redditHideFeedsHideAllDesc": {
+    "message": "ホームフィードも非表示にします。サブレディットの閲覧や検索は引き続きできます。"
+  },
+  "settings_redditHomeJoinedOnly": {
+    "message": "ホームフィードでは参加しているサブレディットの投稿のみ表示"
+  },
+  "settings_redditGreyscaleMedia": {
+    "message": "画像をグレースケール表示"
+  },
+  "settings_redditMoveVoteCountUnderPosts": {
+    "message": "投票数を投稿の下に移動"
+  },
+  "settings_redditColorCodeCommentDepth": {
+    "message": "コメントの階層を色分け"
+  },
+  "settings_redditEnableCommentSwipes": {
+    "message": "コメントのスワイプ操作を有効にする"
+  },
+  "settings_redditSwipeShortRight": {
+    "message": "右への短いスワイプ"
+  },
+  "settings_redditSwipeLongRight": {
+    "message": "右への長いスワイプ"
+  },
+  "settings_redditSwipeShortLeft": {
+    "message": "左への短いスワイプ"
+  },
+  "settings_redditSwipeLongLeft": {
+    "message": "左への長いスワイプ"
+  },
+  "settings_enumSwipeActionUpvote": {
+    "message": "賛成票"
+  },
+  "settings_enumSwipeActionDownvote": {
+    "message": "反対票"
+  },
+  "settings_enumSwipeActionCollapse": {
+    "message": "折りたたむ"
+  },
+  "settings_enumSwipeActionReply": {
+    "message": "返信"
+  },
+  "settings_enumSwipeActionSave": {
+    "message": "保存"
+  },
+  "settings_redditEnablePostSwipes": {
+    "message": "投稿のスワイプ操作を有効にする"
+  },
+  "settings_enumPostSwipeActionUpvote": {
+    "message": "賛成票"
+  },
+  "settings_enumPostSwipeActionDownvote": {
+    "message": "反対票"
+  },
+  "settings_enumPostSwipeActionHide": {
+    "message": "非表示"
+  },
+  "settings_enumPostSwipeActionShare": {
+    "message": "共有"
+  },
+  "settings_enumPostSwipeActionSave": {
+    "message": "保存"
+  },
+  "settings_enumPostSwipeActionOpenComments": {
+    "message": "コメントを開く"
+  },
+  "settings_enumPostSwipeActionOpenSource": {
+    "message": "元のリンクを開く"
+  },
+  "settings_enumPostSwipeActionExpandPreview": {
+    "message": "プレビュー"
+  },
+  "settings_redditAllowedCustomCssSubsLabel": {
+    "message": "カスタムCSSを許可するサブレディット"
+  },
+  "settings_redditAllowedCustomCssSubsHint": {
+    "message": "小さい画面でも読みやすいよう、サブレディット独自のスタイルは初期設定では非表示です。"
+  },
+  "settings_redditAllowedCustomCssSubsPlaceholder": {
+    "message": "サブレディット名（例：politics）"
+  },
+  "settings_redditAllowedCustomCssSubsRemoveLabel": {
+    "message": "$1を外す"
+  },
+  "settings_redditAllowedCustomCssSubsEmpty": {
+    "message": "サブレディットはまだ追加されていません。"
+  },
+  "settings_twitterSection": {
+    "message": "Twitter / X"
+  },
+  "settings_xHideForYou": {
+    "message": "「おすすめ」を非表示"
+  },
+  "settings_xHideAds": {
+    "message": "広告を非表示"
+  },
+  "settings_linkedInSection": {
+    "message": "LinkedIn"
+  },
+  "settings_lInConnectionDegreeFilter": {
+    "message": "つながりの次数で投稿を絞り込む"
+  },
+  "settings_enumConnectionDegreeFilterNone": {
+    "message": "すべて表示"
+  },
+  "settings_enumConnectionDegreeFilterMax2nd": {
+    "message": "3次の投稿を非表示"
+  },
+  "settings_enumConnectionDegreeFilterMax1st": {
+    "message": "2次・3次の投稿を非表示"
+  },
+  "settings_lInHidePromotedPosts": {
+    "message": "プロモーション投稿を非表示"
+  },
+  "settings_lInHideMediaInFeed": {
+    "message": "フィードのメディアをカバー"
+  },
+  "settings_lInGreyscalePictures": {
+    "message": "画像をグレースケール表示"
+  },
+  "settings_lInGreyscaleVideos": {
+    "message": "動画をグレースケール表示"
+  },
+  "settings_inBrowserNote": {
+    "message": "広告を削除し、気が散る要素を減らして、フィードを絞り込めます。RelockInブラウザで有効です。"
+  },
+  "settings_webChangeSnackbarBodySignInFormat": {
+    "message": "設定が反映されるのはRelockInブラウザ内のサイトです。**$1アプリには反映されません。**ログインすると、フィードで変更を確認できます。"
+  },
+  "settings_webChangeSnackbarBodyOpenFormat": {
+    "message": "設定が反映されるのはRelockInブラウザ内のサイトです。**$1アプリには反映されません。**サイトを開くと変更を確認できます。"
+  },
+  "settings_webChangeSnackbarCta": {
+    "message": "$1で確認"
+  },
+  "settings_generalSection": {
+    "message": "一般"
+  },
+  "settings_showSessionTimer": {
+    "message": "セッションタイマーを表示"
+  },
+  "settings_breathBeforeUnlockToggle": {
+    "message": "サイトのロックを解除する前に深呼吸する"
+  },
+  "settings_breathLengthLabel": {
+    "message": "深呼吸の長さ（秒）"
+  },
+  "settings_clearSection": {
+    "message": "リセット"
+  },
+  "settings_ytAiContent": {
+    "message": "AI生成の動画"
+  },
+  "settings_ytAiContentOff": {
+    "message": "表示"
+  },
+  "settings_ytAiContentOffDesc": {
+    "message": "AI生成の動画もほかの動画と同じように表示します。"
+  },
+  "settings_ytAiContentBadge": {
+    "message": "ラベル"
+  },
+  "settings_ytAiContentBadgeDesc": {
+    "message": "AI生成の動画のサムネイルに「AI」ラベルを付けます。"
+  },
+  "settings_ytAiContentCover": {
+    "message": "カバー"
+  },
+  "settings_ytAiContentCoverDesc": {
+    "message": "AI生成の動画をカバーします。見たい動画は1本ずつカバーを外せます。"
+  },
+  "settings_ytAiContentHide": {
+    "message": "非表示"
+  },
+  "settings_ytAiContentHideDesc": {
+    "message": "AI生成の動画をフィード、検索結果、おすすめに表示しません。"
+  },
+  "settings_ytAiVotes": {
+    "message": "AIかどうかの投票"
+  },
+  "settings_ytAiVotesSwitchAi": {
+    "message": "AI"
+  },
+  "settings_ytAiVotesSwitchNotAi": {
+    "message": "AIではない"
+  },
+  "settings_ytAiListEmpty": {
+    "message": "まだありません"
+  },
+  "settings_ytAiListRemoveLabel": {
+    "message": "$1を外す"
+  },
+  "settings_ytBlockedChannels": {
+    "message": "ブロック中のチャンネル"
+  },
+  "settings_ytBlockedChannelsDesc": {
+    "message": "ブロックしたチャンネルの動画は、YouTubeのどこにも表示されません。動画の下やチャンネルページにある「チャンネルをブロック」ボタンで追加できます。"
+  },
+  "settings_ytSectionShorts": {
+    "message": "ショート"
+  },
+  "settings_ytSectionShortsAds": {
+    "message": "ショートと広告"
+  },
+  "settings_redditSectionSwipeGestures": {
+    "message": "スワイプ操作"
+  },
+  "settings_ytSectionHomeFeed": {
+    "message": "ホームとフィード"
+  },
+  "settings_ytSectionAiChannels": {
+    "message": "AIとチャンネル"
+  },
+  "settings_ytSectionUpNext": {
+    "message": "次の動画"
+  },
+  "settings_sectionTabs": {
+    "message": "タブ"
+  },
+  "settings_sectionFeed": {
+    "message": "フィード"
+  },
+  "settings_sectionFeeds": {
+    "message": "フィード"
+  },
+  "settings_sectionAppearance": {
+    "message": "外観"
+  },
+  "settings_sectionOther": {
+    "message": "その他"
+  },
+  "support_titleHelp": {
+    "message": "お問い合わせ"
+  },
+  "support_titleFeedback": {
+    "message": "フィードバックを送信"
+  },
+  "support_titleReportProblem": {
+    "message": "問題を報告"
+  },
+  "support_sentimentTitle": {
+    "message": "どのようなご意見ですか？"
+  },
+  "support_sentimentPositive": {
+    "message": "気に入っている点"
+  },
+  "support_sentimentNegative": {
+    "message": "改善してほしい点"
+  },
+  "support_reviewTitle": {
+    "message": "うれしいです！"
+  },
+  "support_reviewBody": {
+    "message": "よろしければ、簡単なレビューをお寄せください。ほかの方がRelockInを見つけやすくなります。\n\n小さなチームにとって、大きな励みになります。"
+  },
+  "support_reviewCta": {
+    "message": "レビューを書く"
+  },
+  "support_personalNoteTitle": {
+    "message": "開発者より"
+  },
+  "support_personalNoteBody": {
+    "message": "RelockInをご利用いただきありがとうございます。メッセージはすべて私が直接読み、できるだけ早く返信します。"
+  },
+  "support_personalNoteSignOff": {
+    "message": "- Joel"
+  },
+  "support_feedbackPositivePrompt": {
+    "message": "ありがとうございます！ご意見やご提案があればお聞かせください。"
+  },
+  "support_feedbackNegativePrompt": {
+    "message": "申し訳ありません。うまくいっていない点を教えてください。確認します。"
+  },
+  "support_messageLabel": {
+    "message": "メッセージ"
+  },
+  "support_messagePlaceholderHelp": {
+    "message": "どのようなご用件ですか？"
+  },
+  "support_messagePlaceholderFeedback": {
+    "message": "お気軽にご記入ください"
+  },
+  "support_messagePlaceholderReportProblem": {
+    "message": "このサイトでどんな問題が起きていますか？"
+  },
+  "support_siteLabel": {
+    "message": "サイト"
+  },
+  "support_emailLabel": {
+    "message": "メールアドレス"
+  },
+  "support_emailPlaceholder": {
+    "message": "you@example.com"
+  },
+  "support_emailInvalid": {
+    "message": "有効なメールアドレスを入力してください。"
+  },
+  "support_sendCta": {
+    "message": "送信"
+  },
+  "support_sendError": {
+    "message": "送信できませんでした。接続を確認して、もう一度お試しください。"
+  },
+  "support_sentTitle": {
+    "message": "送信しました"
+  },
+  "support_sentBodyFormat": {
+    "message": "送信ありがとうございます！$1宛てに、できるだけ早く返信します。"
+  },
+  "support_sendAnotherCta": {
+    "message": "別のメッセージを送信"
+  },
+  "support_accountFooterPrompt": {
+    "message": "お困りですか？"
+  },
+  "support_accountFooterCta": {
+    "message": "サポートに問い合わせる"
+  },
+  "support_accountFooterFormat": {
+    "message": "$arg1$$arg2$",
+    "placeholders": {
+      "arg1": {
+        "content": "$1"
+      },
+      "arg2": {
+        "content": "$2"
+      }
+    }
+  },
+  "support_shortcutHelpSubtitle": {
+    "message": "メッセージは開発者に直接届きます"
+  },
+  "support_diagnosticLogsRowLabel": {
+    "message": "診断ログ"
+  },
+  "support_diagnosticLogsTitle": {
+    "message": "診断ログ"
+  },
+  "support_diagnosticLogsEmpty": {
+    "message": "ログはまだありません。"
+  },
+  "support_diagnosticLogsHeader": {
+    "message": "デバッグログ"
+  },
+  "support_diagnosticLogsExplainer": {
+    "message": "ログはこの端末内にのみ保存され、自動でアップロードや共有が行われることはありません。問題を報告するときは、共有ボタンで開発者に送信してください。"
+  },
+  "target_domainType": {
+    "message": "サイト全体"
+  },
+  "target_urlPatternType": {
+    "message": "URLパターン"
+  },
+  "target_domainPlaceholder": {
+    "message": "example.com"
+  },
+  "target_urlPatternPlaceholder": {
+    "message": "reddit.com/r/pics"
+  },
+  "target_domainExplanation": {
+    "message": "サイト内のすべてのページをロックします。サイト名（reddit.comなど）を入力するだけでOKです。サブドメインやURLのパスは関係ありません。"
+  },
+  "target_urlPatternExplanation": {
+    "message": "このテキストを含むURLをすべてロックします。*をワイルドカードとして使うと、間の任意の文字列に一致します。\n\n例：\n- youtube.com/shorts：通常の動画はロックせず、YouTubeのショートだけをロック\n- reddit.com/r/politics：そのサブレディットだけをロック\n- x.com/*/status/*：プロフィールページなどXのほかの部分はロックせず、個別のツイートだけをロック"
+  },
+  "target_scopeNote": {
+    "message": "ロックが適用されるのはRelockInブラウザ内のみで、Safariなどのほかのブラウザでは適用されません。セッションを開始すると、一定時間ロックを解除できます。"
+  },
+  "target_emptyPattern": {
+    "message": "（空）"
+  },
+  "target_addTargetTitle": {
+    "message": "サイトをロック"
+  },
+  "target_addTargetSectionTitle": {
+    "message": "何をロックしますか？"
+  },
+  "target_removeTargetTitle": {
+    "message": "サイトを外す"
+  },
+  "target_editTargetTitle": {
+    "message": "対象を編集"
+  },
+  "target_editingLabel": {
+    "message": "編集中"
+  },
+  "target_typePickerLabel": {
+    "message": "種類"
+  },
+  "typingSentences_short1": {
+    "message": "私は十分に自覚してこの選択をします。"
+  },
+  "typingSentences_short2": {
+    "message": "この決断に自分で責任を持ちます。"
+  },
+  "typingSentences_short3": {
+    "message": "今この選択を自分で引き受けます。"
+  },
+  "typingSentences_short4": {
+    "message": "これはよく考えて決めたことです。"
+  },
+  "typingSentences_short5": {
+    "message": "落ち着いて、意識してこの選択をします。"
+  },
+  "typingSentences_long1": {
+    "message": "自分の時間と集中力を守るために決めた制限を破ることを十分に理解し、この選択に伴う責任を受け入れます。"
+  },
+  "typingSentences_long2": {
+    "message": "私たちは繰り返し行うことの積み重ねである。優秀さとは、行為ではなく習慣なのである。ウィル・デュラント"
+  },
+  "typingSentences_long3": {
+    "message": "選択は習慣になる。習慣は人格になる。そして人格は運命になる。"
+  },
+  "typingSentences_paragraph1": {
+    "message": "ドゥームスクローリング、またはドゥームサーフィンとは、ウェブやソーシャルメディアで、ショート動画や、ユーザーが作った大量のコンテンツやニュース、特に悪いニュースを、必要以上に長く見続けることである。調査や研究によると、若者に特に多いとされる。二千十九年、米国科学アカデミーの研究で、ドゥームスクローリングは心と体の健康の低下に関係することが示された。"
+  },
+  "typingSentences_paragraph2": {
+    "message": "無限スクロールは、ユーザーが下にスクロールするたびにコンテンツを読み込み続ける設計で、ページ分けが不要になる。そのため、手を止める自然な区切りがなくなり、ドゥームスクローリングを悪化させることがある。また研究では、ソーシャルメディアが悪い内容を拡散しやすい傾向が、この止まらないスクロールをさらに悪くし、ユーザーが不快なニュースを長時間見続けてしまうことも示されている。"
+  },
+  "typingSentences_paragraph3": {
+    "message": "多くのソーシャルメディアの収益モデルは、エンゲージメントに大きく頼っている。つまり、人が長く使い続けるほど、多くの広告を見ることになり、行動に関するデータも多く集められる。その結果、感情を強く揺さぶる内容、特に否定的で不安を招く情報が繰り返し届けられ、さらにスクロールして見続けるよう促される循環が生まれる。"
+  },
+  "typingSentences_paragraph4": {
+    "message": "手軽な娯楽、情報、つながりが、ソーシャルメディアを魅力的にしている。ソーシャルメディア依存は、日常生活や全体的な幸福に影響する、過度でやめられない使い方を特徴とする。単にネットで長い時間を過ごすだけではなく、更新を何度も確認してしまう、オフラインだと不安になる、現実の人間関係や責任に悪い影響が出るといった状態を含む。"
+  },
+  "typingSentences_paragraph5": {
+    "message": "ショート動画のアルゴリズムは、自分の選択と意図を取り除くため、非常に中毒性が高い。次に何を見るか決める頭の負担をなくすことで、アプリは意識的な判断を、何も考えずに流れに身を任せる状態に置き換える。この状態では、続けるのが驚くほど簡単で満足感があり、やめるのは驚くほど難しい。"
+  },
+  "typingSentences_paragraph6": {
+    "message": "ソーシャルメディアは中毒性を狙って設計されている。テック企業は、脳の報酬系を刺激して注意を奪うようにアプリを作り込んでいる。ドーパミンによる承認、予測できない報酬、心理的な仕掛けが合わさって、スマホを置くのは驚くほど難しくなる。こうした設計の手口を見抜くことが、デジタル習慣を自分の手に取り戻し、テクノロジーとのより健全な関係を築く第一歩である。"
+  },
+  "usage_title": {
+    "message": "利用状況"
+  },
+  "usage_subtitle": {
+    "message": "ルールやセッションごとのスクリーンタイムを確認できます。"
+  },
+  "usage_noUsageHeadline": {
+    "message": "利用データがありません"
+  },
+  "usage_noUsageBody": {
+    "message": "セッションを使うと、ここに利用状況が表示されます。"
+  },
+  "usage_today": {
+    "message": "今日"
+  },
+  "usage_thisWeek": {
+    "message": "今週"
+  },
+  "usage_thisMonth": {
+    "message": "今月"
+  },
+  "usage_yesterday": {
+    "message": "昨日"
+  },
+  "usage_noRulesEmptyState": {
+    "message": "ルールはまだありません。"
+  },
+  "usage_daily": {
+    "message": "日"
+  },
+  "usage_weekly": {
+    "message": "週"
+  },
+  "usage_monthly": {
+    "message": "月"
+  },
+  "usage_previousPeriod": {
+    "message": "前の期間"
+  },
+  "usage_nextPeriod": {
+    "message": "次の期間"
+  },
+  "usage_periodPickerLabel": {
+    "message": "期間"
+  },
+  "usage_unknownRule": {
+    "message": "不明なルール"
+  },
+  "usage_usedOfAllowedFormat": {
+    "message": "$2中$1"
+  },
+  "locale_firstWeekday": {
+    "message": "0"
+  }
+}
